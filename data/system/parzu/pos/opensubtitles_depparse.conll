@@ -1,0 +1,1717 @@
+1	Du	du	_	_	person=2|number=sg|gender=*|case=nom	2	subj	_	_
+2	willst	wollen	_	_	person=2|number=sg|tense=pres|mood=ind	0	root	_	_
+3	alles	alle	_	_	gender=*|case=*|number=sg	4	adv	_	_
+4	wissen	wissen	_	_	_	2	aux	_	_
+5	.	.	_	_	_	0	root	_	_
+
+1	Es	es	_	_	person=3|number=sg|gender=neut|case=nom	2	subj	_	_
+2	ist	sein	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+3	mein	meine	_	_	gender=*|case=nom|number=sg	4	det	_	_
+4	Töff	Töff	_	_	gender=*|case=nom|number=sg	2	pred	_	_
+5	,	,	_	_	_	0	root	_	_
+6	oder	oder	_	_	_	0	root	_	_
+7	!	!	_	_	_	0	root	_	_
+
+1	Gut	gut	_	_	degree=pos	0	root	_	_
+2	,	,	_	_	_	0	root	_	_
+3	also	also	_	_	_	5	adv	_	_
+4	das	die	_	_	definite=def|gender=neut|case=nom|number=sg	5	det	_	_
+5	Benzin	Benzin	_	_	gender=neut|case=nom|number=sg	6	subj	_	_
+6	geht	gehen	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+7	hier	hier	_	_	_	6	adv	_	_
+8	durch	durch	_	_	_	6	avz	_	_
+9	,	,	_	_	_	0	root	_	_
+10	da	da	_	_	_	0	root	_	_
+11	hinein	hinein	_	_	_	0	root	_	_
+12	.	.	_	_	_	0	root	_	_
+
+1	Da	da	_	_	_	2	adv	_	_
+2	drin	drin	_	_	_	3	pp	_	_
+3	ist	sein	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+4	es	es	_	_	person=3|number=sg|gender=neut|case=nom	3	subj	_	_
+5	sehr	sehr	_	_	_	6	adv	_	_
+6	heiss	heiss	_	_	degree=pos	3	pred	_	_
+7	.	.	_	_	_	0	root	_	_
+
+1	Dann	dann	_	_	_	3	adv	_	_
+2	die	die	_	_	definite=def|gender=fem|case=nom|number=sg	3	det	_	_
+3	Kerze	Kerze	_	_	gender=fem|case=nom|number=sg	4	subj	_	_
+4	maken	maken	_	_	person=*|number=sg|tense=*|mood=*	0	root	_	_
+5	ein	eine	_	_	definite=ind|gender=*|case=*|number=sg	0	root	_	_
+6	...	...	_	_	_	0	root	_	_
+
+1	Ja	ja	_	_	_	0	root	_	_
+2	,	,	_	_	_	0	root	_	_
+3	wie	wie	_	_	_	0	root	_	_
+4	ein	eine	_	_	definite=ind|gender=*|case=*|number=sg	5	det	_	_
+5	Messer	Messer	_	_	gender=*|case=*|number=sg	3	cj	_	_
+6	auf	auf	_	_	case=dat	5	pp	_	_
+7	dem	die	_	_	definite=def|gender=masc|case=dat|number=sg	8	det	_	_
+8	Schleifstein	Schleifstein	_	_	gender=masc|case=dat|number=sg	6	pn	_	_
+9	.	.	_	_	_	0	root	_	_
+
+1	Wie	wie	_	_	_	0	root	_	_
+2	ein	eine	_	_	definite=ind|gender=neut|case=*|number=sg	3	det	_	_
+3	Feuerzeug	Feuerzeug	_	_	gender=neut|case=*|number=sg	1	cj	_	_
+4	.	.	_	_	_	0	root	_	_
+
+1	Ein	ein	_	_	definite=ind|gender=masc|case=nom|number=sg	2	det	_	_
+2	Funke	Funk	_	_	gender=masc|case=nom|number=sg	0	root	_	_
+3	.	.	_	_	_	0	root	_	_
+
+1	Funke	Funk	_	_	gender=*|case=*|number=sg	0	root	_	_
+2	...	...	_	_	_	0	root	_	_
+3	gut	gut	_	_	degree=pos	0	root	_	_
+4	.	.	_	_	_	0	root	_	_
+
+1	Also	also	_	_	_	3	adv	_	_
+2	die	die	_	_	definite=def|gender=fem|case=acc|number=sg	3	det	_	_
+3	Kerze	Kerze	_	_	gender=fem|case=acc|number=sg	4	obja	_	_
+4	machen	machen	_	_	person=*|number=pl|tense=pres|mood=*	0	root	_	_
+5	ein	eine	_	_	definite=ind|gender=masc|case=nom|number=sg	6	det	_	_
+6	Funke	Funk	_	_	gender=masc|case=nom|number=sg	4	pred	_	_
+7	und	und	_	_	_	4	kon	_	_
+8	päng	päng	_	_	_	0	root	_	_
+9	bringt	bringen	_	_	person=3|number=sg|tense=pres|mood=ind	7	cj	_	_
+10	das	die	_	_	definite=def|gender=neut|case=nom|number=sg	11	det	_	_
+11	Benzin	Benzin	_	_	gender=neut|case=nom|number=sg	9	subj	_	_
+12	zum	zu	_	_	case=dat	9	objp	_	_
+13	Explodiern	Explodiern	_	_	gender=*|case=dat|number=*	12	pn	_	_
+
+1	Anateo	Anateo	_	_	gender=*|case=nom|number=sg	2	subj	_	_
+2	hat	haben	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+3	uns	wir	_	_	person=1|number=pl|gender=*|case=acc	5	obja	_	_
+4	alle	alle	_	_	gender=*|case=acc|number=*	3	app	_	_
+5	verraten	verraten	_	_	_	2	aux	_	_
+6	und	und	_	_	_	2	kon	_	_
+7	er	er	_	_	person=3|number=sg|gender=masc|case=nom	8	subj	_	_
+8	wird	werden	_	_	person=3|number=sg|tense=pres|mood=ind	6	cj	_	_
+9	dafür	dafür	_	_	_	10	pp	_	_
+10	bezahlen	bezahlen	_	_	_	8	aux	_	_
+11	.	.	_	_	_	0	root	_	_
+
+1	Und	und	_	_	_	0	root	_	_
+2	wegen	wegen	_	_	case=*	1	cj	_	_
+3	der	die	_	_	definite=def|gender=*|case=*|number=*	4	det	_	_
+4	Tau'ri	Tau'ri	_	_	gender=*|case=*|number=*	2	pn	_	_
+5	...	...	_	_	_	0	root	_	_
+6	sie	sie	_	_	person=3|number=pl|gender=*|case=nom	7	subj	_	_
+7	befanden	befinden	_	_	person=3|number=pl|tense=past|mood=ind	0	root	_	_
+8	sich	sie	_	_	person=3|number=*|case=acc	7	obja	_	_
+9	schon	schon	_	_	_	7	adv	_	_
+10	im	in	_	_	case=dat	7	objp	_	_
+11	Krieg	Krieg	_	_	gender=masc|case=nom|number=sg	10	pn	_	_
+12	gegen	gegen	_	_	case=acc	11	pp	_	_
+13	uns	wir	_	_	person=1|number=pl|gender=*|case=acc	12	pn	_	_
+14	und	und	_	_	_	11	kon	_	_
+15	wir	wir	_	_	person=1|number=pl|gender=*|case=nom	14	cj	_	_
+16	gegen	gegen	_	_	case=acc	15	pp	_	_
+17	sie	sie	_	_	person=3|number=*|gender=*|case=acc	16	pn	_	_
+18	...	...	_	_	_	0	root	_	_
+19	und	und	_	_	_	0	root	_	_
+20	ich	ich	_	_	person=1|number=sg|gender=*|case=nom	21	subj	_	_
+21	werde	werden	_	_	person=1|number=sg|tense=pres|mood=*	19	cj	_	_
+22	mich	ich	_	_	person=1|number=sg|case=acc	25	obja	_	_
+23	nicht	nicht	_	_	_	25	adv	_	_
+24	ängstlich	ängstlich	_	_	degree=pos	25	adv	_	_
+25	verkriechen	verkriechen	_	_	_	21	aux	_	_
+26	.	.	_	_	_	0	root	_	_
+
+1	Sagt	sagen	_	_	number=pl	0	root	_	_
+2	das	die	_	_	gender=neut|case=acc|number=sg	1	obja	_	_
+3	weiter	weiter	_	_	_	1	avz	_	_
+4	.	.	_	_	_	0	root	_	_
+
+1	Schickt	schicken	_	_	number=pl	0	root	_	_
+2	alle	alle	_	_	gender=neut|case=acc|number=pl	4	det	_	_
+3	verfügbaren	verfügbar	_	_	degree=pos|gender=neut|case=acc|number=pl	4	attr	_	_
+4	Schiffe	Schiff	_	_	gender=neut|case=acc|number=pl	1	obja	_	_
+5	.	.	_	_	_	0	root	_	_
+
+1	Ich	ich	_	_	person=1|number=sg|gender=*|case=nom	2	subj	_	_
+2	will	wollen	_	_	person=1|number=sg|tense=pres|mood=ind	0	root	_	_
+3	,	,	_	_	_	0	root	_	_
+4	dass	dass	_	_	_	8	konj	_	_
+5	die	die	_	_	definite=def|gender=fem|case=nom|number=sg	6	det	_	_
+6	0dyssey	0dyssey	_	_	gender=fem|case=nom|number=sg	8	subj	_	_
+7	gefunden	finden	_	_	_	8	aux	_	_
+8	wird	werden	_	_	person=3|number=sg|tense=pres|mood=ind	2	objc	_	_
+9	.	.	_	_	_	0	root	_	_
+
+1	Sofort	sofort	_	_	_	0	root	_	_
+2	!	!	_	_	_	0	root	_	_
+
+1	Kefflin	Kefflin	_	_	gender=*	0	root	_	_
+2	.	.	_	_	_	0	root	_	_
+
+1	War	sein	_	_	person=3|number=sg|tense=past|mood=ind	0	root	_	_
+2	es	es	_	_	person=3|number=sg|gender=neut|case=nom	1	subj	_	_
+3	wirklich	wirklich	_	_	_	1	adv	_	_
+4	nötig	nötig	_	_	degree=pos	1	pred	_	_
+5	,	,	_	_	_	0	root	_	_
+6	mich	ich	_	_	person=1|number=sg|gender=*|case=acc	9	obja	_	_
+7	so	so	_	_	_	9	adv	_	_
+8	zu	zu	_	_	_	9	part	_	_
+9	blamieren	blamieren	_	_	_	1	obji	_	_
+10	?	?	_	_	_	0	root	_	_
+
+1	Es	es	_	_	person=3|number=sg|gender=neut|case=nom	2	subj	_	_
+2	gab	geben	_	_	person=3|number=sg|tense=past|mood=ind	0	root	_	_
+3	Gerüchte	Gerücht	_	_	gender=neut|case=acc|number=pl	2	obja	_	_
+4	wegen	wegen	_	_	case=*	2	pp	_	_
+5	der	die	_	_	definite=def|gender=fem|case=*|number=sg	6	det	_	_
+6	Stärke	Stärke	_	_	gender=fem|case=*|number=sg	4	pn	_	_
+7	deiner	deine	_	_	gender=fem|case=gen|number=sg	8	det	_	_
+8	Führung	Führung	_	_	gender=fem|case=gen|number=sg	6	gmod	_	_
+9	.	.	_	_	_	0	root	_	_
+
+1	Jetzt	jetzt	_	_	_	2	adv	_	_
+2	werden	werden	_	_	person=3|number=pl|tense=pres|mood=*	0	root	_	_
+3	diese	diese	_	_	gender=neut|case=nom|number=pl	4	det	_	_
+4	Gerüchte	Gerücht	_	_	gender=neut|case=nom|number=pl	2	subj	_	_
+5	aufhören	aufhören	_	_	_	2	aux	_	_
+6	.	.	_	_	_	0	root	_	_
+
+1	Und	und	_	_	_	0	root	_	_
+2	?	?	_	_	_	0	root	_	_
+
+1	Wirst	werden	_	_	person=2|number=sg|tense=pres|mood=ind	0	root	_	_
+2	du	du	_	_	person=2|number=sg|gender=*|case=nom	1	subj	_	_
+3	es	es	_	_	person=3|number=sg|gender=neut|case=acc	5	obja	_	_
+4	so	so	_	_	_	5	adv	_	_
+5	lassen	lassen	_	_	_	1	aux	_	_
+6	oder	oder	_	_	_	1	kon	_	_
+7	wirst	werden	_	_	person=2|number=sg|tense=pres|mood=ind	6	cj	_	_
+8	du	du	_	_	person=2|number=sg|gender=*|case=nom	0	root	_	_
+9	das	die	_	_	gender=neut|case=*|number=sg	0	root	_	_
+10	in	in	_	_	case=*	9	pp	_	_
+11	Ordnung	Ordnung	_	_	gender=fem|case=*|number=sg	10	pn	_	_
+12	bringen	bringen	_	_	_	0	root	_	_
+13	?	?	_	_	_	0	root	_	_
+
+1	Bist	sein	_	_	person=2|number=sg|tense=pres|mood=ind	0	root	_	_
+2	du	du	_	_	person=2|number=sg|gender=*|case=nom	1	subj	_	_
+3	glücklich	glücklich	_	_	degree=pos	1	pred	_	_
+4	?	?	_	_	_	0	root	_	_
+
+1	Ja	ja	_	_	_	0	root	_	_
+2	.	.	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Es	es	_	_	person=3|number=sg|gender=neut|case=nom	3	subj	_	_
+3	ist	sein	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+4	nett	nett	_	_	degree=pos	3	pred	_	_
+5	von	von	_	_	case=dat	3	pp	_	_
+6	dir	du	_	_	person=2|number=sg|gender=*|case=dat	5	pn	_	_
+7	,	,	_	_	_	0	root	_	_
+8	dass	dass	_	_	_	10	konj	_	_
+9	du	du	_	_	person=2|number=sg|gender=*|case=nom	10	subj	_	_
+10	hilfst	helfen	_	_	person=2|number=sg|tense=pres|mood=ind	3	objc	_	_
+11	.	.	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Einmal	einmal	_	_	_	4	adv	_	_
+3	ein	eine	_	_	definite=ind|gender=masc|case=nom|number=sg	4	det	_	_
+4	Pfadfinder	Pfadfinder	_	_	gender=masc|case=nom|number=sg	0	root	_	_
+5	,	,	_	_	_	0	root	_	_
+6	immer	immer	_	_	_	8	adv	_	_
+7	ein	eine	_	_	definite=ind|gender=masc|case=nom|number=sg	8	det	_	_
+8	Pfadfinder	Pfadfinder	_	_	gender=masc|case=nom|number=sg	4	kon	_	_
+9	.	.	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Du	du	_	_	person=2|number=sg|gender=*|case=nom	3	subj	_	_
+3	warst	sein	_	_	person=2|number=sg|tense=past|mood=ind	0	root	_	_
+4	nie	nie	_	_	_	3	adv	_	_
+5	ein	eine	_	_	definite=ind|gender=masc|case=nom|number=sg	6	det	_	_
+6	Pfandfinder	Pfandfinder	_	_	gender=masc|case=nom|number=sg	3	pred	_	_
+7	.	.	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Offensichtlich	Offensichtlich	_	_	_	3	adv	_	_
+3	habe	haben	_	_	person=1|number=sg|tense=pres|mood=*	0	root	_	_
+4	ich	ich	_	_	person=1|number=sg|gender=*|case=nom	3	subj	_	_
+5	mein	meine	_	_	gender=*|case=*|number=sg	0	root	_	_
+6	...	...	_	_	_	0	root	_	_
+
+1	Verdienstabzeichen	Verdienstabzeichen	_	_	gender=neut|case=nom|number=*	4	subj	_	_
+2	für	für	_	_	case=acc	1	pp	_	_
+3	Biberfallen	Biberfalle	_	_	gender=*|case=acc|number=*	2	pn	_	_
+4	bekommen	bekommen	_	_	_	0	root	_	_
+5	.	.	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Konzentriere	Konzentriere	_	_	number=*	0	root	_	_
+3	dich	du	_	_	person=2|number=sg|case=acc	2	obja	_	_
+4	lieber	lieber	_	_	_	5	adv	_	_
+5	da	da	_	_	_	6	adv	_	_
+6	drauf	drauf	_	_	_	2	pp	_	_
+7	.	.	_	_	_	0	root	_	_
+
+1	Kommt	kommen	_	_	number=pl	0	root	_	_
+2	mit	mit	_	_	case=dat	1	pp	_	_
+3	mir	ich	_	_	person=1|number=sg|gender=*|case=dat	2	pn	_	_
+4	.	.	_	_	_	0	root	_	_
+
+1	Wisst	wissen	_	_	person=2|number=pl|tense=pres|mood=ind	0	root	_	_
+2	ihr	ihr	_	_	person=2|number=pl|gender=*|case=nom	1	subj	_	_
+3	,	,	_	_	_	0	root	_	_
+4	wie	wie	_	_	_	5	adv	_	_
+5	wertvoll	wertvoll	_	_	degree=pos	8	adv	_	_
+6	diese	diese	_	_	gender=fem|case=nom|number=pl	7	det	_	_
+7	Mohnblumen	Mohnblume	_	_	gender=fem|case=nom|number=pl	8	subj	_	_
+8	waren	sein	_	_	person=3|number=pl|tense=past|mood=ind	1	objc	_	_
+9	?	?	_	_	_	0	root	_	_
+
+1	In	in	_	_	case=*	3	objp	_	_
+2	Rauch	Rauch	_	_	gender=masc|case=*|number=sg	1	pn	_	_
+3	aufgegangen	aufgehen	_	_	_	0	root	_	_
+4	.	.	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Was	was	_	_	gender=neut|case=*|number=sg	0	root	_	_
+3	?	?	_	_	_	0	root	_	_
+
+1	Hat	haben	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+2	sie	sie	_	_	person=3|number=sg|gender=fem|case=nom	1	subj	_	_
+3	jemand	jemand	_	_	gender=*|case=*|number=*	4	obja	_	_
+4	angezündet	anzünden	_	_	_	1	aux	_	_
+5	?	?	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Ja	ja	_	_	_	0	root	_	_
+3	.	.	_	_	_	0	root	_	_
+
+1	Betrunkene	betrunken	_	_	degree=pos|gender=fem|case=*|number=sg	3	attr	_	_
+2	irische	irisch	_	_	degree=pos|gender=fem|case=*|number=sg	3	attr	_	_
+3	Familie	Familie	_	_	gender=fem|case=*|number=sg	0	root	_	_
+4	,	,	_	_	_	0	root	_	_
+5	die	die	_	_	definite=def|gender=*|case=*|number=*	6	det	_	_
+6	Straße	Straß	_	_	gender=*|case=*|number=*	3	app	_	_
+7	hoch	hoch	_	_	_	6	adv	_	_
+8	.	.	_	_	_	0	root	_	_
+
+1	Die	die	_	_	definite=def|gender=*|case=*|number=*	2	det	_	_
+2	O'Hallorans	O'Hallorans	_	_	gender=*|case=*|number=*	0	root	_	_
+3	.	.	_	_	_	0	root	_	_
+
+1	Warum	Warum	_	_	_	0	root	_	_
+2	?	?	_	_	_	0	root	_	_
+
+1	Was	was	_	_	gender=neut|case=acc|number=sg	4	obja	_	_
+2	hast	haben	_	_	person=2|number=sg|tense=pres|mood=ind	0	root	_	_
+3	du	du	_	_	person=2|number=sg|gender=*|case=nom	2	subj	_	_
+4	getan	tun	_	_	_	2	aux	_	_
+5	,	,	_	_	_	0	root	_	_
+6	um	um	_	_	_	9	konj	_	_
+7	sie	sie	_	_	person=3|number=*|gender=*|case=acc	9	obja	_	_
+8	zu	zu	_	_	_	9	part	_	_
+9	verärgern	verärgern	_	_	_	2	neb	_	_
+10	?	?	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Arbeitet	arbeiten	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+3	sie	sie	_	_	person=3|number=sg|gender=fem|case=nom	2	subj	_	_
+4	nicht	nicht	_	_	_	2	adv	_	_
+5	für	für	_	_	case=acc	2	pp	_	_
+6	dich	du	_	_	person=2|number=sg|gender=*|case=acc	5	pn	_	_
+7	,	,	_	_	_	0	root	_	_
+8	Vince	Vince	_	_	gender=*|case=acc|number=sg	6	app	_	_
+9	?	?	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Ja	ja	_	_	_	0	root	_	_
+3	,	,	_	_	_	0	root	_	_
+4	allerdings	allerdings	_	_	_	0	root	_	_
+5	.	.	_	_	_	0	root	_	_
+
+1	Und	und	_	_	_	0	root	_	_
+2	bei	bei	_	_	case=dat	7	pp	_	_
+3	E	E	_	_	gender=*|case=dat|number=*	2	pn	_	_
+4	einfach	einfach	_	_	_	7	adv	_	_
+5	den	die	_	_	definite=def|gender=masc|case=acc|number=sg	6	det	_	_
+6	Hörer	Hörer	_	_	gender=masc|case=acc|number=sg	7	obja	_	_
+7	aufzulegen	auflegen	_	_	_	9	subjc	_	_
+8	,	,	_	_	_	0	root	_	_
+9	muss	müssen	_	_	person=*|number=sg|tense=pres|mood=ind	1	cj	_	_
+10	ziemlich	ziemlich	_	_	_	11	adv	_	_
+11	entmannend	entmannen	_	_	degree=*	9	adv	_	_
+12	gewesen	sein	_	_	_	0	root	_	_
+13	sein	sein	_	_	person=*	0	root	_	_
+14	?	?	_	_	_	0	root	_	_
+
+1	Fühlte	fühlen	_	_	person=*|number=sg|tense=past|mood=*	0	root	_	_
+2	sich	sie	_	_	person=3|number=*|case=acc	1	obja	_	_
+3	an	an	_	_	_	1	avz	_	_
+4	,	,	_	_	_	0	root	_	_
+5	wie	wie	_	_	_	9	kom	_	_
+6	zum	zu	_	_	case=dat	5	cj	_	_
+7	Direktor	Direktor	_	_	gender=masc|case=dat|number=sg	6	pn	_	_
+8	Reeve	Reeve	_	_	gender=masc|case=dat|number=sg	7	app	_	_
+9	ins	in	_	_	case=acc	11	pp	_	_
+10	Büro	Büro	_	_	gender=neut|case=acc|number=sg	9	pn	_	_
+11	gerufen	rufen	_	_	_	13	aux	_	_
+12	zu	zu	_	_	_	13	part	_	_
+13	werden	werden	_	_	_	1	subjc	_	_
+14	.	.	_	_	_	0	root	_	_
+
+1	Genauso	genauso	_	_	_	0	root	_	_
+2	wie	wie	_	_	_	1	kom	_	_
+3	er	er	_	_	person=3|number=sg|gender=masc|case=nom	2	cj	_	_
+4	,	,	_	_	_	0	root	_	_
+5	werde	werden	_	_	person=1|number=sg|tense=pres|mood=*	3	par	_	_
+6	ich	ich	_	_	person=1|number=sg|gender=*|case=nom	5	subj	_	_
+7	ihr	ihr	_	_	person=3|number=sg|gender=fem|case=dat	8	objd	_	_
+8	sagen	sagen	_	_	_	5	aux	_	_
+9	,	,	_	_	_	0	root	_	_
+10	wie	wie	_	_	_	12	adv	_	_
+11	es	es	_	_	person=3|number=sg|gender=neut|case=nom	12	subj	_	_
+12	ist	sein	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+13	.	.	_	_	_	0	root	_	_
+
+1	Mach	machen	_	_	number=sg	0	root	_	_
+2	das	die	_	_	gender=neut|case=acc|number=sg	1	obja	_	_
+3	bitte	bitte	_	_	_	0	root	_	_
+4	,	,	_	_	_	0	root	_	_
+5	denn	denn	_	_	_	0	root	_	_
+6	ich	ich	_	_	person=1|number=sg|gender=*|case=nom	7	subj	_	_
+7	mag	mögen	_	_	person=1|number=sg|tense=pres|mood=ind	5	cj	_	_
+8	ihr	ihr	_	_	person=3|number=sg|gender=fem|case=dat	13	objd	_	_
+9	nicht	nicht	_	_	_	13	adv	_	_
+10	aus	aus	_	_	case=dat	13	pp	_	_
+11	dem	die	_	_	definite=def|gender=masc|case=dat|number=sg	12	det	_	_
+12	Weg	Weg	_	_	gender=masc|case=dat|number=sg	10	pn	_	_
+13	gehen	gehen	_	_	_	7	aux	_	_
+14	.	.	_	_	_	0	root	_	_
+
+1	Nein	nein	_	_	_	0	root	_	_
+2	,	,	_	_	_	0	root	_	_
+3	nein	nein	_	_	_	0	root	_	_
+4	.	.	_	_	_	0	root	_	_
+
+1	Kein	keine	_	_	gender=neut|case=*|number=sg	3	det	_	_
+2	weiteres	weit	_	_	degree=comp|gender=neut|case=*|number=sg	3	attr	_	_
+3	Ausweichen	Ausweiche	_	_	gender=neut|case=*|number=sg	0	root	_	_
+4	.	.	_	_	_	0	root	_	_
+
+1	Wir	wir	_	_	person=1|number=pl|gender=*|case=nom	2	subj	_	_
+2	werden	werden	_	_	person=1|number=pl|tense=pres|mood=*	0	root	_	_
+3	ihr	ihr	_	_	person=3|number=sg|gender=fem|case=dat	4	objd	_	_
+4	sagen	sagen	_	_	_	2	aux	_	_
+5	,	,	_	_	_	0	root	_	_
+6	wir	wir	_	_	person=1|number=pl|gender=*|case=nom	7	subj	_	_
+7	machen	machen	_	_	person=1|number=pl|tense=pres|mood=*	4	s	_	_
+8	keinen	keine	_	_	gender=masc|case=acc|number=sg	9	det	_	_
+9	Film	Film	_	_	gender=masc|case=acc|number=sg	7	obja	_	_
+10	über	über	_	_	case=*	9	pp	_	_
+11	irgendwas	irgendwas	_	_	gender=*|case=*|number=*	10	pn	_	_
+12	,	,	_	_	_	0	root	_	_
+13	bis	bis	_	_	_	21	konj	_	_
+14	die	die	_	_	definite=def|gender=fem|case=nom|number=pl	15	det	_	_
+15	Kameras	Kamera	_	_	gender=fem|case=nom|number=pl	21	subj	_	_
+16	tatsächlich	tatsächlich	_	_	_	21	adv	_	_
+17	für	für	_	_	case=acc	21	pp	_	_
+18	"	"	_	_	_	0	root	_	_
+19	Medellin	Medellin	_	_	gender=*|case=acc|number=*	17	pn	_	_
+20	"	"	_	_	_	0	root	_	_
+21	anlaufen	anlaufen	_	_	person=3|number=pl|tense=pres|mood=*	7	neb	_	_
+22	.	.	_	_	_	0	root	_	_
+
+1	Sie	sie	_	_	person=3|number=sg|gender=fem|case=nom	2	subj	_	_
+2	wird	werden	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+3	angepisst	angepisst	_	_	degree=pos	4	pred	_	_
+4	sein	sein	_	_	_	2	aux	_	_
+5	,	,	_	_	_	0	root	_	_
+6	wenn	wenn	_	_	_	8	konj	_	_
+7	sie	sie	_	_	person=3|number=sg|gender=fem|case=nom	8	subj	_	_
+8	denkt	denken	_	_	person=3|number=sg|tense=pres|mood=ind	2	neb	_	_
+9	,	,	_	_	_	0	root	_	_
+10	du	du	_	_	person=2|number=sg|gender=*|case=nom	11	subj	_	_
+11	nimmst	nehmen	_	_	person=2|number=sg|tense=pres|mood=ind	2	kon	_	_
+12	Ari	Ari	_	_	gender=masc|case=acc|number=sg	11	obja	_	_
+13	ernst	ernst	_	_	_	11	avz	_	_
+14	.	.	_	_	_	0	root	_	_
+
+1	Anpassung	Anpassung	_	_	gender=fem|case=*|number=sg	0	root	_	_
+2	von	von	_	_	case=*	1	pp	_	_
+3	Movie	Movie	_	_	_	2	pn	_	_
+
+1	Er	er	_	_	person=3|number=sg|gender=masc|case=nom	2	subj	_	_
+2	sieht	sehen	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+3	wie	wie	_	_	_	2	kom	_	_
+4	Frankenstein	Frankenstein	_	_	gender=*	3	cj	_	_
+5	aus	aus	_	_	_	2	avz	_	_
+6	.	.	_	_	_	0	root	_	_
+
+1	Immerhin	immerhin	_	_	_	2	adv	_	_
+2	läuft	laufen	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+3	er	er	_	_	person=3|number=sg|gender=masc|case=nom	2	subj	_	_
+4	ohne	ohne	_	_	case=acc	2	pp	_	_
+5	Krücken	Krücke	_	_	gender=fem|case=acc|number=pl	4	pn	_	_
+6	.	.	_	_	_	0	root	_	_
+
+1	Ja	ja	_	_	_	0	root	_	_
+2	,	,	_	_	_	0	root	_	_
+3	ich	ich	_	_	person=1|number=sg|gender=*|case=nom	4	subj	_	_
+4	dachte	denken	_	_	person=1|number=sg|tense=past|mood=ind	0	root	_	_
+5	,	,	_	_	_	0	root	_	_
+6	er	er	_	_	person=3|number=sg|gender=masc|case=nom	7	subj	_	_
+7	wäre	sein	_	_	person=3|number=sg|tense=past|mood=subj	4	s	_	_
+8	glücklicher	glücklich	_	_	degree=comp	7	pred	_	_
+9	darüber	darüber	_	_	_	7	pp	_	_
+10	.	.	_	_	_	0	root	_	_
+
+1	Ich	ich	_	_	person=1|number=sg|gender=*|case=nom	2	subj	_	_
+2	bin	sein	_	_	person=1|number=sg|tense=pres|mood=ind	0	root	_	_
+3	glücklicher	glücklich	_	_	degree=comp	2	pred	_	_
+4	darüber	darüber	_	_	_	2	pp	_	_
+5	.	.	_	_	_	0	root	_	_
+
+1	Wie	Wie	_	_	_	2	pred	_	_
+2	geht	gehen	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+3	es	es	_	_	person=3|number=sg|gender=neut|case=nom	2	subj	_	_
+4	dir	du	_	_	person=2|number=sg|gender=*|case=dat	2	objd	_	_
+5	,	,	_	_	_	0	root	_	_
+6	Maggie	Maggie	_	_	gender=*|case=dat|number=sg	4	app	_	_
+7	?	?	_	_	_	0	root	_	_
+
+1	Langer	lang	_	_	degree=pos|gender=masc|case=nom|number=sg	2	attr	_	_
+2	Tag	Tag	_	_	gender=masc|case=nom|number=sg	0	root	_	_
+3	.	.	_	_	_	0	root	_	_
+
+1	Sieht	sehen	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+2	so	so	_	_	_	1	pred	_	_
+3	aus	aus	_	_	_	1	avz	_	_
+4	,	,	_	_	_	0	root	_	_
+5	als	als	_	_	_	6	konj	_	_
+6	fängt	fangen	_	_	person=3|number=sg|tense=pres|mood=ind	1	neb	_	_
+7	mein	meine	_	_	gender=masc|case=nom|number=sg	8	det	_	_
+8	Tag	Tag	_	_	gender=masc|case=nom|number=sg	6	subj	_	_
+9	gerade	gerade	_	_	_	6	adv	_	_
+10	an	an	_	_	_	6	avz	_	_
+11	.	.	_	_	_	0	root	_	_
+
+1	Hal	Hal	_	_	gender=*	0	root	_	_
+2	.	.	_	_	_	0	root	_	_
+
+1	Was	was	_	_	gender=neut|case=acc|number=sg	3	obja	_	_
+2	ich	ich	_	_	person=1|number=sg|gender=*|case=nom	3	subj	_	_
+3	sage	sagen	_	_	person=1|number=sg|tense=pres|mood=*	4	subjc	_	_
+4	ist	sein	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+5	,	,	_	_	_	0	root	_	_
+6	mit	mit	_	_	case=dat	0	root	_	_
+7	dem	die	_	_	definite=def|gender=*|case=dat|number=sg	8	det	_	_
+8	Militär	Militär	_	_	gender=*|case=dat|number=sg	6	pn	_	_
+9	ausgenommen	ausnehmen	_	_	_	0	root	_	_
+10	sind	sein	_	_	person=*|number=pl|tense=pres|mood=ind	0	root	_	_
+11	es	es	_	_	person=3|number=sg|gender=neut|case=nom	10	subj	_	_
+12	vielleicht	vielleicht	_	_	_	10	adv	_	_
+13	vier	vier	_	_	_	14	attr	_	_
+14	Leute	Leute	_	_	gender=*|case=nom|number=pl	10	pred	_	_
+15	,	,	_	_	_	0	root	_	_
+16	die	die	_	_	gender=*|case=nom|number=pl	18	subj	_	_
+17	genau	genau	_	_	_	18	adv	_	_
+18	wissen	wissen	_	_	person=3|number=pl|tense=pres|mood=*	14	rel	_	_
+19	,	,	_	_	_	0	root	_	_
+20	wie	wie	_	_	_	23	konj	_	_
+21	dieser	diese	_	_	gender=masc|case=nom|number=sg	22	det	_	_
+22	Ort	Ort	_	_	gender=masc|case=nom|number=sg	23	subj	_	_
+23	funktioniert	funktionieren	_	_	person=3|number=sg|tense=pres|mood=ind	18	objc	_	_
+24	.	.	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Die	die	_	_	definite=def|gender=*|case=*|number=*	3	det	_	_
+3	Vaginoplastie	Vaginoplastie	_	_	gender=*|case=*|number=*	0	root	_	_
+4	.	.	_	_	_	0	root	_	_
+
+1	Wird	werden	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+2	die	die	_	_	definite=def|gender=fem|case=nom|number=sg	3	det	_	_
+3	Vaginoplastie	Vaginoplastie	_	_	gender=fem|case=nom|number=sg	1	subj	_	_
+4	separat	separat	_	_	degree=pos	5	pred	_	_
+5	gemacht	machen	_	_	_	1	aux	_	_
+6	?	?	_	_	_	0	root	_	_
+
+1	Genau	Genau	_	_	_	0	root	_	_
+2	.	.	_	_	_	0	root	_	_
+
+1	Das	die	_	_	gender=neut|case=nom|number=sg	2	subj	_	_
+2	wird	werden	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+3	einzeln	einzeln	_	_	degree=pos	4	pred	_	_
+4	gemacht	machen	_	_	_	2	aux	_	_
+5	.	.	_	_	_	0	root	_	_
+
+1	Ich	ich	_	_	person=1|number=sg|gender=*|case=nom	2	subj	_	_
+2	möchte	mögen	_	_	person=1|number=sg|tense=past|mood=subj	0	root	_	_
+3	nicht	nicht	_	_	_	9	adv	_	_
+4	mehr	mehr	_	_	_	3	adv	_	_
+5	als	als	_	_	_	9	kom	_	_
+6	nötig	nötig	_	_	degree=pos	5	cj	_	_
+7	unter	unter	_	_	case=*	9	objp	_	_
+8	Narkose	Narkose	_	_	gender=fem|case=*|number=sg	7	pn	_	_
+9	gesetzt	setzen	_	_	_	10	aux	_	_
+10	werden	werden	_	_	_	2	aux	_	_
+11	.	.	_	_	_	0	root	_	_
+
+1	Ich	ich	_	_	person=1|number=sg|gender=*|case=nom	2	subj	_	_
+2	bekomme	bekommen	_	_	person=1|number=sg|tense=pres|mood=*	0	root	_	_
+3	eine	eine	_	_	definite=ind|gender=fem|case=acc|number=sg	4	det	_	_
+4	Narkose	Narkose	_	_	gender=fem|case=acc|number=sg	2	obja	_	_
+5	,	,	_	_	_	0	root	_	_
+6	und	und	_	_	_	0	root	_	_
+7	dann	dann	_	_	_	9	adv	_	_
+8	noch	noch	_	_	_	9	adv	_	_
+9	eine	eine	_	_	gender=*|case=*|number=sg	6	cj	_	_
+10	?	?	_	_	_	0	root	_	_
+
+1	Es	es	_	_	person=3|number=sg|gender=neut|case=nom	2	subj	_	_
+2	ist	sein	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+3	ein	eine	_	_	definite=ind|gender=masc|case=nom|number=sg	5	det	_	_
+4	schwerer	schwer	_	_	degree=pos|gender=masc|case=nom|number=sg	5	attr	_	_
+5	Eingriff	Eingriff	_	_	gender=masc|case=nom|number=sg	2	pred	_	_
+6	mit	mit	_	_	case=dat	5	pp	_	_
+7	einer	eine	_	_	definite=ind|gender=fem|case=dat|number=sg	9	det	_	_
+8	langen	lang	_	_	degree=pos|gender=fem|case=dat|number=sg	9	attr	_	_
+9	Rekonvaleszenz	Rekonvaleszenz	_	_	gender=fem|case=dat|number=sg	6	pn	_	_
+10	.	.	_	_	_	0	root	_	_
+
+1	Außerdem	Außerdem	_	_	_	2	pp	_	_
+2	brauchen	brauchen	_	_	person=1|number=pl|tense=pres|mood=*	0	root	_	_
+3	wir	wir	_	_	person=1|number=pl|gender=*|case=nom	2	subj	_	_
+4	dafür	dafür	_	_	_	2	pp	_	_
+5	einen	eine	_	_	definite=ind|gender=masc|case=acc|number=sg	6	det	_	_
+6	Spezialisten	Spezialist	_	_	gender=masc|case=acc|number=sg	2	obja	_	_
+7	.	.	_	_	_	0	root	_	_
+
+1	Aufregend	aufregen	_	_	degree=*	0	root	_	_
+2	.	.	_	_	_	0	root	_	_
+
+1	Ja	ja	_	_	_	0	root	_	_
+2	,	,	_	_	_	0	root	_	_
+3	das	die	_	_	gender=neut|case=nom|number=sg	4	subj	_	_
+4	ist	sein	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+5	es	es	_	_	person=3|number=sg|gender=neut|case=nom	4	pred	_	_
+6	in	in	_	_	case=dat	4	pp	_	_
+7	der	die	_	_	definite=def|gender=fem|case=dat|number=sg	8	det	_	_
+8	Tat	Tat	_	_	gender=fem|case=dat|number=sg	6	pn	_	_
+9	.	.	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Oh	oh	_	_	_	0	root	_	_
+3	Gott	Gott	_	_	gender=masc|case=*|number=sg	0	root	_	_
+4	.	.	_	_	_	0	root	_	_
+
+1	Das	die	_	_	gender=neut|case=nom|number=sg	2	subj	_	_
+2	reicht	reichen	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+3	,	,	_	_	_	0	root	_	_
+4	Dad	Dad	_	_	gender=*	2	vok	_	_
+5	!	!	_	_	_	0	root	_	_
+
+1	Weißt	weißen	_	_	person=2|number=sg|tense=pres|mood=ind	6	neb	_	_
+2	du	du	_	_	person=2|number=sg|gender=*|case=nom	1	subj	_	_
+3	,	,	_	_	_	0	root	_	_
+4	wovon	wovon	_	_	_	6	pp	_	_
+5	ich	ich	_	_	person=1|number=sg|gender=*|case=nom	6	subj	_	_
+6	rede	reden	_	_	person=1|number=sg|tense=pres|mood=*	0	root	_	_
+7	?	?	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Verstehst	verstehen	_	_	person=2|number=sg|tense=pres|mood=ind	0	root	_	_
+3	du	du	_	_	person=2|number=sg|gender=*|case=nom	2	subj	_	_
+4	mich	ich	_	_	person=1|number=sg|gender=*|case=acc	2	obja	_	_
+5	?	?	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Dad	Dad	_	_	gender=*	0	root	_	_
+3	,	,	_	_	_	0	root	_	_
+4	das	die	_	_	gender=neut|case=nom|number=sg	5	subj	_	_
+5	reicht	reichen	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+6	!	!	_	_	_	0	root	_	_
+
+1	Ich	ich	_	_	person=1|number=sg|gender=*|case=nom	2	subj	_	_
+2	gehe	gehen	_	_	person=1|number=sg|tense=pres|mood=*	0	root	_	_
+3	,	,	_	_	_	0	root	_	_
+4	ok	ok	_	_	_	0	root	_	_
+5	.	.	_	_	_	0	root	_	_
+
+1	Ok	Ok	_	_	_	0	root	_	_
+2	.	.	_	_	_	0	root	_	_
+
+1	Gut	gut	_	_	degree=pos	0	root	_	_
+2	.	.	_	_	_	0	root	_	_
+
+1	Warte	warten	_	_	number=sg	0	root	_	_
+2	...	...	_	_	_	0	root	_	_
+
+1	Ja	ja	_	_	_	0	root	_	_
+2	,	,	_	_	_	0	root	_	_
+3	die	die	_	_	definite=def|gender=fem|case=*|number=sg	4	det	_	_
+4	DVD	DVD	_	_	gender=fem|case=*|number=sg	0	root	_	_
+5	.	.	_	_	_	0	root	_	_
+
+1	Okay	okay	_	_	_	0	root	_	_
+2	,	,	_	_	_	0	root	_	_
+3	ich	ich	_	_	person=1|number=sg|gender=*|case=nom	4	subj	_	_
+4	sehe	sehen	_	_	person=1|number=sg|tense=pres|mood=*	0	root	_	_
+5	mal	mal	_	_	_	4	adv	_	_
+6	nach	nach	_	_	_	4	avz	_	_
+7	,	,	_	_	_	0	root	_	_
+8	ob	ob	_	_	_	13	konj	_	_
+9	wir	wir	_	_	person=1|number=pl|gender=*|case=nom	13	subj	_	_
+10	noch	noch	_	_	_	11	adv	_	_
+11	gefrorene	gefroren	_	_	degree=pos|gender=fem|case=acc|number=sg	12	attr	_	_
+12	Soja-Pizza	Soja-Pizza	_	_	gender=fem|case=acc|number=sg	13	obja	_	_
+13	haben	haben	_	_	person=1|number=pl|tense=pres|mood=*	4	objc	_	_
+14	.	.	_	_	_	0	root	_	_
+
+1	Ausweise	Ausweis	_	_	gender=*|case=*|number=*	0	root	_	_
+2	.	.	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Hi	hi	_	_	_	0	root	_	_
+3	.	.	_	_	_	0	root	_	_
+
+1	Echt	Echt	_	_	_	2	adv	_	_
+2	jetzt	jetzt	_	_	_	0	root	_	_
+3	?	?	_	_	_	0	root	_	_
+
+1	Ja	ja	_	_	_	0	root	_	_
+2	,	,	_	_	_	0	root	_	_
+3	Baby	Baby	_	_	gender=*	0	root	_	_
+4	,	,	_	_	_	0	root	_	_
+5	man	man	_	_	gender=*|case=nom|number=sg	6	subj	_	_
+6	kann	können	_	_	person=3|number=sg|tense=pres|mood=ind	13	s	_	_
+7	euer	eure	_	_	gender=neut|case=acc|number=sg	8	det	_	_
+8	Alter	Alter	_	_	gender=neut|case=acc|number=sg	11	obja	_	_
+9	kaum	kaum	_	_	_	11	adv	_	_
+10	noch	noch	_	_	_	11	adv	_	_
+11	schätzen	schätzen	_	_	_	6	aux	_	_
+12	,	,	_	_	_	0	root	_	_
+13	wisst	wissen	_	_	person=2|number=pl|tense=pres|mood=ind	0	root	_	_
+14	ihr	ihr	_	_	person=2|number=pl|gender=*|case=nom	13	subj	_	_
+15	.	.	_	_	_	0	root	_	_
+
+1	Ja	ja	_	_	_	0	root	_	_
+2	,	,	_	_	_	0	root	_	_
+3	bitte	bitte	_	_	_	0	root	_	_
+4	.	.	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Der	die	_	_	definite=def|gender=masc|case=nom|number=sg	3	det	_	_
+3	Abend	Abend	_	_	gender=masc|case=nom|number=sg	4	subj	_	_
+4	gefällt	gefallen	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+5	mir	ich	_	_	person=1|number=sg|gender=*|case=dat	4	objd	_	_
+6	jetzt	jetzt	_	_	_	4	adv	_	_
+7	schon	schon	_	_	_	4	adv	_	_
+8	.	.	_	_	_	0	root	_	_
+
+1	Rachel	Rachel	_	_	gender=fem|case=*|number=sg	0	root	_	_
+2	?	?	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Ja	ja	_	_	_	0	root	_	_
+3	,	,	_	_	_	0	root	_	_
+4	das	die	_	_	gender=neut|case=nom|number=sg	5	subj	_	_
+5	bin	sein	_	_	person=1|number=sg|tense=pres|mood=ind	0	root	_	_
+6	ich	ich	_	_	person=1|number=sg|gender=*|case=nom	5	pred	_	_
+7	.	.	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Vielen	viele	_	_	gender=masc|case=*|number=sg	3	det	_	_
+3	Dank	Dank	_	_	gender=masc|case=*|number=sg	0	root	_	_
+4	.	.	_	_	_	0	root	_	_
+
+1	Es	es	_	_	person=3|number=sg|gender=neut|case=nom	2	subj	_	_
+2	gefällt	gefallen	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+3	mir	ich	_	_	person=1|number=sg|gender=*|case=dat	2	objd	_	_
+4	viel	viel	_	_	_	5	adv	_	_
+5	besser	gut	_	_	degree=comp	2	adv	_	_
+6	,	,	_	_	_	0	root	_	_
+7	wenn	wenn	_	_	_	11	konj	_	_
+8	wir	wir	_	_	person=1|number=pl|gender=*|case=nom	11	subj	_	_
+9	einer	eine	_	_	definite=ind|gender=fem|case=dat|number=sg	10	det	_	_
+10	Meinung	Meinung	_	_	gender=fem|case=dat|number=sg	11	objd	_	_
+11	sind	sein	_	_	person=1|number=pl|tense=pres|mood=ind	2	neb	_	_
+12	.	.	_	_	_	0	root	_	_
+
+1	Ihnen	sie	_	_	person=3|number=pl|gender=*|case=dat	0	root	_	_
+2	nicht	nicht	_	_	_	1	adv	_	_
+3	?	?	_	_	_	0	root	_	_
+
+1	Der	die	_	_	definite=def|gender=masc|case=nom|number=sg	2	det	_	_
+2	Text	Text	_	_	gender=masc|case=nom|number=sg	0	root	_	_
+3	des	die	_	_	definite=def|gender=*|case=gen|number=sg	4	det	_	_
+4	Kosst	Kosst	_	_	gender=*|case=gen|number=sg	2	gmod	_	_
+5	Amojan	Amojan	_	_	gender=*|case=gen|number=sg	4	app	_	_
+6	,	,	_	_	_	0	root	_	_
+7	wie	wie	_	_	_	9	konj	_	_
+8	Sie	sie	_	_	person=3|number=pl|gender=*|case=nom	9	subj	_	_
+9	wünschten	wünschen	_	_	person=3|number=pl|tense=past|mood=*	2	objc	_	_
+10	.	.	_	_	_	0	root	_	_
+
+1	Sehr	sehr	_	_	_	2	adv	_	_
+2	gut	gut	_	_	degree=pos	0	root	_	_
+3	.	.	_	_	_	0	root	_	_
+
+1	Also	also	_	_	_	0	root	_	_
+2	?	?	_	_	_	0	root	_	_
+
+1	Legen	Legen	_	_	number=*	0	root	_	_
+2	Sie	sie	_	_	person=3|number=*|gender=*|case=acc	1	obja	_	_
+3	ihn	er	_	_	person=3|number=sg|gender=masc|case=acc	1	obja	_	_
+4	auf	auf	_	_	case=*	1	objp	_	_
+5	meinen	meine	_	_	gender=masc|case=*|number=sg	6	det	_	_
+6	Schreibtisch	Schreibtisch	_	_	gender=masc|case=*|number=sg	4	pn	_	_
+7	.	.	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Eminenz	Eminenz	_	_	gender=fem|case=*|number=sg	0	root	_	_
+3	,	,	_	_	_	0	root	_	_
+4	darf	dürfen	_	_	person=1|number=sg|tense=pres|mood=ind	0	root	_	_
+5	ich	ich	_	_	person=1|number=sg|gender=*|case=nom	4	subj	_	_
+6	offen	offen	_	_	degree=pos	7	adv	_	_
+7	sprechen	sprechen	_	_	_	4	aux	_	_
+8	?	?	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Wenn	wenn	_	_	_	5	konj	_	_
+3	es	es	_	_	person=3|number=sg|gender=neut|case=nom	5	subj	_	_
+4	sein	sein	_	_	_	5	aux	_	_
+5	muss	müssen	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+6	.	.	_	_	_	0	root	_	_
+
+1	Dieses	diese	_	_	gender=neut|case=nom|number=sg	2	det	_	_
+2	Buch	Buch	_	_	gender=neut|case=nom|number=sg	3	subj	_	_
+3	wurde	werden	_	_	person=3|number=sg|tense=past|mood=ind	0	root	_	_
+4	seit	seit	_	_	case=dat	12	pp	_	_
+5	700	700	_	_	_	6	attr	_	_
+6	Jahren	Jahr	_	_	gender=neut|case=dat|number=pl	4	pn	_	_
+7	nicht	nicht	_	_	_	12	adv	_	_
+8	mehr	mehr	_	_	_	7	adv	_	_
+9	aus	aus	_	_	case=dat	12	pp	_	_
+10	den	die	_	_	definite=def|gender=neut|case=dat|number=pl	11	det	_	_
+11	Archiven	Archiv	_	_	gender=neut|case=dat|number=pl	9	pn	_	_
+12	geholt	holen	_	_	_	3	aux	_	_
+13	.	.	_	_	_	0	root	_	_
+
+1	Was	was	_	_	gender=neut|case=acc|number=sg	5	obja	_	_
+2	wollen	wollen	_	_	person=3|number=pl|tense=pres|mood=*	0	root	_	_
+3	Sie	sie	_	_	person=3|number=pl|gender=*|case=nom	2	subj	_	_
+4	damit	damit	_	_	_	5	pp	_	_
+5	sagen	sagen	_	_	_	2	aux	_	_
+6	?	?	_	_	_	0	root	_	_
+
+1	Er	er	_	_	person=3|number=sg|gender=masc|case=nom	2	subj	_	_
+2	hat	haben	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+3	dich	du	_	_	person=2|number=sg|gender=*|case=acc	4	obja	_	_
+4	gebraucht	brauchen	_	_	_	2	aux	_	_
+5	,	,	_	_	_	0	root	_	_
+6	und	und	_	_	_	2	kon	_	_
+7	du	du	_	_	person=2|number=sg|gender=*|case=nom	8	subj	_	_
+8	hast	haben	_	_	person=2|number=sg|tense=pres|mood=ind	6	cj	_	_
+9	ihn	er	_	_	person=3|number=sg|gender=masc|case=acc	12	obja	_	_
+10	im	in	_	_	case=dat	12	pp	_	_
+11	Stich	Stich	_	_	gender=masc|case=dat|number=sg	10	pn	_	_
+12	gelassen	lassen	_	_	_	8	aux	_	_
+13	.	.	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Mom	Mom	_	_	gender=*	0	root	_	_
+3	,	,	_	_	_	0	root	_	_
+4	Dad	Dad	_	_	gender=*	2	app	_	_
+5	,	,	_	_	_	0	root	_	_
+6	helft	helfen	_	_	number=pl	0	root	_	_
+7	mir	ich	_	_	person=1|number=sg|gender=*|case=dat	6	objd	_	_
+8	!	!	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Schatz	Schatz	_	_	gender=masc|case=*|number=sg	0	root	_	_
+3	.	.	_	_	_	0	root	_	_
+
+1	Eddie	Eddie	_	_	gender=*|case=nom|number=sg	2	subj	_	_
+2	wollte	wollen	_	_	person=3|number=sg|tense=past|mood=*	0	root	_	_
+3	den	die	_	_	definite=def|gender=masc|case=acc|number=sg	4	det	_	_
+4	Brand	Brand	_	_	gender=masc|case=acc|number=sg	7	obja	_	_
+5	in	in	_	_	case=*	4	pp	_	_
+6	sich	sie	_	_	person=3|number=*|case=*	5	pn	_	_
+7	löschen	löschen	_	_	_	2	aux	_	_
+8	,	,	_	_	_	0	root	_	_
+9	indem	indem	_	_	_	14	konj	_	_
+10	er	er	_	_	person=3|number=sg|gender=masc|case=nom	14	subj	_	_
+11	in	in	_	_	case=acc	14	pp	_	_
+12	den	die	_	_	definite=def|gender=masc|case=acc|number=sg	13	det	_	_
+13	Fluss	Fluss	_	_	gender=masc|case=acc|number=sg	11	pn	_	_
+14	sprang	springen	_	_	person=3|number=sg|tense=past|mood=ind	2	neb	_	_
+15	.	.	_	_	_	0	root	_	_
+
+1	Siehst	sehen	_	_	person=2|number=sg|tense=pres|mood=ind	0	root	_	_
+2	du	du	_	_	person=2|number=sg|gender=*|case=nom	1	subj	_	_
+3	?	?	_	_	_	0	root	_	_
+
+1	Es	es	_	_	person=3|number=sg|gender=neut|case=nom	2	subj	_	_
+2	ist	sein	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+3	das	die	_	_	definite=def|gender=neut|case=nom|number=sg	4	det	_	_
+4	Beste	Beste	_	_	gender=neut|case=nom|number=sg	2	pred	_	_
+5	,	,	_	_	_	0	root	_	_
+6	wenn	wenn	_	_	_	13	konj	_	_
+7	wir	wir	_	_	person=1|number=pl|gender=*|case=nom	13	subj	_	_
+8	uns	wir	_	_	person=1|number=pl|gender=*|case=acc	13	obja	_	_
+9	in	in	_	_	case=dat	13	pp	_	_
+10	diesen	diese	_	_	gender=neut|case=dat|number=pl	11	det	_	_
+11	Dingen	Ding	_	_	gender=neut|case=dat|number=pl	9	pn	_	_
+12	nicht	nicht	_	_	_	13	adv	_	_
+13	einmischen	einmischen	_	_	person=1|number=pl|tense=pres|mood=*	2	neb	_	_
+14	.	.	_	_	_	0	root	_	_
+
+1	Aber	aber	_	_	_	2	adv	_	_
+2	er	er	_	_	person=3|number=sg|gender=masc|case=nom	3	subj	_	_
+3	kann	können	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+4	nicht	nicht	_	_	_	5	adv	_	_
+5	schwimmen	schwimmen	_	_	_	3	aux	_	_
+6	.	.	_	_	_	0	root	_	_
+
+1	Du	du	_	_	person=2|number=sg|gender=*|case=nom	2	subj	_	_
+2	hast	haben	_	_	person=2|number=sg|tense=pres|mood=ind	0	root	_	_
+3	es	es	_	_	person=3|number=sg|gender=neut|case=acc	6	obja	_	_
+4	ihm	er	_	_	person=3|number=sg|gender=*|case=dat	6	objd	_	_
+5	nie	nie	_	_	_	6	adv	_	_
+6	beigebracht	beibringen	_	_	_	2	aux	_	_
+7	.	.	_	_	_	0	root	_	_
+
+1	Lass	lassen	_	_	number=sg	0	root	_	_
+2	ihn	er	_	_	person=3|number=sg|gender=masc|case=acc	1	obja	_	_
+3	das	die	_	_	gender=neut|case=acc|number=sg	4	obja	_	_
+4	lernen	lernen	_	_	_	0	root	_	_
+5	,	,	_	_	_	0	root	_	_
+6	wie	wie	_	_	_	0	root	_	_
+7	ich	ich	_	_	person=1|number=sg|gender=*|case=nom	6	cj	_	_
+8	es	es	_	_	person=3|number=sg|gender=neut|case=nom	9	subj	_	_
+9	tat	tun	_	_	person=3|number=sg|tense=past|mood=ind	0	root	_	_
+10	:	\:	_	_	_	0	root	_	_
+11	auf	auf	_	_	case=dat	0	root	_	_
+12	der	die	_	_	definite=def|gender=fem|case=dat|number=sg	13	det	_	_
+13	Straße	Straß	_	_	gender=fem|case=dat|number=sg	11	pn	_	_
+14	.	.	_	_	_	0	root	_	_
+
+1	Nächste	nah	_	_	degree=*|gender=fem|case=acc|number=sg	2	attr	_	_
+2	Woche	Woche	_	_	gender=fem|case=acc|number=sg	3	grad	_	_
+3	bei	bei	_	_	case=dat	9	pp	_	_
+4	Völlig	Völlig	_	_	_	5	adv	_	_
+5	ineffektiver	ineffektiv	_	_	degree=pos|gender=fem|case=dat|number=sg	6	attr	_	_
+6	Dad	Dad	_	_	gender=fem|case=dat|number=sg	3	pn	_	_
+7	die	die	_	_	definite=def|gender=fem|case=*|number=sg	9	det	_	_
+8	urkomische	urkomische	_	_	degree=*|gender=fem|case=*|number=sg	9	attr	_	_
+9	Beerdigungsfolge	Beerdigungsfolge	_	_	gender=fem|case=*|number=sg	0	root	_	_
+10	.	.	_	_	_	0	root	_	_
+
+1	Ich	ich	_	_	person=1|number=sg|gender=*|case=nom	2	subj	_	_
+2	finde	finden	_	_	person=1|number=sg|tense=pres|mood=*	0	root	_	_
+3	,	,	_	_	_	0	root	_	_
+4	man	man	_	_	gender=*|case=nom|number=sg	5	subj	_	_
+5	kann	können	_	_	person=3|number=sg|tense=pres|mood=ind	2	kon	_	_
+6	über	über	_	_	case=acc	11	pp	_	_
+7	so	so	_	_	_	8	adv	_	_
+8	persönliche	persönlich	_	_	degree=pos|gender=neut|case=acc|number=pl	9	attr	_	_
+9	Dinge	Ding	_	_	gender=neut|case=acc|number=pl	6	pn	_	_
+10	nur	nur	_	_	_	11	adv	_	_
+11	sprechen	sprechen	_	_	_	5	aux	_	_
+12	,	,	_	_	_	0	root	_	_
+13	wenn	wenn	_	_	_	18	konj	_	_
+14	der	die	_	_	definite=def|gender=*|case=*|number=*	15	part	_	_
+15	andere	andere	_	_	gender=masc|case=nom|number=sg	18	subj	_	_
+16	das	die	_	_	definite=def|gender=neut|case=acc|number=sg	17	det	_	_
+17	Verständnis	Verständnis	_	_	gender=neut|case=acc|number=sg	18	obja	_	_
+18	hat	haben	_	_	person=3|number=sg|tense=pres|mood=ind	5	neb	_	_
+19	.	.	_	_	_	0	root	_	_
+
+1	Deshalb	Deshalb	_	_	_	2	pp	_	_
+2	schäme	schämen	_	_	person=1|number=sg|tense=pres|mood=*	0	root	_	_
+3	ich	ich	_	_	person=1|number=sg|gender=*|case=nom	2	subj	_	_
+4	mich	ich	_	_	person=1|number=sg|case=acc	2	obja	_	_
+5	überhaupt	überhaupt	_	_	_	6	adv	_	_
+6	nicht	nicht	_	_	_	2	adv	_	_
+7	,	,	_	_	_	0	root	_	_
+8	Ihnen	sie	_	_	person=3|number=pl|gender=*|case=dat	10	objd	_	_
+9	zu	zu	_	_	_	10	part	_	_
+10	sagen	sagen	_	_	_	2	obji	_	_
+11	:	\:	_	_	_	0	root	_	_
+12	Ohne	ohne	_	_	case=acc	14	pp	_	_
+13	Babs	Babs	_	_	gender=fem|case=acc|number=sg	12	pn	_	_
+14	wäre	sein	_	_	person=1|number=sg|tense=past|mood=subj	0	root	_	_
+15	ich	ich	_	_	person=1|number=sg|gender=*|case=nom	14	subj	_	_
+16	verloren	verloren	_	_	degree=pos	14	pred	_	_
+17	.	.	_	_	_	0	root	_	_
+
+1	Das	die	_	_	gender=neut|case=nom|number=sg	2	subj	_	_
+2	ist	sein	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+3	mir	ich	_	_	person=1|number=sg|gender=*|case=dat	6	objd	_	_
+4	ganz	ganz	_	_	_	5	adv	_	_
+5	klar	klar	_	_	degree=pos	6	adv	_	_
+6	geworden	geworden	_	_	_	2	aux	_	_
+7	,	,	_	_	_	0	root	_	_
+8	schon	schon	_	_	_	9	adv	_	_
+9	bei	bei	_	_	case=dat	6	pp	_	_
+10	dieser	diese	_	_	gender=fem|case=dat|number=sg	12	det	_	_
+11	kurzen	kurz	_	_	degree=pos|gender=fem|case=dat|number=sg	12	attr	_	_
+12	Trennung	Trennung	_	_	gender=fem|case=dat|number=sg	9	pn	_	_
+13	.	.	_	_	_	0	root	_	_
+
+1	Ich	ich	_	_	person=1|number=sg|gender=*|case=nom	2	subj	_	_
+2	glaube	glauben	_	_	person=1|number=sg|tense=pres|mood=*	0	root	_	_
+3	,	,	_	_	_	0	root	_	_
+4	das	die	_	_	gender=neut|case=nom|number=sg	5	subj	_	_
+5	wäre	sein	_	_	person=3|number=sg|tense=past|mood=subj	2	s	_	_
+6	ein	eine	_	_	definite=ind|gender=neut|case=nom|number=sg	8	det	_	_
+7	schlechtes	schlecht	_	_	degree=pos|gender=neut|case=nom|number=sg	8	attr	_	_
+8	Land	Land	_	_	gender=neut|case=nom|number=sg	5	pred	_	_
+9	,	,	_	_	_	0	root	_	_
+10	um	um	_	_	_	12	konj	_	_
+11	Kinder	Kind	_	_	gender=neut|case=acc|number=pl	12	obja	_	_
+12	aufzuziehen	aufziehen	_	_	_	5	neb	_	_
+13	.	.	_	_	_	0	root	_	_
+
+1	Ich	ich	_	_	person=1|number=sg|gender=*|case=nom	2	subj	_	_
+2	weiß	wissen	_	_	person=1|number=sg|tense=pres|mood=ind	0	root	_	_
+3	nicht	nicht	_	_	_	2	adv	_	_
+4	.	.	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Wissen	wissen	_	_	person=3|number=pl|tense=pres|mood=*	0	root	_	_
+3	Sie	sie	_	_	person=3|number=pl|gender=*|case=nom	2	subj	_	_
+4	?	?	_	_	_	0	root	_	_
+
+1	Babs	Babs	_	_	gender=fem|case=nom|number=sg	6	vok	_	_
+2	und	und	_	_	_	1	kon	_	_
+3	ich	ich	_	_	person=1|number=sg|gender=*|case=nom	2	cj	_	_
+4	,	,	_	_	_	0	root	_	_
+5	wir	wir	_	_	person=1|number=pl|gender=*|case=nom	6	subj	_	_
+6	wollten	wollen	_	_	person=1|number=pl|tense=past|mood=*	0	root	_	_
+7	am	am	_	_	_	8	adv	_	_
+8	liebsten	liebsten	_	_	degree=*	11	adv	_	_
+9	gleich	gleich	_	_	_	11	adv	_	_
+10	Kinder	Kind	_	_	gender=neut|case=acc|number=pl	11	obja	_	_
+11	haben	haben	_	_	_	6	aux	_	_
+12	.	.	_	_	_	0	root	_	_
+
+1	Doch	doch	_	_	_	0	root	_	_
+2	dann	dann	_	_	_	3	adv	_	_
+3	kam	kommen	_	_	person=1|number=sg|tense=past|mood=ind	1	cj	_	_
+4	ich	ich	_	_	person=1|number=sg|gender=*|case=nom	3	subj	_	_
+5	zu	zu	_	_	case=dat	3	objp	_	_
+6	diesem	diese	_	_	gender=masc|case=dat|number=sg	7	det	_	_
+7	Job	Job	_	_	gender=masc|case=dat|number=sg	5	pn	_	_
+8	.	.	_	_	_	0	root	_	_
+
+1	Kinder	Kind	_	_	gender=neut|case=*|number=pl	0	root	_	_
+2	...	...	_	_	_	0	root	_	_
+
+1	Zuerst	zuerst	_	_	_	2	adv	_	_
+2	dachten	denken	_	_	person=1|number=pl|tense=past|mood=ind	0	root	_	_
+3	wir	wir	_	_	person=1|number=pl|gender=*|case=nom	2	subj	_	_
+4	an	an	_	_	case=acc	2	objp	_	_
+5	2	2	_	_	_	6	attr	_	_
+6	Jungen	Junge	_	_	gender=*|case=acc|number=pl	4	pn	_	_
+7	und	und	_	_	_	6	kon	_	_
+8	dann	dann	_	_	_	11	adv	_	_
+9	vielleicht	vielleicht	_	_	_	11	adv	_	_
+10	ein	eine	_	_	definite=ind|gender=neut|case=acc|number=sg	11	det	_	_
+11	Mädchen	Mädchen	_	_	gender=neut|case=acc|number=sg	7	cj	_	_
+12	.	.	_	_	_	0	root	_	_
+
+1	Auf	auf	_	_	case=dat	7	pp	_	_
+2	der	die	_	_	definite=def|gender=fem|case=dat|number=sg	3	det	_	_
+3	Flucht	Flucht	_	_	gender=fem|case=dat|number=sg	1	pn	_	_
+4	vor	vor	_	_	case=dat	3	pp	_	_
+5	der	die	_	_	definite=def|gender=fem|case=dat|number=sg	6	det	_	_
+6	Steuerfaschistin	Steuerfaschistin	_	_	gender=fem|case=dat|number=sg	4	pn	_	_
+7	konnte	können	_	_	person=1|number=sg|tense=past|mood=ind	0	root	_	_
+8	ich	ich	_	_	person=1|number=sg|gender=*|case=nom	7	subj	_	_
+9	Pluspunkte	Pluspunkt	_	_	gender=masc|case=acc|number=pl	15	obja	_	_
+10	bei	bei	_	_	case=dat	15	pp	_	_
+11	Sam	Sam	_	_	gender=masc|case=dat|number=sg	10	pn	_	_
+12	und	und	_	_	_	11	kon	_	_
+13	den	die	_	_	definite=def|gender=*|case=dat|number=pl	14	det	_	_
+14	Kindern	Kind	_	_	gender=*|case=dat|number=pl	12	cj	_	_
+15	sammeln	sammeln	_	_	_	7	aux	_	_
+16	.	.	_	_	_	0	root	_	_
+
+1	Wer	wer	_	_	gender=*|case=nom|number=sg	2	subj	_	_
+2	hält	halten	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+3	mich	ich	_	_	person=1|number=sg|gender=*|case=acc	2	obja	_	_
+4	für	für	_	_	case=acc	2	objp	_	_
+5	den	die	_	_	definite=def|gender=masc|case=acc|number=sg	7	det	_	_
+6	besten	gut	_	_	degree=sup|gender=masc|case=acc|number=sg	7	attr	_	_
+7	Daddy	Daddy	_	_	gender=masc|case=acc|number=sg	4	pn	_	_
+8	der	die	_	_	definite=def|gender=fem|case=gen|number=sg	9	det	_	_
+9	Welt	Welt	_	_	gender=fem|case=gen|number=sg	7	gmod	_	_
+10	?	?	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Wer	wer	_	_	gender=*|case=nom|number=sg	3	subj	_	_
+3	will	wollen	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+4	heute	heute	_	_	_	6	adv	_	_
+5	Schule	Schule	_	_	gender=fem|case=acc|number=sg	6	obja	_	_
+6	schwänzen	schwänzen	_	_	_	3	aux	_	_
+7	?	?	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Ja	ja	_	_	_	0	root	_	_
+3	.	.	_	_	_	0	root	_	_
+
+1	Schon	schon	_	_	_	2	adv	_	_
+2	besser	gut	_	_	degree=comp	0	root	_	_
+3	.	.	_	_	_	0	root	_	_
+
+1	Okay	okay	_	_	_	0	root	_	_
+2	.	.	_	_	_	0	root	_	_
+
+1	Die	die	_	_	definite=def|gender=*|case=nom|number=pl	2	det	_	_
+2	Swans	Swans	_	_	gender=*|case=nom|number=pl	3	subj	_	_
+3	machen	machen	_	_	person=3|number=pl|tense=pres|mood=*	0	root	_	_
+4	einen	eine	_	_	definite=ind|gender=masc|case=acc|number=sg	5	det	_	_
+5	Familienausflug	Familienausflug	_	_	gender=masc|case=acc|number=sg	3	obja	_	_
+6	.	.	_	_	_	0	root	_	_
+
+1	Die	die	_	_	gender=*|case=nom|number=pl	2	subj	_	_
+2	finden	finden	_	_	person=3|number=pl|tense=pres|mood=*	0	root	_	_
+3	Wege	Weg	_	_	gender=masc|case=acc|number=pl	2	obja	_	_
+4	,	,	_	_	_	0	root	_	_
+5	die	die	_	_	definite=def|gender=fem|case=acc|number=sg	6	det	_	_
+6	Seite	Seite	_	_	gender=fem|case=acc|number=sg	13	obja	_	_
+7	drei	drei	_	_	_	6	app	_	_
+8	jetzt	jetzt	_	_	_	13	adv	_	_
+9	sogar	sogar	_	_	_	13	adv	_	_
+10	noch	noch	_	_	_	13	adv	_	_
+11	gruseliger	gruselig	_	_	degree=comp	13	pred	_	_
+12	zu	zu	_	_	_	13	part	_	_
+13	machen	machen	_	_	_	2	obji	_	_
+14	.	.	_	_	_	0	root	_	_
+
+1	"	"	_	_	_	0	root	_	_
+2	Die	die	_	_	definite=def|gender=fem|case=nom|number=sg	4	det	_	_
+3	süße	süß	_	_	degree=pos|gender=fem|case=nom|number=sg	4	attr	_	_
+4	Karen	Karen	_	_	gender=fem|case=nom|number=sg	6	subj	_	_
+5	Clarke	Clarke	_	_	gender=fem|case=nom|number=sg	4	app	_	_
+6	war	sein	_	_	person=3|number=sg|tense=past|mood=ind	0	root	_	_
+7	schon	schon	_	_	_	6	adv	_	_
+8	in	in	_	_	case=dat	6	pp	_	_
+9	jungen	jung	_	_	degree=pos|gender=neut|case=dat|number=pl	10	attr	_	_
+10	Jahren	Jahr	_	_	gender=neut|case=dat|number=pl	8	pn	_	_
+11	eine	eine	_	_	definite=ind|gender=fem|case=nom|number=sg	12	det	_	_
+12	Oben-ohne-Schönheit	Oben-ohne-Schönheit	_	_	gender=fem|case=nom|number=sg	6	pred	_	_
+13	.	.	_	_	_	0	root	_	_
+
+1	Aber	aber	_	_	_	0	root	_	_
+2	jetzt	jetzt	_	_	_	3	adv	_	_
+3	ist	sein	_	_	person=3|number=sg|tense=pres|mood=ind	1	cj	_	_
+4	sie	sie	_	_	person=3|number=sg|gender=fem|case=nom	3	subj	_	_
+5	ein	eine	_	_	definite=ind|gender=neut|case=nom|number=sg	7	det	_	_
+6	großes	groß	_	_	degree=pos|gender=neut|case=nom|number=sg	7	attr	_	_
+7	Mädchen	Mädchen	_	_	gender=neut|case=nom|number=sg	3	pred	_	_
+8	und	und	_	_	_	7	kon	_	_
+9	eine	eine	_	_	definite=ind|gender=fem|case=nom|number=sg	11	det	_	_
+10	wohlgeformte	wohlgeformt	_	_	degree=pos|gender=fem|case=nom|number=sg	11	attr	_	_
+11	Lady	Lady	_	_	gender=fem|case=nom|number=sg	8	cj	_	_
+12	.	.	_	_	_	0	root	_	_
+13	"	"	_	_	_	0	root	_	_
+
+1	Was	was	_	_	gender=neut|case=nom|number=sg	2	subj	_	_
+2	ist	sein	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+3	mit	mit	_	_	case=dat	2	pp	_	_
+4	Cassie	Cassie	_	_	gender=*|case=dat|number=*	3	pn	_	_
+5	und	und	_	_	_	4	kon	_	_
+6	Ramse	Ramse	_	_	gender=*|case=dat|number=*	5	cj	_	_
+7	?	?	_	_	_	0	root	_	_
+
+1	Ich	ich	_	_	person=1|number=sg|gender=*|case=nom	2	subj	_	_
+2	dachte	denken	_	_	person=1|number=sg|tense=past|mood=ind	0	root	_	_
+3	,	,	_	_	_	0	root	_	_
+4	du	du	_	_	person=2|number=sg|gender=*|case=nom	5	subj	_	_
+5	würdest	werden	_	_	person=2|number=sg|tense=past|mood=subj	2	s	_	_
+6	sie	sie	_	_	person=3|number=*|gender=*|case=acc	8	obja	_	_
+7	zuletzt	zuletzt	_	_	_	8	adv	_	_
+8	rauslassen	rauslassen	_	_	_	9	aux	_	_
+9	wollen	wollen	_	_	_	5	aux	_	_
+10	,	,	_	_	_	0	root	_	_
+11	für	für	_	_	case=acc	8	pp	_	_
+12	den	die	_	_	definite=def|gender=masc|case=acc|number=sg	13	det	_	_
+13	Fall	Fall	_	_	gender=masc|case=acc|number=sg	11	pn	_	_
+14	,	,	_	_	_	0	root	_	_
+15	dass	dass	_	_	_	18	konj	_	_
+16	sie	sie	_	_	person=3|number=pl|gender=*|case=nom	18	subj	_	_
+17	etwas	etwas	_	_	gender=*|case=*|number=*	18	obja	_	_
+18	versuchen	versuchen	_	_	person=3|number=pl|tense=pres|mood=*	13	objc	_	_
+19	.	.	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Ja	ja	_	_	_	0	root	_	_
+3	.	.	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Das	die	_	_	gender=neut|case=*|number=sg	0	root	_	_
+3	habe	haben	_	_	person=1|number=sg|tense=pres|mood=*	0	root	_	_
+4	ich	ich	_	_	person=1|number=sg|gender=*|case=nom	3	subj	_	_
+5	mir	ich	_	_	person=1|number=sg|case=dat	6	objd	_	_
+6	gedacht	denken	_	_	_	3	aux	_	_
+7	.	.	_	_	_	0	root	_	_
+
+1	Was	was	_	_	gender=neut|case=nom|number=sg	4	pred	_	_
+2	zur	zu	_	_	case=dat	4	pp	_	_
+3	Hölle	Hölle	_	_	gender=fem|case=dat|number=sg	2	pn	_	_
+4	war	sein	_	_	person=3|number=sg|tense=past|mood=ind	0	root	_	_
+5	das	die	_	_	gender=neut|case=nom|number=sg	4	subj	_	_
+6	?	?	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Was	was	_	_	gender=neut|case=nom|number=sg	5	subj	_	_
+3	zur	zu	_	_	case=dat	5	pp	_	_
+4	Hölle	Hölle	_	_	gender=fem|case=dat|number=sg	3	pn	_	_
+5	ist	sein	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+6	passiert	passieren	_	_	_	5	aux	_	_
+7	?	?	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Der	die	_	_	definite=def|gender=masc|case=nom|number=sg	3	det	_	_
+3	Blitz	Blitz	_	_	gender=masc|case=nom|number=sg	4	subj	_	_
+4	traf	treffen	_	_	person=3|number=sg|tense=past|mood=ind	0	root	_	_
+5	einen	eine	_	_	gender=*|case=acc|number=*	4	obja	_	_
+6	der	die	_	_	definite=def|gender=masc|case=gen|number=pl	7	det	_	_
+7	Transformatoren	Transformator	_	_	gender=masc|case=gen|number=pl	5	gmod	_	_
+8	.	.	_	_	_	0	root	_	_
+
+1	Wir	wir	_	_	person=1|number=pl|gender=*|case=nom	2	subj	_	_
+2	dürfen	dürfen	_	_	person=1|number=pl|tense=pres|mood=*	0	root	_	_
+3	die	die	_	_	definite=def|gender=fem|case=acc|number=sg	4	det	_	_
+4	Evakuierung	Evakuierung	_	_	gender=fem|case=acc|number=sg	6	obja	_	_
+5	nicht	nicht	_	_	_	6	adv	_	_
+6	verzögern	verzögern	_	_	_	2	aux	_	_
+7	.	.	_	_	_	0	root	_	_
+
+1	Leite	leiten	_	_	number=sg	0	root	_	_
+2	alle	alle	_	_	gender=*|case=acc|number=*	1	obja	_	_
+3	über	über	_	_	case=acc	1	pp	_	_
+4	den	die	_	_	definite=def|gender=masc|case=acc|number=sg	6	det	_	_
+5	westlichen	westlich	_	_	degree=pos|gender=masc|case=acc|number=sg	6	attr	_	_
+6	Gang	Gang	_	_	gender=masc|case=acc|number=sg	3	pn	_	_
+7	zur	zu	_	_	case=dat	3	kon	_	_
+8	Fahrzeughalle	Fahrzeughalle	_	_	gender=fem|case=dat|number=sg	7	pn	_	_
+9	.	.	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Wie	Wie	_	_	_	4	adv	_	_
+3	viele	viele	_	_	gender=*|case=nom|number=pl	4	subj	_	_
+4	sind	sein	_	_	person=3|number=pl|tense=pres|mood=ind	0	root	_	_
+5	verwundet	verwundet	_	_	degree=pos	4	pred	_	_
+6	?	?	_	_	_	0	root	_	_
+
+1	Obwohl	obwohl	_	_	_	0	root	_	_
+2	,	,	_	_	_	0	root	_	_
+3	er	er	_	_	person=3|number=sg|gender=masc|case=nom	4	subj	_	_
+4	hat	haben	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+5	schöne	schön	_	_	degree=pos|gender=*|case=acc|number=*	6	attr	_	_
+6	Reifen	Reif	_	_	gender=*|case=acc|number=*	4	obja	_	_
+7	hat	haben	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+8	...	...	_	_	_	0	root	_	_
+9	für	für	_	_	case=acc	0	root	_	_
+10	einen	eine	_	_	definite=ind|gender=masc|case=acc|number=sg	11	det	_	_
+11	Verrückten	Verrückte	_	_	gender=masc|case=acc|number=sg	9	pn	_	_
+12	.	.	_	_	_	0	root	_	_
+
+1	Halt	Halt	_	_	number=*	0	root	_	_
+2	den	die	_	_	definite=def|gender=masc|case=acc|number=sg	3	det	_	_
+3	Mund	Mund	_	_	gender=masc|case=acc|number=sg	1	obja	_	_
+4	!	!	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Zu	zu	_	_	case=dat	0	root	_	_
+3	Hause	Haus	_	_	gender=neut|case=dat|number=sg	2	pn	_	_
+4	!	!	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Dieser	diese	_	_	gender=masc|case=nom|number=sg	3	det	_	_
+3	Ort	Ort	_	_	gender=masc|case=nom|number=sg	4	subj	_	_
+4	ist	sein	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+5	verdammt	verdammt	_	_	_	6	adv	_	_
+6	geil	geil	_	_	degree=pos	4	pred	_	_
+7	.	.	_	_	_	0	root	_	_
+
+1	Wie	wie	_	_	_	0	root	_	_
+2	im	in	_	_	case=dat	1	cj	_	_
+3	Schlaraffenland	Schlaraffenland	_	_	gender=neut|case=dat|number=sg	2	pn	_	_
+4	.	.	_	_	_	0	root	_	_
+
+1	Hier	hier	_	_	_	2	adv	_	_
+2	kommen	kommen	_	_	person=3|number=pl|tense=pres|mood=*	0	root	_	_
+3	die	die	_	_	definite=def|gender=neut|case=nom|number=pl	5	det	_	_
+4	reichen	reich	_	_	degree=pos|gender=neut|case=nom|number=pl	5	attr	_	_
+5	Kinder	Kind	_	_	gender=neut|case=nom|number=pl	2	subj	_	_
+6	zum	zu	_	_	case=dat	2	pp	_	_
+7	sterben	sterben	_	_	gender=*|case=dat|number=*	6	pn	_	_
+8	hin	hin	_	_	_	2	avz	_	_
+9	.	.	_	_	_	0	root	_	_
+
+1	Willkommen	willkommen	_	_	degree=pos	0	root	_	_
+2	in	in	_	_	case=dat	1	pp	_	_
+3	meiner	meine	_	_	gender=fem|case=dat|number=sg	4	det	_	_
+4	Welt	Welt	_	_	gender=fem|case=dat|number=sg	2	pn	_	_
+5	.	.	_	_	_	0	root	_	_
+
+1	Mir	ich	_	_	person=1|number=sg|gender=*|case=dat	2	objd	_	_
+2	ist	sein	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+3	ein	eine	_	_	definite=ind|gender=*|case=*|number=sg	4	part	_	_
+4	bisschen	bisschen	_	_	gender=*|case=nom|number=sg	2	subj	_	_
+5	schlecht	schlecht	_	_	degree=pos	2	pred	_	_
+6	!	!	_	_	_	0	root	_	_
+
+1	Kevin	Kevin	_	_	gender=masc|case=*|number=sg	4	vok	_	_
+2	,	,	_	_	_	0	root	_	_
+3	ich	ich	_	_	person=1|number=sg|gender=*|case=nom	4	subj	_	_
+4	glaube	glauben	_	_	person=1|number=sg|tense=pres|mood=*	0	root	_	_
+5	,	,	_	_	_	0	root	_	_
+6	du	du	_	_	person=2|number=sg|gender=*|case=nom	7	subj	_	_
+7	solltest	sollen	_	_	person=2|number=sg|tense=past|mood=*	4	s	_	_
+8	Julie	Julie	_	_	gender=fem|case=acc|number=sg	11	obja	_	_
+9	ins	in	_	_	case=acc	11	objp	_	_
+10	Badezimmer	Badezimmer	_	_	gender=neut|case=acc|number=*	9	pn	_	_
+11	bringen	bringen	_	_	_	7	aux	_	_
+12	.	.	_	_	_	0	root	_	_
+
+1	Komm	kommen	_	_	number=sg	0	root	_	_
+2	schon	schon	_	_	_	1	adv	_	_
+3	.	.	_	_	_	0	root	_	_
+
+1	Nein	nein	_	_	_	0	root	_	_
+2	,	,	_	_	_	0	root	_	_
+3	die	die	_	_	definite=def|gender=masc|case=nom|number=pl	4	det	_	_
+4	Ärzte	Arzt	_	_	gender=masc|case=nom|number=pl	5	subj	_	_
+5	sind	sein	_	_	person=3|number=pl|tense=pres|mood=ind	0	root	_	_
+6	sehr	sehr	_	_	_	7	adv	_	_
+7	zufrieden	zufrieden	_	_	degree=pos	5	pred	_	_
+8	,	,	_	_	_	0	root	_	_
+9	er	er	_	_	person=3|number=sg|gender=masc|case=nom	10	subj	_	_
+10	ist	sein	_	_	person=3|number=sg|tense=pres|mood=ind	5	kon	_	_
+11	der	die	_	_	definite=def|gender=masc|case=nom|number=sg	12	det	_	_
+12	Tapferste	Tapferste	_	_	gender=masc|case=nom|number=sg	10	pred	_	_
+13	.	.	_	_	_	0	root	_	_
+
+1	Hast	haben	_	_	person=2|number=sg|tense=pres|mood=ind	0	root	_	_
+2	du	du	_	_	person=2|number=sg|gender=*|case=nom	1	subj	_	_
+3	die	die	_	_	definite=def|gender=masc|case=acc|number=pl	4	det	_	_
+4	Bodys	Body	_	_	gender=masc|case=acc|number=pl	1	obja	_	_
+5	?	?	_	_	_	0	root	_	_
+
+1	Frag	fragen	_	_	number=sg	0	root	_	_
+2	deinen	deine	_	_	gender=masc|case=acc|number=sg	3	det	_	_
+3	Vater	Vater	_	_	gender=masc|case=acc|number=sg	1	obja	_	_
+4	!	!	_	_	_	0	root	_	_
+
+1	Sag	sagen	_	_	number=sg	0	root	_	_
+2	's	's	_	_	person=*|number=*|gender=*|case=*	1	obja	_	_
+3	ihr	ihr	_	_	person=3|number=sg|gender=fem|case=dat	1	objd	_	_
+4	!	!	_	_	_	0	root	_	_
+
+1	Ich	ich	_	_	person=1|number=sg|gender=*|case=nom	2	subj	_	_
+2	hatte	haben	_	_	person=1|number=sg|tense=past|mood=ind	0	root	_	_
+3	die	die	_	_	definite=def|gender=fem|case=acc|number=sg	4	det	_	_
+4	Tüte	Tüte	_	_	gender=fem|case=acc|number=sg	6	obja	_	_
+5	damit	damit	_	_	_	6	pp	_	_
+6	vorbereitet	vorbereiten	_	_	_	2	aux	_	_
+7	und	und	_	_	_	2	kon	_	_
+8	er	er	_	_	person=3|number=sg|gender=masc|case=nom	9	subj	_	_
+9	lässt	lassen	_	_	person=3|number=sg|tense=pres|mood=ind	7	cj	_	_
+10	sie	sie	_	_	person=3|number=*|gender=*|case=acc	9	obja	_	_
+11	stehen	stehen	_	_	_	9	obji	_	_
+12	!	!	_	_	_	0	root	_	_
+
+1	Schade	Schade	_	_	_	0	root	_	_
+2	,	,	_	_	_	0	root	_	_
+3	ich	ich	_	_	person=1|number=sg|gender=*|case=nom	4	subj	_	_
+4	hab	hab	_	_	person=1|number=sg|tense=*|mood=*	0	root	_	_
+5	nicht	nicht	_	_	_	4	adv	_	_
+6	mehr	mehr	_	_	_	5	adv	_	_
+7	viele	viele	_	_	gender=*|case=acc|number=*	4	obja	_	_
+8	.	.	_	_	_	0	root	_	_
+
+1	Siehst	sehen	_	_	person=2|number=sg|tense=pres|mood=ind	0	root	_	_
+2	du	du	_	_	person=2|number=sg|gender=*|case=nom	1	subj	_	_
+3	,	,	_	_	_	0	root	_	_
+4	sie	sie	_	_	person=3|number=sg|gender=fem|case=nom	5	subj	_	_
+5	ist	sein	_	_	person=3|number=sg|tense=pres|mood=ind	1	kon	_	_
+6	sehr	sehr	_	_	_	7	adv	_	_
+7	enttäuscht	enttäuscht	_	_	degree=pos	5	pred	_	_
+8	!	!	_	_	_	0	root	_	_
+
+1	Gut	Gut	_	_	_	0	root	_	_
+2	,	,	_	_	_	0	root	_	_
+3	ich	ich	_	_	person=1|number=sg|gender=*|case=nom	4	subj	_	_
+4	hab	hab	_	_	person=1|number=sg|tense=*|mood=*	0	root	_	_
+5	sie	sie	_	_	person=3|number=*|gender=*|case=acc	6	obja	_	_
+6	vergessen	veressen	_	_	_	4	aux	_	_
+7	!	!	_	_	_	0	root	_	_
+
+1	Mach	machen	_	_	number=sg	0	root	_	_
+2	nicht	nicht	_	_	_	5	adv	_	_
+3	so	so	_	_	_	5	adv	_	_
+4	ein	eine	_	_	definite=ind|gender=neut|case=acc|number=sg	5	det	_	_
+5	Theater	Theater	_	_	gender=neut|case=acc|number=sg	1	obja	_	_
+6	!	!	_	_	_	0	root	_	_
+
+1	Typisch	typisch	_	_	degree=pos	0	root	_	_
+2	!	!	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Mit	mit	_	_	case=dat	0	root	_	_
+3	dem	die	_	_	definite=def|gender=masc|case=dat|number=sg	4	det	_	_
+4	Mund	Mund	_	_	gender=masc|case=dat|number=sg	2	pn	_	_
+5	.	.	_	_	_	0	root	_	_
+
+1	Mein	meine	_	_	gender=*|case=nom|number=sg	2	det	_	_
+2	Autoreifen	Autoreifen	_	_	gender=*|case=nom|number=sg	3	subj	_	_
+3	ist	sein	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+4	geplatzt	platzen	_	_	_	3	aux	_	_
+5	.	.	_	_	_	0	root	_	_
+
+1	Meine	meine	_	_	gender=fem|case=nom|number=sg	2	det	_	_
+2	Allianz	Allianz	_	_	gender=fem|case=nom|number=sg	3	subj	_	_
+3	ist	sein	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+4	vorbei	vorbei	_	_	_	3	pred	_	_
+5	.	.	_	_	_	0	root	_	_
+
+1	Viel	viel	_	_	gender=neut|case=*|number=sg	2	det	_	_
+2	Glück	Glück	_	_	gender=neut|case=*|number=sg	0	root	_	_
+3	.	.	_	_	_	0	root	_	_
+
+1	Was	was	_	_	gender=neut|case=*|number=sg	0	root	_	_
+2	?	?	_	_	_	0	root	_	_
+
+1	Dad	Dad	_	_	gender=*	0	root	_	_
+2	!	!	_	_	_	0	root	_	_
+
+1	Das	die	_	_	definite=def|gender=neut|case=nom|number=sg	2	det	_	_
+2	Gute	Gut	_	_	gender=neut|case=nom|number=sg	4	subj	_	_
+3	daran	daran	_	_	_	2	pp	_	_
+4	ist	sein	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+5	,	,	_	_	_	0	root	_	_
+6	dass	dass	_	_	_	10	konj	_	_
+7	ich	ich	_	_	person=1|number=sg|gender=*|case=nom	10	subj	_	_
+8	meinen	meine	_	_	gender=masc|case=acc|number=sg	9	det	_	_
+9	Fisch	Fisch	_	_	gender=masc|case=acc|number=sg	10	obja	_	_
+10	wiedersehe	wiedersehen	_	_	person=1|number=sg|tense=pres|mood=*	4	objc	_	_
+11	.	.	_	_	_	0	root	_	_
+
+1	Hey	hey	_	_	_	0	root	_	_
+2	,	,	_	_	_	0	root	_	_
+3	was	was	_	_	gender=neut|case=nom|number=sg	4	subj	_	_
+4	ist	sein	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+5	los	los	_	_	_	4	avz	_	_
+6	?	?	_	_	_	0	root	_	_
+
+1	Es	es	_	_	person=3|number=sg|gender=neut|case=nom	2	subj	_	_
+2	spült	spülen	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+3	nicht	nicht	_	_	_	2	adv	_	_
+4	runter	runter	_	_	_	2	avz	_	_
+5	.	.	_	_	_	0	root	_	_
+
+1	Wir	wir	_	_	person=1|number=pl|gender=*|case=nom	2	subj	_	_
+2	brauchen	brauchen	_	_	person=1|number=pl|tense=pres|mood=*	0	root	_	_
+3	ein	eine	_	_	definite=ind|gender=neut|case=acc|number=sg	5	det	_	_
+4	größeres	groß	_	_	degree=comp|gender=neut|case=acc|number=sg	5	attr	_	_
+5	Klo	Klo	_	_	gender=neut|case=acc|number=sg	2	obja	_	_
+6	.	.	_	_	_	0	root	_	_
+
+1	Führe	Führe	_	_	number=*	0	root	_	_
+2	mich	ich	_	_	person=1|number=sg|gender=*|case=acc	1	obja	_	_
+3	zu	zu	_	_	case=dat	1	pp	_	_
+4	dem	die	_	_	definite=def|gender=masc|case=dat|number=sg	5	det	_	_
+5	Mann	Mann	_	_	gender=masc|case=dat|number=sg	3	pn	_	_
+6	,	,	_	_	_	0	root	_	_
+7	der	die	_	_	gender=masc|case=nom|number=sg	9	subj	_	_
+8	dich	du	_	_	person=2|number=sg|gender=*|case=acc	9	obja	_	_
+9	schickte	schicken	_	_	person=3|number=sg|tense=past|mood=*	5	rel	_	_
+10	.	.	_	_	_	0	root	_	_
+
+1	Er	er	_	_	person=3|number=sg|gender=masc|case=nom	2	subj	_	_
+2	erwartet	erwarten	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+3	dich	du	_	_	person=2|number=sg|gender=*|case=acc	2	obja	_	_
+4	.	.	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Wo	Wo	_	_	_	0	root	_	_
+3	?	?	_	_	_	0	root	_	_
+
+1	Das	die	_	_	gender=neut|case=acc|number=sg	4	obja	_	_
+2	wirst	werden	_	_	person=2|number=sg|tense=pres|mood=ind	0	root	_	_
+3	du	du	_	_	person=2|number=sg|gender=*|case=nom	2	subj	_	_
+4	sehen	sehen	_	_	_	2	aux	_	_
+5	,	,	_	_	_	0	root	_	_
+6	wenn	wenn	_	_	_	10	konj	_	_
+7	wir	wir	_	_	person=1|number=pl|gender=*|case=nom	10	subj	_	_
+8	nicht	nicht	_	_	_	9	adv	_	_
+9	verhaftet	verhaften	_	_	_	10	aux	_	_
+10	werden	werden	_	_	person=1|number=pl|tense=pres|mood=*	2	neb	_	_
+11	.	.	_	_	_	0	root	_	_
+
+1	Also	also	_	_	_	2	adv	_	_
+2	los	los	_	_	_	0	root	_	_
+3	.	.	_	_	_	0	root	_	_
+
+1	Du	du	_	_	person=2|number=sg|gender=*|case=nom	2	subj	_	_
+2	gehst	gehen	_	_	person=2|number=sg|tense=pres|mood=ind	0	root	_	_
+3	vor	vor	_	_	case=dat	2	pp	_	_
+4	mir	ich	_	_	person=1|number=sg|gender=*|case=dat	3	pn	_	_
+5	.	.	_	_	_	0	root	_	_
+
+1	Ich	ich	_	_	person=1|number=sg|gender=*|case=nom	2	subj	_	_
+2	komme	kommen	_	_	person=1|number=sg|tense=pres|mood=*	0	root	_	_
+3	nach	nach	_	_	_	2	avz	_	_
+4	.	.	_	_	_	0	root	_	_
+
+1	Das	die	_	_	gender=neut|case=nom|number=sg	2	subj	_	_
+2	war	sein	_	_	person=3|number=sg|tense=past|mood=ind	0	root	_	_
+3	ein	eine	_	_	definite=ind|gender=masc|case=nom|number=sg	4	det	_	_
+4	Test	Test	_	_	gender=masc|case=nom|number=sg	2	pred	_	_
+5	.	.	_	_	_	0	root	_	_
+
+1	Du	du	_	_	person=2|number=sg|gender=*|case=nom	2	subj	_	_
+2	konntest	können	_	_	person=2|number=sg|tense=past|mood=ind	0	root	_	_
+3	ein	eine	_	_	definite=ind|gender=masc|case=nom|number=sg	4	det	_	_
+4	Spion	Spion	_	_	gender=masc|case=nom|number=sg	5	pred	_	_
+5	sein	sein	_	_	_	2	aux	_	_
+6	.	.	_	_	_	0	root	_	_
+
+1	Die	die	_	_	definite=def|gender=fem|case=nom|number=sg	2	det	_	_
+2	Waffe	Waffe	_	_	gender=fem|case=nom|number=sg	3	subj	_	_
+3	war	sein	_	_	person=3|number=sg|tense=past|mood=ind	0	root	_	_
+4	ungeladen	ungeladen	_	_	degree=pos	3	pred	_	_
+5	.	.	_	_	_	0	root	_	_
+
+1	-	-	_	_	_	0	root	_	_
+2	Kommen	Kommen	_	_	number=*	0	root	_	_
+3	Sie	sie	_	_	person=3|number=*|gender=*|case=nom	2	pred	_	_
+4	.	.	_	_	_	0	root	_	_
+
+1	Seien	Seien	_	_	number=*	0	root	_	_
+2	Sie	sie	_	_	person=3|number=*|gender=*|case=acc	1	obja	_	_
+3	außergewöhnlich	außergewöhnlich	_	_	degree=pos	1	adv	_	_
+4	.	.	_	_	_	0	root	_	_
+
+1	Oh	oh	_	_	_	0	root	_	_
+2	,	,	_	_	_	0	root	_	_
+3	Sie	sie	_	_	person=3|number=*|gender=*|case=*	0	root	_	_
+4	...	...	_	_	_	0	root	_	_
+
+1	Okay	okay	_	_	_	0	root	_	_
+2	.	.	_	_	_	0	root	_	_
+
+1	Um	Um	_	_	_	5	konj	_	_
+2	die	die	_	_	definite=def|gender=neut|case=acc|number=pl	3	det	_	_
+3	Dinge	Ding	_	_	gender=neut|case=acc|number=pl	5	obja	_	_
+4	zu	zu	_	_	_	5	part	_	_
+5	ordnen	ordnen	_	_	_	0	root	_	_
+6	:	\:	_	_	_	0	root	_	_
+
+1	Das	die	_	_	definite=def|gender=neut|case=nom|number=sg	3	det	_	_
+2	erste	erst	_	_	degree=*|gender=neut|case=nom|number=sg	3	attr	_	_
+3	Treffen	Treffen	_	_	gender=neut|case=nom|number=sg	12	subj	_	_
+4	von	von	_	_	case=*	3	pp	_	_
+5	Vertretern	Vertreter	_	_	gender=masc|case=*|number=*	4	pn	_	_
+6	der	die	_	_	definite=def|gender=fem|case=gen|number=*	8	det	_	_
+7	menschlichen	menschlich	_	_	degree=pos|gender=fem|case=gen|number=*	8	attr	_	_
+8	Spezies	Spezies	_	_	gender=fem|case=gen|number=*	5	gmod	_	_
+9	und	und	_	_	_	8	kon	_	_
+10	Homo	Homo	_	_	_	9	cj	_	_
+11	Reptilia	Reptilia	_	_	_	10	app	_	_
+12	wird	werden	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+13	jetzt	jetzt	_	_	_	14	adv	_	_
+14	abgehalten	abhalten	_	_	_	12	aux	_	_
+15	.	.	_	_	_	0	root	_	_
+
+1	Das	die	_	_	gender=neut|case=acc|number=sg	6	obja	_	_
+2	habe	haben	_	_	person=1|number=sg|tense=pres|mood=*	0	root	_	_
+3	ich	ich	_	_	person=1|number=sg|gender=*|case=nom	2	subj	_	_
+4	noch	noch	_	_	_	6	adv	_	_
+5	nie	nie	_	_	_	6	adv	_	_
+6	gesagt	sagen	_	_	_	2	aux	_	_
+7	,	,	_	_	_	0	root	_	_
+8	dass	dass	_	_	gender=*|case=nom|number=sg	9	subj	_	_
+9	ist	sein	_	_	person=3|number=sg|tense=pres|mood=ind	2	kon	_	_
+10	toll	toll	_	_	degree=pos	9	pred	_	_
+11	!	!	_	_	_	0	root	_	_
+
+1	Machen	Machen	_	_	number=*	0	root	_	_
+2	wir	wir	_	_	person=1|number=pl|gender=*|case=nom	1	pred	_	_
+3	weiter	weiter	_	_	_	1	avz	_	_
+4	!	!	_	_	_	0	root	_	_
+
+1	Nun	nun	_	_	_	0	root	_	_
+2	,	,	_	_	_	0	root	_	_
+3	Mo	Mo	_	_	gender=*	0	root	_	_
+4	,	,	_	_	_	0	root	_	_
+5	gehen	gehen	_	_	number=*	0	root	_	_
+6	wir	wir	_	_	person=1|number=pl|gender=*|case=nom	0	root	_	_
+7	Ihren	ihre	_	_	gender=masc|case=acc|number=sg	8	det	_	_
+8	Sohn	Sohn	_	_	gender=masc|case=acc|number=sg	9	obja	_	_
+9	holen	holen	_	_	_	0	root	_	_
+10	.	.	_	_	_	0	root	_	_
+
+1	Ach	ach	_	_	_	0	root	_	_
+2	,	,	_	_	_	0	root	_	_
+3	wissen	wissen	_	_	person=3|number=pl|tense=pres|mood=*	0	root	_	_
+4	Sie	sie	_	_	person=3|number=pl|gender=*|case=nom	3	subj	_	_
+5	,	,	_	_	_	0	root	_	_
+6	Menschen	Mensch	_	_	gender=masc|case=nom|number=pl	10	subj	_	_
+7	und	und	_	_	_	6	kon	_	_
+8	ihre	ihre	_	_	gender=masc|case=nom|number=*	9	det	_	_
+9	Vorgänger	Vorgänger	_	_	gender=masc|case=nom|number=*	7	cj	_	_
+10	unterhalten	unterhalten	_	_	person=3|number=pl|tense=pres|mood=*	3	kon	_	_
+11	sich	sie	_	_	person=3|number=*|case=acc	10	obja	_	_
+12	ganz	ganz	_	_	_	13	adv	_	_
+13	gemütlich	gemütlich	_	_	degree=pos	10	adv	_	_
+14	.	.	_	_	_	0	root	_	_
+
+1	Niemals	niemals	_	_	_	0	root	_	_
+2	.	.	_	_	_	0	root	_	_
+
+1	Wenn	wenn	_	_	_	3	konj	_	_
+2	er	er	_	_	person=3|number=sg|gender=masc|case=nom	3	subj	_	_
+3	lügt	lügen	_	_	person=3|number=sg|tense=pres|mood=ind	5	neb	_	_
+4	,	,	_	_	_	0	root	_	_
+5	haben	haben	_	_	person=3|number=pl|tense=pres|mood=*	0	root	_	_
+6	Sie	sie	_	_	person=3|number=pl|gender=*|case=nom	5	subj	_	_
+7	nichts	nichts	_	_	gender=*|case=*|number=*	9	obja	_	_
+8	zu	zu	_	_	_	9	part	_	_
+9	befürchten	befürchten	_	_	_	5	aux	_	_
+10	.	.	_	_	_	0	root	_	_
+
+1	Kahless	Kahless	_	_	gender=*|case=nom|number=sg	2	subj	_	_
+2	ist	sein	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+3	seit	seit	_	_	case=dat	2	pp	_	_
+4	1.000	1.000	_	_	_	5	attr	_	_
+5	Jahren	Jahr	_	_	gender=neut|case=dat|number=pl	3	pn	_	_
+6	tot	tot	_	_	degree=pos	2	pred	_	_
+7	.	.	_	_	_	0	root	_	_
+
+1	Aber	aber	_	_	_	0	root	_	_
+2	sein	seine	_	_	gender=masc|case=nom|number=sg	3	det	_	_
+3	Geist	Geist	_	_	gender=masc|case=nom|number=sg	4	subj	_	_
+4	ist	sein	_	_	person=3|number=sg|tense=pres|mood=ind	1	cj	_	_
+5	noch	noch	_	_	_	4	adv	_	_
+6	lebendig	lebendig	_	_	degree=pos	4	pred	_	_
+7	.	.	_	_	_	0	root	_	_
+
+1	Haben	haben	_	_	person=3|number=pl|tense=pres|mood=*	0	root	_	_
+2	Sie	sie	_	_	person=3|number=pl|gender=*|case=nom	1	subj	_	_
+3	je	je	_	_	_	5	adv	_	_
+4	einen	eine	_	_	definite=ind|gender=masc|case=acc|number=sg	5	det	_	_
+5	Geist	Geist	_	_	gender=masc|case=acc|number=sg	6	obja	_	_
+6	bekämpft	bekämpfen	_	_	_	1	aux	_	_
+7	?	?	_	_	_	0	root	_	_
+
+1	Keine	keine	_	_	gender=fem|case=nom|number=sg	2	det	_	_
+2	Waffe	Waffe	_	_	gender=fem|case=nom|number=sg	3	subj	_	_
+3	kann	können	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+4	ihn	er	_	_	person=3|number=sg|gender=masc|case=acc	5	obja	_	_
+5	vernichten	vernichten	_	_	_	3	aux	_	_
+6	.	.	_	_	_	0	root	_	_
+
+1	Der	die	_	_	definite=def|gender=masc|case=nom|number=sg	2	det	_	_
+2	Geist	Geist	_	_	gender=masc|case=nom|number=sg	5	subj	_	_
+3	von	von	_	_	case=*	2	pp	_	_
+4	Kahless	Kahless	_	_	gender=*|case=*|number=*	3	pn	_	_
+5	muss	müssen	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+6	aber	aber	_	_	_	8	adv	_	_
+7	sofort	sofort	_	_	_	8	adv	_	_
+8	ausgemerzt	ausmerzen	_	_	_	9	aux	_	_
+9	werden	werden	_	_	_	5	aux	_	_
+10	,	,	_	_	_	0	root	_	_
+11	oder	oder	_	_	_	5	kon	_	_
+12	er	er	_	_	person=3|number=sg|gender=masc|case=nom	13	subj	_	_
+13	wird	werden	_	_	person=3|number=sg|tense=pres|mood=ind	11	cj	_	_
+14	sich	sie	_	_	person=3|number=*|case=acc	20	obja	_	_
+15	wie	wie	_	_	_	20	kom	_	_
+16	eine	eine	_	_	definite=ind|gender=fem|case=*|number=sg	17	det	_	_
+17	Welle	Welle	_	_	gender=fem|case=*|number=sg	15	cj	_	_
+18	im	in	_	_	case=dat	20	pp	_	_
+19	Reich	Reich	_	_	gender=neut|case=dat|number=*	18	pn	_	_
+20	verbreiten	verbreiten	_	_	_	13	aux	_	_
+21	,	,	_	_	_	0	root	_	_
+22	und	und	_	_	_	13	kon	_	_
+23	bleiben	bleiben	_	_	_	24	aux	_	_
+24	wird	werden	_	_	person=3|number=sg|tense=pres|mood=ind	22	cj	_	_
+25	nichts	nichts	_	_	gender=*|case=nom|number=sg	24	subj	_	_
+26	als	als	_	_	_	23	kom	_	_
+27	eine	eine	_	_	definite=ind|gender=fem|case=*|number=sg	29	det	_	_
+28	öde	öd	_	_	degree=pos|gender=fem|case=*|number=sg	29	attr	_	_
+29	Wüste	Wüste	_	_	gender=fem|case=*|number=sg	26	cj	_	_
+30	.	.	_	_	_	0	root	_	_
+
+1	Gowron	Gowron	_	_	gender=*|case=nom|number=sg	2	subj	_	_
+2	ist	sein	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+3	also	also	_	_	_	6	adv	_	_
+4	an	an	_	_	case=*	6	objp	_	_
+5	Bord	Bord	_	_	gender=*|case=*|number=sg	4	pn	_	_
+6	gekommen	kommen	_	_	_	2	aux	_	_
+7	,	,	_	_	_	0	root	_	_
+8	um	um	_	_	_	12	konj	_	_
+9	Ihren	ihre	_	_	gender=masc|case=acc|number=sg	10	det	_	_
+10	Anspruch	Anspruch	_	_	gender=masc|case=acc|number=sg	12	obja	_	_
+11	zu	zu	_	_	_	12	part	_	_
+12	prüfen	prüfen	_	_	_	2	neb	_	_
+13	.	.	_	_	_	0	root	_	_
+
+1	Gowron	Gowron	_	_	gender=*|case=nom|number=sg	2	subj	_	_
+2	weiß	wissen	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+3	,	,	_	_	_	0	root	_	_
+4	seine	seine	_	_	gender=masc|case=nom|number=pl	5	det	_	_
+5	Tage	Tag	_	_	gender=masc|case=nom|number=pl	6	subj	_	_
+6	sind	sein	_	_	person=3|number=pl|tense=pres|mood=ind	2	kon	_	_
+7	gezählt	zählen	_	_	_	6	aux	_	_
+8	.	.	_	_	_	0	root	_	_
+
+1	Also	also	_	_	_	2	adv	_	_
+2	kommt	kommen	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+3	er	er	_	_	person=3|number=sg|gender=masc|case=nom	2	subj	_	_
+4	mit	mit	_	_	case=dat	2	pp	_	_
+5	einem	eine	_	_	definite=ind|gender=masc|case=dat|number=sg	7	det	_	_
+6	läppischen	läppisch	_	_	degree=pos|gender=masc|case=dat|number=sg	7	attr	_	_
+7	Test	Test	_	_	gender=masc|case=dat|number=sg	4	pn	_	_
+8	daher	daher	_	_	_	2	pp	_	_
+9	.	.	_	_	_	0	root	_	_
+
+1	Das	die	_	_	gender=neut|case=nom|number=sg	2	subj	_	_
+2	hat	haben	_	_	person=3|number=sg|tense=pres|mood=ind	0	root	_	_
+3	was	was	_	_	gender=*|case=*|number=*	2	obja	_	_
+4	.	.	_	_	_	0	root	_	_
+
+1	Aber	aber	_	_	_	2	adv	_	_
+2	denk	denken	_	_	number=sg	0	root	_	_
+3	dran	dran	_	_	_	4	pp	_	_
+4	du	du	_	_	person=2|number=sg|gender=*|case=nom	5	subj	_	_
+5	bist	sein	_	_	person=2|number=sg|tense=pres|mood=ind	0	root	_	_
+6	nicht	nicht	_	_	_	5	adv	_	_
+7	wirklich	wirklich	_	_	_	5	adv	_	_
+8	sauer	sauer	_	_	degree=pos	5	pred	_	_
+9	wegen	wegen	_	_	case=*	5	pp	_	_
+10	der	die	_	_	definite=def|gender=*|case=*|number=*	11	det	_	_
+11	schnurrbarthaare	schnurrbarthaare	_	_	gender=*|case=*|number=*	9	pn	_	_
+12	.	.	_	_	_	0	root	_	_
+
+1	Du	du	_	_	person=2|number=sg|gender=*|case=nom	2	subj	_	_
+2	bist	sein	_	_	person=2|number=sg|tense=pres|mood=ind	0	root	_	_
+3	sauer	sauer	_	_	degree=pos	2	pred	_	_
+4	weil	weil	_	_	_	8	konj	_	_
+5	ich	ich	_	_	person=1|number=sg|gender=*|case=nom	8	subj	_	_
+6	dir	du	_	_	person=2|number=sg|gender=*|case=dat	8	objd	_	_
+7	nicht	nicht	_	_	_	8	adv	_	_
+8	zuhöre	zuhören	_	_	person=1|number=sg|tense=pres|mood=*	2	neb	_	_
+9	,	,	_	_	_	0	root	_	_
+10	deine	deine	_	_	gender=masc|case=acc|number=pl	11	det	_	_
+11	Freunde	Freund	_	_	gender=masc|case=acc|number=pl	13	obja	_	_
+12	nicht	nicht	_	_	_	13	adv	_	_
+13	mag	mögen	_	_	person=*|number=sg|tense=pres|mood=ind	8	kon	_	_
+14	und	und	_	_	_	13	kon	_	_
+15	über	über	_	_	case=acc	18	pp	_	_
+16	deine	deine	_	_	gender=fem|case=acc|number=sg	17	det	_	_
+17	Mutter	Mutter	_	_	gender=fem|case=acc|number=sg	15	pn	_	_
+18	läster	läster	_	_	person=*	14	cj	_	_
+19	.	.	_	_	_	0	root	_	_
+

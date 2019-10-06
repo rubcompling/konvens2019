@@ -1,0 +1,802 @@
+1	Du	_	PPER	PPER	PPER.2.Sg.*.Nom	_	_	_	_
+2	willst	_	VMFIN	VMFIN	VMFIN.2.Sg.Pres.Ind	_	_	_	_
+3	alles	_	PIS	PIS	PIS.Neut.Acc.Sg	_	_	_	_
+4	wissen	_	VVINF	VVINF	VVINF	_	_	_	_
+5	.	_	$.	$.	$.	_	_	_	_
+
+1	Es	_	PPER	PPER	PPER.3.Sg.Neut.Nom	_	_	_	_
+2	ist	_	VAFIN	VAFIN	VAFIN.3.Sg.Pres.Ind	_	_	_	_
+3	mein	_	PPOSAT	PPOSAT	PPOSAT.Masc.Nom.Sg	_	_	_	_
+4	Töff	_	NN	NN	NN.Masc.Nom.Sg	_	_	_	_
+5	,	_	$,	$,	$,	_	_	_	_
+6	oder	_	KON	KON	KON	_	_	_	_
+7	!	_	$.	$.	$.	_	_	_	_
+
+1	Gut	_	ADJD	ADJD	ADJD.Pos	_	_	_	_
+2	,	_	$,	$,	$,	_	_	_	_
+3	also	_	ADV	ADV	ADV	_	_	_	_
+4	das	_	ART	ART	ART.Neut.Nom.Sg	_	_	_	_
+5	Benzin	_	NN	NN	NN.Neut.Nom.Sg	_	_	_	_
+6	geht	_	VVFIN	VVFIN	VVFIN.3.Sg.Pres.Ind	_	_	_	_
+7	hier	_	ADV	ADV	ADV	_	_	_	_
+8	durch	_	PTKVZ	PTKVZ	PTKVZ	_	_	_	_
+9	,	_	$,	$,	$,	_	_	_	_
+10	da	_	ADV	ADV	ADV	_	_	_	_
+11	hinein	_	PTKVZ	PTKVZ	PTKVZ	_	_	_	_
+12	.	_	$.	$.	$.	_	_	_	_
+
+1	Da	_	ADV	ADV	ADV	_	_	_	_
+2	drin	_	PAV	PAV	PAV	_	_	_	_
+3	ist	_	VAFIN	VAFIN	VAFIN.3.Sg.Pres.Ind	_	_	_	_
+4	es	_	PPER	PPER	PPER.3.Sg.Neut.Nom	_	_	_	_
+5	sehr	_	ADV	ADV	ADV	_	_	_	_
+6	heiss	_	ADJD	ADJD	ADJD.Pos	_	_	_	_
+7	.	_	$.	$.	$.	_	_	_	_
+
+1	Dann	_	ADV	ADV	ADV	_	_	_	_
+2	die	_	ART	ART	ART.Fem.Acc.Sg	_	_	_	_
+3	Kerze	_	NN	NN	NN.Fem.Acc.Sg	_	_	_	_
+4	maken	_	VVFIN	VVFIN	VVFIN.3.Pl.Pres.Ind	_	_	_	_
+5	ein	_	ART	ART	ART.Masc.Acc.Sg	_	_	_	_
+6	...	_	$.	$.	$.	_	_	_	_
+
+1	Ja	_	PTKANT	PTKANT	PTKANT	_	_	_	_
+2	,	_	$,	$,	$,	_	_	_	_
+3	wie	_	KOKOM	KOKOM	KOKOM	_	_	_	_
+4	ein	_	ART	ART	ART.Neut.Nom.Sg	_	_	_	_
+5	Messer	_	NN	NN	NN.Neut.Nom.Sg	_	_	_	_
+6	auf	_	APPR	APPR	APPR	_	_	_	_
+7	dem	_	ART	ART	ART.Masc.Dat.Sg	_	_	_	_
+8	Schleifstein	_	NN	NN	NN.Masc.Dat.Sg	_	_	_	_
+9	.	_	$.	$.	$.	_	_	_	_
+
+1	Wie	_	KOKOM	KOKOM	KOKOM	_	_	_	_
+2	ein	_	ART	ART	ART.Neut.Nom.Sg	_	_	_	_
+3	Feuerzeug	_	NN	NN	NN.Neut.Nom.Sg	_	_	_	_
+4	.	_	$.	$.	$.	_	_	_	_
+
+1	Ein	_	ART	ART	ART.Masc.Nom.Sg	_	_	_	_
+2	Funke	_	NN	NN	NN.Masc.Nom.Sg	_	_	_	_
+3	.	_	$.	$.	$.	_	_	_	_
+
+1	Funke	_	NN	NN	NN.Masc.Nom.Sg	_	_	_	_
+2	...	_	$(	$(	$.	_	_	_	_
+3	gut	_	ADJD	ADJD	ADJD.Pos	_	_	_	_
+4	.	_	$.	$.	$.	_	_	_	_
+
+1	Also	_	ADV	ADV	ADV	_	_	_	_
+2	die	_	ART	ART	ART.Fem.Nom.Sg	_	_	_	_
+3	Kerze	_	NN	NN	NN.Fem.Nom.Sg	_	_	_	_
+4	machen	_	VVFIN	VVFIN	VVFIN.3.Pl.Pres.Ind	_	_	_	_
+5	ein	_	ART	ART	ART.Masc.Acc.Sg	_	_	_	_
+6	Funke	_	NN	NN	NN.Masc.Acc.Sg	_	_	_	_
+7	und	_	KON	KON	KON	_	_	_	_
+8	päng	_	ITJ	ITJ	ITJ	_	_	_	_
+9	bringt	_	VVFIN	VVFIN	VVFIN.3.Sg.Pres.Ind	_	_	_	_
+10	das	_	ART	ART	ART.Neut.Acc.Sg	_	_	_	_
+11	Benzin	_	NN	NN	NN.Neut.Acc.Sg	_	_	_	_
+12	zum	_	APPRART	APPRART	APPRART.Neut.Dat	_	_	_	_
+13	Explodiern	_	NN	NN	NN.Neut.Dat.Sg	_	_	_	_
+
+1	Anateo	_	NE	NE	NN.Masc.Nom.Sg	_	_	_	_
+2	hat	_	VAFIN	VAFIN	VAFIN.3.Sg.Pres.Ind	_	_	_	_
+3	uns	_	PPER	PPER	PPER.1.Pl.*.Acc	_	_	_	_
+4	alle	_	PIS	PIS	PIS.*.Acc.Pl	_	_	_	_
+5	verraten	_	VVPP	VVPP	VVPP	_	_	_	_
+6	und	_	KON	KON	KON	_	_	_	_
+7	er	_	PPER	PPER	PPER.3.Sg.Masc.Nom	_	_	_	_
+8	wird	_	VAFIN	VAFIN	VAFIN.3.Sg.Pres.Ind	_	_	_	_
+9	dafür	_	PAV	PAV	PAV	_	_	_	_
+10	bezahlen	_	VVINF	VVINF	VVINF	_	_	_	_
+11	.	_	$.	$.	$.	_	_	_	_
+
+1	Und	_	KON	KON	KON	_	_	_	_
+2	wegen	_	APPR	APPR	APPR	_	_	_	_
+3	der	_	ART	ART	ART.*.Gen.Pl	_	_	_	_
+4	Tau'ri	_	NE	NE	NE.*.Gen.Pl	_	_	_	_
+5	...	_	$(	$(	$.	_	_	_	_
+6	sie	_	PPER	PPER	PPER.3.Pl.*.Nom	_	_	_	_
+7	befanden	_	VVFIN	VVFIN	VVFIN.3.Pl.Past.Ind	_	_	_	_
+8	sich	_	PRF	PRF	PRF.3.Pl.Nom	_	_	_	_
+9	schon	_	ADV	ADV	ADV	_	_	_	_
+10	im	_	APPRART	APPRART	APPRART.Masc.Dat	_	_	_	_
+11	Krieg	_	NN	NN	NN.Masc.Dat.Sg	_	_	_	_
+12	gegen	_	APPR	APPR	APPR	_	_	_	_
+13	uns	_	PPER	PPER	PPER.1.Pl.*.Acc	_	_	_	_
+14	und	_	KON	KON	KON	_	_	_	_
+15	wir	_	PPER	PPER	PPER.1.Pl.*.Nom	_	_	_	_
+16	gegen	_	APPR	APPR	APPR	_	_	_	_
+17	sie	_	PPER	PPER	PPER.3.Pl.*.Acc	_	_	_	_
+18	...	_	$.	$.	$.	_	_	_	_
+19	und	_	KON	KON	KON	_	_	_	_
+20	ich	_	PPER	PPER	PPER.1.Sg.*.Nom	_	_	_	_
+21	werde	_	VAFIN	VAFIN	VAFIN.1.Sg.Pres.Ind	_	_	_	_
+22	mich	_	PRF	PRF	PRF.1.Sg.Nom	_	_	_	_
+23	nicht	_	PTKNEG	PTKNEG	PTKNEG	_	_	_	_
+24	ängstlich	_	ADJD	ADJD	ADJD.Pos	_	_	_	_
+25	verkriechen	_	VVINF	VVINF	VVINF	_	_	_	_
+26	.	_	$.	$.	$.	_	_	_	_
+
+1	Sagt	_	VVIMP	VVIMP	VVIMP.Pl	_	_	_	_
+2	das	_	PDS	PDS	PDS.Neut.Acc.Sg	_	_	_	_
+3	weiter	_	PTKVZ	PTKVZ	PTKVZ	_	_	_	_
+4	.	_	$.	$.	$.	_	_	_	_
+
+1	Schickt	_	VVIMP	VVIMP	VVIMP.Pl	_	_	_	_
+2	alle	_	PIAT	PIAT	PIAT.Neut.Acc.Pl	_	_	_	_
+3	verfügbaren	_	ADJA	ADJA	ADJA.Pos.Neut.Acc.Pl	_	_	_	_
+4	Schiffe	_	NN	NN	NN.Neut.Acc.Pl	_	_	_	_
+5	.	_	$.	$.	$.	_	_	_	_
+
+1	Ich	_	PPER	PPER	PPER.1.Sg.*.Nom	_	_	_	_
+2	will	_	VMFIN	VMFIN	VMFIN.1.Sg.Pres.Ind	_	_	_	_
+3	,	_	$,	$,	$,	_	_	_	_
+4	dass	_	KOUS	KOUS	KOUS	_	_	_	_
+5	die	_	ART	ART	ART.Fem.Nom.Sg	_	_	_	_
+6	0dyssey	_	NE	NE	NE.Fem.Nom.Sg	_	_	_	_
+7	gefunden	_	VVPP	VVPP	VVPP	_	_	_	_
+8	wird	_	VAFIN	VAFIN	VAFIN.3.Sg.Pres.Ind	_	_	_	_
+9	.	_	$.	$.	$.	_	_	_	_
+
+1	Sofort	_	ADV	ADV	ADV	_	_	_	_
+2	!	_	$.	$.	$.	_	_	_	_
+
+1	Kefflin	_	NE	NE	NE.Masc.Nom.Sg	_	_	_	_
+2	.	_	$.	$.	$.	_	_	_	_
+
+1	War	_	VAFIN	VAFIN	VAFIN.3.Sg.Past.Ind	_	_	_	_
+2	es	_	PPER	PPER	PPER.3.Sg.Neut.Nom	_	_	_	_
+3	wirklich	_	ADV	ADV	ADV	_	_	_	_
+4	nötig	_	ADJD	ADJD	ADJD.Pos	_	_	_	_
+5	,	_	$,	$,	$,	_	_	_	_
+6	mich	_	PPER	PPER	PPER.1.Sg.*.Acc	_	_	_	_
+7	so	_	ADV	ADV	ADV	_	_	_	_
+8	zu	_	PTKZU	PTKZU	PTKZU	_	_	_	_
+9	blamieren	_	VVINF	VVINF	VVINF	_	_	_	_
+10	?	_	$.	$.	$.	_	_	_	_
+
+1	Es	_	PPER	PPER	PPER.3.Sg.Neut.Nom	_	_	_	_
+2	gab	_	VVFIN	VVFIN	VVFIN.3.Sg.Past.Ind	_	_	_	_
+3	Gerüchte	_	NN	NN	NN.Neut.Acc.Pl	_	_	_	_
+4	wegen	_	APPR	APPR	APPR	_	_	_	_
+5	der	_	ART	ART	ART.Fem.Gen.Sg	_	_	_	_
+6	Stärke	_	NN	NN	NN.Fem.Gen.Sg	_	_	_	_
+7	deiner	_	PPOSAT	PPOSAT	PPOSAT.Fem.Gen.Sg	_	_	_	_
+8	Führung	_	NN	NN	NN.Fem.Gen.Sg	_	_	_	_
+9	.	_	$.	$.	$.	_	_	_	_
+
+1	Jetzt	_	ADV	ADV	ADV	_	_	_	_
+2	werden	_	VAFIN	VAFIN	VAFIN.3.Pl.Pres.Ind	_	_	_	_
+3	diese	_	PDAT	PDAT	PDAT.Neut.Nom.Pl	_	_	_	_
+4	Gerüchte	_	NN	NN	NN.Neut.Nom.Pl	_	_	_	_
+5	aufhören	_	VVINF	VVINF	VVINF	_	_	_	_
+6	.	_	$.	$.	$.	_	_	_	_
+
+1	Und	_	KON	KON	KON	_	_	_	_
+2	?	_	$.	$.	$.	_	_	_	_
+
+1	Wirst	_	VAFIN	VAFIN	VAFIN.2.Sg.Pres.Ind	_	_	_	_
+2	du	_	PPER	PPER	PPER.2.Sg.*.Nom	_	_	_	_
+3	es	_	PPER	PPER	PPER.3.Sg.Neut.Acc	_	_	_	_
+4	so	_	ADV	ADV	ADV	_	_	_	_
+5	lassen	_	VVINF	VVINF	VVINF	_	_	_	_
+6	oder	_	KON	KON	KON	_	_	_	_
+7	wirst	_	VAFIN	VAFIN	VAFIN.2.Sg.Pres.Ind	_	_	_	_
+8	du	_	PPER	PPER	PPER.2.Sg.*.Nom	_	_	_	_
+9	das	_	PDS	PDS	PDS.Neut.Acc.Sg	_	_	_	_
+10	in	_	APPR	APPR	APPR	_	_	_	_
+11	Ordnung	_	NN	NN	NN.Fem.Acc.Sg	_	_	_	_
+12	bringen	_	VVINF	VVINF	VVINF	_	_	_	_
+13	?	_	$.	$.	$.	_	_	_	_
+
+1	Bist	_	VAFIN	VAFIN	VAFIN.2.Sg.Pres.Ind	_	_	_	_
+2	du	_	PPER	PPER	PPER.2.Sg.*.Nom	_	_	_	_
+3	glücklich	_	ADJD	ADJD	ADJD.Pos	_	_	_	_
+4	?	_	$.	$.	$.	_	_	_	_
+
+1	Ja	_	PTKANT	PTKANT	PTKANT	_	_	_	_
+2	.	_	$.	$.	$.	_	_	_	_
+
+1	-	_	$(	$(	$(	_	_	_	_
+2	Es	_	PPER	PPER	PPER.3.Sg.Neut.Nom	_	_	_	_
+3	ist	_	VAFIN	VAFIN	VAFIN.3.Sg.Pres.Ind	_	_	_	_
+4	nett	_	ADJD	ADJD	ADJD.Pos	_	_	_	_
+5	von	_	APPR	APPR	APPR	_	_	_	_
+6	dir	_	PPER	PPER	PPER.2.Sg.*.Dat	_	_	_	_
+7	,	_	$,	$,	$,	_	_	_	_
+8	dass	_	KOUS	KOUS	KOUS	_	_	_	_
+9	du	_	PPER	PPER	PPER.2.Sg.*.Nom	_	_	_	_
+10	hilfst	_	VVFIN	VVFIN	VVFIN.2.Sg.Pres.Ind	_	_	_	_
+11	.	_	$.	$.	$.	_	_	_	_
+
+1	-	_	$(	$(	$(	_	_	_	_
+2	Einmal	_	ADV	ADV	ADV	_	_	_	_
+3	ein	_	ART	ART	ART.Masc.Nom.Sg	_	_	_	_
+4	Pfadfinder	_	NN	NN	NN.Masc.Nom.Sg	_	_	_	_
+5	,	_	$,	$,	$,	_	_	_	_
+6	immer	_	ADV	ADV	ADV	_	_	_	_
+7	ein	_	ART	ART	ART.Masc.Nom.Sg	_	_	_	_
+8	Pfadfinder	_	NN	NN	NN.Masc.Nom.Sg	_	_	_	_
+9	.	_	$.	$.	$.	_	_	_	_
+
+1	-	_	$(	$(	$(	_	_	_	_
+2	Du	_	PPER	PPER	PPER.2.Sg.*.Nom	_	_	_	_
+3	warst	_	VAFIN	VAFIN	VAFIN.2.Sg.Past.Ind	_	_	_	_
+4	nie	_	ADV	ADV	ADV	_	_	_	_
+5	ein	_	ART	ART	ART.Masc.Nom.Sg	_	_	_	_
+6	Pfandfinder	_	NN	NN	NN.Masc.Nom.Sg	_	_	_	_
+7	.	_	$.	$.	$.	_	_	_	_
+
+1	-	_	$(	$(	$(	_	_	_	_
+2	Offensichtlich	_	ADV	ADV	ADV	_	_	_	_
+3	habe	_	VAFIN	VAFIN	VAFIN.1.Sg.Pres.Ind	_	_	_	_
+4	ich	_	PPER	PPER	PPER.1.Sg.*.Nom	_	_	_	_
+5	mein	_	PPOSAT	PPOSAT	PPOSAT.Neut.Acc.Sg	_	_	_	_
+6	...	_	$.	$.	$.	_	_	_	_
+
+1	Verdienstabzeichen	_	NN	NN	NN.Neut.Acc.Sg	_	_	_	_
+2	für	_	APPR	APPR	APPR	_	_	_	_
+3	Biberfallen	_	NN	NN	NN.Fem.Acc.Pl	_	_	_	_
+4	bekommen	_	VVPP	VVPP	VVPP	_	_	_	_
+5	.	_	$.	$.	$.	_	_	_	_
+
+1	-	_	$(	$(	$(	_	_	_	_
+2	Konzentriere	_	VVIMP	VVIMP	VVIMP.Sg	_	_	_	_
+3	dich	_	PRF	PRF	PRF.*.Sg.Nom	_	_	_	_
+4	lieber	_	ADV	ADV	ADV	_	_	_	_
+5	da	_	ADV	ADV	ADV	_	_	_	_
+6	drauf	_	PAV	PAV	PAV	_	_	_	_
+7	.	_	$.	$.	$.	_	_	_	_
+
+1	Kommt	_	VVIMP	VVIMP	VVIMP.Pl	_	_	_	_
+2	mit	_	APPR	APPR	APPR	_	_	_	_
+3	mir	_	PPER	PPER	PPER.1.Sg.*.Dat	_	_	_	_
+4	.	_	$.	$.	$.	_	_	_	_
+
+1	Wisst	_	VVFIN	VVFIN	VVFIN.2.Pl.Pres.Ind	_	_	_	_
+2	ihr	_	PPER	PPER	PPER.2.Pl.*.Nom	_	_	_	_
+3	,	_	$,	$,	$,	_	_	_	_
+4	wie	_	PWAV	PWAV	PWAV	_	_	_	_
+5	wertvoll	_	ADJD	ADJD	ADJD.Pos	_	_	_	_
+6	diese	_	PDAT	PDAT	PDAT.Fem.Nom.Pl	_	_	_	_
+7	Mohnblumen	_	NN	NN	NN.Fem.Nom.Pl	_	_	_	_
+8	waren	_	VAFIN	VAFIN	VAFIN.3.Pl.Past.Ind	_	_	_	_
+9	?	_	$.	$.	$.	_	_	_	_
+
+1	In	_	APPR	APPR	APPR	_	_	_	_
+2	Rauch	_	NN	NN	NN.Masc.Dat.Sg	_	_	_	_
+3	aufgegangen	_	VVPP	VVPP	VVPP	_	_	_	_
+4	.	_	$.	$.	$.	_	_	_	_
+
+1	-	_	$(	$(	$(	_	_	_	_
+2	Was	_	PWS	PWS	PWS.*.Nom.Sg	_	_	_	_
+3	?	_	$.	$.	$.	_	_	_	_
+
+1	Hat	_	VAFIN	VAFIN	VAFIN.3.Sg.Pres.Ind	_	_	_	_
+2	sie	_	PPER	PPER	PPER.3.Pl.Fem.Acc	_	_	_	_
+3	jemand	_	PIS	PIS	PIS.Masc.Nom.Sg	_	_	_	_
+4	angezündet	_	VVPP	VVPP	VVPP	_	_	_	_
+5	?	_	$.	$.	$.	_	_	_	_
+
+1	-	_	$(	$(	$(	_	_	_	_
+2	Ja	_	PTKANT	PTKANT	PTKANT	_	_	_	_
+3	.	_	$.	$.	$.	_	_	_	_
+
+1	Betrunkene	_	ADJA	ADJA	ADJA.Pos.Fem.Nom.Sg	_	_	_	_
+2	irische	_	ADJA	ADJA	ADJA.Pos.Fem.Nom.Sg	_	_	_	_
+3	Familie	_	NN	NN	NN.Fem.Nom.Sg	_	_	_	_
+4	,	_	$,	$,	$,	_	_	_	_
+5	die	_	ART	ART	ART.Fem.Acc.Sg	_	_	_	_
+6	Straße	_	NN	NN	NN.Fem.Acc.Sg	_	_	_	_
+7	hoch	_	ADV	ADV	ADV	_	_	_	_
+8	.	_	$.	$.	$.	_	_	_	_
+
+1	Die	_	ART	ART	ART.*.Nom.Pl	_	_	_	_
+2	O'Hallorans	_	NE	NE	NE.*.Nom.Pl	_	_	_	_
+3	.	_	$.	$.	$.	_	_	_	_
+
+1	Warum	_	PWAV	PWAV	PWAV	_	_	_	_
+2	?	_	$.	$.	$.	_	_	_	_
+
+1	Was	_	PWS	PWS	PWS.Neut.Acc.Sg	_	_	_	_
+2	hast	_	VAFIN	VAFIN	VAFIN.2.Sg.Pres.Ind	_	_	_	_
+3	du	_	PPER	PPER	PPER.2.Sg.*.Nom	_	_	_	_
+4	getan	_	VVPP	VVPP	VVPP	_	_	_	_
+5	,	_	$,	$,	$,	_	_	_	_
+6	um	_	KOUI	KOUI	KOUI	_	_	_	_
+7	sie	_	PPER	PPER	PPER.3.Pl.*.Acc	_	_	_	_
+8	zu	_	PTKZU	PTKZU	PTKZU	_	_	_	_
+9	verärgern	_	VVINF	VVINF	VVINF	_	_	_	_
+10	?	_	$.	$.	$.	_	_	_	_
+
+1	-	_	$(	$(	$(	_	_	_	_
+2	Arbeitet	_	VVFIN	VVFIN	VVFIN.3.Sg.Pres.Ind	_	_	_	_
+3	sie	_	PPER	PPER	PPER.3.Sg.Fem.Nom	_	_	_	_
+4	nicht	_	PTKNEG	PTKNEG	PTKNEG	_	_	_	_
+5	für	_	APPR	APPR	APPR	_	_	_	_
+6	dich	_	PPER	PPER	PPER.2.Sg.Masc.Acc	_	_	_	_
+7	,	_	$,	$,	$,	_	_	_	_
+8	Vince	_	NE	NE	NE.Masc.Nom.Sg	_	_	_	_
+9	?	_	$.	$.	$.	_	_	_	_
+
+1	-	_	$(	$(	$(	_	_	_	_
+2	Ja	_	PTKANT	PTKANT	PTKANT	_	_	_	_
+3	,	_	$,	$,	$,	_	_	_	_
+4	allerdings	_	ADV	ADV	ADV	_	_	_	_
+5	.	_	$.	$.	$.	_	_	_	_
+
+1	Und	_	KON	KON	KON	_	_	_	_
+2	bei	_	APPR	APPR	APPR	_	_	_	_
+3	E	_	NN	NN	NN.*.Dat.Sg	_	_	_	_
+4	einfach	_	ADV	ADV	ADV	_	_	_	_
+5	den	_	ART	ART	ART.Masc.Acc.Sg	_	_	_	_
+6	Hörer	_	NN	NN	NN.Masc.Acc.Sg	_	_	_	_
+7	aufzulegen	_	VVIZU	VVIZU	VVIZU	_	_	_	_
+8	,	_	$,	$,	$,	_	_	_	_
+9	muss	_	VMFIN	VMFIN	VMFIN.3.Sg.Pres.Ind	_	_	_	_
+10	ziemlich	_	ADV	ADV	ADV	_	_	_	_
+11	entmannend	_	ADJD	ADJD	ADJD.Pos	_	_	_	_
+12	gewesen	_	VAPP	VAPP	VAPP	_	_	_	_
+13	sein	_	VAFIN	VAFIN	VAFIN.3.Sg.Pres.Ind	_	_	_	_
+14	?	_	$.	$.	$.	_	_	_	_
+
+1	Fühlte	_	VVFIN	VVFIN	VVFIN.3.Sg.Past.Ind	_	_	_	_
+2	sich	_	PRF	PRF	PRF.3.Sg.Acc	_	_	_	_
+3	an	_	PTKVZ	PTKVZ	PTKVZ	_	_	_	_
+4	,	_	$,	$,	$,	_	_	_	_
+5	wie	_	KOKOM	KOKOM	KOKOM	_	_	_	_
+6	zum	_	APPRART	APPRART	APPRART.Masc.Dat	_	_	_	_
+7	Direktor	_	NN	NN	NN.Masc.Dat.Sg	_	_	_	_
+8	Reeve	_	NE	NE	NE.Masc.Nom.Sg	_	_	_	_
+9	ins	_	APPRART	APPRART	APPRART.Neut.Acc	_	_	_	_
+10	Büro	_	NN	NN	NN.Neut.Acc.Sg	_	_	_	_
+11	gerufen	_	VVPP	VVPP	VVPP	_	_	_	_
+12	zu	_	PTKZU	PTKZU	PTKZU	_	_	_	_
+13	werden	_	VAINF	VAINF	VAINF	_	_	_	_
+14	.	_	$.	$.	$.	_	_	_	_
+
+1	Genauso	_	ADV	ADV	ADV	_	_	_	_
+2	wie	_	KOKOM	KOKOM	KOKOM	_	_	_	_
+3	er	_	PPER	PPER	PPER.3.Sg.Masc.Nom	_	_	_	_
+4	,	_	$,	$,	$,	_	_	_	_
+5	werde	_	VAFIN	VAFIN	VAFIN.1.Sg.Pres.Ind	_	_	_	_
+6	ich	_	PPER	PPER	PPER.1.Sg.*.Nom	_	_	_	_
+7	ihr	_	PPER	PPER	PPER.3.Sg.Fem.Dat	_	_	_	_
+8	sagen	_	VVINF	VVINF	VVINF	_	_	_	_
+9	,	_	$,	$,	$,	_	_	_	_
+10	wie	_	PWAV	PWAV	PWAV	_	_	_	_
+11	es	_	PPER	PPER	PPER.3.Sg.Neut.Nom	_	_	_	_
+12	ist	_	VAFIN	VAFIN	VAFIN.3.Sg.Pres.Ind	_	_	_	_
+13	.	_	$.	$.	$.	_	_	_	_
+
+1	Mach	_	VVIMP	VVIMP	VVIMP.Sg	_	_	_	_
+2	das	_	PDS	PDS	PDS.Neut.Acc.Sg	_	_	_	_
+3	bitte	_	PTKANT	PTKANT	PTKANT	_	_	_	_
+4	,	_	$,	$,	$,	_	_	_	_
+5	denn	_	KON	KON	KON	_	_	_	_
+6	ich	_	PPER	PPER	PPER.1.Sg.*.Nom	_	_	_	_
+7	mag	_	VMFIN	VMFIN	VMFIN.1.Sg.Pres.Ind	_	_	_	_
+8	ihr	_	PPER	PPER	PPER.3.Sg.Fem.Dat	_	_	_	_
+9	nicht	_	PTKNEG	PTKNEG	PTKNEG	_	_	_	_
+10	aus	_	APPR	APPR	APPR	_	_	_	_
+11	dem	_	ART	ART	ART.Masc.Dat.Sg	_	_	_	_
+12	Weg	_	NN	NN	NN.Masc.Dat.Sg	_	_	_	_
+13	gehen	_	VVINF	VVINF	VVINF	_	_	_	_
+14	.	_	$.	$.	$.	_	_	_	_
+
+1	Nein	_	PTKANT	PTKANT	PTKANT	_	_	_	_
+2	,	_	$,	$,	$,	_	_	_	_
+3	nein	_	PTKANT	PTKANT	PTKANT	_	_	_	_
+4	.	_	$.	$.	$.	_	_	_	_
+
+1	Kein	_	PIAT	PIAT	PIAT.Neut.Nom.Sg	_	_	_	_
+2	weiteres	_	ADJA	ADJA	ADJA.Pos.Neut.Nom.Sg	_	_	_	_
+3	Ausweichen	_	NN	NN	NN.Neut.Nom.Sg	_	_	_	_
+4	.	_	$.	$.	$.	_	_	_	_
+
+1	Wir	_	PPER	PPER	PPER.1.Pl.*.Nom	_	_	_	_
+2	werden	_	VAFIN	VAFIN	VAFIN.1.Pl.Pres.Ind	_	_	_	_
+3	ihr	_	PPER	PPER	PPER.3.Sg.Fem.Dat	_	_	_	_
+4	sagen	_	VVINF	VVINF	VVINF	_	_	_	_
+5	,	_	$,	$,	$,	_	_	_	_
+6	wir	_	PPER	PPER	PPER.1.Pl.*.Nom	_	_	_	_
+7	machen	_	VVFIN	VVFIN	VVFIN.1.Pl.Pres.Ind	_	_	_	_
+8	keinen	_	PIAT	PIAT	PIAT.Masc.Acc.Sg	_	_	_	_
+9	Film	_	NN	NN	NN.Masc.Acc.Sg	_	_	_	_
+10	über	_	APPR	APPR	APPR	_	_	_	_
+11	irgendwas	_	PIS	PIS	PIS.Neut.*.*	_	_	_	_
+12	,	_	$,	$,	$,	_	_	_	_
+13	bis	_	KOUS	KOUS	KOUS	_	_	_	_
+14	die	_	ART	ART	ART.Fem.Nom.Pl	_	_	_	_
+15	Kameras	_	NN	NN	NN.Fem.Nom.Pl	_	_	_	_
+16	tatsächlich	_	ADV	ADV	ADV	_	_	_	_
+17	für	_	APPR	APPR	APPR	_	_	_	_
+18	"	_	$(	$(	$(	_	_	_	_
+19	Medellin	_	NE	NE	NE.*.Acc.Sg	_	_	_	_
+20	"	_	$(	$(	$(	_	_	_	_
+21	anlaufen	_	VVFIN	VVFIN	VVFIN.3.Pl.Pres.Ind	_	_	_	_
+22	.	_	$.	$.	$.	_	_	_	_
+
+1	Sie	_	PPER	PPER	PPER.3.Sg.Fem.Nom	_	_	_	_
+2	wird	_	VAFIN	VAFIN	VAFIN.3.Sg.Pres.Ind	_	_	_	_
+3	angepisst	_	ADJD	ADJD	ADJD.Pos	_	_	_	_
+4	sein	_	VAINF	VAINF	VAINF	_	_	_	_
+5	,	_	$,	$,	$,	_	_	_	_
+6	wenn	_	KOUS	KOUS	KOUS	_	_	_	_
+7	sie	_	PPER	PPER	PPER.3.Sg.Fem.Nom	_	_	_	_
+8	denkt	_	VVFIN	VVFIN	VVFIN.3.Sg.Pres.Ind	_	_	_	_
+9	,	_	$,	$,	$,	_	_	_	_
+10	du	_	PPER	PPER	PPER.2.Sg.*.Nom	_	_	_	_
+11	nimmst	_	VVFIN	VVFIN	VVFIN.2.Sg.Pres.Ind	_	_	_	_
+12	Ari	_	NE	NE	NE.*.Acc.Sg	_	_	_	_
+13	ernst	_	PTKVZ	PTKVZ	PTKVZ	_	_	_	_
+14	.	_	$.	$.	$.	_	_	_	_
+
+1	Anpassung	_	NN	NN	NN.Fem.Nom.Sg	_	_	_	_
+2	von	_	APPR	APPR	APPR	_	_	_	_
+3	Movie	_	FM	FM	FM	_	_	_	_
+
+1	Er	_	PPER	PPER	PPER.3.Sg.Masc.Nom	_	_	_	_
+2	sieht	_	VVFIN	VVFIN	VVFIN.3.Sg.Pres.Ind	_	_	_	_
+3	wie	_	KOKOM	KOKOM	KOKOM	_	_	_	_
+4	Frankenstein	_	NE	NE	NE.Masc.Nom.Sg	_	_	_	_
+5	aus	_	PTKVZ	PTKVZ	PTKVZ	_	_	_	_
+6	.	_	$.	$.	$.	_	_	_	_
+
+1	Immerhin	_	ADV	ADV	ADV	_	_	_	_
+2	läuft	_	VVFIN	VVFIN	VVFIN.3.Sg.Pres.Ind	_	_	_	_
+3	er	_	PPER	PPER	PPER.3.Sg.Masc.Nom	_	_	_	_
+4	ohne	_	APPR	APPR	APPR	_	_	_	_
+5	Krücken	_	NN	NN	NN.Fem.Acc.Pl	_	_	_	_
+6	.	_	$.	$.	$.	_	_	_	_
+
+1	Ja	_	PTKANT	PTKANT	PTKANT	_	_	_	_
+2	,	_	$,	$,	$,	_	_	_	_
+3	ich	_	PPER	PPER	PPER.1.Sg.*.Nom	_	_	_	_
+4	dachte	_	VVFIN	VVFIN	VVFIN.1.Sg.Past.Ind	_	_	_	_
+5	,	_	$,	$,	$,	_	_	_	_
+6	er	_	PPER	PPER	PPER.3.Sg.Masc.Nom	_	_	_	_
+7	wäre	_	VAFIN	VAFIN	VAFIN.3.Sg.Past.Subj	_	_	_	_
+8	glücklicher	_	ADJD	ADJD	ADJD.Comp	_	_	_	_
+9	darüber	_	PAV	PAV	PAV	_	_	_	_
+10	.	_	$.	$.	$.	_	_	_	_
+
+1	Ich	_	PPER	PPER	PPER.1.Sg.*.Nom	_	_	_	_
+2	bin	_	VAFIN	VAFIN	VAFIN.1.Sg.Pres.Ind	_	_	_	_
+3	glücklicher	_	ADJD	ADJD	ADJD.Comp	_	_	_	_
+4	darüber	_	PAV	PAV	PAV	_	_	_	_
+5	.	_	$.	$.	$.	_	_	_	_
+
+1	Wie	_	PWAV	PWAV	PWAV	_	_	_	_
+2	geht	_	VVFIN	VVFIN	VVFIN.3.Sg.Pres.Ind	_	_	_	_
+3	es	_	PPER	PPER	PPER.3.Sg.Neut.Nom	_	_	_	_
+4	dir	_	PPER	PPER	PPER.2.Sg.Fem.Dat	_	_	_	_
+5	,	_	$,	$,	$,	_	_	_	_
+6	Maggie	_	NE	NE	NE.Fem.Nom.Sg	_	_	_	_
+7	?	_	$.	$.	$.	_	_	_	_
+
+1	Langer	_	ADJA	ADJA	ADJA.Pos.Masc.Nom.Sg	_	_	_	_
+2	Tag	_	NN	NN	NN.Masc.Nom.Sg	_	_	_	_
+3	.	_	$.	$.	$.	_	_	_	_
+
+1	Sieht	_	VVFIN	VVFIN	VVFIN.3.Sg.Pres.Ind	_	_	_	_
+2	so	_	ADV	ADV	ADV	_	_	_	_
+3	aus	_	PTKVZ	PTKVZ	PTKVZ	_	_	_	_
+4	,	_	$,	$,	$,	_	_	_	_
+5	als	_	KOUS	KOUS	KOUS	_	_	_	_
+6	fängt	_	VVFIN	VVFIN	VVFIN.3.Sg.Pres.Ind	_	_	_	_
+7	mein	_	PPOSAT	PPOSAT	PPOSAT.Masc.Nom.Sg	_	_	_	_
+8	Tag	_	NN	NN	NN.Masc.Nom.Sg	_	_	_	_
+9	gerade	_	ADV	ADV	ADV	_	_	_	_
+10	an	_	PTKVZ	PTKVZ	PTKVZ	_	_	_	_
+11	.	_	$.	$.	$.	_	_	_	_
+
+1	Hal	_	NE	NE	NE.*.Nom.Sg	_	_	_	_
+2	.	_	$.	$.	$.	_	_	_	_
+
+1	Was	_	PWS	PWS	PWS.Neut.Acc.Sg	_	_	_	_
+2	ich	_	PPER	PPER	PPER.1.Sg.*.Nom	_	_	_	_
+3	sage	_	VVFIN	VVFIN	VVFIN.1.Sg.Pres.Ind	_	_	_	_
+4	ist	_	VAFIN	VAFIN	VAFIN.3.Sg.Pres.Ind	_	_	_	_
+5	,	_	$,	$,	$,	_	_	_	_
+6	mit	_	APPR	APPR	APPR	_	_	_	_
+7	dem	_	ART	ART	ART.Neut.Dat.Sg	_	_	_	_
+8	Militär	_	NN	NN	NN.Neut.Dat.Sg	_	_	_	_
+9	ausgenommen	_	VVPP	VVPP	VVPP	_	_	_	_
+10	sind	_	VAFIN	VAFIN	VAFIN.3.Pl.Pres.Ind	_	_	_	_
+11	es	_	PPER	PPER	PPER.3.Sg.Neut.Nom	_	_	_	_
+12	vielleicht	_	ADV	ADV	ADV	_	_	_	_
+13	vier	_	CARD	CARD	CARD	_	_	_	_
+14	Leute	_	NN	NN	NN.*.Nom.Pl	_	_	_	_
+15	,	_	$,	$,	$,	_	_	_	_
+16	die	_	PRELS	PRELS	PRELS.*.Nom.Pl	_	_	_	_
+17	genau	_	ADV	ADV	ADV	_	_	_	_
+18	wissen	_	VVFIN	VVFIN	VVFIN.3.Pl.Pres.Ind	_	_	_	_
+19	,	_	$,	$,	$,	_	_	_	_
+20	wie	_	KOUS	KOUS	KOUS	_	_	_	_
+21	dieser	_	PDAT	PDAT	PDAT.Masc.Nom.Sg	_	_	_	_
+22	Ort	_	NN	NN	NN.Masc.Nom.Sg	_	_	_	_
+23	funktioniert	_	VVFIN	VVFIN	VVFIN.3.Sg.Pres.Ind	_	_	_	_
+24	.	_	$.	$.	$.	_	_	_	_
+
+1	-	_	$(	$(	$(	_	_	_	_
+2	Die	_	ART	ART	ART.Fem.Nom.Sg	_	_	_	_
+3	Vaginoplastie	_	NN	NN	NN.Fem.Nom.Sg	_	_	_	_
+4	.	_	$.	$.	$.	_	_	_	_
+
+1	Wird	_	VAFIN	VAFIN	VAFIN.3.Sg.Pres.Ind	_	_	_	_
+2	die	_	ART	ART	ART.Fem.Nom.Sg	_	_	_	_
+3	Vaginoplastie	_	NN	NN	NN.Fem.Nom.Sg	_	_	_	_
+4	separat	_	ADJD	ADJD	ADJD.Pos	_	_	_	_
+5	gemacht	_	VVPP	VVPP	VVPP	_	_	_	_
+6	?	_	$.	$.	$.	_	_	_	_
+
+1	Genau	_	ADV	ADV	ADV	_	_	_	_
+2	.	_	$.	$.	$.	_	_	_	_
+
+1	Das	_	PDS	PDS	PDS.Neut.Nom.Sg	_	_	_	_
+2	wird	_	VAFIN	VAFIN	VAFIN.3.Sg.Pres.Ind	_	_	_	_
+3	einzeln	_	ADJD	ADJD	ADJD.Pos	_	_	_	_
+4	gemacht	_	VVPP	VVPP	VVPP	_	_	_	_
+5	.	_	$.	$.	$.	_	_	_	_
+
+1	Ich	_	PPER	PPER	PPER.1.Sg.*.Nom	_	_	_	_
+2	möchte	_	VMFIN	VMFIN	VMFIN.1.Sg.Pres.Ind	_	_	_	_
+3	nicht	_	PTKNEG	PTKNEG	PTKNEG	_	_	_	_
+4	mehr	_	ADV	ADV	ADV	_	_	_	_
+5	als	_	KOKOM	KOKOM	KOKOM	_	_	_	_
+6	nötig	_	ADJD	ADJD	ADJD.Pos	_	_	_	_
+7	unter	_	APPR	APPR	APPR	_	_	_	_
+8	Narkose	_	NN	NN	NN.Fem.Acc.Sg	_	_	_	_
+9	gesetzt	_	VVPP	VVPP	VVPP	_	_	_	_
+10	werden	_	VAINF	VAINF	VAINF	_	_	_	_
+11	.	_	$.	$.	$.	_	_	_	_
+
+1	Ich	_	PPER	PPER	PPER.1.Sg.*.Nom	_	_	_	_
+2	bekomme	_	VVFIN	VVFIN	VVFIN.1.Sg.Pres.Ind	_	_	_	_
+3	eine	_	ART	ART	ART.Fem.Acc.Sg	_	_	_	_
+4	Narkose	_	NN	NN	NN.Fem.Acc.Sg	_	_	_	_
+5	,	_	$,	$,	$,	_	_	_	_
+6	und	_	KON	KON	KON	_	_	_	_
+7	dann	_	ADV	ADV	ADV	_	_	_	_
+8	noch	_	ADV	ADV	ADV	_	_	_	_
+9	eine	_	PIS	PIS	PIS.Fem.Acc.Sg	_	_	_	_
+10	?	_	$.	$.	$.	_	_	_	_
+
+1	Es	_	PPER	PPER	PPER.3.Sg.Neut.Nom	_	_	_	_
+2	ist	_	VAFIN	VAFIN	VAFIN.3.Sg.Pres.Ind	_	_	_	_
+3	ein	_	ART	ART	ART.Masc.Nom.Sg	_	_	_	_
+4	schwerer	_	ADJA	ADJA	ADJA.Pos.Masc.Nom.Sg	_	_	_	_
+5	Eingriff	_	NN	NN	NN.Masc.Nom.Sg	_	_	_	_
+6	mit	_	APPR	APPR	APPR	_	_	_	_
+7	einer	_	ART	ART	ART.Fem.Dat.Sg	_	_	_	_
+8	langen	_	ADJA	ADJA	ADJA.Pos.Fem.Dat.Sg	_	_	_	_
+9	Rekonvaleszenz	_	NN	NN	NN.Fem.Dat.Sg	_	_	_	_
+10	.	_	$.	$.	$.	_	_	_	_
+
+1	Außerdem	_	PAV	PAV	PAV	_	_	_	_
+2	brauchen	_	VVFIN	VVFIN	VVFIN.1.Pl.Pres.Ind	_	_	_	_
+3	wir	_	PPER	PPER	PPER.1.Pl.*.Nom	_	_	_	_
+4	dafür	_	PAV	PAV	PAV	_	_	_	_
+5	einen	_	ART	ART	ART.Masc.Acc.Sg	_	_	_	_
+6	Spezialisten	_	NN	NN	NN.Masc.Acc.Sg	_	_	_	_
+7	.	_	$.	$.	$.	_	_	_	_
+
+1	Aufregend	_	ADJD	ADJD	ADJD.Pos	_	_	_	_
+2	.	_	$.	$.	$.	_	_	_	_
+
+1	Ja	_	PTKANT	PTKANT	PTKANT	_	_	_	_
+2	,	_	$,	$,	$,	_	_	_	_
+3	das	_	PDS	PDS	PDS.Neut.Nom.Sg	_	_	_	_
+4	ist	_	VAFIN	VAFIN	VAFIN.3.Sg.Pres.Ind	_	_	_	_
+5	es	_	PPER	PPER	PPER.3.Sg.Neut.Nom	_	_	_	_
+6	in	_	APPR	APPR	APPR	_	_	_	_
+7	der	_	ART	ART	ART.Fem.Dat.Sg	_	_	_	_
+8	Tat	_	NN	NN	NN.Fem.Dat.Sg	_	_	_	_
+9	.	_	$.	$.	$.	_	_	_	_
+
+1	-	_	$(	$(	$(	_	_	_	_
+2	Oh	_	ITJ	ITJ	ITJ	_	_	_	_
+3	Gott	_	NN	NN	NN.Masc.Nom.Sg	_	_	_	_
+4	.	_	$.	$.	$.	_	_	_	_
+
+1	Das	_	PDS	PDS	PDS.Neut.Nom.Sg	_	_	_	_
+2	reicht	_	VVFIN	VVFIN	VVFIN.3.Sg.Pres.Ind	_	_	_	_
+3	,	_	$,	$,	$,	_	_	_	_
+4	Dad	_	NE	NE	NE.Masc.Nom.Sg	_	_	_	_
+5	!	_	$.	$.	$.	_	_	_	_
+
+1	Weißt	_	VVFIN	VVFIN	VVFIN.2.Sg.Pres.Ind	_	_	_	_
+2	du	_	PPER	PPER	PPER.2.Sg.*.Nom	_	_	_	_
+3	,	_	$,	$,	$,	_	_	_	_
+4	wovon	_	PWAV	PWAV	PWAV	_	_	_	_
+5	ich	_	PPER	PPER	PPER.1.Sg.*.Nom	_	_	_	_
+6	rede	_	VVFIN	VVFIN	VVFIN.1.Sg.Pres.Ind	_	_	_	_
+7	?	_	$.	$.	$.	_	_	_	_
+
+1	-	_	$(	$(	$(	_	_	_	_
+2	Verstehst	_	VVFIN	VVFIN	VVFIN.2.Sg.Pres.Ind	_	_	_	_
+3	du	_	PPER	PPER	PPER.2.Sg.*.Nom	_	_	_	_
+4	mich	_	PPER	PPER	PPER.1.Sg.*.Acc	_	_	_	_
+5	?	_	$.	$.	$.	_	_	_	_
+
+1	-	_	$(	$(	$(	_	_	_	_
+2	Dad	_	NE	NE	NE.Masc.Nom.Sg	_	_	_	_
+3	,	_	$,	$,	$,	_	_	_	_
+4	das	_	PDS	PDS	PDS.Neut.Nom.Sg	_	_	_	_
+5	reicht	_	VVFIN	VVFIN	VVFIN.3.Sg.Pres.Ind	_	_	_	_
+6	!	_	$.	$.	$.	_	_	_	_
+
+1	Ich	_	PPER	PPER	PPER.1.Sg.*.Nom	_	_	_	_
+2	gehe	_	VVFIN	VVFIN	VVFIN.1.Sg.Pres.Ind	_	_	_	_
+3	,	_	$,	$,	$,	_	_	_	_
+4	ok	_	ADV	ADV	ADV	_	_	_	_
+5	.	_	$.	$.	$.	_	_	_	_
+
+1	Ok	_	ADV	ADV	ADV	_	_	_	_
+2	.	_	$.	$.	$.	_	_	_	_
+
+1	Gut	_	ADJD	ADJD	ADJD.Pos	_	_	_	_
+2	.	_	$.	$.	$.	_	_	_	_
+
+1	Warte	_	VVIMP	VVIMP	VVIMP.Sg	_	_	_	_
+2	...	_	$.	$.	$.	_	_	_	_
+
+1	Ja	_	PTKANT	PTKANT	PTKANT	_	_	_	_
+2	,	_	$,	$,	$,	_	_	_	_
+3	die	_	ART	ART	ART.Fem.Nom.Sg	_	_	_	_
+4	DVD	_	NN	NN	NN.Fem.Nom.Sg	_	_	_	_
+5	.	_	$.	$.	$.	_	_	_	_
+
+1	Okay	_	ADV	ADV	ADV	_	_	_	_
+2	,	_	$,	$,	$,	_	_	_	_
+3	ich	_	PPER	PPER	PPER.1.Sg.*.Nom	_	_	_	_
+4	sehe	_	VVFIN	VVFIN	VVFIN.1.Sg.Pres.Ind	_	_	_	_
+5	mal	_	ADV	ADV	ADV	_	_	_	_
+6	nach	_	PTKVZ	PTKVZ	PTKVZ	_	_	_	_
+7	,	_	$,	$,	$,	_	_	_	_
+8	ob	_	KOUS	KOUS	KOUS	_	_	_	_
+9	wir	_	PPER	PPER	PPER.1.Pl.*.Nom	_	_	_	_
+10	noch	_	ADV	ADV	ADV	_	_	_	_
+11	gefrorene	_	ADJA	ADJA	ADJA.Pos.Fem.Acc.Sg	_	_	_	_
+12	Soja-Pizza	_	NN	NN	NN.Fem.Acc.Sg	_	_	_	_
+13	haben	_	VAFIN	VAFIN	VAFIN.1.Pl.Pres.Ind	_	_	_	_
+14	.	_	$.	$.	$.	_	_	_	_
+
+1	Ausweise	_	NN	NN	NN.Masc.Acc.Pl	_	_	_	_
+2	.	_	$.	$.	$.	_	_	_	_
+
+1	-	_	$(	$(	$(	_	_	_	_
+2	Hi	_	ITJ	ITJ	ITJ	_	_	_	_
+3	.	_	$.	$.	$.	_	_	_	_
+
+1	Echt	_	ADV	ADV	ADV	_	_	_	_
+2	jetzt	_	ADV	ADV	ADV	_	_	_	_
+3	?	_	$.	$.	$.	_	_	_	_
+
+1	Ja	_	PTKANT	PTKANT	PTKANT	_	_	_	_
+2	,	_	$,	$,	$,	_	_	_	_
+3	Baby	_	NE	NE	NE.Neut.Nom.Sg	_	_	_	_
+4	,	_	$,	$,	$,	_	_	_	_
+5	man	_	PIS	PIS	PIS.*.Nom.Sg	_	_	_	_
+6	kann	_	VMFIN	VMFIN	VMFIN.3.Sg.Pres.Ind	_	_	_	_
+7	euer	_	PPOSAT	PPOSAT	PPOSAT.Neut.Acc.Sg	_	_	_	_
+8	Alter	_	NN	NN	NN.Neut.Acc.Sg	_	_	_	_
+9	kaum	_	ADV	ADV	ADV	_	_	_	_
+10	noch	_	ADV	ADV	ADV	_	_	_	_
+11	schätzen	_	VVINF	VVINF	VVINF	_	_	_	_
+12	,	_	$,	$,	$,	_	_	_	_
+13	wisst	_	VVFIN	VVFIN	VVFIN.2.Pl.Pres.Ind	_	_	_	_
+14	ihr	_	PPER	PPER	PPER.2.Pl.*.Nom	_	_	_	_
+15	.	_	$.	$.	$.	_	_	_	_
+
+1	Ja	_	PTKANT	PTKANT	PTKANT	_	_	_	_
+2	,	_	$,	$,	$,	_	_	_	_
+3	bitte	_	PTKANT	PTKANT	PTKANT	_	_	_	_
+4	.	_	$.	$.	$.	_	_	_	_
+
+1	-	_	$(	$(	$(	_	_	_	_
+2	Der	_	ART	ART	ART.Masc.Nom.Sg	_	_	_	_
+3	Abend	_	NN	NN	NN.Masc.Nom.Sg	_	_	_	_
+4	gefällt	_	VVFIN	VVFIN	VVFIN.3.Sg.Pres.Ind	_	_	_	_
+5	mir	_	PPER	PPER	PPER.1.Sg.*.Dat	_	_	_	_
+6	jetzt	_	ADV	ADV	ADV	_	_	_	_
+7	schon	_	ADV	ADV	ADV	_	_	_	_
+8	.	_	$.	$.	$.	_	_	_	_
+
+1	Rachel	_	NE	NE	NE.Fem.Nom.Sg	_	_	_	_
+2	?	_	$.	$.	$.	_	_	_	_
+
+1	-	_	$(	$(	$(	_	_	_	_
+2	Ja	_	PTKANT	PTKANT	PTKANT	_	_	_	_
+3	,	_	$,	$,	$,	_	_	_	_
+4	das	_	PDS	PDS	PDS.Neut.Nom.Sg	_	_	_	_
+5	bin	_	VAFIN	VAFIN	VAFIN.1.Sg.Pres.Ind	_	_	_	_
+6	ich	_	PPER	PPER	PPER.1.Sg.*.Nom	_	_	_	_
+7	.	_	$.	$.	$.	_	_	_	_
+
+1	-	_	$(	$(	$(	_	_	_	_
+2	Vielen	_	PIAT	PIAT	PIAT.Masc.Acc.Sg	_	_	_	_
+3	Dank	_	NN	NN	NN.Masc.Acc.Sg	_	_	_	_
+4	.	_	$.	$.	$.	_	_	_	_
+
+1	Es	_	PPER	PPER	PPER.3.Sg.Neut.Nom	_	_	_	_
+2	gefällt	_	VVFIN	VVFIN	VVFIN.3.Sg.Pres.Ind	_	_	_	_
+3	mir	_	PPER	PPER	PPER.1.Sg.*.Dat	_	_	_	_
+4	viel	_	ADV	ADV	ADV	_	_	_	_
+5	besser	_	ADJD	ADJD	ADJD.Comp	_	_	_	_
+6	,	_	$,	$,	$,	_	_	_	_
+7	wenn	_	KOUS	KOUS	KOUS	_	_	_	_
+8	wir	_	PPER	PPER	PPER.1.Pl.*.Nom	_	_	_	_
+9	einer	_	ART	ART	ART.Fem.Gen.Sg	_	_	_	_
+10	Meinung	_	NN	NN	NN.Fem.Gen.Sg	_	_	_	_
+11	sind	_	VAFIN	VAFIN	VAFIN.1.Pl.Pres.Ind	_	_	_	_
+12	.	_	$.	$.	$.	_	_	_	_
+
+1	Ihnen	_	PPER	PPER	PPER.3.Sg.*.Dat	_	_	_	_
+2	nicht	_	PTKNEG	PTKNEG	PTKNEG	_	_	_	_
+3	?	_	$.	$.	$.	_	_	_	_
+
+1	Der	_	ART	ART	ART.Masc.Nom.Sg	_	_	_	_
+2	Text	_	NN	NN	NN.Masc.Nom.Sg	_	_	_	_
+3	des	_	ART	ART	ART.Masc.Gen.Sg	_	_	_	_
+4	Kosst	_	NE	NE	NE.Masc.Gen.Sg	_	_	_	_
+5	Amojan	_	NE	NE	NE.Masc.Gen.Sg	_	_	_	_
+6	,	_	$,	$,	$,	_	_	_	_
+7	wie	_	KOUS	KOUS	KOUS	_	_	_	_
+8	Sie	_	PPER	PPER	PPER.3.Sg.*.Nom	_	_	_	_
+9	wünschten	_	VVFIN	VVFIN	VVFIN.3.Pl.Past.Ind	_	_	_	_
+10	.	_	$.	$.	$.	_	_	_	_
+
+1	Sehr	_	ADV	ADV	ADV	_	_	_	_
+2	gut	_	ADJD	ADJD	ADJD.Pos	_	_	_	_
+3	.	_	$.	$.	$.	_	_	_	_
+
+1	Also	_	ADV	ADV	ADV	_	_	_	_
+2	?	_	$.	$.	$.	_	_	_	_
+
+1	Legen	_	VVIMP	VVIMP	VVIMP.Pl	_	_	_	_
+2	Sie	_	PPER	PPER	PPER.3.Sg.*.Nom	_	_	_	_
+3	ihn	_	PPER	PPER	PPER.3.Sg.Masc.Acc	_	_	_	_
+4	auf	_	APPR	APPR	APPR	_	_	_	_
+5	meinen	_	PPOSAT	PPOSAT	PPOSAT.Masc.Acc.Sg	_	_	_	_
+6	Schreibtisch	_	NN	NN	NN.Masc.Acc.Sg	_	_	_	_
+7	.	_	$.	$.	$.	_	_	_	_
+
+1	-	_	$(	$(	$(	_	_	_	_
+2	Eminenz	_	NN	NN	NN.Fem.Nom.Sg	_	_	_	_
+3	,	_	$,	$,	$,	_	_	_	_
+4	darf	_	VMFIN	VMFIN	VMFIN.1.Sg.Pres.Ind	_	_	_	_
+5	ich	_	PPER	PPER	PPER.1.Sg.*.Nom	_	_	_	_
+6	offen	_	ADJD	ADJD	ADJD.Pos	_	_	_	_
+7	sprechen	_	VVINF	VVINF	VVINF	_	_	_	_
+8	?	_	$.	$.	$.	_	_	_	_
+
+1	-	_	$(	$(	$(	_	_	_	_
+2	Wenn	_	KOUS	KOUS	KOUS	_	_	_	_
+3	es	_	PPER	PPER	PPER.3.Sg.Neut.Nom	_	_	_	_
+4	sein	_	VAINF	VAINF	VAINF	_	_	_	_
+5	muss	_	VMFIN	VMFIN	VMFIN.3.Sg.Pres.Ind	_	_	_	_
+6	.	_	$.	$.	$.	_	_	_	_
+
+1	Dieses	_	PDAT	PDAT	PDAT.Neut.Nom.Sg	_	_	_	_
+2	Buch	_	NN	NN	NN.Neut.Nom.Sg	_	_	_	_
+3	wurde	_	VAFIN	VAFIN	VAFIN.3.Sg.Past.Ind	_	_	_	_
+4	seit	_	APPR	APPR	APPR	_	_	_	_
+5	700	_	CARD	CARD	CARD	_	_	_	_
+6	Jahren	_	NN	NN	NN.Neut.Dat.Pl	_	_	_	_
+7	nicht	_	PTKNEG	PTKNEG	PTKNEG	_	_	_	_
+8	mehr	_	ADV	ADV	ADV	_	_	_	_
+9	aus	_	APPR	APPR	APPR	_	_	_	_
+10	den	_	ART	ART	ART.Neut.Dat.Pl	_	_	_	_
+11	Archiven	_	NN	NN	NN.Neut.Dat.Pl	_	_	_	_
+12	geholt	_	VVPP	VVPP	VVPP	_	_	_	_
+13	.	_	$.	$.	$.	_	_	_	_
+
+1	Was	_	PWS	PWS	PWS.Neut.Acc.Sg	_	_	_	_
+2	wollen	_	VMFIN	VMFIN	VMFIN.3.Pl.Pres.Ind	_	_	_	_
+3	Sie	_	PPER	PPER	PPER.3.Sg.*.Nom	_	_	_	_
+4	damit	_	PAV	PAV	PAV	_	_	_	_
+5	sagen	_	VVINF	VVINF	VVINF	_	_	_	_
+6	?	_	$.	$.	$.	_	_	_	_
+

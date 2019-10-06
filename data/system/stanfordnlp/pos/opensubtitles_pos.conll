@@ -1,0 +1,1717 @@
+1	Du	du	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	0	_	_	_
+2	willst	willst	AUX	VMFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	1	_	_	_
+3	alles	alle	PRON	PIS	case=acc|definite=ind|gender=neut|number=sg|prontype=ind	2	_	_	_
+4	wissen	wissen	VERB	VVINF	verbform=inf	3	_	_	_
+5	.	.	PUNCT	$.	_	4	_	_	_
+
+1	Es	es	PRON	PPER	case=nom|gender=neut|number=sg|person=3|prontype=prs	0	_	_	_
+2	ist	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	1	_	_	_
+3	mein	mein	PRON	PPOSAT	case=nom|gender=masc|number=sg|poss=yes	2	_	_	_
+4	Töff	Töff	NOUN	NN	case=nom|gender=masc|number=sg	3	_	_	_
+5	,	,	PUNCT	$,	_	4	_	_	_
+6	oder	oder	CCONJ	KON	_	5	_	_	_
+7	!	!	PUNCT	$.	_	6	_	_	_
+
+1	Gut	gut	ADJ	ADJD	_	0	_	_	_
+2	,	,	PUNCT	$,	_	1	_	_	_
+3	also	also	ADV	ADV	_	2	_	_	_
+4	das	der	DET	ART	case=nom|definite=def|gender=neut|number=sg|prontype=art	3	_	_	_
+5	Benzin	Benzin	NOUN	NN	case=nom|gender=neut|number=sg	4	_	_	_
+6	geht	gehen	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	5	_	_	_
+7	hier	hier	ADV	ADV	_	6	_	_	_
+8	durch	durch	ADP	PTKVZ	_	7	_	_	_
+9	,	,	PUNCT	$,	_	8	_	_	_
+10	da	da	ADV	ADV	_	9	_	_	_
+11	hinein	hinein	ADV	ADV	_	10	_	_	_
+12	.	.	PUNCT	$.	_	11	_	_	_
+
+1	Da	da	ADV	ADV	_	0	_	_	_
+2	drin	drin	ADV	ADV	_	1	_	_	_
+3	ist	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	2	_	_	_
+4	es	es	PRON	PPER	case=nom|gender=neut|number=sg|person=3|prontype=prs	3	_	_	_
+5	sehr	sehr	ADV	ADV	_	4	_	_	_
+6	heiss	heiß	ADJ	ADJD	_	5	_	_	_
+7	.	.	PUNCT	$.	_	6	_	_	_
+
+1	Dann	dann	ADV	ADV	_	0	_	_	_
+2	die	der	DET	ART	case=nom|definite=def|gender=fem|number=sg|prontype=art	1	_	_	_
+3	Kerze	Kerz	NOUN	NN	case=nom|gender=fem|number=sg	2	_	_	_
+4	maken	maken	VERB	VVFIN	mood=ind|number=pl|person=3|tense=pres|verbform=fin	3	_	_	_
+5	ein	ein	ADV	PTKVZ	_	4	_	_	_
+6	...	...	PUNCT	$(	_	5	_	_	_
+
+1	Ja	Ja	ADV	ADV	_	0	_	_	_
+2	,	,	PUNCT	$,	_	1	_	_	_
+3	wie	wie	ADP	KOKOM	_	2	_	_	_
+4	ein	ein	DET	ART	case=nom|definite=ind|gender=neut|number=sg|prontype=art	3	_	_	_
+5	Messer	Messer	NOUN	NN	case=nom|gender=neut|number=sg	4	_	_	_
+6	auf	auf	ADP	APPR	_	5	_	_	_
+7	dem	der	DET	ART	case=dat|definite=def|gender=masc|number=sg|prontype=art	6	_	_	_
+8	Schleifstein	Schleifstein	NOUN	NN	case=dat|gender=masc|number=sg	7	_	_	_
+9	.	.	PUNCT	$.	_	8	_	_	_
+
+1	Wie	wie	ADP	KOKOM	_	0	_	_	_
+2	ein	ein	DET	ART	case=nom|definite=ind|gender=neut|number=sg|prontype=art	1	_	_	_
+3	Feuerzeug	Feuerzeug	NOUN	NN	case=nom|gender=neut|number=sg	2	_	_	_
+4	.	.	PUNCT	$.	_	3	_	_	_
+
+1	Ein	ein	DET	ART	case=nom|definite=ind|gender=masc|number=sg|prontype=art	0	_	_	_
+2	Funke	Funke	NOUN	NN	case=nom|gender=masc|number=sg	1	_	_	_
+3	.	.	PUNCT	$.	_	2	_	_	_
+
+1	Funke	Funke	PROPN	NE	case=nom|gender=masc|number=sg	0	_	_	_
+2	...	...	PUNCT	$(	_	1	_	_	_
+3	gut	gut	ADJ	ADJD	_	2	_	_	_
+4	.	.	PUNCT	$.	_	3	_	_	_
+
+1	Also	also	ADV	ADV	_	0	_	_	_
+2	die	der	DET	ART	case=nom|definite=def|gender=fem|number=sg|prontype=art	1	_	_	_
+3	Kerze	Kerz	NOUN	NN	case=nom|gender=fem|number=sg	2	_	_	_
+4	machen	machen	VERB	VVFIN	mood=ind|number=pl|person=3|tense=pres|verbform=fin	3	_	_	_
+5	ein	ein	DET	ART	case=acc|definite=ind|gender=masc|number=sg|prontype=art	4	_	_	_
+6	Funke	Funke	NOUN	NN	case=acc|gender=neut|number=sg	5	_	_	_
+7	und	und	CCONJ	KON	_	6	_	_	_
+8	päng	päng	ADV	ADV	_	7	_	_	_
+9	bringt	bringen	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	8	_	_	_
+10	das	der	DET	ART	case=acc|definite=def|gender=neut|number=sg|prontype=art	9	_	_	_
+11	Benzin	Benzin	NOUN	NN	case=acc|gender=neut|number=sg	10	_	_	_
+12	zum	zum	ADP	APPR	_	11	_	_	_
+13	Explodiern	Explodier	NOUN	NN	case=dat|gender=neut|number=pl	12	_	_	_
+
+1	Anateo	Anateo	PROPN	NE	case=nom|gender=masc|number=sg	0	_	_	_
+2	hat	haben	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	1	_	_	_
+3	uns	wir	PRON	PPER	case=dat|number=pl|person=1|prontype=prs	2	_	_	_
+4	alle	alle	PRON	PIS	case=acc|definite=ind|number=pl|prontype=ind	3	_	_	_
+5	verraten	verraten	VERB	VVPP	verbform=part	4	_	_	_
+6	und	und	CCONJ	KON	_	5	_	_	_
+7	er	er	PRON	PPER	case=nom|gender=masc|number=sg|person=3|prontype=prs	6	_	_	_
+8	wird	werden	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin|voice=pass	7	_	_	_
+9	dafür	dafür	ADV	PAV	_	8	_	_	_
+10	bezahlen	bezahlen	VERB	VVINF	verbform=inf	9	_	_	_
+11	.	.	PUNCT	$.	_	10	_	_	_
+
+1	Und	und	CCONJ	KON	_	0	_	_	_
+2	wegen	wegen	ADP	APPR	_	1	_	_	_
+3	der	der	DET	ART	case=gen|definite=def|gender=fem|number=sg|prontype=art	2	_	_	_
+4	Tau'ri	Tau'ri	NOUN	NN	case=gen|gender=fem|number=sg	3	_	_	_
+5	...	...	PUNCT	$(	_	4	_	_	_
+6	sie	sie	PRON	PPER	case=nom|number=pl|person=3|prontype=prs	5	_	_	_
+7	befanden	befinden	VERB	VVFIN	mood=ind|number=pl|person=3|tense=past|verbform=fin	6	_	_	_
+8	sich	er|es|sie	PRON	PRF	case=acc|number=pl|person=3|prontype=prs|reflex=yes	7	_	_	_
+9	schon	schon	ADV	ADV	_	8	_	_	_
+10	im	im	DET	ART	case=nom|definite=def|gender=masc|number=sg|prontype=art	9	_	_	_
+11	Krieg	Krieg	NOUN	NN	case=nom|gender=masc|number=sg	10	_	_	_
+12	gegen	gegen	ADP	APPR	_	11	_	_	_
+13	uns	wir	PRON	PPER	case=acc|number=pl|person=1|prontype=prs	12	_	_	_
+14	und	und	CCONJ	KON	_	13	_	_	_
+15	wir	wir	PRON	PPER	case=nom|number=pl|person=1|prontype=prs	14	_	_	_
+16	gegen	gegen	ADP	APPR	_	15	_	_	_
+17	sie	sie	PRON	PPER	case=acc|number=pl|person=3|prontype=prs	16	_	_	_
+18	...	...	PUNCT	$(	_	17	_	_	_
+19	und	und	CCONJ	KON	_	18	_	_	_
+20	ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	19	_	_	_
+21	werde	werden	AUX	VAFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	20	_	_	_
+22	mich	ich	PRON	PRF	case=acc|number=sg|person=1|prontype=prs|reflex=yes	21	_	_	_
+23	nicht	nicht	PART	PTKNEG	polarity=neg	22	_	_	_
+24	ängstlich	ängstlich	ADV	ADJD	_	23	_	_	_
+25	verkriechen	verkriechen	VERB	VVINF	verbform=inf	24	_	_	_
+26	.	.	PUNCT	$.	_	25	_	_	_
+
+1	Sagt	Sagt	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	0	_	_	_
+2	das	der	PRON	PDS	case=nom|gender=neut|number=sg|prontype=dem	1	_	_	_
+3	weiter	weiter	ADV	PTKVZ	_	2	_	_	_
+4	.	.	PUNCT	$.	_	3	_	_	_
+
+1	Schickt	Schickt	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	0	_	_	_
+2	alle	alle	PRON	PIAT	case=nom|definite=ind|gender=neut|number=pl|prontype=ind	1	_	_	_
+3	verfügbaren	verfügbar	ADJ	ADJA	case=acc|gender=neut|number=pl	2	_	_	_
+4	Schiffe	Schiff	NOUN	NN	case=acc|gender=neut|number=pl	3	_	_	_
+5	.	.	PUNCT	$.	_	4	_	_	_
+
+1	Ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	0	_	_	_
+2	will	wollen	AUX	VMFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	1	_	_	_
+3	,	,	PUNCT	$,	_	2	_	_	_
+4	dass	dass	SCONJ	KOUS	_	3	_	_	_
+5	die	der	DET	ART	case=nom|definite=def|gender=fem|number=pl|prontype=art	4	_	_	_
+6	0dyssey	0dyssey	NOUN	NN	case=nom|number=pl	5	_	_	_
+7	gefunden	finden	VERB	VVPP	verbform=part	6	_	_	_
+8	wird	werden	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin|voice=pass	7	_	_	_
+9	.	.	PUNCT	$.	_	8	_	_	_
+
+1	Sofort	sofort	ADV	ADV	_	0	_	_	_
+2	!	!	PUNCT	$.	_	1	_	_	_
+
+1	Kefflin	Kefflin	PROPN	NE	case=nom|gender=masc|number=sg	0	_	_	_
+2	.	.	PUNCT	$.	_	1	_	_	_
+
+1	War	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=past|verbform=fin	0	_	_	_
+2	es	es	PRON	PPER	case=nom|gender=neut|number=sg|person=3|prontype=prs	1	_	_	_
+3	wirklich	wirklich	ADV	ADV	_	2	_	_	_
+4	nötig	nötig	ADJ	ADJD	_	3	_	_	_
+5	,	,	PUNCT	$,	_	4	_	_	_
+6	mich	ich	PRON	PPER	case=acc|number=sg|person=1|prontype=prs	5	_	_	_
+7	so	so	ADV	ADV	_	6	_	_	_
+8	zu	zu	PART	PTKZU	_	7	_	_	_
+9	blamieren	blamieren	VERB	VVINF	verbform=inf	8	_	_	_
+10	?	?	PUNCT	$.	_	9	_	_	_
+
+1	Es	es	PRON	PPER	case=nom|gender=neut|number=sg|person=3|prontype=prs	0	_	_	_
+2	gab	geben	VERB	VVFIN	mood=ind|number=sg|person=3|tense=past|verbform=fin	1	_	_	_
+3	Gerüchte	Gerücht	NOUN	NN	case=acc|gender=neut|number=pl	2	_	_	_
+4	wegen	wegen	ADP	APPR	_	3	_	_	_
+5	der	der	DET	ART	case=gen|definite=def|gender=fem|number=sg|prontype=art	4	_	_	_
+6	Stärke	Stärke	NOUN	NN	case=gen|gender=fem|number=sg	5	_	_	_
+7	deiner	dein	PRON	PPOSAT	case=gen|gender=fem|number=sg|poss=yes	6	_	_	_
+8	Führung	Führung	NOUN	NN	case=gen|gender=fem|number=sg	7	_	_	_
+9	.	.	PUNCT	$.	_	8	_	_	_
+
+1	Jetzt	jetzt	ADV	ADV	_	0	_	_	_
+2	werden	werden	AUX	VAFIN	mood=ind|number=pl|person=3|tense=pres|verbform=fin|voice=pass	1	_	_	_
+3	diese	dies	PRON	PDAT	case=nom|gender=neut|number=pl|prontype=dem	2	_	_	_
+4	Gerüchte	Gerücht	NOUN	NN	case=nom|gender=neut|number=pl	3	_	_	_
+5	aufhören	aufhören	VERB	VVINF	verbform=inf	4	_	_	_
+6	.	.	PUNCT	$.	_	5	_	_	_
+
+1	Und	und	CCONJ	KON	_	0	_	_	_
+2	?	?	PUNCT	$.	_	1	_	_	_
+
+1	Wirst	Wirst	AUX	VAFIN	mood=ind|number=sg|person=2|tense=pres|verbform=fin	0	_	_	_
+2	du	du	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	1	_	_	_
+3	es	es	PRON	PPER	case=acc|gender=neut|number=sg|person=3|prontype=prs	2	_	_	_
+4	so	so	ADV	ADV	_	3	_	_	_
+5	lassen	lassen	VERB	VVINF	verbform=inf	4	_	_	_
+6	oder	oder	CCONJ	KON	_	5	_	_	_
+7	wirst	werden	AUX	VMFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	6	_	_	_
+8	du	du	PRON	PPER	case=nom|number=sg|person=2|prontype=prs	7	_	_	_
+9	das	der	PRON	PDS	case=acc|gender=neut|number=sg|prontype=dem	8	_	_	_
+10	in	in	ADP	APPR	_	9	_	_	_
+11	Ordnung	Ordnung	NOUN	NN	case=dat|gender=fem|number=sg	10	_	_	_
+12	bringen	bringen	VERB	VVINF	verbform=inf	11	_	_	_
+13	?	?	PUNCT	$.	_	12	_	_	_
+
+1	Bist	sein	AUX	VAFIN	mood=ind|number=sg|person=2|tense=pres|verbform=fin	0	_	_	_
+2	du	du	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	1	_	_	_
+3	glücklich	glücklich	ADJ	ADJD	_	2	_	_	_
+4	?	?	PUNCT	$.	_	3	_	_	_
+
+1	Ja	Ja	ADV	ADV	_	0	_	_	_
+2	.	.	PUNCT	$.	_	1	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Es	es	PRON	PPER	case=nom|gender=neut|number=sg|person=3|prontype=prs	1	_	_	_
+3	ist	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	2	_	_	_
+4	nett	nett	ADJ	ADJD	_	3	_	_	_
+5	von	von	ADP	APPR	_	4	_	_	_
+6	dir	dur	PRON	PPER	case=dat|number=sg|person=1|prontype=prs	5	_	_	_
+7	,	,	PUNCT	$,	_	6	_	_	_
+8	dass	dass	SCONJ	KOUS	_	7	_	_	_
+9	du	du	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	8	_	_	_
+10	hilfst	helfst	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	9	_	_	_
+11	.	.	PUNCT	$.	_	10	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Einmal	einmal	ADV	ADV	_	1	_	_	_
+3	ein	ein	DET	ART	case=nom|definite=ind|gender=masc|number=sg|prontype=art	2	_	_	_
+4	Pfadfinder	Pfadfinder	NOUN	NN	case=nom|gender=masc|number=sg	3	_	_	_
+5	,	,	PUNCT	$,	_	4	_	_	_
+6	immer	immer	ADV	ADV	_	5	_	_	_
+7	ein	ein	DET	ART	case=nom|definite=ind|gender=masc|number=sg|prontype=art	6	_	_	_
+8	Pfadfinder	Pfadfinder	NOUN	NN	case=nom|gender=masc|number=sg	7	_	_	_
+9	.	.	PUNCT	$.	_	8	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Du	du	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	1	_	_	_
+3	warst	warsen	AUX	VAFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	2	_	_	_
+4	nie	nie	ADV	ADV	_	3	_	_	_
+5	ein	ein	DET	ART	case=nom|definite=ind|gender=masc|number=sg|prontype=art	4	_	_	_
+6	Pfandfinder	Pfandfinder	NOUN	NN	case=nom|gender=masc|number=sg	5	_	_	_
+7	.	.	PUNCT	$.	_	6	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Offensichtlich	offensichtlich	ADV	ADJD	_	1	_	_	_
+3	habe	haben	AUX	VAFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	2	_	_	_
+4	ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	3	_	_	_
+5	mein	mein	PRON	PPOSAT	case=acc|gender=neut|number=sg|poss=yes	4	_	_	_
+6	...	...	PUNCT	$(	_	5	_	_	_
+
+1	Verdienstabzeichen	Verdienstabzeichen	NOUN	NN	case=nom|gender=masc|number=pl	0	_	_	_
+2	für	für	ADP	APPR	_	1	_	_	_
+3	Biberfallen	Biberfallen	NOUN	NN	case=acc|gender=fem|number=pl	2	_	_	_
+4	bekommen	bekommen	VERB	VVPP	verbform=part	3	_	_	_
+5	.	.	PUNCT	$.	_	4	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Konzentriere	Konzentriere	NOUN	NN	case=nom|gender=neut|number=sg	1	_	_	_
+3	dich	du	PRON	PPER	case=acc|number=sg|person=1|prontype=prs	2	_	_	_
+4	lieber	lieb	ADV	ADV	_	3	_	_	_
+5	da	da	ADV	ADV	_	4	_	_	_
+6	drauf	drauf	ADV	PAV	_	5	_	_	_
+7	.	.	PUNCT	$.	_	6	_	_	_
+
+1	Kommt	Kommt	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	0	_	_	_
+2	mit	mit	ADP	APPR	_	1	_	_	_
+3	mir	ich	PRON	PPER	case=dat|number=sg|person=1|prontype=prs	2	_	_	_
+4	.	.	PUNCT	$.	_	3	_	_	_
+
+1	Wisst	Wisse	VERB	VVIMP	mood=ind|number=sg|person=3|tense=pres|verbform=fin	0	_	_	_
+2	ihr	ihr	PRON	PPER	case=dat|number=sg|person=2|prontype=prs	1	_	_	_
+3	,	,	PUNCT	$,	_	2	_	_	_
+4	wie	wie	SCONJ	KOUS	_	3	_	_	_
+5	wertvoll	wertvoll	ADJ	ADJD	_	4	_	_	_
+6	diese	dies	PRON	PDAT	case=nom|gender=masc|number=pl|prontype=dem	5	_	_	_
+7	Mohnblumen	Mohnblumen	NOUN	NN	case=nom|gender=masc|number=pl	6	_	_	_
+8	waren	sein	AUX	VAFIN	mood=ind|number=pl|person=3|tense=past|verbform=fin	7	_	_	_
+9	?	?	PUNCT	$.	_	8	_	_	_
+
+1	In	in	ADP	APPR	_	0	_	_	_
+2	Rauch	Rauch	PROPN	NE	case=dat|gender=masc|number=sg	1	_	_	_
+3	aufgegangen	aufgehen	VERB	VVPP	verbform=part	2	_	_	_
+4	.	.	PUNCT	$.	_	3	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Was	was	PRON	PWS	case=nom|gender=neut|number=sg|prontype=int	1	_	_	_
+3	?	?	PUNCT	$.	_	2	_	_	_
+
+1	Hat	haben	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	0	_	_	_
+2	sie	sie	PRON	PPER	case=nom|gender=fem|number=sg|person=3|prontype=prs	1	_	_	_
+3	jemand	jemand	PRON	PIS	case=nom|definite=ind|number=sg|prontype=ind	2	_	_	_
+4	angezündet	anzünden	VERB	VVPP	verbform=part	3	_	_	_
+5	?	?	PUNCT	$.	_	4	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Ja	Ja	ADV	ADV	_	1	_	_	_
+3	.	.	PUNCT	$.	_	2	_	_	_
+
+1	Betrunkene	Betrunkene	ADJ	ADJA	case=nom|gender=fem|number=sg	0	_	_	_
+2	irische	irisch	ADJ	ADJA	case=nom|gender=fem|number=sg	1	_	_	_
+3	Familie	Familie	NOUN	NN	case=nom|gender=fem|number=sg	2	_	_	_
+4	,	,	PUNCT	$,	_	3	_	_	_
+5	die	der	DET	ART	case=nom|definite=def|gender=fem|number=sg|prontype=art	4	_	_	_
+6	Straße	Straße	NOUN	NN	case=nom|gender=fem|number=sg	5	_	_	_
+7	hoch	hoch	ADJ	ADJD	_	6	_	_	_
+8	.	.	PUNCT	$.	_	7	_	_	_
+
+1	Die	der	DET	ART	case=nom|definite=def|gender=fem|number=pl|prontype=art	0	_	_	_
+2	O'Hallorans	O'Hallorans	NOUN	NN	case=nom|gender=masc|number=pl	1	_	_	_
+3	.	.	PUNCT	$.	_	2	_	_	_
+
+1	Warum	warum	ADV	PWAV	prontype=int	0	_	_	_
+2	?	?	PUNCT	$.	_	1	_	_	_
+
+1	Was	was	PRON	PWS	case=nom|gender=neut|number=sg|prontype=int	0	_	_	_
+2	hast	haben	AUX	VAFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	1	_	_	_
+3	du	du	PRON	PPER	case=nom|number=sg|person=2|prontype=prs	2	_	_	_
+4	getan	tun	VERB	VVPP	verbform=part	3	_	_	_
+5	,	,	PUNCT	$,	_	4	_	_	_
+6	um	um	ADP	KOUI	_	5	_	_	_
+7	sie	sie	PRON	PPER	case=acc|number=pl|person=3|prontype=prs	6	_	_	_
+8	zu	zu	PART	PTKZU	_	7	_	_	_
+9	verärgern	verärgern	VERB	VVINF	verbform=inf	8	_	_	_
+10	?	?	PUNCT	$.	_	9	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Arbeitet	Arbeiten	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	1	_	_	_
+3	sie	sie	PRON	PPER	case=nom|gender=fem|number=sg|person=3|prontype=prs	2	_	_	_
+4	nicht	nicht	PART	PTKNEG	polarity=neg	3	_	_	_
+5	für	für	ADP	APPR	_	4	_	_	_
+6	dich	du	PRON	PPER	case=acc|number=sg|person=1|prontype=prs	5	_	_	_
+7	,	,	PUNCT	$,	_	6	_	_	_
+8	Vince	Vince	PROPN	NE	case=acc|gender=masc|number=sg	7	_	_	_
+9	?	?	PUNCT	$.	_	8	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Ja	Ja	ADV	ADV	_	1	_	_	_
+3	,	,	PUNCT	$,	_	2	_	_	_
+4	allerdings	allerdings	ADV	ADV	_	3	_	_	_
+5	.	.	PUNCT	$.	_	4	_	_	_
+
+1	Und	und	CCONJ	KON	_	0	_	_	_
+2	bei	bei	ADP	APPR	_	1	_	_	_
+3	E	E	NOUN	NN	case=dat|gender=fem|number=sg	2	_	_	_
+4	einfach	einfach	ADV	ADV	_	3	_	_	_
+5	den	der	DET	ART	case=acc|definite=def|gender=masc|number=sg|prontype=art	4	_	_	_
+6	Hörer	Hörer	NOUN	NN	case=acc|gender=masc|number=sg	5	_	_	_
+7	aufzulegen	auflegen	VERB	VVIZU	verbform=inf	6	_	_	_
+8	,	,	PUNCT	$,	_	7	_	_	_
+9	muss	müssen	AUX	VMFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	8	_	_	_
+10	ziemlich	ziemlich	ADV	ADV	_	9	_	_	_
+11	entmannend	entmannend	ADJ	ADJD	_	10	_	_	_
+12	gewesen	sein	AUX	VAPP	verbform=part	11	_	_	_
+13	sein	sein	AUX	VAINF	verbform=inf	12	_	_	_
+14	?	?	PUNCT	$.	_	13	_	_	_
+
+1	Fühlte	fühlen	VERB	VVFIN	mood=ind|number=sg|person=3|tense=past|verbform=fin	0	_	_	_
+2	sich	er|es|sie	PRON	PRF	case=acc|number=sg|person=3|prontype=prs|reflex=yes	1	_	_	_
+3	an	an	ADP	PTKVZ	_	2	_	_	_
+4	,	,	PUNCT	$,	_	3	_	_	_
+5	wie	wie	ADP	KOKOM	_	4	_	_	_
+6	zum	zum	DET	ART	case=nom|definite=def|gender=masc|number=sg|prontype=art	5	_	_	_
+7	Direktor	Direktor	NOUN	NN	case=nom|gender=masc|number=sg	6	_	_	_
+8	Reeve	Reeve	PROPN	NE	case=nom|gender=masc|number=sg	7	_	_	_
+9	ins	ins	PROPN	NE	case=nom|gender=masc|number=sg	8	_	_	_
+10	Büro	Büro	NOUN	NN	case=acc|gender=neut|number=sg	9	_	_	_
+11	gerufen	rufen	VERB	VVPP	verbform=part	10	_	_	_
+12	zu	zu	PART	PTKZU	_	11	_	_	_
+13	werden	werden	AUX	VAINF	verbform=inf|voice=pass	12	_	_	_
+14	.	.	PUNCT	$.	_	13	_	_	_
+
+1	Genauso	Genauso	ADV	ADV	_	0	_	_	_
+2	wie	wie	ADV	KOUS	_	1	_	_	_
+3	er	er	PRON	PPER	case=nom|gender=masc|number=sg|person=3|prontype=prs	2	_	_	_
+4	,	,	PUNCT	$,	_	3	_	_	_
+5	werde	werden	AUX	VAFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	4	_	_	_
+6	ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	5	_	_	_
+7	ihr	ihr	PRON	PPER	case=acc|number=sg|person=3|prontype=prs	6	_	_	_
+8	sagen	sagen	VERB	VVINF	verbform=inf	7	_	_	_
+9	,	,	PUNCT	$,	_	8	_	_	_
+10	wie	wie	SCONJ	KOUS	_	9	_	_	_
+11	es	es	PRON	PPER	case=nom|gender=neut|number=sg|person=3|prontype=prs	10	_	_	_
+12	ist	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	11	_	_	_
+13	.	.	PUNCT	$.	_	12	_	_	_
+
+1	Mach	Mach	VERB	VVIMP	mood=ind|number=sg|person=3|tense=pres|verbform=fin	0	_	_	_
+2	das	der	PRON	PDS	case=acc|gender=neut|number=sg|prontype=dem	1	_	_	_
+3	bitte	bitte	NOUN	NN	case=acc|gender=neut|number=sg	2	_	_	_
+4	,	,	PUNCT	$,	_	3	_	_	_
+5	denn	denn	SCONJ	KON	_	4	_	_	_
+6	ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	5	_	_	_
+7	mag	mögen	AUX	VMFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	6	_	_	_
+8	ihr	ihr	PRON	PPER	case=acc|number=sg|person=3|prontype=prs	7	_	_	_
+9	nicht	nicht	PART	PTKNEG	polarity=neg	8	_	_	_
+10	aus	aus	ADP	APPR	_	9	_	_	_
+11	dem	der	DET	ART	case=dat|definite=def|gender=masc|number=sg|prontype=art	10	_	_	_
+12	Weg	Weg	NOUN	NN	case=dat|gender=masc|number=sg	11	_	_	_
+13	gehen	gehen	VERB	VVINF	verbform=inf	12	_	_	_
+14	.	.	PUNCT	$.	_	13	_	_	_
+
+1	Nein	nein	ADV	ADV	_	0	_	_	_
+2	,	,	PUNCT	$,	_	1	_	_	_
+3	nein	nein	ADV	ADV	_	2	_	_	_
+4	.	.	PUNCT	$.	_	3	_	_	_
+
+1	Kein	kein	PRON	PIAT	case=nom|definite=ind|gender=neut|number=sg|polarity=neg|prontype=neg	0	_	_	_
+2	weiteres	weit	ADJ	ADJA	case=nom|gender=neut|number=sg	1	_	_	_
+3	Ausweichen	Ausweichen	NOUN	NN	case=nom|gender=neut|number=sg	2	_	_	_
+4	.	.	PUNCT	$.	_	3	_	_	_
+
+1	Wir	wir	PRON	PPER	case=nom|number=pl|person=1|prontype=prs	0	_	_	_
+2	werden	werden	AUX	VAFIN	mood=ind|number=pl|person=1|tense=pres|verbform=fin	1	_	_	_
+3	ihr	ihr	PRON	PPER	case=acc|number=sg|person=2|prontype=prs	2	_	_	_
+4	sagen	sagen	VERB	VVINF	verbform=inf	3	_	_	_
+5	,	,	PUNCT	$,	_	4	_	_	_
+6	wir	wir	PRON	PPER	case=nom|number=pl|person=1|prontype=prs	5	_	_	_
+7	machen	machen	VERB	VVFIN	mood=ind|number=pl|person=1|tense=pres|verbform=fin	6	_	_	_
+8	keinen	kein	PRON	PIAT	case=acc|definite=ind|gender=masc|number=sg|polarity=neg|prontype=neg	7	_	_	_
+9	Film	Film	NOUN	NN	case=acc|gender=masc|number=sg	8	_	_	_
+10	über	über	ADP	APPR	_	9	_	_	_
+11	irgendwas	irgendwas	PRON	PIS	definite=ind|prontype=ind	10	_	_	_
+12	,	,	PUNCT	$,	_	11	_	_	_
+13	bis	bis	SCONJ	KOUS	_	12	_	_	_
+14	die	der	DET	ART	case=nom|definite=def|gender=neut|number=pl|prontype=art	13	_	_	_
+15	Kameras	Kamera	NOUN	NN	case=nom|gender=neut|number=pl	14	_	_	_
+16	tatsächlich	tatsächlich	ADJ	ADV	_	15	_	_	_
+17	für	für	ADP	APPR	_	16	_	_	_
+18	"	"	PUNCT	$(	_	17	_	_	_
+19	Medellin	Medellin	PROPN	NE	_	18	_	_	_
+20	"	"	PUNCT	$(	_	19	_	_	_
+21	anlaufen	anlaufen	VERB	VVFIN	verbform=inf	20	_	_	_
+22	.	.	PUNCT	$.	_	21	_	_	_
+
+1	Sie	Sie|sie	PRON	PPER	case=nom|gender=fem|number=sg|person=3|prontype=prs	0	_	_	_
+2	wird	werden	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin|voice=pass	1	_	_	_
+3	angepisst	anpissen	ADJ	ADJD	_	2	_	_	_
+4	sein	sein	AUX	VAINF	verbform=inf	3	_	_	_
+5	,	,	PUNCT	$,	_	4	_	_	_
+6	wenn	wenn	SCONJ	KOUS	_	5	_	_	_
+7	sie	sie	PRON	PPER	case=nom|gender=fem|number=sg|person=3|prontype=prs	6	_	_	_
+8	denkt	denken	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	7	_	_	_
+9	,	,	PUNCT	$,	_	8	_	_	_
+10	du	du	PRON	PPER	case=nom|number=sg|person=2|prontype=prs	9	_	_	_
+11	nimmst	nehmsen	VERB	VVFIN	mood=ind|number=sg|person=2|tense=pres|verbform=fin	10	_	_	_
+12	Ari	Ari	PROPN	NE	case=nom|gender=masc|number=sg	11	_	_	_
+13	ernst	ernst	ADJ	ADJD	_	12	_	_	_
+14	.	.	PUNCT	$.	_	13	_	_	_
+
+1	Anpassung	Anpassung	NOUN	NN	case=nom|gender=fem|number=sg	0	_	_	_
+2	von	von	ADP	APPR	_	1	_	_	_
+3	Movie	Movie	PROPN	NE	case=dat|gender=masc|number=sg	2	_	_	_
+
+1	Er	er	PRON	PPER	case=nom|gender=masc|number=sg|person=3|prontype=prs	0	_	_	_
+2	sieht	sehen	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	1	_	_	_
+3	wie	wie	ADP	KOKOM	_	2	_	_	_
+4	Frankenstein	Frankenstein	PROPN	NE	case=nom|gender=masc|number=sg	3	_	_	_
+5	aus	aus	ADP	PTKVZ	_	4	_	_	_
+6	.	.	PUNCT	$.	_	5	_	_	_
+
+1	Immerhin	immerhin	ADV	ADV	_	0	_	_	_
+2	läuft	laufen	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	1	_	_	_
+3	er	er	PRON	PPER	case=nom|gender=masc|number=sg|person=3|prontype=prs	2	_	_	_
+4	ohne	ohne	ADP	APPR	_	3	_	_	_
+5	Krücken	Krücke	NOUN	NN	case=acc|gender=fem|number=pl	4	_	_	_
+6	.	.	PUNCT	$.	_	5	_	_	_
+
+1	Ja	Ja	ADV	ADV	_	0	_	_	_
+2	,	,	PUNCT	$,	_	1	_	_	_
+3	ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	2	_	_	_
+4	dachte	denken	VERB	VVFIN	mood=ind|number=sg|person=1|tense=past|verbform=fin	3	_	_	_
+5	,	,	PUNCT	$,	_	4	_	_	_
+6	er	er	PRON	PPER	case=nom|gender=masc|number=sg|person=3|prontype=prs	5	_	_	_
+7	wäre	sein	AUX	VAFIN	mood=sub|number=sg|person=3|tense=past|verbform=fin	6	_	_	_
+8	glücklicher	glücklich	ADJ	ADJD	_	7	_	_	_
+9	darüber	darüber	ADV	PAV	_	8	_	_	_
+10	.	.	PUNCT	$.	_	9	_	_	_
+
+1	Ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	0	_	_	_
+2	bin	sein	AUX	VAFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	1	_	_	_
+3	glücklicher	glücklich	ADJ	ADJD	_	2	_	_	_
+4	darüber	darüber	ADV	PAV	_	3	_	_	_
+5	.	.	PUNCT	$.	_	4	_	_	_
+
+1	Wie	wie	ADV	PWAV	_	0	_	_	_
+2	geht	gehen	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	1	_	_	_
+3	es	es	PRON	PPER	case=nom|gender=neut|number=sg|person=3|prontype=prs	2	_	_	_
+4	dir	dur	PRON	PPER	case=acc|number=sg|person=1|prontype=prs	3	_	_	_
+5	,	,	PUNCT	$,	_	4	_	_	_
+6	Maggie	Maggie	PROPN	NE	case=nom|gender=fem|number=sg	5	_	_	_
+7	?	?	PUNCT	$.	_	6	_	_	_
+
+1	Langer	Langer	ADJ	ADJA	case=nom|gender=masc|number=sg	0	_	_	_
+2	Tag	Tag	NOUN	NN	case=nom|gender=masc|number=sg	1	_	_	_
+3	.	.	PUNCT	$.	_	2	_	_	_
+
+1	Sieht	Sieht	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	0	_	_	_
+2	so	so	ADV	ADV	_	1	_	_	_
+3	aus	aus	ADP	PTKVZ	_	2	_	_	_
+4	,	,	PUNCT	$,	_	3	_	_	_
+5	als	als	SCONJ	KOKOM	_	4	_	_	_
+6	fängt	fängen	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	5	_	_	_
+7	mein	mein	PRON	PPOSAT	case=nom|gender=masc|number=sg|poss=yes	6	_	_	_
+8	Tag	Tag	NOUN	NN	case=nom|gender=masc|number=sg	7	_	_	_
+9	gerade	gerade	ADV	ADV	_	8	_	_	_
+10	an	an	ADP	PTKVZ	_	9	_	_	_
+11	.	.	PUNCT	$.	_	10	_	_	_
+
+1	Hal	Hal	PROPN	NE	case=nom|gender=masc|number=sg	0	_	_	_
+2	.	.	PUNCT	$.	_	1	_	_	_
+
+1	Was	was	PRON	PWS	case=acc|gender=neut|number=sg|prontype=int	0	_	_	_
+2	ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	1	_	_	_
+3	sage	sagen	ADJ	ADJD	_	2	_	_	_
+4	ist	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	3	_	_	_
+5	,	,	PUNCT	$,	_	4	_	_	_
+6	mit	mit	ADP	APPR	_	5	_	_	_
+7	dem	der	DET	ART	case=dat|definite=def|gender=neut|number=sg|prontype=art	6	_	_	_
+8	Militär	Militär	NOUN	NN	case=dat|gender=neut|number=sg	7	_	_	_
+9	ausgenommen	ausgenommen	VERB	VVPP	verbform=part	8	_	_	_
+10	sind	sein	AUX	VAFIN	mood=ind|number=pl|person=3|tense=pres|verbform=fin	9	_	_	_
+11	es	es	PRON	PPER	case=nom|gender=neut|number=sg|person=3|prontype=prs	10	_	_	_
+12	vielleicht	vielleicht	ADV	ADV	_	11	_	_	_
+13	vier	vier	NUM	CARD	numtype=card	12	_	_	_
+14	Leute	Leute	NOUN	NN	case=nom|number=pl	13	_	_	_
+15	,	,	PUNCT	$,	_	14	_	_	_
+16	die	der	PRON	PRELS	case=nom|number=pl|prontype=rel	15	_	_	_
+17	genau	genau	ADV	ADV	_	16	_	_	_
+18	wissen	wissen	VERB	VVFIN	verbform=inf	17	_	_	_
+19	,	,	PUNCT	$,	_	18	_	_	_
+20	wie	wie	SCONJ	KOUS	_	19	_	_	_
+21	dieser	dies	PRON	PDAT	case=nom|gender=masc|number=sg|prontype=dem	20	_	_	_
+22	Ort	Ort	NOUN	NN	case=nom|gender=masc|number=sg	21	_	_	_
+23	funktioniert	funktionieren	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	22	_	_	_
+24	.	.	PUNCT	$.	_	23	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Die	der	DET	ART	case=nom|definite=def|gender=fem|number=sg|prontype=art	1	_	_	_
+3	Vaginoplastie	Vaginoplastie	NOUN	NN	case=nom|gender=fem|number=sg	2	_	_	_
+4	.	.	PUNCT	$.	_	3	_	_	_
+
+1	Wird	werden	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin|voice=pass	0	_	_	_
+2	die	der	DET	ART	case=nom|definite=def|gender=fem|number=sg|prontype=art	1	_	_	_
+3	Vaginoplastie	Vaginoplastie	NOUN	NN	case=nom|gender=fem|number=sg	2	_	_	_
+4	separat	separat	ADV	ADJD	_	3	_	_	_
+5	gemacht	machen	VERB	VVPP	verbform=part	4	_	_	_
+6	?	?	PUNCT	$.	_	5	_	_	_
+
+1	Genau	genau	ADJ	ADJD	_	0	_	_	_
+2	.	.	PUNCT	$.	_	1	_	_	_
+
+1	Das	der	PRON	PDS	case=nom|gender=neut|number=sg|prontype=dem	0	_	_	_
+2	wird	werden	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin|voice=pass	1	_	_	_
+3	einzeln	einzeln	ADV	ADJD	_	2	_	_	_
+4	gemacht	machen	VERB	VVPP	verbform=part	3	_	_	_
+5	.	.	PUNCT	$.	_	4	_	_	_
+
+1	Ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	0	_	_	_
+2	möchte	mögen	AUX	VMFIN	mood=sub|number=sg|person=1|tense=past|verbform=fin	1	_	_	_
+3	nicht	nicht	PART	PTKNEG	polarity=neg	2	_	_	_
+4	mehr	mehr	ADV	ADV	_	3	_	_	_
+5	als	als	ADP	KOKOM	_	4	_	_	_
+6	nötig	nötig	ADV	ADJD	_	5	_	_	_
+7	unter	unter	ADP	APPR	_	6	_	_	_
+8	Narkose	Narkose	NOUN	NN	case=dat|gender=fem|number=sg	7	_	_	_
+9	gesetzt	setzen	VERB	VVPP	verbform=part	8	_	_	_
+10	werden	werden	AUX	VAINF	verbform=inf|voice=pass	9	_	_	_
+11	.	.	PUNCT	$.	_	10	_	_	_
+
+1	Ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	0	_	_	_
+2	bekomme	bekommen	VERB	VVFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	1	_	_	_
+3	eine	ein	DET	ART	case=acc|definite=ind|gender=fem|number=sg|prontype=art	2	_	_	_
+4	Narkose	Narkose	NOUN	NN	case=acc|gender=fem|number=sg	3	_	_	_
+5	,	,	PUNCT	$,	_	4	_	_	_
+6	und	und	CCONJ	KON	_	5	_	_	_
+7	dann	dann	ADV	ADV	_	6	_	_	_
+8	noch	noch	ADV	ADV	_	7	_	_	_
+9	eine	ein	DET	ART	case=nom|definite=ind|gender=fem|number=sg|prontype=art	8	_	_	_
+10	?	?	PUNCT	$.	_	9	_	_	_
+
+1	Es	es	PRON	PPER	case=nom|gender=neut|number=sg|person=3|prontype=prs	0	_	_	_
+2	ist	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	1	_	_	_
+3	ein	ein	DET	ART	case=nom|definite=ind|gender=masc|number=sg|prontype=art	2	_	_	_
+4	schwerer	schwer	ADJ	ADJA	case=nom|gender=masc|number=sg	3	_	_	_
+5	Eingriff	Eingriff	NOUN	NN	case=nom|gender=masc|number=sg	4	_	_	_
+6	mit	mit	ADP	APPR	_	5	_	_	_
+7	einer	ein	DET	ART	case=dat|definite=ind|gender=fem|number=sg|prontype=art	6	_	_	_
+8	langen	lang	ADJ	ADJA	case=dat|gender=fem|number=sg	7	_	_	_
+9	Rekonvaleszenz	Rekonvaleszenz	NOUN	NN	case=dat|gender=fem|number=sg	8	_	_	_
+10	.	.	PUNCT	$.	_	9	_	_	_
+
+1	Außerdem	außerdem	ADV	PAV	_	0	_	_	_
+2	brauchen	brauchen	VERB	VVFIN	mood=ind|number=pl|person=1|tense=pres|verbform=fin	1	_	_	_
+3	wir	wir	PRON	PPER	case=nom|number=pl|person=1|prontype=prs	2	_	_	_
+4	dafür	dafür	ADV	PAV	_	3	_	_	_
+5	einen	ein	DET	ART	case=acc|definite=ind|gender=masc|number=sg|prontype=art	4	_	_	_
+6	Spezialisten	Spezialist	NOUN	NN	case=acc|gender=masc|number=sg	5	_	_	_
+7	.	.	PUNCT	$.	_	6	_	_	_
+
+1	Aufregend	aufregend	ADJ	ADJD	_	0	_	_	_
+2	.	.	PUNCT	$.	_	1	_	_	_
+
+1	Ja	Ja	ADV	ADV	_	0	_	_	_
+2	,	,	PUNCT	$,	_	1	_	_	_
+3	das	der	PRON	PDS	case=nom|gender=neut|number=sg|prontype=dem	2	_	_	_
+4	ist	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	3	_	_	_
+5	es	es	PRON	PPER	case=nom|gender=neut|number=sg|person=3|prontype=prs	4	_	_	_
+6	in	in	ADP	APPR	_	5	_	_	_
+7	der	der	DET	ART	case=dat|definite=def|gender=fem|number=sg|prontype=art	6	_	_	_
+8	Tat	Tat	NOUN	NN	case=dat|gender=fem|number=sg	7	_	_	_
+9	.	.	PUNCT	$.	_	8	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Oh	Oh	ADJ	ADJA	case=nom|gender=masc|number=sg	1	_	_	_
+3	Gott	Gott	NOUN	NE	case=nom|gender=masc|number=sg	2	_	_	_
+4	.	.	PUNCT	$.	_	3	_	_	_
+
+1	Das	der	PRON	PDS	case=nom|gender=neut|number=sg|prontype=dem	0	_	_	_
+2	reicht	reichen	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	1	_	_	_
+3	,	,	PUNCT	$,	_	2	_	_	_
+4	Dad	Dad	NOUN	NN	case=nom|gender=masc|number=sg	3	_	_	_
+5	!	!	PUNCT	$.	_	4	_	_	_
+
+1	Weißt	weißen|wissen	VERB	VVFIN	mood=ind|number=sg|person=2|tense=pres|verbform=fin	0	_	_	_
+2	du	du	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	1	_	_	_
+3	,	,	PUNCT	$,	_	2	_	_	_
+4	wovon	wovon	ADV	PWAV	prontype=int	3	_	_	_
+5	ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	4	_	_	_
+6	rede	rede	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	5	_	_	_
+7	?	?	PUNCT	$.	_	6	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Verstehst	verstehst	VERB	VVFIN	mood=ind|number=sg|person=2|tense=pres|verbform=fin	1	_	_	_
+3	du	du	PRON	PPER	case=nom|number=sg|person=2|prontype=prs	2	_	_	_
+4	mich	ich	PRON	PRF	case=acc|number=sg|person=1|prontype=prs	3	_	_	_
+5	?	?	PUNCT	$.	_	4	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Dad	Dad	NOUN	NN	case=nom|gender=masc|number=sg	1	_	_	_
+3	,	,	PUNCT	$,	_	2	_	_	_
+4	das	der	PRON	PRELS	case=nom|gender=neut|number=sg|prontype=rel	3	_	_	_
+5	reicht	reichen	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	4	_	_	_
+6	!	!	PUNCT	$.	_	5	_	_	_
+
+1	Ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	0	_	_	_
+2	gehe	gehen	VERB	VVFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	1	_	_	_
+3	,	,	PUNCT	$,	_	2	_	_	_
+4	ok	ok	ADJ	ADJD	_	3	_	_	_
+5	.	.	PUNCT	$.	_	4	_	_	_
+
+1	Ok	Ok	ADJ	ADJD	_	0	_	_	_
+2	.	.	PUNCT	$.	_	1	_	_	_
+
+1	Gut	gut	ADJ	ADJD	_	0	_	_	_
+2	.	.	PUNCT	$.	_	1	_	_	_
+
+1	Warte	Warte	NOUN	PTKANT	case=nom|number=sg	0	_	_	_
+2	...	...	PUNCT	$(	_	1	_	_	_
+
+1	Ja	Ja	ADV	ADV	_	0	_	_	_
+2	,	,	PUNCT	$,	_	1	_	_	_
+3	die	der	DET	ART	case=nom|definite=def|gender=fem|number=sg|prontype=art	2	_	_	_
+4	DVD	DVD	NOUN	NN	case=nom|gender=fem|number=sg	3	_	_	_
+5	.	.	PUNCT	$.	_	4	_	_	_
+
+1	Okay	Okay	ADJ	ADJD	_	0	_	_	_
+2	,	,	PUNCT	$,	_	1	_	_	_
+3	ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	2	_	_	_
+4	sehe	sehen	VERB	VVFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	3	_	_	_
+5	mal	mal	ADV	ADV	_	4	_	_	_
+6	nach	nach	ADP	PTKVZ	_	5	_	_	_
+7	,	,	PUNCT	$,	_	6	_	_	_
+8	ob	ob	SCONJ	KOUS	_	7	_	_	_
+9	wir	wir	PRON	PPER	case=nom|number=pl|person=1|prontype=prs	8	_	_	_
+10	noch	noch	ADV	ADV	_	9	_	_	_
+11	gefrorene	gefroren	ADJ	ADJA	case=acc|gender=fem|number=sg	10	_	_	_
+12	Soja-Pizza	Soja-Pizza	NOUN	NN	case=acc|gender=fem|number=sg	11	_	_	_
+13	haben	haben	VERB	VAFIN	mood=ind|number=pl|person=3|tense=pres|verbform=fin	12	_	_	_
+14	.	.	PUNCT	$.	_	13	_	_	_
+
+1	Ausweise	Ausweise	NOUN	NN	case=nom|gender=masc|number=pl	0	_	_	_
+2	.	.	PUNCT	$.	_	1	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Hi	Hi	NOUN	NN	case=nom|gender=masc|number=sg	1	_	_	_
+3	.	.	PUNCT	$.	_	2	_	_	_
+
+1	Echt	echt	ADV	ADJD	_	0	_	_	_
+2	jetzt	jetzt	ADV	ADV	_	1	_	_	_
+3	?	?	PUNCT	$.	_	2	_	_	_
+
+1	Ja	Ja	ADV	ADV	_	0	_	_	_
+2	,	,	PUNCT	$,	_	1	_	_	_
+3	Baby	Baby	NOUN	NN	case=nom|gender=neut|number=sg	2	_	_	_
+4	,	,	PUNCT	$,	_	3	_	_	_
+5	man	man	PRON	PIS	case=nom|definite=ind|number=sg|prontype=ind	4	_	_	_
+6	kann	können	AUX	VMFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	5	_	_	_
+7	euer	euer	PRON	PPOSAT	case=acc|gender=neut|number=sg|poss=yes	6	_	_	_
+8	Alter	Alter	NOUN	NN	case=acc|gender=neut|number=sg	7	_	_	_
+9	kaum	kaum	ADV	ADV	_	8	_	_	_
+10	noch	noch	ADV	ADV	_	9	_	_	_
+11	schätzen	schätzen	VERB	VVINF	verbform=inf	10	_	_	_
+12	,	,	PUNCT	$,	_	11	_	_	_
+13	wisst	wessen	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	12	_	_	_
+14	ihr	ihr	PRON	PPER	case=nom|gender=fem|number=sg|person=3|prontype=prs	13	_	_	_
+15	.	.	PUNCT	$.	_	14	_	_	_
+
+1	Ja	Ja	ADV	ADV	_	0	_	_	_
+2	,	,	PUNCT	$,	_	1	_	_	_
+3	bitte	bitte	VERB	VVFIN	mood=ind|number=sg|verbform=fin	2	_	_	_
+4	.	.	PUNCT	$.	_	3	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Der	der	DET	ART	case=nom|definite=def|gender=masc|number=sg|prontype=art	1	_	_	_
+3	Abend	Abend	NOUN	NN	case=nom|gender=masc|number=sg	2	_	_	_
+4	gefällt	gefallen	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	3	_	_	_
+5	mir	ich	PRON	PPER	case=dat|number=sg|person=1|prontype=prs	4	_	_	_
+6	jetzt	jetzt	ADV	ADV	_	5	_	_	_
+7	schon	schon	ADV	ADV	_	6	_	_	_
+8	.	.	PUNCT	$.	_	7	_	_	_
+
+1	Rachel	Rachel	PROPN	NE	case=nom|gender=fem|number=sg	0	_	_	_
+2	?	?	PUNCT	$.	_	1	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Ja	Ja	ADV	ADV	_	1	_	_	_
+3	,	,	PUNCT	$,	_	2	_	_	_
+4	das	der	PRON	PDS	case=nom|gender=neut|number=sg|prontype=dem	3	_	_	_
+5	bin	sein	AUX	VAFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	4	_	_	_
+6	ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	5	_	_	_
+7	.	.	PUNCT	$.	_	6	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Vielen	viel	ADJ	PIAT	case=acc|definite=ind|gender=masc|number=sg|prontype=ind	1	_	_	_
+3	Dank	Dank	NOUN	NN	case=acc|gender=masc|number=sg	2	_	_	_
+4	.	.	PUNCT	$.	_	3	_	_	_
+
+1	Es	es	PRON	PPER	case=nom|gender=neut|number=sg|person=3|prontype=prs	0	_	_	_
+2	gefällt	gefallen	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	1	_	_	_
+3	mir	ich	PRON	PPER	case=dat|number=sg|person=1|prontype=prs	2	_	_	_
+4	viel	viel	ADV	ADV	_	3	_	_	_
+5	besser	gut	ADJ	ADJD	_	4	_	_	_
+6	,	,	PUNCT	$,	_	5	_	_	_
+7	wenn	wenn	SCONJ	KOUS	_	6	_	_	_
+8	wir	wir	PRON	PPER	case=nom|number=pl|person=1|prontype=prs	7	_	_	_
+9	einer	ein	DET	ART	case=dat|definite=ind|gender=fem|number=sg|prontype=art	8	_	_	_
+10	Meinung	Meinung	NOUN	NN	case=dat|gender=fem|number=sg	9	_	_	_
+11	sind	sein	AUX	VAFIN	mood=ind|number=pl|person=3|tense=pres|verbform=fin	10	_	_	_
+12	.	.	PUNCT	$.	_	11	_	_	_
+
+1	Ihnen	Sie|sie	PRON	PPER	case=dat|number=pl|person=3|prontype=prs	0	_	_	_
+2	nicht	nicht	PART	PTKNEG	polarity=neg	1	_	_	_
+3	?	?	PUNCT	$.	_	2	_	_	_
+
+1	Der	der	DET	ART	case=nom|definite=def|gender=masc|number=sg|prontype=art	0	_	_	_
+2	Text	Text	NOUN	NN	case=nom|gender=masc|number=sg	1	_	_	_
+3	des	der	DET	ART	case=gen|definite=def|gender=masc|number=sg|prontype=art	2	_	_	_
+4	Kosst	Kosst	PROPN	NE	case=gen|gender=masc|number=sg	3	_	_	_
+5	Amojan	Amojan	PROPN	NE	case=gen|gender=masc|number=sg	4	_	_	_
+6	,	,	PUNCT	$,	_	5	_	_	_
+7	wie	wie	ADV	KOUS	_	6	_	_	_
+8	Sie	Sie|sie	PRON	PPER	case=nom|number=pl|person=3|prontype=prs	7	_	_	_
+9	wünschten	wünschen	VERB	VVFIN	mood=ind|number=pl|person=3|tense=past|verbform=fin	8	_	_	_
+10	.	.	PUNCT	$.	_	9	_	_	_
+
+1	Sehr	sehr	ADV	ADV	_	0	_	_	_
+2	gut	gut	ADJ	ADJD	_	1	_	_	_
+3	.	.	PUNCT	$.	_	2	_	_	_
+
+1	Also	also	ADV	ADV	_	0	_	_	_
+2	?	?	PUNCT	$.	_	1	_	_	_
+
+1	Legen	Legen	VERB	VVFIN	mood=ind|number=pl|person=3|tense=pres|verbform=fin	0	_	_	_
+2	Sie	Sie|sie	PRON	PPER	case=nom|number=pl|person=3|prontype=prs	1	_	_	_
+3	ihn	er	PRON	PPER	case=acc|gender=masc|number=sg|person=3|prontype=prs	2	_	_	_
+4	auf	auf	ADP	APPR	_	3	_	_	_
+5	meinen	mein	PRON	PPOSAT	case=acc|gender=masc|number=sg|poss=yes	4	_	_	_
+6	Schreibtisch	Schreibtisch	NOUN	NN	case=acc|gender=masc|number=sg	5	_	_	_
+7	.	.	PUNCT	$.	_	6	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Eminenz	Eminenz	NOUN	NN	case=nom|gender=fem|number=sg	1	_	_	_
+3	,	,	PUNCT	$,	_	2	_	_	_
+4	darf	dürfen	AUX	VMFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	3	_	_	_
+5	ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	4	_	_	_
+6	offen	offen	ADV	ADJD	_	5	_	_	_
+7	sprechen	sprechen	VERB	VVINF	verbform=inf	6	_	_	_
+8	?	?	PUNCT	$.	_	7	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Wenn	wenn	SCONJ	KOUS	_	1	_	_	_
+3	es	es	PRON	PPER	case=nom|gender=neut|number=sg|person=3|prontype=prs	2	_	_	_
+4	sein	sein	AUX	VAINF	verbform=inf	3	_	_	_
+5	muss	müssen	AUX	VMFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	4	_	_	_
+6	.	.	PUNCT	$.	_	5	_	_	_
+
+1	Dieses	dies	PRON	PDAT	case=nom|gender=neut|number=sg|prontype=dem	0	_	_	_
+2	Buch	Buch	NOUN	NN	case=nom|gender=neut|number=sg	1	_	_	_
+3	wurde	werden	AUX	VAFIN	mood=ind|number=sg|person=3|tense=past|verbform=fin|voice=pass	2	_	_	_
+4	seit	seit	ADP	APPR	_	3	_	_	_
+5	700	700	NUM	CARD	numtype=card	4	_	_	_
+6	Jahren	Jahr	NOUN	NN	case=dat|gender=neut|number=pl	5	_	_	_
+7	nicht	nicht	PART	PTKNEG	polarity=neg	6	_	_	_
+8	mehr	mehr	ADV	ADV	_	7	_	_	_
+9	aus	aus	ADP	APPR	_	8	_	_	_
+10	den	der	DET	ART	case=dat|definite=def|gender=neut|number=pl|prontype=art	9	_	_	_
+11	Archiven	Archiv	NOUN	NN	case=dat|gender=neut|number=pl	10	_	_	_
+12	geholt	holten	VERB	VVPP	verbform=part	11	_	_	_
+13	.	.	PUNCT	$.	_	12	_	_	_
+
+1	Was	was	PRON	PWS	case=acc|gender=neut|number=sg|prontype=int	0	_	_	_
+2	wollen	wollen	AUX	VMFIN	mood=ind|number=pl|person=3|tense=pres|verbform=fin	1	_	_	_
+3	Sie	Sie|sie	PRON	PPER	case=nom|number=pl|person=3|prontype=prs	2	_	_	_
+4	damit	damit	ADV	PAV	_	3	_	_	_
+5	sagen	sagen	VERB	VVINF	verbform=inf	4	_	_	_
+6	?	?	PUNCT	$.	_	5	_	_	_
+
+1	Er	er	PRON	PPER	case=nom|gender=masc|number=sg|person=3|prontype=prs	0	_	_	_
+2	hat	haben	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	1	_	_	_
+3	dich	du	PRON	PPER	case=acc|number=sg|person=1|prontype=prs	2	_	_	_
+4	gebraucht	brauchen|gebrauchen	VERB	VVPP	verbform=part	3	_	_	_
+5	,	,	PUNCT	$,	_	4	_	_	_
+6	und	und	CCONJ	KON	_	5	_	_	_
+7	du	du	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	6	_	_	_
+8	hast	haben	AUX	VAFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	7	_	_	_
+9	ihn	er	PRON	PPER	case=acc|gender=masc|number=sg|person=3|prontype=prs	8	_	_	_
+10	im	im	ADP	APPR	_	9	_	_	_
+11	Stich	Stich	NOUN	NN	case=acc|gender=masc|number=sg	10	_	_	_
+12	gelassen	gelassen	VERB	VVPP	verbform=part	11	_	_	_
+13	.	.	PUNCT	$.	_	12	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Mom	Mom	NOUN	NN	case=nom|gender=masc|number=sg	1	_	_	_
+3	,	,	PUNCT	$,	_	2	_	_	_
+4	Dad	Dad	NOUN	NN	case=nom|gender=masc|number=sg	3	_	_	_
+5	,	,	PUNCT	$,	_	4	_	_	_
+6	helft	helfen	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	5	_	_	_
+7	mir	ich	PRON	PPER	case=dat|number=sg|person=1|prontype=prs	6	_	_	_
+8	!	!	PUNCT	$.	_	7	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Schatz	Schatz	NOUN	NN	case=nom|gender=masc|number=sg	1	_	_	_
+3	.	.	PUNCT	$.	_	2	_	_	_
+
+1	Eddie	Eddie	PROPN	NE	case=nom|gender=masc|number=sg	0	_	_	_
+2	wollte	wollen	AUX	VMFIN	mood=ind|number=sg|person=3|tense=past|verbform=fin	1	_	_	_
+3	den	der	DET	ART	case=acc|definite=def|gender=masc|number=sg|prontype=art	2	_	_	_
+4	Brand	Brand	NOUN	NN	case=acc|gender=masc|number=sg	3	_	_	_
+5	in	in	ADP	APPR	_	4	_	_	_
+6	sich	er|es|sie	PRON	PRF	case=acc|number=sg|person=3|prontype=prs|reflex=yes	5	_	_	_
+7	löschen	löschen	VERB	VVINF	verbform=inf	6	_	_	_
+8	,	,	PUNCT	$,	_	7	_	_	_
+9	indem	indem	SCONJ	KOUS	_	8	_	_	_
+10	er	er	PRON	PPER	case=nom|gender=masc|number=sg|person=3|prontype=prs	9	_	_	_
+11	in	in	ADP	APPR	_	10	_	_	_
+12	den	der	DET	ART	case=acc|definite=def|gender=masc|number=sg|prontype=art	11	_	_	_
+13	Fluss	Fluß	NOUN	NN	case=acc|gender=masc|number=sg	12	_	_	_
+14	sprang	springen	VERB	VVFIN	mood=ind|number=sg|person=3|tense=past|verbform=fin	13	_	_	_
+15	.	.	PUNCT	$.	_	14	_	_	_
+
+1	Siehst	siehst	VERB	VVFIN	mood=ind|number=sg|person=2|tense=pres|verbform=fin	0	_	_	_
+2	du	du	PRON	PPER	case=nom|number=sg|person=2|prontype=prs	1	_	_	_
+3	?	?	PUNCT	$.	_	2	_	_	_
+
+1	Es	es	PRON	PPER	case=nom|gender=neut|number=sg|person=3|prontype=prs	0	_	_	_
+2	ist	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	1	_	_	_
+3	das	der	DET	ART	case=nom|definite=def|gender=neut|number=sg|prontype=art	2	_	_	_
+4	Beste	Beste	NOUN	NN	case=nom|gender=neut|number=sg	3	_	_	_
+5	,	,	PUNCT	$,	_	4	_	_	_
+6	wenn	wenn	SCONJ	KOUS	_	5	_	_	_
+7	wir	wir	PRON	PPER	case=nom|number=pl|person=1|prontype=prs	6	_	_	_
+8	uns	wir	PRON	PRF	case=acc|number=pl|person=1|prontype=prs|reflex=yes	7	_	_	_
+9	in	in	ADP	APPR	_	8	_	_	_
+10	diesen	dies	PRON	PDAT	case=dat|gender=neut|number=pl|prontype=dem	9	_	_	_
+11	Dingen	Ding	NOUN	NN	case=dat|gender=neut|number=pl	10	_	_	_
+12	nicht	nicht	PART	PTKNEG	polarity=neg	11	_	_	_
+13	einmischen	einmisch	VERB	VVINF	verbform=inf	12	_	_	_
+14	.	.	PUNCT	$.	_	13	_	_	_
+
+1	Aber	aber	CCONJ	KON	_	0	_	_	_
+2	er	er	PRON	PPER	case=nom|gender=masc|number=sg|person=3|prontype=prs	1	_	_	_
+3	kann	können	AUX	VMFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	2	_	_	_
+4	nicht	nicht	PART	PTKNEG	polarity=neg	3	_	_	_
+5	schwimmen	schwimmen	VERB	VVINF	verbform=inf	4	_	_	_
+6	.	.	PUNCT	$.	_	5	_	_	_
+
+1	Du	du	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	0	_	_	_
+2	hast	haben	AUX	VAFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	1	_	_	_
+3	es	es	PRON	PPER	case=acc|gender=neut|number=sg|person=3|prontype=prs	2	_	_	_
+4	ihm	er	PRON	PPER	case=dat|gender=masc|number=sg|person=3|prontype=prs	3	_	_	_
+5	nie	nie	ADV	ADV	_	4	_	_	_
+6	beigebracht	beibringen	VERB	VVPP	verbform=part	5	_	_	_
+7	.	.	PUNCT	$.	_	6	_	_	_
+
+1	Lass	Laß	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	0	_	_	_
+2	ihn	er	PRON	PPER	case=acc|gender=masc|number=sg|person=3|prontype=prs	1	_	_	_
+3	das	der	PRON	PDS	case=acc|gender=neut|number=sg|prontype=dem	2	_	_	_
+4	lernen	lernen	VERB	VVINF	verbform=inf	3	_	_	_
+5	,	,	PUNCT	$,	_	4	_	_	_
+6	wie	wie	SCONJ	KOUS	_	5	_	_	_
+7	ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	6	_	_	_
+8	es	es	PRON	PPER	case=acc|gender=neut|number=sg|person=3|prontype=prs	7	_	_	_
+9	tat	tun	VERB	VVFIN	mood=ind|number=sg|person=3|tense=past|verbform=fin	8	_	_	_
+10	:	:	PUNCT	$.	_	9	_	_	_
+11	auf	auf	ADP	APPR	_	10	_	_	_
+12	der	der	DET	ART	case=dat|definite=def|gender=fem|number=sg|prontype=art	11	_	_	_
+13	Straße	Straße	NOUN	NN	case=dat|gender=fem|number=sg	12	_	_	_
+14	.	.	PUNCT	$.	_	13	_	_	_
+
+1	Nächste	nah	ADJ	ADJA	case=nom|gender=fem|number=sg	0	_	_	_
+2	Woche	Woche	NOUN	NN	case=nom|gender=fem|number=sg	1	_	_	_
+3	bei	bei	ADP	APPR	_	2	_	_	_
+4	Völlig	Völlig	ADV	ADJD	_	3	_	_	_
+5	ineffektiver	ineffektiv	ADJ	ADJA	case=dat|gender=fem|number=sg	4	_	_	_
+6	Dad	Dad	NOUN	NN	case=dat|gender=masc|number=sg	5	_	_	_
+7	die	der	DET	ART	case=acc|definite=def|gender=fem|number=sg|prontype=art	6	_	_	_
+8	urkomische	urkomisch	ADJ	ADJA	case=acc|gender=fem|number=sg	7	_	_	_
+9	Beerdigungsfolge	Beerdigungsfolge	NOUN	NN	case=acc|gender=fem|number=sg	8	_	_	_
+10	.	.	PUNCT	$.	_	9	_	_	_
+
+1	Ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	0	_	_	_
+2	finde	finden	VERB	VVFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	1	_	_	_
+3	,	,	PUNCT	$,	_	2	_	_	_
+4	man	man	PRON	PIS	case=nom|definite=ind|number=sg|prontype=ind	3	_	_	_
+5	kann	können	AUX	VMFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	4	_	_	_
+6	über	über	ADP	APPR	_	5	_	_	_
+7	so	so	ADV	ADV	_	6	_	_	_
+8	persönliche	persönlich	ADJ	ADJA	case=acc|gender=neut|number=pl	7	_	_	_
+9	Dinge	Ding	NOUN	NN	case=acc|gender=neut|number=pl	8	_	_	_
+10	nur	nur	ADV	ADV	_	9	_	_	_
+11	sprechen	sprechen	VERB	VVINF	verbform=inf	10	_	_	_
+12	,	,	PUNCT	$,	_	11	_	_	_
+13	wenn	wenn	SCONJ	KOUS	_	12	_	_	_
+14	der	der	DET	ART	case=nom|definite=def|gender=masc|number=sg|prontype=art	13	_	_	_
+15	andere	ander	PRON	PIS	case=nom|gender=masc|number=sg|prontype=ind	14	_	_	_
+16	das	der	DET	ART	case=acc|definite=def|gender=neut|number=sg|prontype=art	15	_	_	_
+17	Verständnis	Verständnis	NOUN	NN	case=acc|gender=neut|number=sg	16	_	_	_
+18	hat	haben	VERB	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	17	_	_	_
+19	.	.	PUNCT	$.	_	18	_	_	_
+
+1	Deshalb	deshalb	ADV	PAV	_	0	_	_	_
+2	schäme	scham	VERB	VVFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	1	_	_	_
+3	ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	2	_	_	_
+4	mich	ich	PRON	PRF	case=acc|number=sg|person=1|prontype=prs|reflex=yes	3	_	_	_
+5	überhaupt	überhaupt	ADV	ADV	_	4	_	_	_
+6	nicht	nicht	PART	PTKNEG	polarity=neg	5	_	_	_
+7	,	,	PUNCT	$,	_	6	_	_	_
+8	Ihnen	Sie|sie	PRON	PPER	case=dat|number=pl|person=3|prontype=prs	7	_	_	_
+9	zu	zu	PART	PTKZU	_	8	_	_	_
+10	sagen	sagen	VERB	VVINF	verbform=inf	9	_	_	_
+11	:	:	PUNCT	$.	_	10	_	_	_
+12	Ohne	ohne	ADP	APPR	_	11	_	_	_
+13	Babs	Bab	PROPN	NE	case=acc|gender=masc|number=sg	12	_	_	_
+14	wäre	sein	AUX	VAFIN	mood=sub|number=sg|person=1|tense=past|verbform=fin	13	_	_	_
+15	ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	14	_	_	_
+16	verloren	verlieren	VERB	VVPP	verbform=part	15	_	_	_
+17	.	.	PUNCT	$.	_	16	_	_	_
+
+1	Das	der	PRON	PDS	case=nom|gender=neut|number=sg|prontype=dem	0	_	_	_
+2	ist	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	1	_	_	_
+3	mir	ich	PRON	PPER	case=dat|number=sg|person=1|prontype=prs	2	_	_	_
+4	ganz	ganz	ADV	ADV	_	3	_	_	_
+5	klar	klar	ADJ	ADJD	_	4	_	_	_
+6	geworden	werden	AUX	VAPP	verbform=part	5	_	_	_
+7	,	,	PUNCT	$,	_	6	_	_	_
+8	schon	schon	ADV	ADV	_	7	_	_	_
+9	bei	bei	ADP	APPR	_	8	_	_	_
+10	dieser	dies	PRON	PDAT	case=dat|gender=fem|number=sg|prontype=dem	9	_	_	_
+11	kurzen	kurz	ADJ	ADJA	case=dat|gender=fem|number=sg	10	_	_	_
+12	Trennung	Trennung	NOUN	NN	case=dat|gender=fem|number=sg	11	_	_	_
+13	.	.	PUNCT	$.	_	12	_	_	_
+
+1	Ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	0	_	_	_
+2	glaube	glauben	VERB	VVFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	1	_	_	_
+3	,	,	PUNCT	$,	_	2	_	_	_
+4	das	der	PRON	PDS	case=acc|gender=neut|number=sg|prontype=dem	3	_	_	_
+5	wäre	sein	AUX	VAFIN	mood=sub|number=sg|person=3|tense=past|verbform=fin	4	_	_	_
+6	ein	ein	DET	ART	case=nom|definite=ind|gender=neut|number=sg|prontype=art	5	_	_	_
+7	schlechtes	schlecht	ADJ	ADJA	case=nom|gender=neut|number=sg	6	_	_	_
+8	Land	Land	NOUN	NN	case=nom|gender=neut|number=sg	7	_	_	_
+9	,	,	PUNCT	$,	_	8	_	_	_
+10	um	um	ADP	KOUI	_	9	_	_	_
+11	Kinder	Kind	NOUN	NN	case=acc|gender=neut|number=pl	10	_	_	_
+12	aufzuziehen	aufliehen	VERB	VVIZU	verbform=inf	11	_	_	_
+13	.	.	PUNCT	$.	_	12	_	_	_
+
+1	Ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	0	_	_	_
+2	weiß	wissen	VERB	VVFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	1	_	_	_
+3	nicht	nicht	PART	PTKNEG	polarity=neg	2	_	_	_
+4	.	.	PUNCT	$.	_	3	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Wissen	Wissen	NOUN	NN	case=nom|gender=neut|number=sg	1	_	_	_
+3	Sie	Sie|sie	PRON	PPER	case=nom|number=pl|person=3|prontype=prs	2	_	_	_
+4	?	?	PUNCT	$.	_	3	_	_	_
+
+1	Babs	Bab	PROPN	NE	case=nom|gender=masc|number=sg	0	_	_	_
+2	und	und	CCONJ	KON	_	1	_	_	_
+3	ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	2	_	_	_
+4	,	,	PUNCT	$,	_	3	_	_	_
+5	wir	wir	PRON	PPER	case=nom|number=pl|person=1|prontype=prs	4	_	_	_
+6	wollten	wollen	AUX	VMFIN	mood=ind|number=pl|person=1|tense=past|verbform=fin	5	_	_	_
+7	am	am	PRON	PPER	case=acc|number=pl|person=1|prontype=prs	6	_	_	_
+8	liebsten	lieb	NOUN	NN	case=acc|gender=masc|number=pl	7	_	_	_
+9	gleich	gleich	ADV	ADV	_	8	_	_	_
+10	Kinder	Kind	NOUN	NN	case=acc|gender=neut|number=pl	9	_	_	_
+11	haben	haben	VERB	VAINF	mood=ind|number=pl|person=3|tense=pres|verbform=fin	10	_	_	_
+12	.	.	PUNCT	$.	_	11	_	_	_
+
+1	Doch	doch	CCONJ	KON	_	0	_	_	_
+2	dann	dann	ADV	ADV	_	1	_	_	_
+3	kam	kommen	VERB	VVFIN	mood=ind|number=sg|person=1|tense=past|verbform=fin	2	_	_	_
+4	ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	3	_	_	_
+5	zu	zu	ADP	APPR	_	4	_	_	_
+6	diesem	dies	PRON	PDAT	case=dat|gender=masc|number=sg|prontype=dem	5	_	_	_
+7	Job	Job	NOUN	NN	case=dat|gender=masc|number=sg	6	_	_	_
+8	.	.	PUNCT	$.	_	7	_	_	_
+
+1	Kinder	Kind	NOUN	NN	case=nom|gender=neut|number=pl	0	_	_	_
+2	...	...	PUNCT	$(	_	1	_	_	_
+
+1	Zuerst	zuerst	ADV	ADV	_	0	_	_	_
+2	dachten	denken	VERB	VVFIN	mood=ind|number=pl|person=1|tense=past|verbform=fin	1	_	_	_
+3	wir	wir	PRON	PPER	case=nom|number=pl|person=1|prontype=prs	2	_	_	_
+4	an	an	ADP	APPR	_	3	_	_	_
+5	2	2	NUM	CARD	numtype=card	4	_	_	_
+6	Jungen	Junge	NOUN	NN	case=dat|gender=masc|number=pl	5	_	_	_
+7	und	und	CCONJ	KON	_	6	_	_	_
+8	dann	dann	ADV	ADV	_	7	_	_	_
+9	vielleicht	vielleicht	ADV	ADV	_	8	_	_	_
+10	ein	ein	DET	ART	case=acc|definite=ind|gender=neut|number=sg|prontype=art	9	_	_	_
+11	Mädchen	Mädchen	NOUN	NN	case=acc|gender=neut|number=sg	10	_	_	_
+12	.	.	PUNCT	$.	_	11	_	_	_
+
+1	Auf	auf	ADP	APPR	_	0	_	_	_
+2	der	der	DET	ART	case=dat|definite=def|gender=fem|number=sg|prontype=art	1	_	_	_
+3	Flucht	Flucht	NOUN	NN	case=dat|gender=fem|number=sg	2	_	_	_
+4	vor	vor	ADP	APPR	_	3	_	_	_
+5	der	der	DET	ART	case=dat|definite=def|gender=fem|number=sg|prontype=art	4	_	_	_
+6	Steuerfaschistin	Steuerfaschistin	NOUN	NN	case=dat|gender=fem|number=sg	5	_	_	_
+7	konnte	können	AUX	VMFIN	mood=ind|number=sg|person=1|tense=past|verbform=fin	6	_	_	_
+8	ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	7	_	_	_
+9	Pluspunkte	Pluspunkt	NOUN	NN	case=acc|gender=masc|number=pl	8	_	_	_
+10	bei	bei	ADP	APPR	_	9	_	_	_
+11	Sam	Sam	PROPN	NE	case=dat|gender=masc|number=sg	10	_	_	_
+12	und	und	CCONJ	KON	_	11	_	_	_
+13	den	der	DET	ART	case=dat|definite=def|gender=neut|number=pl|prontype=art	12	_	_	_
+14	Kindern	Kind	NOUN	NN	case=dat|gender=neut|number=pl	13	_	_	_
+15	sammeln	sammeln	VERB	VVINF	verbform=inf	14	_	_	_
+16	.	.	PUNCT	$.	_	15	_	_	_
+
+1	Wer	wer	PRON	PWS	case=nom|number=sg|prontype=int	0	_	_	_
+2	hält	halten	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	1	_	_	_
+3	mich	ich	PRON	PPER	case=acc|number=sg|person=1|prontype=prs	2	_	_	_
+4	für	für	ADP	APPR	_	3	_	_	_
+5	den	der	DET	ART	case=acc|definite=def|gender=masc|number=sg|prontype=art	4	_	_	_
+6	besten	gut	ADJ	ADJA	case=acc|gender=masc|number=sg	5	_	_	_
+7	Daddy	Daddy	NOUN	NN	case=acc|gender=masc|number=sg	6	_	_	_
+8	der	der	DET	ART	case=gen|definite=def|gender=fem|number=sg|prontype=art	7	_	_	_
+9	Welt	Welt	NOUN	NN	case=gen|gender=fem|number=sg	8	_	_	_
+10	?	?	PUNCT	$.	_	9	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Wer	wer	PRON	PWS	case=nom|number=sg|prontype=int	1	_	_	_
+3	will	wollen	AUX	VMFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	2	_	_	_
+4	heute	heute	ADV	ADV	_	3	_	_	_
+5	Schule	Schule	NOUN	NN	case=acc|gender=fem|number=sg	4	_	_	_
+6	schwänzen	schwänzen	VERB	VVINF	verbform=inf	5	_	_	_
+7	?	?	PUNCT	$.	_	6	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Ja	Ja	ADV	ADV	_	1	_	_	_
+3	.	.	PUNCT	$.	_	2	_	_	_
+
+1	Schon	schon	ADV	ADV	_	0	_	_	_
+2	besser	gut	ADJ	ADJD	_	1	_	_	_
+3	.	.	PUNCT	$.	_	2	_	_	_
+
+1	Okay	Okay	ADJ	ADJD	_	0	_	_	_
+2	.	.	PUNCT	$.	_	1	_	_	_
+
+1	Die	der	DET	ART	case=nom|definite=def|gender=masc|number=pl|prontype=art	0	_	_	_
+2	Swans	Swan	PROPN	NN	case=nom|gender=masc|number=pl	1	_	_	_
+3	machen	machen	VERB	VVFIN	mood=ind|number=pl|person=3|tense=pres|verbform=fin	2	_	_	_
+4	einen	ein	DET	ART	case=acc|definite=ind|gender=masc|number=sg|prontype=art	3	_	_	_
+5	Familienausflug	Familienausflug	NOUN	NN	case=acc|gender=masc|number=sg	4	_	_	_
+6	.	.	PUNCT	$.	_	5	_	_	_
+
+1	Die	der	PRON	PDS	case=nom|number=pl|prontype=dem	0	_	_	_
+2	finden	finden	VERB	VVFIN	mood=ind|number=pl|person=3|tense=pres|verbform=fin	1	_	_	_
+3	Wege	Weg	NOUN	NN	case=nom|gender=masc|number=pl	2	_	_	_
+4	,	,	PUNCT	$,	_	3	_	_	_
+5	die	der	DET	ART	case=acc|definite=def|gender=fem|number=sg|prontype=art	4	_	_	_
+6	Seite	Seite	NOUN	NN	case=nom|gender=fem|number=sg	5	_	_	_
+7	drei	drei	NUM	CARD	numtype=card	6	_	_	_
+8	jetzt	jetzt	ADV	ADV	_	7	_	_	_
+9	sogar	sogar	ADV	ADV	_	8	_	_	_
+10	noch	noch	ADV	ADV	_	9	_	_	_
+11	gruseliger	gruselig	ADJ	ADJD	_	10	_	_	_
+12	zu	zu	PART	PTKZU	_	11	_	_	_
+13	machen	machen	VERB	VVINF	verbform=inf	12	_	_	_
+14	.	.	PUNCT	$.	_	13	_	_	_
+
+1	"	"	PUNCT	$(	_	0	_	_	_
+2	Die	der	DET	ART	case=nom|definite=def|gender=fem|number=sg|prontype=art	1	_	_	_
+3	süße	süß	ADJ	ADJA	case=nom|gender=fem|number=sg	2	_	_	_
+4	Karen	Karen	PROPN	NE	case=nom|gender=fem|number=sg	3	_	_	_
+5	Clarke	Clarke	PROPN	NE	case=nom|gender=fem|number=sg	4	_	_	_
+6	war	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=past|verbform=fin	5	_	_	_
+7	schon	schon	ADV	ADV	_	6	_	_	_
+8	in	in	ADP	APPR	_	7	_	_	_
+9	jungen	jung	ADJ	ADJA	case=dat|gender=neut|number=pl	8	_	_	_
+10	Jahren	Jahr	NOUN	NN	case=dat|gender=neut|number=pl	9	_	_	_
+11	eine	ein	DET	ART	case=acc|definite=ind|gender=fem|number=sg|prontype=art	10	_	_	_
+12	Oben-ohne-Schönheit	Oben-ohne-Schönheit	NOUN	NN	case=acc|gender=fem|number=sg	11	_	_	_
+13	.	.	PUNCT	$.	_	12	_	_	_
+
+1	Aber	aber	CCONJ	KON	_	0	_	_	_
+2	jetzt	jetzt	ADV	ADV	_	1	_	_	_
+3	ist	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	2	_	_	_
+4	sie	sie	PRON	PPER	case=nom|gender=fem|number=sg|person=3|prontype=prs	3	_	_	_
+5	ein	ein	DET	ART	case=nom|definite=ind|gender=neut|number=sg|prontype=art	4	_	_	_
+6	großes	groß	ADJ	ADJA	case=nom|gender=neut|number=sg	5	_	_	_
+7	Mädchen	Mädchen	NOUN	NN	case=nom|gender=neut|number=sg	6	_	_	_
+8	und	und	CCONJ	KON	_	7	_	_	_
+9	eine	ein	DET	ART	case=nom|definite=ind|gender=fem|number=sg|prontype=art	8	_	_	_
+10	wohlgeformte	wohlgeformt	ADJ	ADJA	case=nom|gender=fem|number=sg	9	_	_	_
+11	Lady	Lady	NOUN	NN	case=nom|gender=fem|number=sg	10	_	_	_
+12	.	.	PUNCT	$.	_	11	_	_	_
+13	"	"	PUNCT	$(	_	12	_	_	_
+
+1	Was	was	PRON	PWS	case=nom|gender=neut|number=sg|prontype=int	0	_	_	_
+2	ist	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	1	_	_	_
+3	mit	mit	ADP	APPR	_	2	_	_	_
+4	Cassie	Cassie	PROPN	NE	case=dat|gender=masc|number=sg	3	_	_	_
+5	und	und	CCONJ	KON	_	4	_	_	_
+6	Ramse	Ramse	PROPN	NE	case=dat|gender=masc|number=sg	5	_	_	_
+7	?	?	PUNCT	$.	_	6	_	_	_
+
+1	Ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	0	_	_	_
+2	dachte	denken	VERB	VVFIN	mood=ind|number=sg|person=1|tense=past|verbform=fin	1	_	_	_
+3	,	,	PUNCT	$,	_	2	_	_	_
+4	du	du	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	3	_	_	_
+5	würdest	würdest	AUX	VAFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	4	_	_	_
+6	sie	sie	PRON	PPER	case=acc|number=pl|person=3|prontype=prs	5	_	_	_
+7	zuletzt	zuletzt	ADV	ADV	_	6	_	_	_
+8	rauslassen	rauslassen	VERB	VVINF	verbform=inf	7	_	_	_
+9	wollen	wollen	AUX	VMINF	verbform=inf	8	_	_	_
+10	,	,	PUNCT	$,	_	9	_	_	_
+11	für	für	ADP	APPR	_	10	_	_	_
+12	den	der	DET	ART	case=acc|definite=def|gender=masc|number=sg|prontype=art	11	_	_	_
+13	Fall	Fall	NOUN	NN	case=acc|gender=masc|number=sg	12	_	_	_
+14	,	,	PUNCT	$,	_	13	_	_	_
+15	dass	dass	SCONJ	KOUS	_	14	_	_	_
+16	sie	sie	PRON	PPER	case=nom|number=pl|person=3|prontype=prs	15	_	_	_
+17	etwas	etwas	ADV	ADV	_	16	_	_	_
+18	versuchen	versuchen	VERB	VVFIN	verbform=inf	17	_	_	_
+19	.	.	PUNCT	$.	_	18	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Ja	Ja	ADV	ADV	_	1	_	_	_
+3	.	.	PUNCT	$.	_	2	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Das	der	PRON	PDS	case=nom|gender=neut|number=sg|prontype=dem	1	_	_	_
+3	habe	haben	AUX	VAFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	2	_	_	_
+4	ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	3	_	_	_
+5	mir	ich	PRON	PRF	case=dat|number=sg|person=1|prontype=prs|reflex=yes	4	_	_	_
+6	gedacht	denken|gedenken	VERB	VVPP	verbform=part	5	_	_	_
+7	.	.	PUNCT	$.	_	6	_	_	_
+
+1	Was	was	PRON	PWS	case=nom|gender=neut|number=sg|prontype=int	0	_	_	_
+2	zur	zur	DET	ART	case=nom|definite=def|gender=fem|number=sg|prontype=art	1	_	_	_
+3	Hölle	Hölle	NOUN	NN	case=nom|gender=fem|number=sg	2	_	_	_
+4	war	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=past|verbform=fin	3	_	_	_
+5	das	der	PRON	PDS	case=nom|gender=neut|number=sg|prontype=dem	4	_	_	_
+6	?	?	PUNCT	$.	_	5	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Was	was	PRON	PWS	case=nom|gender=neut|number=sg|prontype=int	1	_	_	_
+3	zur	zur	PUNCT	$(	_	2	_	_	_
+4	Hölle	Hölle	NOUN	NN	case=nom|gender=fem|number=sg	3	_	_	_
+5	ist	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	4	_	_	_
+6	passiert	passieren	ADJ	ADJD	mood=ind|tense=pres|verbform=fin	5	_	_	_
+7	?	?	PUNCT	$.	_	6	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Der	der	DET	ART	case=nom|definite=def|gender=masc|number=sg|prontype=art	1	_	_	_
+3	Blitz	Blitz	NOUN	NN	case=nom|gender=masc|number=sg	2	_	_	_
+4	traf	treffen	VERB	VVFIN	mood=ind|number=sg|person=3|tense=past|verbform=fin	3	_	_	_
+5	einen	ein	PRON	PIS	case=acc|definite=ind|gender=masc|number=sg|prontype=ind	4	_	_	_
+6	der	der	DET	ART	case=gen|definite=def|gender=masc|number=pl|prontype=art	5	_	_	_
+7	Transformatoren	Transformator	NOUN	NN	case=gen|gender=masc|number=pl	6	_	_	_
+8	.	.	PUNCT	$.	_	7	_	_	_
+
+1	Wir	wir	PRON	PPER	case=nom|number=pl|person=1|prontype=prs	0	_	_	_
+2	dürfen	dürfen	AUX	VMFIN	mood=ind|number=pl|person=1|tense=pres|verbform=fin	1	_	_	_
+3	die	der	DET	ART	case=acc|definite=def|gender=fem|number=sg|prontype=art	2	_	_	_
+4	Evakuierung	Evakuierung	NOUN	NN	case=acc|gender=fem|number=sg	3	_	_	_
+5	nicht	nicht	PART	PTKNEG	polarity=neg	4	_	_	_
+6	verzögern	verzögern	VERB	VVINF	verbform=inf	5	_	_	_
+7	.	.	PUNCT	$.	_	6	_	_	_
+
+1	Leite	Leite	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	0	_	_	_
+2	alle	alle	PRON	PIS	case=nom|definite=ind|number=pl|prontype=ind	1	_	_	_
+3	über	über	ADP	APPR	_	2	_	_	_
+4	den	der	DET	ART	case=acc|definite=def|gender=masc|number=sg|prontype=art	3	_	_	_
+5	westlichen	westlich	ADJ	ADJA	case=acc|gender=masc|number=sg	4	_	_	_
+6	Gang	Gang	NOUN	NN	case=acc|gender=masc|number=sg	5	_	_	_
+7	zur	zur	DET	ART	case=gen|definite=def|gender=fem|number=sg|prontype=art	6	_	_	_
+8	Fahrzeughalle	Fahrzeughalle	NOUN	NN	case=gen|gender=fem|number=sg	7	_	_	_
+9	.	.	PUNCT	$.	_	8	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Wie	wie	ADP	KOKOM	_	1	_	_	_
+3	viele	viel	PRON	PIS	case=nom|definite=ind|number=pl|prontype=ind	2	_	_	_
+4	sind	sein	AUX	VAFIN	mood=ind|number=pl|person=3|tense=pres|verbform=fin	3	_	_	_
+5	verwundet	verwunden	ADJ	VVPP	verbform=part	4	_	_	_
+6	?	?	PUNCT	$.	_	5	_	_	_
+
+1	Obwohl	obwohl	SCONJ	KOUS	_	0	_	_	_
+2	,	,	PUNCT	$,	_	1	_	_	_
+3	er	er	PRON	PPER	case=nom|gender=masc|number=sg|person=3|prontype=prs	2	_	_	_
+4	hat	haben	VERB	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	3	_	_	_
+5	schöne	schön	ADJ	ADJA	case=acc|gender=masc|number=pl	4	_	_	_
+6	Reifen	Reifen	NOUN	NN	case=acc|gender=masc|number=pl	5	_	_	_
+7	hat	haben	VERB	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	6	_	_	_
+8	...	...	PUNCT	$(	_	7	_	_	_
+9	für	für	ADP	APPR	_	8	_	_	_
+10	einen	ein	DET	ART	case=acc|definite=ind|gender=masc|number=sg|prontype=art	9	_	_	_
+11	Verrückten	Verrückt	NOUN	NN	case=acc|gender=masc|number=sg	10	_	_	_
+12	.	.	PUNCT	$.	_	11	_	_	_
+
+1	Halt	Halt	ADP	APPR	_	0	_	_	_
+2	den	der	DET	ART	case=acc|definite=def|gender=masc|number=sg|prontype=art	1	_	_	_
+3	Mund	Mund	NOUN	NN	case=acc|gender=masc|number=sg	2	_	_	_
+4	!	!	PUNCT	$.	_	3	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Zu	zu	ADP	APPR	_	1	_	_	_
+3	Hause	Haus	NOUN	NN	case=dat|gender=neut|number=sg	2	_	_	_
+4	!	!	PUNCT	$.	_	3	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Dieser	dies	PRON	PDAT	case=nom|gender=masc|number=sg|prontype=dem	1	_	_	_
+3	Ort	Ort	NOUN	NN	case=nom|gender=masc|number=sg	2	_	_	_
+4	ist	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	3	_	_	_
+5	verdammt	verdammen	ADV	ADJD	_	4	_	_	_
+6	geil	geil	ADJ	ADJD	_	5	_	_	_
+7	.	.	PUNCT	$.	_	6	_	_	_
+
+1	Wie	wie	ADP	KOKOM	_	0	_	_	_
+2	im	im	DET	ART	case=nom|definite=def|gender=neut|number=sg|prontype=art	1	_	_	_
+3	Schlaraffenland	Schlaraffenland	NOUN	NN	case=nom|gender=neut|number=sg	2	_	_	_
+4	.	.	PUNCT	$.	_	3	_	_	_
+
+1	Hier	hier	ADV	ADV	_	0	_	_	_
+2	kommen	kommen	VERB	VVFIN	mood=ind|number=pl|person=3|tense=pres|verbform=fin	1	_	_	_
+3	die	der	DET	ART	case=nom|definite=def|gender=neut|number=pl|prontype=art	2	_	_	_
+4	reichen	reich	ADJ	ADJA	case=nom|gender=neut|number=pl	3	_	_	_
+5	Kinder	Kind	NOUN	NN	case=nom|gender=neut|number=pl	4	_	_	_
+6	zum	zum	ADV	ADV	_	5	_	_	_
+7	sterben	sterben	VERB	VVFIN	mood=ind|number=pl|person=3|tense=pres|verbform=fin	6	_	_	_
+8	hin	hin	ADV	PTKVZ	_	7	_	_	_
+9	.	.	PUNCT	$.	_	8	_	_	_
+
+1	Willkommen	Willkommen	NOUN	NN	case=nom|gender=neut|number=pl	0	_	_	_
+2	in	in	ADP	APPR	_	1	_	_	_
+3	meiner	mein	PRON	PPOSAT	case=dat|gender=fem|number=sg|poss=yes	2	_	_	_
+4	Welt	Welt	NOUN	NN	case=dat|gender=fem|number=sg	3	_	_	_
+5	.	.	PUNCT	$.	_	4	_	_	_
+
+1	Mir	ich	PRON	PPER	case=dat|number=sg|person=1|prontype=prs	0	_	_	_
+2	ist	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	1	_	_	_
+3	ein	ein	DET	ART	case=nom|definite=ind|gender=masc|number=sg|prontype=art	2	_	_	_
+4	bisschen	bißchen	ADV	ADV	_	3	_	_	_
+5	schlecht	schlecht	ADJ	ADJD	_	4	_	_	_
+6	!	!	PUNCT	$.	_	5	_	_	_
+
+1	Kevin	Kevin	PROPN	NE	case=nom|gender=masc|number=sg	0	_	_	_
+2	,	,	PUNCT	$,	_	1	_	_	_
+3	ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	2	_	_	_
+4	glaube	glauben	VERB	VVFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	3	_	_	_
+5	,	,	PUNCT	$,	_	4	_	_	_
+6	du	du	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	5	_	_	_
+7	solltest	solltesn	AUX	VMFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	6	_	_	_
+8	Julie	Julie	PROPN	NE	case=acc|gender=fem|number=sg	7	_	_	_
+9	ins	ins	ADV	ADV	_	8	_	_	_
+10	Badezimmer	Badezimmer	NOUN	NN	case=acc|gender=neut|number=sg	9	_	_	_
+11	bringen	bringen	VERB	VVINF	verbform=inf	10	_	_	_
+12	.	.	PUNCT	$.	_	11	_	_	_
+
+1	Komm	Komm	VERB	VVIMP	mood=ind|number=sg|person=3|verbform=fin	0	_	_	_
+2	schon	schon	ADV	ADV	_	1	_	_	_
+3	.	.	PUNCT	$.	_	2	_	_	_
+
+1	Nein	nein	ADV	ADV	_	0	_	_	_
+2	,	,	PUNCT	$,	_	1	_	_	_
+3	die	der	DET	ART	case=nom|definite=def|gender=masc|number=pl|prontype=art	2	_	_	_
+4	Ärzte	Arzt	NOUN	NN	case=nom|gender=masc|number=pl	3	_	_	_
+5	sind	sein	AUX	VAFIN	mood=ind|number=pl|person=3|tense=pres|verbform=fin	4	_	_	_
+6	sehr	sehr	ADV	ADV	_	5	_	_	_
+7	zufrieden	zufrieden	ADJ	ADJD	_	6	_	_	_
+8	,	,	PUNCT	$,	_	7	_	_	_
+9	er	er	PRON	PPER	case=nom|gender=masc|number=sg|person=3|prontype=prs	8	_	_	_
+10	ist	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	9	_	_	_
+11	der	der	DET	ART	case=nom|definite=def|gender=masc|number=sg|prontype=art	10	_	_	_
+12	Tapferste	Tapferste	NOUN	NN	case=nom|gender=masc|number=sg	11	_	_	_
+13	.	.	PUNCT	$.	_	12	_	_	_
+
+1	Hast	haben	VERB	VAFIN	mood=ind|number=sg|person=2|tense=pres|verbform=fin	0	_	_	_
+2	du	du	PRON	PPER	case=nom|number=sg|person=2|prontype=prs	1	_	_	_
+3	die	der	DET	ART	case=acc|definite=def|gender=masc|number=sg|prontype=art	2	_	_	_
+4	Bodys	Bodys	NOUN	NN	case=acc|gender=masc|number=pl	3	_	_	_
+5	?	?	PUNCT	$.	_	4	_	_	_
+
+1	Frag	Frag	VERB	VVIMP	mood=ind|number=sg|person=3|tense=pres|verbform=fin	0	_	_	_
+2	deinen	dein	PRON	PPOSAT	case=acc|gender=masc|number=sg|poss=yes	1	_	_	_
+3	Vater	Vater	NOUN	NN	case=acc|gender=masc|number=sg	2	_	_	_
+4	!	!	PUNCT	$.	_	3	_	_	_
+
+1	Sag	Sag	VERB	VVIMP	mood=ind|number=sg|person=2|tense=pres|verbform=fin	0	_	_	_
+2	's	es	PRON	PPER	case=acc|gender=neut|number=sg|prontype=int	1	_	_	_
+3	ihr	ihr	PRON	PPER	case=acc|number=sg|person=2|prontype=prs	2	_	_	_
+4	!	!	PUNCT	$.	_	3	_	_	_
+
+1	Ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	0	_	_	_
+2	hatte	haben	AUX	VAFIN	mood=ind|number=sg|person=1|tense=past|verbform=fin	1	_	_	_
+3	die	der	DET	ART	case=acc|definite=def|gender=fem|number=sg|prontype=art	2	_	_	_
+4	Tüte	Tüt|Tüte	NOUN	NN	case=acc|gender=fem|number=sg	3	_	_	_
+5	damit	damit	ADV	PAV	_	4	_	_	_
+6	vorbereitet	vorbereiten	VERB	VVPP	verbform=part	5	_	_	_
+7	und	und	CCONJ	KON	_	6	_	_	_
+8	er	er	PRON	PPER	case=nom|gender=masc|number=sg|person=3|prontype=prs	7	_	_	_
+9	lässt	lassen	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	8	_	_	_
+10	sie	sie	PRON	PPER	case=acc|number=pl|person=3|prontype=prs	9	_	_	_
+11	stehen	stehen	VERB	VVINF	verbform=inf	10	_	_	_
+12	!	!	PUNCT	$.	_	11	_	_	_
+
+1	Schade	schade	ADJ	ADJD	_	0	_	_	_
+2	,	,	PUNCT	$,	_	1	_	_	_
+3	ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	2	_	_	_
+4	hab	haben	VERB	VAFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	3	_	_	_
+5	nicht	nicht	PART	PTKNEG	polarity=neg	4	_	_	_
+6	mehr	mehr	ADV	ADV	_	5	_	_	_
+7	viele	viel	PRON	PIS	case=nom|definite=ind|number=pl|prontype=ind	6	_	_	_
+8	.	.	PUNCT	$.	_	7	_	_	_
+
+1	Siehst	siehst	VERB	VVFIN	mood=ind|number=sg|person=2|tense=pres|verbform=fin	0	_	_	_
+2	du	du	PRON	PPER	case=nom|number=sg|person=2|prontype=prs	1	_	_	_
+3	,	,	PUNCT	$,	_	2	_	_	_
+4	sie	sie	PRON	PPER	case=nom|gender=fem|number=sg|person=3|prontype=prs	3	_	_	_
+5	ist	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	4	_	_	_
+6	sehr	sehr	ADV	ADV	_	5	_	_	_
+7	enttäuscht	enttäuscht	ADJ	ADJD	_	6	_	_	_
+8	!	!	PUNCT	$.	_	7	_	_	_
+
+1	Gut	gut	ADJ	ADJD	_	0	_	_	_
+2	,	,	PUNCT	$,	_	1	_	_	_
+3	ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	2	_	_	_
+4	hab	haben	AUX	VAFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	3	_	_	_
+5	sie	sie	PRON	PPER	case=acc|number=sg|person=3|prontype=prs	4	_	_	_
+6	vergessen	vergessen	VERB	VVPP	verbform=part	5	_	_	_
+7	!	!	PUNCT	$.	_	6	_	_	_
+
+1	Mach	Mach	VERB	VVIMP	mood=ind|number=sg|person=3|tense=pres|verbform=fin	0	_	_	_
+2	nicht	nicht	PART	PTKNEG	polarity=neg	1	_	_	_
+3	so	so	ADV	ADV	_	2	_	_	_
+4	ein	ein	DET	ART	case=acc|definite=ind|gender=neut|number=sg|prontype=art	3	_	_	_
+5	Theater	Theater	NOUN	NN	case=acc|gender=neut|number=sg	4	_	_	_
+6	!	!	PUNCT	$.	_	5	_	_	_
+
+1	Typisch	typisch	ADJ	ADJD	_	0	_	_	_
+2	!	!	PUNCT	$.	_	1	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Mit	mit	ADP	APPR	_	1	_	_	_
+3	dem	der	DET	ART	case=dat|definite=def|gender=masc|number=sg|prontype=art	2	_	_	_
+4	Mund	Mund	NOUN	NN	case=dat|gender=masc|number=sg	3	_	_	_
+5	.	.	PUNCT	$.	_	4	_	_	_
+
+1	Mein	mein	PRON	PPOSAT	case=nom|gender=masc|number=sg|poss=yes	0	_	_	_
+2	Autoreifen	Autoreifen	NOUN	NN	case=nom|gender=masc|number=sg	1	_	_	_
+3	ist	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	2	_	_	_
+4	geplatzt	platzen	ADJ	VVPP	verbform=part	3	_	_	_
+5	.	.	PUNCT	$.	_	4	_	_	_
+
+1	Meine	mein	PRON	PPOSAT	case=nom|gender=fem|number=sg|poss=yes	0	_	_	_
+2	Allianz	Allianz	NOUN	NN	case=nom|gender=fem|number=sg	1	_	_	_
+3	ist	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	2	_	_	_
+4	vorbei	vorbei	ADV	PTKVZ	_	3	_	_	_
+5	.	.	PUNCT	$.	_	4	_	_	_
+
+1	Viel	viel	PRON	PIAT	definite=ind|prontype=ind	0	_	_	_
+2	Glück	Glück	NOUN	NN	case=nom|gender=neut|number=sg	1	_	_	_
+3	.	.	PUNCT	$.	_	2	_	_	_
+
+1	Was	was	PRON	PWS	case=nom|gender=neut|number=sg|prontype=int	0	_	_	_
+2	?	?	PUNCT	$.	_	1	_	_	_
+
+1	Dad	Dad	NOUN	NN	case=nom|gender=masc|number=sg	0	_	_	_
+2	!	!	PUNCT	$.	_	1	_	_	_
+
+1	Das	der	DET	ART	case=nom|definite=def|gender=neut|number=sg|prontype=art	0	_	_	_
+2	Gute	gut	NOUN	NN	case=nom|gender=neut|number=sg	1	_	_	_
+3	daran	daran	ADV	PAV	_	2	_	_	_
+4	ist	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	3	_	_	_
+5	,	,	PUNCT	$,	_	4	_	_	_
+6	dass	dass	SCONJ	KOUS	_	5	_	_	_
+7	ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	6	_	_	_
+8	meinen	mein	PRON	PPOSAT	case=acc|gender=masc|number=sg|poss=yes	7	_	_	_
+9	Fisch	Fisch	NOUN	NN	case=acc|gender=masc|number=sg	8	_	_	_
+10	wiedersehe	wiedersehe	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	9	_	_	_
+11	.	.	PUNCT	$.	_	10	_	_	_
+
+1	Hey	Hey	NOUN	PTKANT	case=nom|number=sg	0	_	_	_
+2	,	,	PUNCT	$,	_	1	_	_	_
+3	was	was	PRON	PWS	case=nom|gender=neut|number=sg|prontype=int	2	_	_	_
+4	ist	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	3	_	_	_
+5	los	los	ADV	ADV	_	4	_	_	_
+6	?	?	PUNCT	$.	_	5	_	_	_
+
+1	Es	es	PRON	PPER	case=nom|gender=neut|number=sg|person=3|prontype=prs	0	_	_	_
+2	spült	spülen	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	1	_	_	_
+3	nicht	nicht	PART	PTKNEG	polarity=neg	2	_	_	_
+4	runter	runter	ADV	PTKVZ	_	3	_	_	_
+5	.	.	PUNCT	$.	_	4	_	_	_
+
+1	Wir	wir	PRON	PPER	case=nom|number=pl|person=1|prontype=prs	0	_	_	_
+2	brauchen	brauchen	VERB	VVFIN	mood=ind|number=pl|person=1|tense=pres|verbform=fin	1	_	_	_
+3	ein	ein	DET	ART	case=acc|definite=ind|gender=neut|number=sg|prontype=art	2	_	_	_
+4	größeres	groß	ADJ	ADJA	case=acc|gender=neut|number=sg	3	_	_	_
+5	Klo	Klo	NOUN	NN	case=acc|gender=neut|number=sg	4	_	_	_
+6	.	.	PUNCT	$.	_	5	_	_	_
+
+1	Führe	Führe	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	0	_	_	_
+2	mich	ich	PRON	PPER	case=acc|number=sg|person=1|prontype=prs	1	_	_	_
+3	zu	zu	ADP	APPR	_	2	_	_	_
+4	dem	der	DET	ART	case=dat|definite=def|gender=masc|number=sg|prontype=art	3	_	_	_
+5	Mann	Mann	NOUN	NN	case=dat|gender=masc|number=sg	4	_	_	_
+6	,	,	PUNCT	$,	_	5	_	_	_
+7	der	der	PRON	PRELS	case=nom|gender=masc|number=sg|prontype=rel	6	_	_	_
+8	dich	du	PRON	PPER	case=acc|number=sg|person=1|prontype=prs	7	_	_	_
+9	schickte	schicken	VERB	VVFIN	mood=ind|number=sg|person=3|tense=past|verbform=fin	8	_	_	_
+10	.	.	PUNCT	$.	_	9	_	_	_
+
+1	Er	er	PRON	PPER	case=nom|gender=masc|number=sg|person=3|prontype=prs	0	_	_	_
+2	erwartet	erwarten	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	1	_	_	_
+3	dich	du	PRON	PPER	case=acc|number=sg|person=1|prontype=prs	2	_	_	_
+4	.	.	PUNCT	$.	_	3	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Wo	wo	ADV	PWAV	prontype=int	1	_	_	_
+3	?	?	PUNCT	$.	_	2	_	_	_
+
+1	Das	der	PRON	PDS	case=nom|gender=neut|number=sg|prontype=dem	0	_	_	_
+2	wirst	werden	AUX	VAFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	1	_	_	_
+3	du	du	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	2	_	_	_
+4	sehen	sehen	VERB	VVINF	verbform=inf	3	_	_	_
+5	,	,	PUNCT	$,	_	4	_	_	_
+6	wenn	wenn	SCONJ	KOUS	_	5	_	_	_
+7	wir	wir	PRON	PPER	case=nom|number=pl|person=1|prontype=prs	6	_	_	_
+8	nicht	nicht	PART	PTKNEG	polarity=neg	7	_	_	_
+9	verhaftet	verhaften	VERB	VVPP	verbform=part	8	_	_	_
+10	werden	werden	AUX	VAFIN	mood=ind|number=pl|person=3|tense=pres|verbform=fin|voice=pass	9	_	_	_
+11	.	.	PUNCT	$.	_	10	_	_	_
+
+1	Also	also	ADV	ADV	_	0	_	_	_
+2	los	los	ADV	PTKVZ	_	1	_	_	_
+3	.	.	PUNCT	$.	_	2	_	_	_
+
+1	Du	du	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	0	_	_	_
+2	gehst	gehen	VERB	VVFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	1	_	_	_
+3	vor	vor	ADP	APPR	_	2	_	_	_
+4	mir	ich	PRON	PPER	case=dat|number=sg|person=1|prontype=prs	3	_	_	_
+5	.	.	PUNCT	$.	_	4	_	_	_
+
+1	Ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	0	_	_	_
+2	komme	kommen	VERB	VVFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	1	_	_	_
+3	nach	nach	ADP	PTKVZ	_	2	_	_	_
+4	.	.	PUNCT	$.	_	3	_	_	_
+
+1	Das	der	PRON	PDS	case=nom|gender=neut|number=sg|prontype=dem	0	_	_	_
+2	war	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=past|verbform=fin	1	_	_	_
+3	ein	ein	DET	ART	case=nom|definite=ind|gender=masc|number=sg|prontype=art	2	_	_	_
+4	Test	Test	NOUN	NN	case=nom|gender=masc|number=sg	3	_	_	_
+5	.	.	PUNCT	$.	_	4	_	_	_
+
+1	Du	du	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	0	_	_	_
+2	konntest	konntest	AUX	VMFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	1	_	_	_
+3	ein	ein	DET	ART	case=nom|definite=ind|gender=masc|number=sg|prontype=art	2	_	_	_
+4	Spion	Spion	NOUN	NN	case=nom|gender=masc|number=sg	3	_	_	_
+5	sein	sein	AUX	VAINF	verbform=inf	4	_	_	_
+6	.	.	PUNCT	$.	_	5	_	_	_
+
+1	Die	der	DET	ART	case=nom|definite=def|gender=fem|number=sg|prontype=art	0	_	_	_
+2	Waffe	Waffe	NOUN	NN	case=nom|gender=fem|number=sg	1	_	_	_
+3	war	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=past|verbform=fin	2	_	_	_
+4	ungeladen	unladen	ADJ	ADJD	_	3	_	_	_
+5	.	.	PUNCT	$.	_	4	_	_	_
+
+1	-	-	PUNCT	$(	_	0	_	_	_
+2	Kommen	Kommen	NOUN	NN	case=nom|gender=neut|number=pl	1	_	_	_
+3	Sie	Sie|sie	PRON	PPER	case=nom|number=pl|person=3|prontype=prs	2	_	_	_
+4	.	.	PUNCT	$.	_	3	_	_	_
+
+1	Seien	Seie	AUX	VAFIN	mood=sub|number=pl|person=3|tense=pres|verbform=fin	0	_	_	_
+2	Sie	Sie|sie	PRON	PPER	case=nom|number=pl|person=3|prontype=prs	1	_	_	_
+3	außergewöhnlich	außergewöhnlich	ADJ	ADJD	_	2	_	_	_
+4	.	.	PUNCT	$.	_	3	_	_	_
+
+1	Oh	Oh	ADJ	ADJD	_	0	_	_	_
+2	,	,	PUNCT	$,	_	1	_	_	_
+3	Sie	Sie|sie	PRON	PPER	case=nom|gender=fem|number=sg|person=3|prontype=prs	2	_	_	_
+4	...	...	PUNCT	$(	_	3	_	_	_
+
+1	Okay	Okay	ADJ	ADJD	_	0	_	_	_
+2	.	.	PUNCT	$.	_	1	_	_	_
+
+1	Um	um	ADP	KOUI	_	0	_	_	_
+2	die	der	DET	ART	case=acc|definite=def|gender=neut|number=pl|prontype=art	1	_	_	_
+3	Dinge	Ding	NOUN	NN	case=acc|gender=neut|number=pl	2	_	_	_
+4	zu	zu	PART	PTKZU	_	3	_	_	_
+5	ordnen	ordnen	VERB	VVINF	verbform=inf	4	_	_	_
+6	:	:	PUNCT	$.	_	5	_	_	_
+
+1	Das	der	DET	ART	case=nom|definite=def|gender=neut|number=sg|prontype=art	0	_	_	_
+2	erste	erst	ADJ	ADJA	case=nom|gender=neut|number=sg	1	_	_	_
+3	Treffen	Treffen	NOUN	NN	case=nom|gender=neut|number=sg	2	_	_	_
+4	von	von	ADP	APPR	_	3	_	_	_
+5	Vertretern	Vertreter	NOUN	NN	case=dat|gender=masc|number=pl	4	_	_	_
+6	der	der	DET	ART	case=gen|definite=def|gender=fem|number=sg|prontype=art	5	_	_	_
+7	menschlichen	menschlich	ADJ	ADJA	case=gen|gender=fem|number=sg	6	_	_	_
+8	Spezies	Spezies	NOUN	NN	case=gen|gender=fem|number=sg	7	_	_	_
+9	und	und	CCONJ	KON	_	8	_	_	_
+10	Homo	Homo	PROPN	NE	case=gen|gender=fem|number=sg	9	_	_	_
+11	Reptilia	Reptilia	PROPN	NE	case=gen|gender=fem|number=sg	10	_	_	_
+12	wird	werden	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin|voice=pass	11	_	_	_
+13	jetzt	jetzt	ADV	ADV	_	12	_	_	_
+14	abgehalten	abhalten	VERB	VVPP	verbform=part	13	_	_	_
+15	.	.	PUNCT	$.	_	14	_	_	_
+
+1	Das	der	PRON	PDS	case=nom|gender=neut|number=sg|prontype=dem	0	_	_	_
+2	habe	haben	AUX	VAFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	1	_	_	_
+3	ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	2	_	_	_
+4	noch	noch	ADV	ADV	_	3	_	_	_
+5	nie	nie	ADV	ADV	_	4	_	_	_
+6	gesagt	sagen	VERB	VVPP	verbform=part	5	_	_	_
+7	,	,	PUNCT	$,	_	6	_	_	_
+8	dass	dass	SCONJ	KOUS	_	7	_	_	_
+9	ist	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	8	_	_	_
+10	toll	toll	ADJ	ADJD	_	9	_	_	_
+11	!	!	PUNCT	$.	_	10	_	_	_
+
+1	Machen	Machen	VERB	VVFIN	mood=ind|number=pl|person=1|tense=pres|verbform=fin	0	_	_	_
+2	wir	wir	PRON	PPER	case=nom|number=pl|person=1|prontype=prs	1	_	_	_
+3	weiter	weiter	ADV	PTKVZ	_	2	_	_	_
+4	!	!	PUNCT	$.	_	3	_	_	_
+
+1	Nun	nun	ADV	ADV	_	0	_	_	_
+2	,	,	PUNCT	$,	_	1	_	_	_
+3	Mo	Mo	PROPN	NE	case=nom|gender=masc|number=sg	2	_	_	_
+4	,	,	PUNCT	$,	_	3	_	_	_
+5	gehen	gehen	VERB	VVFIN	mood=ind|number=pl|person=1|tense=pres|verbform=fin	4	_	_	_
+6	wir	wir	PRON	PPER	case=nom|number=pl|person=1|prontype=prs	5	_	_	_
+7	Ihren	ihr	DET	PPOSAT	case=acc|gender=masc|number=sg|poss=yes	6	_	_	_
+8	Sohn	Sohn	NOUN	NN	case=acc|gender=masc|number=sg	7	_	_	_
+9	holen	holen	VERB	VVINF	verbform=inf	8	_	_	_
+10	.	.	PUNCT	$.	_	9	_	_	_
+
+1	Ach	ach	ADV	ITJ	_	0	_	_	_
+2	,	,	PUNCT	$,	_	1	_	_	_
+3	wissen	wissen	VERB	VVFIN	mood=ind|number=pl|person=3|tense=pres|verbform=fin	2	_	_	_
+4	Sie	Sie|sie	PRON	PPER	case=nom|number=pl|person=3|prontype=prs	3	_	_	_
+5	,	,	PUNCT	$,	_	4	_	_	_
+6	Menschen	Mensch	NOUN	NN	case=nom|gender=masc|number=pl	5	_	_	_
+7	und	und	CCONJ	KON	_	6	_	_	_
+8	ihre	ihr	DET	PPOSAT	case=nom|gender=masc|number=pl|poss=yes	7	_	_	_
+9	Vorgänger	Vorgänger	NOUN	NN	case=nom|gender=masc|number=pl	8	_	_	_
+10	unterhalten	unterhalten	VERB	VVFIN	mood=ind|number=pl|person=3|tense=pres|verbform=fin	9	_	_	_
+11	sich	er|es|sie	PRON	PRF	case=acc|number=pl|person=3|prontype=prs|reflex=yes	10	_	_	_
+12	ganz	ganz	ADV	ADV	_	11	_	_	_
+13	gemütlich	gemütlich	ADJ	ADJD	_	12	_	_	_
+14	.	.	PUNCT	$.	_	13	_	_	_
+
+1	Niemals	Niemals	ADV	ADV	_	0	_	_	_
+2	.	.	PUNCT	$.	_	1	_	_	_
+
+1	Wenn	wenn	SCONJ	KOUS	_	0	_	_	_
+2	er	er	PRON	PPER	case=nom|gender=masc|number=sg|person=3|prontype=prs	1	_	_	_
+3	lügt	lügen	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	2	_	_	_
+4	,	,	PUNCT	$,	_	3	_	_	_
+5	haben	haben	AUX	VAFIN	mood=ind|number=pl|person=3|tense=pres|verbform=fin	4	_	_	_
+6	Sie	Sie|sie	PRON	PPER	case=nom|number=pl|person=3|prontype=prs	5	_	_	_
+7	nichts	nichts	PRON	PIS	definite=ind|prontype=ind	6	_	_	_
+8	zu	zu	PART	PTKZU	_	7	_	_	_
+9	befürchten	befürchten	VERB	VVINF	verbform=inf	8	_	_	_
+10	.	.	PUNCT	$.	_	9	_	_	_
+
+1	Kahless	Kahless	PROPN	NE	case=nom|gender=masc|number=sg	0	_	_	_
+2	ist	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	1	_	_	_
+3	seit	seit	ADP	APPR	_	2	_	_	_
+4	1.000	1.000	NUM	CARD	numtype=card	3	_	_	_
+5	Jahren	Jahr	NOUN	NN	case=dat|gender=neut|number=pl	4	_	_	_
+6	tot	tot	ADJ	ADJD	_	5	_	_	_
+7	.	.	PUNCT	$.	_	6	_	_	_
+
+1	Aber	aber	CCONJ	KON	_	0	_	_	_
+2	sein	sein	DET	PPOSAT	case=nom|gender=masc|number=sg|poss=yes	1	_	_	_
+3	Geist	Geist	NOUN	NN	case=nom|gender=masc|number=sg	2	_	_	_
+4	ist	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	3	_	_	_
+5	noch	noch	ADV	ADV	_	4	_	_	_
+6	lebendig	lebendig	ADJ	ADJD	_	5	_	_	_
+7	.	.	PUNCT	$.	_	6	_	_	_
+
+1	Haben	haben	AUX	VAFIN	mood=ind|number=pl|person=3|tense=pres|verbform=fin	0	_	_	_
+2	Sie	Sie|sie	PRON	PPER	case=nom|number=pl|person=3|prontype=prs	1	_	_	_
+3	je	je	ADV	ADV	_	2	_	_	_
+4	einen	ein	DET	ART	case=acc|definite=ind|gender=masc|number=sg|prontype=art	3	_	_	_
+5	Geist	Geist	NOUN	NN	case=acc|gender=masc|number=sg	4	_	_	_
+6	bekämpft	bekämpfen	VERB	VVPP	verbform=part	5	_	_	_
+7	?	?	PUNCT	$.	_	6	_	_	_
+
+1	Keine	kein	PRON	PIAT	case=nom|definite=ind|gender=fem|number=sg|polarity=neg|prontype=neg	0	_	_	_
+2	Waffe	Waffe	NOUN	NN	case=nom|gender=fem|number=sg	1	_	_	_
+3	kann	können	AUX	VMFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	2	_	_	_
+4	ihn	er	PRON	PPER	case=acc|gender=masc|number=sg|person=3|prontype=prs	3	_	_	_
+5	vernichten	vernichten	VERB	VVINF	verbform=inf	4	_	_	_
+6	.	.	PUNCT	$.	_	5	_	_	_
+
+1	Der	der	DET	ART	case=nom|definite=def|gender=masc|number=sg|prontype=art	0	_	_	_
+2	Geist	Geist	NOUN	NN	case=nom|gender=masc|number=sg	1	_	_	_
+3	von	von	ADP	APPR	_	2	_	_	_
+4	Kahless	Kahless	PROPN	NE	case=dat|gender=masc|number=sg	3	_	_	_
+5	muss	müssen	AUX	VMFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	4	_	_	_
+6	aber	aber	ADV	ADV	_	5	_	_	_
+7	sofort	sofort	ADV	ADV	_	6	_	_	_
+8	ausgemerzt	ausmerzen	VERB	VVPP	verbform=part	7	_	_	_
+9	werden	werden	AUX	VAINF	verbform=inf|voice=pass	8	_	_	_
+10	,	,	PUNCT	$,	_	9	_	_	_
+11	oder	oder	CCONJ	KON	_	10	_	_	_
+12	er	er	PRON	PPER	case=nom|gender=masc|number=sg|person=3|prontype=prs	11	_	_	_
+13	wird	werden	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin|voice=pass	12	_	_	_
+14	sich	er|es|sie	PRON	PRF	case=acc|number=sg|person=3|prontype=prs|reflex=yes	13	_	_	_
+15	wie	wie	ADP	KOKOM	_	14	_	_	_
+16	eine	ein	DET	ART	case=nom|definite=ind|gender=fem|number=sg|prontype=art	15	_	_	_
+17	Welle	Welle	NOUN	NN	case=nom|gender=fem|number=sg	16	_	_	_
+18	im	im	PUNCT	$(	_	17	_	_	_
+19	Reich	Reich	NOUN	NN	case=acc|gender=neut|number=sg	18	_	_	_
+20	verbreiten	verbreiten	VERB	VVINF	verbform=inf	19	_	_	_
+21	,	,	PUNCT	$,	_	20	_	_	_
+22	und	und	CCONJ	KON	_	21	_	_	_
+23	bleiben	bleiben	VERB	VVINF	verbform=inf	22	_	_	_
+24	wird	werden	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin|voice=pass	23	_	_	_
+25	nichts	nichts	PRON	PIS	definite=ind|prontype=ind	24	_	_	_
+26	als	als	ADP	KOKOM	_	25	_	_	_
+27	eine	ein	DET	ART	case=nom|definite=ind|gender=fem|number=sg|prontype=art	26	_	_	_
+28	öde	öde	ADJ	ADJA	case=nom|gender=fem|number=sg	27	_	_	_
+29	Wüste	Wüste	NOUN	NN	case=nom|gender=fem|number=sg	28	_	_	_
+30	.	.	PUNCT	$.	_	29	_	_	_
+
+1	Gowron	Gowron	PROPN	NE	case=nom|gender=masc|number=sg	0	_	_	_
+2	ist	sein	AUX	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	1	_	_	_
+3	also	also	ADV	ADV	_	2	_	_	_
+4	an	an	ADP	APPR	_	3	_	_	_
+5	Bord	Bord	NOUN	NN	case=dat|gender=neut|number=sg	4	_	_	_
+6	gekommen	kommen	ADJ	VVPP	verbform=part	5	_	_	_
+7	,	,	PUNCT	$,	_	6	_	_	_
+8	um	um	ADP	KOUI	_	7	_	_	_
+9	Ihren	ihr	DET	PPOSAT	case=acc|gender=masc|number=sg|poss=yes	8	_	_	_
+10	Anspruch	Anspruch	NOUN	NN	case=acc|gender=masc|number=sg	9	_	_	_
+11	zu	zu	PART	PTKZU	_	10	_	_	_
+12	prüfen	prüfen	VERB	VVINF	verbform=inf	11	_	_	_
+13	.	.	PUNCT	$.	_	12	_	_	_
+
+1	Gowron	Gowron	PROPN	NE	case=nom|gender=masc|number=sg	0	_	_	_
+2	weiß	wissen	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	1	_	_	_
+3	,	,	PUNCT	$,	_	2	_	_	_
+4	seine	sein	DET	PPOSAT	case=nom|gender=masc|number=pl|poss=yes	3	_	_	_
+5	Tage	Tag	NOUN	NN	case=acc|gender=masc|number=pl	4	_	_	_
+6	sind	sein	AUX	VAFIN	mood=ind|number=pl|person=3|tense=pres|verbform=fin	5	_	_	_
+7	gezählt	zählen	ADJ	VVPP	verbform=part	6	_	_	_
+8	.	.	PUNCT	$.	_	7	_	_	_
+
+1	Also	also	ADV	ADV	_	0	_	_	_
+2	kommt	kommen	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	1	_	_	_
+3	er	er	PRON	PPER	case=nom|gender=masc|number=sg|person=3|prontype=prs	2	_	_	_
+4	mit	mit	ADP	APPR	_	3	_	_	_
+5	einem	ein	DET	ART	case=dat|definite=ind|gender=masc|number=sg|prontype=art	4	_	_	_
+6	läppischen	läppisch	ADJ	ADJA	case=dat|gender=masc|number=sg	5	_	_	_
+7	Test	Test	NOUN	NN	case=dat|gender=masc|number=sg	6	_	_	_
+8	daher	daher	ADV	PAV	_	7	_	_	_
+9	.	.	PUNCT	$.	_	8	_	_	_
+
+1	Das	der	PRON	PDS	case=nom|gender=neut|number=sg|prontype=dem	0	_	_	_
+2	hat	haben	VERB	VAFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	1	_	_	_
+3	was	was	PRON	PIS	definite=ind|prontype=ind	2	_	_	_
+4	.	.	PUNCT	$.	_	3	_	_	_
+
+1	Aber	aber	CCONJ	KON	_	0	_	_	_
+2	denk	denk	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	1	_	_	_
+3	dran	dran	ADV	ADV	_	2	_	_	_
+4	du	du	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	3	_	_	_
+5	bist	sein	AUX	VAFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	4	_	_	_
+6	nicht	nicht	PART	PTKNEG	polarity=neg	5	_	_	_
+7	wirklich	wirklich	ADV	ADV	_	6	_	_	_
+8	sauer	sauer	ADJ	ADJD	_	7	_	_	_
+9	wegen	wegen	ADP	APPR	_	8	_	_	_
+10	der	der	DET	ART	case=gen|definite=def|gender=fem|number=sg|prontype=art	9	_	_	_
+11	schnurrbarthaare	schnurrbarthaare	ADJ	ADJD	_	10	_	_	_
+12	.	.	PUNCT	$.	_	11	_	_	_
+
+1	Du	du	PRON	PPER	case=nom|number=sg|person=2|prontype=prs	0	_	_	_
+2	bist	sein	AUX	VAFIN	mood=ind|number=sg|person=1|tense=pres|verbform=fin	1	_	_	_
+3	sauer	sauer	ADJ	ADJD	_	2	_	_	_
+4	weil	weil	SCONJ	KOUS	_	3	_	_	_
+5	ich	ich	PRON	PPER	case=nom|number=sg|person=1|prontype=prs	4	_	_	_
+6	dir	dur	PRON	PRF	case=acc|number=sg|person=1|prontype=prs	5	_	_	_
+7	nicht	nicht	PART	PTKNEG	polarity=neg	6	_	_	_
+8	zuhöre	zuhöre	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	7	_	_	_
+9	,	,	PUNCT	$,	_	8	_	_	_
+10	deine	dein	PRON	PPOSAT	case=nom|gender=masc|number=pl|poss=yes	9	_	_	_
+11	Freunde	Freund	NOUN	NN	case=nom|gender=masc|number=pl	10	_	_	_
+12	nicht	nicht	PART	PTKNEG	polarity=neg	11	_	_	_
+13	mag	mögen	AUX	VMFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	12	_	_	_
+14	und	und	CCONJ	KON	_	13	_	_	_
+15	über	über	ADP	APPR	_	14	_	_	_
+16	deine	dein	PRON	PPOSAT	case=acc|gender=fem|number=sg|poss=yes	15	_	_	_
+17	Mutter	Mutter	NOUN	NN	case=acc|gender=fem|number=sg	16	_	_	_
+18	läster	last	VERB	VVFIN	mood=ind|number=sg|person=3|tense=pres|verbform=fin	17	_	_	_
+19	.	.	PUNCT	$.	_	18	_	_	_
+

@@ -1,0 +1,1717 @@
+1	Du	ich	PRON	PPER	_	1	null	_	_
+2	willst	wollen	VERB	VMFIN	_	2	null	_	_
+3	alles	alle	PRON	PIS	_	3	null	_	_
+4	wissen	wissen	VERB	VVINF	_	4	null	_	_
+5	.	.	PUNCT	$.	_	5	null	_	_
+
+1	Es	ich	PRON	PPER	_	1	null	_	_
+2	ist	sein	AUX	VAFIN	_	2	null	_	_
+3	mein	meinen	DET	PPOSAT	_	3	null	_	_
+4	Töff	Töff	NOUN	NN	_	4	null	_	_
+5	,	,	PUNCT	$,	_	5	null	_	_
+6	oder	oder	CONJ	KON	_	6	null	_	_
+7	!	!	PUNCT	$.	_	7	null	_	_
+
+1	Gut	Gut	ADJ	ADJD	_	1	null	_	_
+2	,	,	PUNCT	$,	_	2	null	_	_
+3	also	also	ADV	ADV	_	3	null	_	_
+4	das	der	DET	ART	_	4	null	_	_
+5	Benzin	Benzin	NOUN	NN	_	5	null	_	_
+6	geht	gehen	VERB	VVFIN	_	6	null	_	_
+7	hier	hier	ADV	ADV	_	7	null	_	_
+8	durch	durch	PART	PTKVZ	_	8	null	_	_
+9	,	,	PUNCT	$,	_	9	null	_	_
+10	da	da	SCONJ	KOUS	_	10	null	_	_
+11	hinein	hinein	PART	PTKVZ	_	11	null	_	_
+12	.	.	PUNCT	$.	_	12	null	_	_
+
+1	Da	da	SCONJ	KOUS	_	1	null	_	_
+2	drin	drin	ADV	ADV	_	2	null	_	_
+3	ist	sein	AUX	VAFIN	_	3	null	_	_
+4	es	ich	PRON	PPER	_	4	null	_	_
+5	sehr	sehr	ADV	ADV	_	5	null	_	_
+6	heiss	heiss	ADJ	ADJD	_	6	null	_	_
+7	.	.	PUNCT	$.	_	7	null	_	_
+
+1	Dann	Dann	ADV	ADV	_	1	null	_	_
+2	die	der	DET	ART	_	2	null	_	_
+3	Kerze	Kerze	NOUN	NN	_	3	null	_	_
+4	maken	maken	VERB	VVFIN	_	4	null	_	_
+5	ein	einen	PART	PTKVZ	_	5	null	_	_
+6	...	...	PUNCT	$(	_	6	null	_	_
+
+1	Ja	ja	PART	PTKANT	_	1	null	_	_
+2	,	,	PUNCT	$,	_	2	null	_	_
+3	wie	wie	ADV	PWAV	_	3	null	_	_
+4	ein	einen	DET	ART	_	4	null	_	_
+5	Messer	Messer	NOUN	NN	_	5	null	_	_
+6	auf	auf	ADP	APPR	_	6	null	_	_
+7	dem	der	DET	ART	_	7	null	_	_
+8	Schleifstein	Schleifstein	NOUN	NN	_	8	null	_	_
+9	.	.	PUNCT	$.	_	9	null	_	_
+
+1	Wie	wie	ADV	PWAV	_	1	null	_	_
+2	ein	einen	DET	ART	_	2	null	_	_
+3	Feuerzeug	Feuerzeug	NOUN	NN	_	3	null	_	_
+4	.	.	PUNCT	$.	_	4	null	_	_
+
+1	Ein	Ein	DET	ART	_	1	null	_	_
+2	Funke	funken	NOUN	NN	_	2	null	_	_
+3	.	.	PUNCT	$.	_	3	null	_	_
+
+1	Funke	funken	NOUN	NN	_	1	null	_	_
+2	...	...	PUNCT	$(	_	2	null	_	_
+3	gut	gut	ADJ	ADJD	_	3	null	_	_
+4	.	.	PUNCT	$.	_	4	null	_	_
+
+1	Also	Also	ADV	ADV	_	1	null	_	_
+2	die	der	DET	ART	_	2	null	_	_
+3	Kerze	Kerze	NOUN	NN	_	3	null	_	_
+4	machen	machen	VERB	VVFIN	_	4	null	_	_
+5	ein	einen	DET	ART	_	5	null	_	_
+6	Funke	funken	NOUN	NN	_	6	null	_	_
+7	und	und	CONJ	KON	_	7	null	_	_
+8	päng	päng	NOUN	NN	_	8	null	_	_
+9	bringt	bringen	VERB	VVFIN	_	9	null	_	_
+10	das	der	DET	ART	_	10	null	_	_
+11	Benzin	Benzin	NOUN	NN	_	11	null	_	_
+12	zum	zum	ADP	APPRART	_	12	null	_	_
+13	Explodiern	Explodiern	NOUN	NN	_	13	null	_	_
+
+1	Anateo	Anateo	PROPN	NE	_	1	null	_	_
+2	hat	haben	AUX	VAFIN	_	2	null	_	_
+3	uns	sich	PRON	PPER	_	3	null	_	_
+4	alle	all	PRON	PIS	_	4	null	_	_
+5	verraten	verraten	VERB	VVPP	_	5	null	_	_
+6	und	und	CONJ	KON	_	6	null	_	_
+7	er	ich	PRON	PPER	_	7	null	_	_
+8	wird	werden	AUX	VAFIN	_	8	null	_	_
+9	dafür	dafür	ADV	PROAV	_	9	null	_	_
+10	bezahlen	bezahlen	VERB	VVINF	_	10	null	_	_
+11	.	.	PUNCT	$.	_	11	null	_	_
+
+1	Und	und	CONJ	KON	_	1	null	_	_
+2	wegen	wegen	ADP	APPR	_	2	null	_	_
+3	der	der	DET	ART	_	3	null	_	_
+4	Tau'ri	Tau'ri	AUX	VAFIN	_	4	null	_	_
+5	...	...	PUNCT	$(	_	5	null	_	_
+6	sie	ich	PRON	PPER	_	6	null	_	_
+7	befanden	befinden	VERB	VVFIN	_	7	null	_	_
+8	sich	sich	PRON	PRF	_	8	null	_	_
+9	schon	schon	ADV	ADV	_	9	null	_	_
+10	im	im	ADP	APPRART	_	10	null	_	_
+11	Krieg	kriegen	NOUN	NN	_	11	null	_	_
+12	gegen	gegen	ADP	APPR	_	12	null	_	_
+13	uns	sich	PRON	PPER	_	13	null	_	_
+14	und	und	CONJ	KON	_	14	null	_	_
+15	wir	ich	PRON	PPER	_	15	null	_	_
+16	gegen	gegen	ADP	APPR	_	16	null	_	_
+17	sie	ich	PRON	PPER	_	17	null	_	_
+18	...	...	PUNCT	$(	_	18	null	_	_
+19	und	und	CONJ	KON	_	19	null	_	_
+20	ich	ich	PRON	PPER	_	20	null	_	_
+21	werde	werden	AUX	VAFIN	_	21	null	_	_
+22	mich	sich	PRON	PRF	_	22	null	_	_
+23	nicht	nicht	PART	PTKNEG	_	23	null	_	_
+24	ängstlich	ängstlich	ADJ	ADJD	_	24	null	_	_
+25	verkriechen	verkriechen	VERB	VVINF	_	25	null	_	_
+26	.	.	PUNCT	$.	_	26	null	_	_
+
+1	Sagt	Sagt	VERB	VVFIN	_	1	null	_	_
+2	das	der	PRON	PDS	_	2	null	_	_
+3	weiter	weit	PART	PTKVZ	_	3	null	_	_
+4	.	.	PUNCT	$.	_	4	null	_	_
+
+1	Schickt	Schickt	VERB	VVIMP	_	1	null	_	_
+2	alle	all	DET	PIAT	_	2	null	_	_
+3	verfügbaren	verfügbar	ADJ	ADJA	_	3	null	_	_
+4	Schiffe	schiffen	NOUN	NN	_	4	null	_	_
+5	.	.	PUNCT	$.	_	5	null	_	_
+
+1	Ich	ich	PRON	PPER	_	1	null	_	_
+2	will	wollen	VERB	VMFIN	_	2	null	_	_
+3	,	,	PUNCT	$,	_	3	null	_	_
+4	dass	dass	SCONJ	KOUS	_	4	null	_	_
+5	die	der	DET	ART	_	5	null	_	_
+6	0dyssey	0dyssey	NOUN	NN	_	6	null	_	_
+7	gefunden	finden	VERB	VVPP	_	7	null	_	_
+8	wird	werden	AUX	VAFIN	_	8	null	_	_
+9	.	.	PUNCT	$.	_	9	null	_	_
+
+1	Sofort	Sofort	ADV	ADV	_	1	null	_	_
+2	!	!	PUNCT	$.	_	2	null	_	_
+
+1	Kefflin	Kefflin	NOUN	NN	_	1	null	_	_
+2	.	.	PUNCT	$.	_	2	null	_	_
+
+1	War	sein	AUX	VAFIN	_	1	null	_	_
+2	es	ich	PRON	PPER	_	2	null	_	_
+3	wirklich	wirklich	ADJ	ADJD	_	3	null	_	_
+4	nötig	nötigen	ADJ	ADJD	_	4	null	_	_
+5	,	,	PUNCT	$,	_	5	null	_	_
+6	mich	sich	PRON	PPER	_	6	null	_	_
+7	so	so	ADV	ADV	_	7	null	_	_
+8	zu	zu	PART	PTKZU	_	8	null	_	_
+9	blamieren	blamieren	VERB	VVINF	_	9	null	_	_
+10	?	?	PUNCT	$.	_	10	null	_	_
+
+1	Es	ich	PRON	PPER	_	1	null	_	_
+2	gab	geben	VERB	VVFIN	_	2	null	_	_
+3	Gerüchte	Gerücht	NOUN	NN	_	3	null	_	_
+4	wegen	wegen	ADP	APPR	_	4	null	_	_
+5	der	der	DET	ART	_	5	null	_	_
+6	Stärke	Stärke	NOUN	NN	_	6	null	_	_
+7	deiner	sich	DET	PPOSAT	_	7	null	_	_
+8	Führung	Führung	NOUN	NN	_	8	null	_	_
+9	.	.	PUNCT	$.	_	9	null	_	_
+
+1	Jetzt	Jetzt	ADV	ADV	_	1	null	_	_
+2	werden	werden	AUX	VAFIN	_	2	null	_	_
+3	diese	dies	DET	PDAT	_	3	null	_	_
+4	Gerüchte	Gerücht	NOUN	NN	_	4	null	_	_
+5	aufhören	aufhören	VERB	VVINF	_	5	null	_	_
+6	.	.	PUNCT	$.	_	6	null	_	_
+
+1	Und	und	CONJ	KON	_	1	null	_	_
+2	?	?	PUNCT	$.	_	2	null	_	_
+
+1	Wirst	Wirst	AUX	VAFIN	_	1	null	_	_
+2	du	du	PRON	PPER	_	2	null	_	_
+3	es	ich	PRON	PPER	_	3	null	_	_
+4	so	so	ADV	ADV	_	4	null	_	_
+5	lassen	lassen	VERB	VVINF	_	5	null	_	_
+6	oder	oder	CONJ	KON	_	6	null	_	_
+7	wirst	werden	AUX	VAFIN	_	7	null	_	_
+8	du	du	PRON	PPER	_	8	null	_	_
+9	das	der	PRON	PDS	_	9	null	_	_
+10	in	in	ADP	APPR	_	10	null	_	_
+11	Ordnung	Ordnung	NOUN	NN	_	11	null	_	_
+12	bringen	bringen	VERB	VVINF	_	12	null	_	_
+13	?	?	PUNCT	$.	_	13	null	_	_
+
+1	Bist	sein	AUX	VAFIN	_	1	null	_	_
+2	du	du	PRON	PPER	_	2	null	_	_
+3	glücklich	glücklich	ADJ	ADJD	_	3	null	_	_
+4	?	?	PUNCT	$.	_	4	null	_	_
+
+1	Ja	ja	PART	PTKANT	_	1	null	_	_
+2	.	.	PUNCT	$.	_	2	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Es	ich	PRON	PPER	_	2	null	_	_
+3	ist	sein	AUX	VAFIN	_	3	null	_	_
+4	nett	nett	ADJ	ADJD	_	4	null	_	_
+5	von	von	ADP	APPR	_	5	null	_	_
+6	dir	sich	PRON	PPER	_	6	null	_	_
+7	,	,	PUNCT	$,	_	7	null	_	_
+8	dass	dass	SCONJ	KOUS	_	8	null	_	_
+9	du	du	PRON	PPER	_	9	null	_	_
+10	hilfst	helfen	VERB	VVINF	_	10	null	_	_
+11	.	.	PUNCT	$.	_	11	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Einmal	Einmal	ADV	ADV	_	2	null	_	_
+3	ein	einen	DET	ART	_	3	null	_	_
+4	Pfadfinder	Pfadfinder	NOUN	NN	_	4	null	_	_
+5	,	,	PUNCT	$,	_	5	null	_	_
+6	immer	immer	ADV	ADV	_	6	null	_	_
+7	ein	einen	DET	ART	_	7	null	_	_
+8	Pfadfinder	Pfadfinder	NOUN	NN	_	8	null	_	_
+9	.	.	PUNCT	$.	_	9	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Du	ich	PRON	PPER	_	2	null	_	_
+3	warst	sein	AUX	VAFIN	_	3	null	_	_
+4	nie	nie	ADV	ADV	_	4	null	_	_
+5	ein	einen	DET	ART	_	5	null	_	_
+6	Pfandfinder	Pfandfinder	NOUN	NN	_	6	null	_	_
+7	.	.	PUNCT	$.	_	7	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Offensichtlich	Offensichtlich	ADJ	ADJD	_	2	null	_	_
+3	habe	habe	AUX	VAFIN	_	3	null	_	_
+4	ich	ich	PRON	PPER	_	4	null	_	_
+5	mein	meinen	AUX	VAINF	_	5	null	_	_
+6	...	...	PUNCT	$(	_	6	null	_	_
+
+1	Verdienstabzeichen	Verdienstabzeichen	NOUN	NN	_	1	null	_	_
+2	für	für	ADP	APPR	_	2	null	_	_
+3	Biberfallen	Biberfallen	NOUN	NN	_	3	null	_	_
+4	bekommen	bekommen	VERB	VVINF	_	4	null	_	_
+5	.	.	PUNCT	$.	_	5	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Konzentriere	konzentrieren	VERB	VVFIN	_	2	null	_	_
+3	dich	sich	PRON	PPER	_	3	null	_	_
+4	lieber	lieb	ADV	ADV	_	4	null	_	_
+5	da	da	ADV	ADV	_	5	null	_	_
+6	drauf	drauf	PART	PTKVZ	_	6	null	_	_
+7	.	.	PUNCT	$.	_	7	null	_	_
+
+1	Kommt	Kommt	VERB	VVFIN	_	1	null	_	_
+2	mit	mit	ADP	APPR	_	2	null	_	_
+3	mir	sich	PRON	PPER	_	3	null	_	_
+4	.	.	PUNCT	$.	_	4	null	_	_
+
+1	Wisst	Wisst	VERB	VVFIN	_	1	null	_	_
+2	ihr	mein	PRON	PPER	_	2	null	_	_
+3	,	,	PUNCT	$,	_	3	null	_	_
+4	wie	wie	ADV	PWAV	_	4	null	_	_
+5	wertvoll	wertvoll	ADJ	ADJD	_	5	null	_	_
+6	diese	dies	DET	PDAT	_	6	null	_	_
+7	Mohnblumen	Mohnblumen	NOUN	NN	_	7	null	_	_
+8	waren	sein	AUX	VAFIN	_	8	null	_	_
+9	?	?	PUNCT	$.	_	9	null	_	_
+
+1	In	In	ADP	APPR	_	1	null	_	_
+2	Rauch	rauchen	NOUN	NN	_	2	null	_	_
+3	aufgegangen	aufgehen	VERB	VVPP	_	3	null	_	_
+4	.	.	PUNCT	$.	_	4	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Was	Was	PRON	PWS	_	2	null	_	_
+3	?	?	PUNCT	$.	_	3	null	_	_
+
+1	Hat	haben	AUX	VAFIN	_	1	null	_	_
+2	sie	ich	PRON	PPER	_	2	null	_	_
+3	jemand	jemand	PRON	PIS	_	3	null	_	_
+4	angezündet	anzünden	VERB	VVPP	_	4	null	_	_
+5	?	?	PUNCT	$.	_	5	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Ja	ja	PART	PTKANT	_	2	null	_	_
+3	.	.	PUNCT	$.	_	3	null	_	_
+
+1	Betrunkene	Betrunkene	ADJ	ADJA	_	1	null	_	_
+2	irische	irische	ADJ	ADJA	_	2	null	_	_
+3	Familie	Familie	NOUN	NN	_	3	null	_	_
+4	,	,	PUNCT	$,	_	4	null	_	_
+5	die	der	DET	ART	_	5	null	_	_
+6	Straße	Straße	NOUN	NN	_	6	null	_	_
+7	hoch	hoch	PART	PTKVZ	_	7	null	_	_
+8	.	.	PUNCT	$.	_	8	null	_	_
+
+1	Die	der	DET	ART	_	1	null	_	_
+2	O'Hallorans	O'Hallorans	PROPN	NE	_	2	null	_	_
+3	.	.	PUNCT	$.	_	3	null	_	_
+
+1	Warum	warum	ADV	PWAV	_	1	null	_	_
+2	?	?	PUNCT	$.	_	2	null	_	_
+
+1	Was	Was	PRON	PWS	_	1	null	_	_
+2	hast	haben	AUX	VAFIN	_	2	null	_	_
+3	du	du	PRON	PPER	_	3	null	_	_
+4	getan	tun	VERB	VVPP	_	4	null	_	_
+5	,	,	PUNCT	$,	_	5	null	_	_
+6	um	um	SCONJ	KOUI	_	6	null	_	_
+7	sie	ich	PRON	PPER	_	7	null	_	_
+8	zu	zu	PART	PTKZU	_	8	null	_	_
+9	verärgern	verärgern	VERB	VVINF	_	9	null	_	_
+10	?	?	PUNCT	$.	_	10	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Arbeitet	Arbeitet	VERB	VVFIN	_	2	null	_	_
+3	sie	ich	PRON	PPER	_	3	null	_	_
+4	nicht	nicht	PART	PTKNEG	_	4	null	_	_
+5	für	für	ADP	APPR	_	5	null	_	_
+6	dich	sich	PRON	PPER	_	6	null	_	_
+7	,	,	PUNCT	$,	_	7	null	_	_
+8	Vince	Vince	NOUN	NN	_	8	null	_	_
+9	?	?	PUNCT	$.	_	9	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Ja	ja	PART	PTKANT	_	2	null	_	_
+3	,	,	PUNCT	$,	_	3	null	_	_
+4	allerdings	allerdings	ADV	ADV	_	4	null	_	_
+5	.	.	PUNCT	$.	_	5	null	_	_
+
+1	Und	und	CONJ	KON	_	1	null	_	_
+2	bei	bei	ADP	APPR	_	2	null	_	_
+3	E	E	NOUN	NN	_	3	null	_	_
+4	einfach	einfach	ADV	ADV	_	4	null	_	_
+5	den	der	DET	ART	_	5	null	_	_
+6	Hörer	Hörer	NOUN	NN	_	6	null	_	_
+7	aufzulegen	auflegen	VERB	VVIZU	_	7	null	_	_
+8	,	,	PUNCT	$,	_	8	null	_	_
+9	muss	muss	VERB	VMFIN	_	9	null	_	_
+10	ziemlich	ziemlich	ADV	ADV	_	10	null	_	_
+11	entmannend	entmannend	ADJ	ADJD	_	11	null	_	_
+12	gewesen	sein	AUX	VAPP	_	12	null	_	_
+13	sein	mein	AUX	VAINF	_	13	null	_	_
+14	?	?	PUNCT	$.	_	14	null	_	_
+
+1	Fühlte	Fühlte	VERB	VVFIN	_	1	null	_	_
+2	sich	sich	PRON	PRF	_	2	null	_	_
+3	an	an	PART	PTKVZ	_	3	null	_	_
+4	,	,	PUNCT	$,	_	4	null	_	_
+5	wie	wie	CONJ	KOKOM	_	5	null	_	_
+6	zum	zum	ADP	APPRART	_	6	null	_	_
+7	Direktor	Direktor	NOUN	NN	_	7	null	_	_
+8	Reeve	Reeve	PROPN	NE	_	8	null	_	_
+9	ins	ins	ADP	APPRART	_	9	null	_	_
+10	Büro	Büro	NOUN	NN	_	10	null	_	_
+11	gerufen	rufen	VERB	VVPP	_	11	null	_	_
+12	zu	zu	PART	PTKZU	_	12	null	_	_
+13	werden	werden	AUX	VAINF	_	13	null	_	_
+14	.	.	PUNCT	$.	_	14	null	_	_
+
+1	Genauso	Genauso	ADV	ADV	_	1	null	_	_
+2	wie	wie	CONJ	KOKOM	_	2	null	_	_
+3	er	ich	PRON	PPER	_	3	null	_	_
+4	,	,	PUNCT	$,	_	4	null	_	_
+5	werde	werden	AUX	VAFIN	_	5	null	_	_
+6	ich	ich	PRON	PPER	_	6	null	_	_
+7	ihr	mein	PRON	PPER	_	7	null	_	_
+8	sagen	sagen	VERB	VVINF	_	8	null	_	_
+9	,	,	PUNCT	$,	_	9	null	_	_
+10	wie	wie	ADV	PWAV	_	10	null	_	_
+11	es	ich	PRON	PPER	_	11	null	_	_
+12	ist	sein	AUX	VAFIN	_	12	null	_	_
+13	.	.	PUNCT	$.	_	13	null	_	_
+
+1	Mach	Mach	VERB	VVIMP	_	1	null	_	_
+2	das	der	PRON	PDS	_	2	null	_	_
+3	bitte	bitte	PART	PTKANT	_	3	null	_	_
+4	,	,	PUNCT	$,	_	4	null	_	_
+5	denn	denn	CONJ	KON	_	5	null	_	_
+6	ich	ich	PRON	PPER	_	6	null	_	_
+7	mag	mögen	VERB	VMFIN	_	7	null	_	_
+8	ihr	mein	PRON	PPER	_	8	null	_	_
+9	nicht	nicht	PART	PTKNEG	_	9	null	_	_
+10	aus	aus	ADP	APPR	_	10	null	_	_
+11	dem	der	DET	ART	_	11	null	_	_
+12	Weg	Weg	NOUN	NN	_	12	null	_	_
+13	gehen	gehen	VERB	VVINF	_	13	null	_	_
+14	.	.	PUNCT	$.	_	14	null	_	_
+
+1	Nein	nein	PART	PTKANT	_	1	null	_	_
+2	,	,	PUNCT	$,	_	2	null	_	_
+3	nein	nein	PART	PTKANT	_	3	null	_	_
+4	.	.	PUNCT	$.	_	4	null	_	_
+
+1	Kein	kein	DET	PIAT	_	1	null	_	_
+2	weiteres	weit	ADJ	ADJA	_	2	null	_	_
+3	Ausweichen	Ausweiche	NOUN	NN	_	3	null	_	_
+4	.	.	PUNCT	$.	_	4	null	_	_
+
+1	Wir	ich	PRON	PPER	_	1	null	_	_
+2	werden	werden	AUX	VAFIN	_	2	null	_	_
+3	ihr	mein	PRON	PPER	_	3	null	_	_
+4	sagen	sagen	VERB	VVINF	_	4	null	_	_
+5	,	,	PUNCT	$,	_	5	null	_	_
+6	wir	ich	PRON	PPER	_	6	null	_	_
+7	machen	machen	VERB	VVFIN	_	7	null	_	_
+8	keinen	kein	DET	PIAT	_	8	null	_	_
+9	Film	filmen	NOUN	NN	_	9	null	_	_
+10	über	über	ADP	APPR	_	10	null	_	_
+11	irgendwas	irgendwas	PRON	PIS	_	11	null	_	_
+12	,	,	PUNCT	$,	_	12	null	_	_
+13	bis	bis	SCONJ	KOUS	_	13	null	_	_
+14	die	der	DET	ART	_	14	null	_	_
+15	Kameras	Kamera	NOUN	NN	_	15	null	_	_
+16	tatsächlich	tatsächlich	ADJ	ADJD	_	16	null	_	_
+17	für	für	ADP	APPR	_	17	null	_	_
+18	"	"	ADJ	ADJA	_	18	null	_	_
+19	Medellin	Medellin	NOUN	NN	_	19	null	_	_
+20	"	"	PUNCT	$(	_	20	null	_	_
+21	anlaufen	anlaufen	VERB	VVPP	_	21	null	_	_
+22	.	.	PUNCT	$.	_	22	null	_	_
+
+1	Sie	ich	PRON	PPER	_	1	null	_	_
+2	wird	werden	AUX	VAFIN	_	2	null	_	_
+3	angepisst	angepisst	VERB	VVPP	_	3	null	_	_
+4	sein	mein	AUX	VAINF	_	4	null	_	_
+5	,	,	PUNCT	$,	_	5	null	_	_
+6	wenn	wenn	SCONJ	KOUS	_	6	null	_	_
+7	sie	ich	PRON	PPER	_	7	null	_	_
+8	denkt	denken	VERB	VVFIN	_	8	null	_	_
+9	,	,	PUNCT	$,	_	9	null	_	_
+10	du	du	PRON	PPER	_	10	null	_	_
+11	nimmst	nehmen	VERB	VVFIN	_	11	null	_	_
+12	Ari	Ari	PROPN	NE	_	12	null	_	_
+13	ernst	ernst	PART	PTKVZ	_	13	null	_	_
+14	.	.	PUNCT	$.	_	14	null	_	_
+
+1	Anpassung	Anpassung	NOUN	NN	_	1	null	_	_
+2	von	von	ADP	APPR	_	2	null	_	_
+3	Movie	Movie	NOUN	NN	_	3	null	_	_
+
+1	Er	ich	PRON	PPER	_	1	null	_	_
+2	sieht	sehen	VERB	VVFIN	_	2	null	_	_
+3	wie	wie	CONJ	KOKOM	_	3	null	_	_
+4	Frankenstein	Frankenstein	NOUN	NN	_	4	null	_	_
+5	aus	aus	PART	PTKVZ	_	5	null	_	_
+6	.	.	PUNCT	$.	_	6	null	_	_
+
+1	Immerhin	Immerhin	ADV	ADV	_	1	null	_	_
+2	läuft	laufen	VERB	VVFIN	_	2	null	_	_
+3	er	ich	PRON	PPER	_	3	null	_	_
+4	ohne	ohne	ADP	APPR	_	4	null	_	_
+5	Krücken	Krücke	NOUN	NN	_	5	null	_	_
+6	.	.	PUNCT	$.	_	6	null	_	_
+
+1	Ja	ja	PART	PTKANT	_	1	null	_	_
+2	,	,	PUNCT	$,	_	2	null	_	_
+3	ich	ich	PRON	PPER	_	3	null	_	_
+4	dachte	denken	VERB	VVFIN	_	4	null	_	_
+5	,	,	PUNCT	$,	_	5	null	_	_
+6	er	ich	PRON	PPER	_	6	null	_	_
+7	wäre	sein	AUX	VAFIN	_	7	null	_	_
+8	glücklicher	glücklich	ADJ	ADJD	_	8	null	_	_
+9	darüber	darüber	ADV	PROAV	_	9	null	_	_
+10	.	.	PUNCT	$.	_	10	null	_	_
+
+1	Ich	ich	PRON	PPER	_	1	null	_	_
+2	bin	sein	AUX	VAFIN	_	2	null	_	_
+3	glücklicher	glücklich	ADJ	ADJD	_	3	null	_	_
+4	darüber	darüber	ADV	PROAV	_	4	null	_	_
+5	.	.	PUNCT	$.	_	5	null	_	_
+
+1	Wie	wie	ADV	PWAV	_	1	null	_	_
+2	geht	gehen	VERB	VVFIN	_	2	null	_	_
+3	es	ich	PRON	PPER	_	3	null	_	_
+4	dir	sich	PRON	PPER	_	4	null	_	_
+5	,	,	PUNCT	$,	_	5	null	_	_
+6	Maggie	Maggie	NOUN	NN	_	6	null	_	_
+7	?	?	PUNCT	$.	_	7	null	_	_
+
+1	Langer	Langer	ADJ	ADJA	_	1	null	_	_
+2	Tag	tagen	NOUN	NN	_	2	null	_	_
+3	.	.	PUNCT	$.	_	3	null	_	_
+
+1	Sieht	Sieht	VERB	VVFIN	_	1	null	_	_
+2	so	so	ADV	ADV	_	2	null	_	_
+3	aus	aus	PART	PTKVZ	_	3	null	_	_
+4	,	,	PUNCT	$,	_	4	null	_	_
+5	als	als	CONJ	KOKOM	_	5	null	_	_
+6	fängt	fangen	VERB	VVFIN	_	6	null	_	_
+7	mein	meinen	DET	PPOSAT	_	7	null	_	_
+8	Tag	tagen	NOUN	NN	_	8	null	_	_
+9	gerade	gerade	ADV	ADV	_	9	null	_	_
+10	an	an	PART	PTKVZ	_	10	null	_	_
+11	.	.	PUNCT	$.	_	11	null	_	_
+
+1	Hal	Hal	NOUN	NN	_	1	null	_	_
+2	.	.	PUNCT	$.	_	2	null	_	_
+
+1	Was	Was	PRON	PWS	_	1	null	_	_
+2	ich	ich	PRON	PPER	_	2	null	_	_
+3	sage	sage	VERB	VVFIN	_	3	null	_	_
+4	ist	sein	AUX	VAFIN	_	4	null	_	_
+5	,	,	PUNCT	$,	_	5	null	_	_
+6	mit	mit	ADP	APPR	_	6	null	_	_
+7	dem	der	DET	ART	_	7	null	_	_
+8	Militär	Militär	NOUN	NN	_	8	null	_	_
+9	ausgenommen	ausnehmen	VERB	VVPP	_	9	null	_	_
+10	sind	sein	AUX	VAFIN	_	10	null	_	_
+11	es	ich	PRON	PPER	_	11	null	_	_
+12	vielleicht	vielleicht	ADV	ADV	_	12	null	_	_
+13	vier	vier	NUM	CARD	_	13	null	_	_
+14	Leute	Leute	NOUN	NN	_	14	null	_	_
+15	,	,	PUNCT	$,	_	15	null	_	_
+16	die	der	PRON	PRELS	_	16	null	_	_
+17	genau	genau	ADJ	ADJD	_	17	null	_	_
+18	wissen	wissen	VERB	VVFIN	_	18	null	_	_
+19	,	,	PUNCT	$,	_	19	null	_	_
+20	wie	wie	ADV	PWAV	_	20	null	_	_
+21	dieser	dies	DET	PDAT	_	21	null	_	_
+22	Ort	Ort	NOUN	NN	_	22	null	_	_
+23	funktioniert	funktionieren	VERB	VVFIN	_	23	null	_	_
+24	.	.	PUNCT	$.	_	24	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Die	der	DET	ART	_	2	null	_	_
+3	Vaginoplastie	Vaginoplastie	NOUN	NN	_	3	null	_	_
+4	.	.	PUNCT	$.	_	4	null	_	_
+
+1	Wird	Wird	AUX	VAFIN	_	1	null	_	_
+2	die	der	DET	ART	_	2	null	_	_
+3	Vaginoplastie	Vaginoplastie	NOUN	NN	_	3	null	_	_
+4	separat	separat	ADJ	ADJD	_	4	null	_	_
+5	gemacht	machen	VERB	VVPP	_	5	null	_	_
+6	?	?	PUNCT	$.	_	6	null	_	_
+
+1	Genau	Genau	ADJ	ADJD	_	1	null	_	_
+2	.	.	PUNCT	$.	_	2	null	_	_
+
+1	Das	der	PRON	PDS	_	1	null	_	_
+2	wird	werden	AUX	VAFIN	_	2	null	_	_
+3	einzeln	einzeln	ADJ	ADJD	_	3	null	_	_
+4	gemacht	machen	VERB	VVPP	_	4	null	_	_
+5	.	.	PUNCT	$.	_	5	null	_	_
+
+1	Ich	ich	PRON	PPER	_	1	null	_	_
+2	möchte	mögen	VERB	VMFIN	_	2	null	_	_
+3	nicht	nicht	PART	PTKNEG	_	3	null	_	_
+4	mehr	mehr	ADV	ADV	_	4	null	_	_
+5	als	als	CONJ	KOKOM	_	5	null	_	_
+6	nötig	nötigen	ADJ	ADJD	_	6	null	_	_
+7	unter	unter	ADP	APPR	_	7	null	_	_
+8	Narkose	Narkose	NOUN	NN	_	8	null	_	_
+9	gesetzt	setzen	VERB	VVPP	_	9	null	_	_
+10	werden	werden	AUX	VAINF	_	10	null	_	_
+11	.	.	PUNCT	$.	_	11	null	_	_
+
+1	Ich	ich	PRON	PPER	_	1	null	_	_
+2	bekomme	bekommen	VERB	VVFIN	_	2	null	_	_
+3	eine	einen	DET	ART	_	3	null	_	_
+4	Narkose	Narkose	NOUN	NN	_	4	null	_	_
+5	,	,	PUNCT	$,	_	5	null	_	_
+6	und	und	CONJ	KON	_	6	null	_	_
+7	dann	dann	ADV	ADV	_	7	null	_	_
+8	noch	noch	ADV	ADV	_	8	null	_	_
+9	eine	einen	PRON	PIS	_	9	null	_	_
+10	?	?	PUNCT	$.	_	10	null	_	_
+
+1	Es	ich	PRON	PPER	_	1	null	_	_
+2	ist	sein	AUX	VAFIN	_	2	null	_	_
+3	ein	einen	DET	ART	_	3	null	_	_
+4	schwerer	schwer	ADJ	ADJA	_	4	null	_	_
+5	Eingriff	Eingriff	NOUN	NN	_	5	null	_	_
+6	mit	mit	ADP	APPR	_	6	null	_	_
+7	einer	einer	DET	ART	_	7	null	_	_
+8	langen	lang	ADJ	ADJA	_	8	null	_	_
+9	Rekonvaleszenz	Rekonvaleszenz	NOUN	NN	_	9	null	_	_
+10	.	.	PUNCT	$.	_	10	null	_	_
+
+1	Außerdem	Außerdem	ADV	PROAV	_	1	null	_	_
+2	brauchen	brauchen	VERB	VVFIN	_	2	null	_	_
+3	wir	ich	PRON	PPER	_	3	null	_	_
+4	dafür	dafür	ADV	PROAV	_	4	null	_	_
+5	einen	ein	DET	ART	_	5	null	_	_
+6	Spezialisten	Spezialist	NOUN	NN	_	6	null	_	_
+7	.	.	PUNCT	$.	_	7	null	_	_
+
+1	Aufregend	Aufregend	ADJ	ADJD	_	1	null	_	_
+2	.	.	PUNCT	$.	_	2	null	_	_
+
+1	Ja	ja	PART	PTKANT	_	1	null	_	_
+2	,	,	PUNCT	$,	_	2	null	_	_
+3	das	der	PRON	PDS	_	3	null	_	_
+4	ist	sein	AUX	VAFIN	_	4	null	_	_
+5	es	ich	PRON	PPER	_	5	null	_	_
+6	in	in	ADP	APPR	_	6	null	_	_
+7	der	der	DET	ART	_	7	null	_	_
+8	Tat	Tat	NOUN	NN	_	8	null	_	_
+9	.	.	PUNCT	$.	_	9	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Oh	Oh	ADP	APPR	_	2	null	_	_
+3	Gott	Gott	NOUN	NN	_	3	null	_	_
+4	.	.	PUNCT	$.	_	4	null	_	_
+
+1	Das	der	PRON	PDS	_	1	null	_	_
+2	reicht	reichen	VERB	VVFIN	_	2	null	_	_
+3	,	,	PUNCT	$,	_	3	null	_	_
+4	Dad	Dad	NOUN	NN	_	4	null	_	_
+5	!	!	PUNCT	$.	_	5	null	_	_
+
+1	Weißt	Weißt	VERB	VVFIN	_	1	null	_	_
+2	du	du	PRON	PPER	_	2	null	_	_
+3	,	,	PUNCT	$,	_	3	null	_	_
+4	wovon	wovon	ADV	PWAV	_	4	null	_	_
+5	ich	ich	PRON	PPER	_	5	null	_	_
+6	rede	rede	VERB	VVFIN	_	6	null	_	_
+7	?	?	PUNCT	$.	_	7	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Verstehst	Verstehst	VERB	VVIMP	_	2	null	_	_
+3	du	du	PRON	PPER	_	3	null	_	_
+4	mich	sich	PRON	PRF	_	4	null	_	_
+5	?	?	PUNCT	$.	_	5	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Dad	Dad	PROPN	NE	_	2	null	_	_
+3	,	,	PUNCT	$,	_	3	null	_	_
+4	das	der	PRON	PDS	_	4	null	_	_
+5	reicht	reichen	VERB	VVFIN	_	5	null	_	_
+6	!	!	PUNCT	$.	_	6	null	_	_
+
+1	Ich	ich	PRON	PPER	_	1	null	_	_
+2	gehe	gehen	VERB	VVFIN	_	2	null	_	_
+3	,	,	PUNCT	$,	_	3	null	_	_
+4	ok	ok	PART	PTKVZ	_	4	null	_	_
+5	.	.	PUNCT	$.	_	5	null	_	_
+
+1	Ok	Ok	PART	PTKANT	_	1	null	_	_
+2	.	.	PUNCT	$.	_	2	null	_	_
+
+1	Gut	Gut	ADJ	ADJD	_	1	null	_	_
+2	.	.	PUNCT	$.	_	2	null	_	_
+
+1	Warte	Warte	NOUN	NN	_	1	null	_	_
+2	...	...	PUNCT	$(	_	2	null	_	_
+
+1	Ja	ja	PART	PTKANT	_	1	null	_	_
+2	,	,	PUNCT	$,	_	2	null	_	_
+3	die	der	DET	ART	_	3	null	_	_
+4	DVD	DVD	PROPN	NE	_	4	null	_	_
+5	.	.	PUNCT	$.	_	5	null	_	_
+
+1	Okay	Okay	PART	PTKANT	_	1	null	_	_
+2	,	,	PUNCT	$,	_	2	null	_	_
+3	ich	ich	PRON	PPER	_	3	null	_	_
+4	sehe	sehen	VERB	VVFIN	_	4	null	_	_
+5	mal	mal	ADV	ADV	_	5	null	_	_
+6	nach	nach	PART	PTKVZ	_	6	null	_	_
+7	,	,	PUNCT	$,	_	7	null	_	_
+8	ob	ob	SCONJ	KOUS	_	8	null	_	_
+9	wir	ich	PRON	PPER	_	9	null	_	_
+10	noch	noch	ADV	ADV	_	10	null	_	_
+11	gefrorene	gefroren	ADJ	ADJA	_	11	null	_	_
+12	Soja-Pizza	Soja-Pizza	NOUN	NN	_	12	null	_	_
+13	haben	haben	AUX	VAFIN	_	13	null	_	_
+14	.	.	PUNCT	$.	_	14	null	_	_
+
+1	Ausweise	ausweisen	NOUN	NN	_	1	null	_	_
+2	.	.	PUNCT	$.	_	2	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Hi	Hi	NOUN	NN	_	2	null	_	_
+3	.	.	PUNCT	$.	_	3	null	_	_
+
+1	Echt	Echt	ADJ	ADJD	_	1	null	_	_
+2	jetzt	jetzt	ADV	ADV	_	2	null	_	_
+3	?	?	PUNCT	$.	_	3	null	_	_
+
+1	Ja	ja	PART	PTKANT	_	1	null	_	_
+2	,	,	PUNCT	$,	_	2	null	_	_
+3	Baby	Baby	X	FM	_	3	null	_	_
+4	,	,	PUNCT	$,	_	4	null	_	_
+5	man	man	PRON	PIS	_	5	null	_	_
+6	kann	können	VERB	VMFIN	_	6	null	_	_
+7	euer	sich	DET	PPOSAT	_	7	null	_	_
+8	Alter	alt	NOUN	NN	_	8	null	_	_
+9	kaum	kaum	ADV	ADV	_	9	null	_	_
+10	noch	noch	ADV	ADV	_	10	null	_	_
+11	schätzen	schätzen	VERB	VVINF	_	11	null	_	_
+12	,	,	PUNCT	$,	_	12	null	_	_
+13	wisst	wisst	ADV	PWAV	_	13	null	_	_
+14	ihr	mein	PRON	PPER	_	14	null	_	_
+15	.	.	PUNCT	$.	_	15	null	_	_
+
+1	Ja	ja	PART	PTKANT	_	1	null	_	_
+2	,	,	PUNCT	$,	_	2	null	_	_
+3	bitte	bitte	PART	PTKANT	_	3	null	_	_
+4	.	.	PUNCT	$.	_	4	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Der	der	DET	ART	_	2	null	_	_
+3	Abend	Abend	NOUN	NN	_	3	null	_	_
+4	gefällt	gefallen	VERB	VVFIN	_	4	null	_	_
+5	mir	sich	PRON	PPER	_	5	null	_	_
+6	jetzt	jetzt	ADV	ADV	_	6	null	_	_
+7	schon	schon	ADV	ADV	_	7	null	_	_
+8	.	.	PUNCT	$.	_	8	null	_	_
+
+1	Rachel	Rachel	PROPN	NE	_	1	null	_	_
+2	?	?	PUNCT	$.	_	2	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Ja	ja	PART	PTKANT	_	2	null	_	_
+3	,	,	PUNCT	$,	_	3	null	_	_
+4	das	der	PRON	PDS	_	4	null	_	_
+5	bin	sein	AUX	VAFIN	_	5	null	_	_
+6	ich	ich	PRON	PPER	_	6	null	_	_
+7	.	.	PUNCT	$.	_	7	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Vielen	viel	DET	PIAT	_	2	null	_	_
+3	Dank	Dank	NOUN	NN	_	3	null	_	_
+4	.	.	PUNCT	$.	_	4	null	_	_
+
+1	Es	ich	PRON	PPER	_	1	null	_	_
+2	gefällt	gefallen	VERB	VVFIN	_	2	null	_	_
+3	mir	sich	PRON	PPER	_	3	null	_	_
+4	viel	viel	ADV	ADV	_	4	null	_	_
+5	besser	gut	ADJ	ADJD	_	5	null	_	_
+6	,	,	PUNCT	$,	_	6	null	_	_
+7	wenn	wenn	SCONJ	KOUS	_	7	null	_	_
+8	wir	ich	PRON	PPER	_	8	null	_	_
+9	einer	einer	DET	ART	_	9	null	_	_
+10	Meinung	Meinung	NOUN	NN	_	10	null	_	_
+11	sind	sein	AUX	VAFIN	_	11	null	_	_
+12	.	.	PUNCT	$.	_	12	null	_	_
+
+1	Ihnen	ich	PRON	PPER	_	1	null	_	_
+2	nicht	nicht	PART	PTKNEG	_	2	null	_	_
+3	?	?	PUNCT	$.	_	3	null	_	_
+
+1	Der	der	DET	ART	_	1	null	_	_
+2	Text	Text	NOUN	NN	_	2	null	_	_
+3	des	der	DET	ART	_	3	null	_	_
+4	Kosst	Kosst	NOUN	NN	_	4	null	_	_
+5	Amojan	Amojan	NOUN	NN	_	5	null	_	_
+6	,	,	PUNCT	$,	_	6	null	_	_
+7	wie	wie	ADV	PWAV	_	7	null	_	_
+8	Sie	ich	PRON	PPER	_	8	null	_	_
+9	wünschten	wünschen	VERB	VVFIN	_	9	null	_	_
+10	.	.	PUNCT	$.	_	10	null	_	_
+
+1	Sehr	Sehr	ADV	ADV	_	1	null	_	_
+2	gut	gut	ADJ	ADJD	_	2	null	_	_
+3	.	.	PUNCT	$.	_	3	null	_	_
+
+1	Also	Also	ADV	ADV	_	1	null	_	_
+2	?	?	PUNCT	$.	_	2	null	_	_
+
+1	Legen	Legen	VERB	VVFIN	_	1	null	_	_
+2	Sie	ich	PRON	PPER	_	2	null	_	_
+3	ihn	ich	PRON	PPER	_	3	null	_	_
+4	auf	auf	ADP	APPR	_	4	null	_	_
+5	meinen	mein	DET	PPOSAT	_	5	null	_	_
+6	Schreibtisch	Schreibtisch	NOUN	NN	_	6	null	_	_
+7	.	.	PUNCT	$.	_	7	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Eminenz	Eminenz	NOUN	NN	_	2	null	_	_
+3	,	,	PUNCT	$,	_	3	null	_	_
+4	darf	dürfen	VERB	VMFIN	_	4	null	_	_
+5	ich	ich	PRON	PPER	_	5	null	_	_
+6	offen	offen	ADJ	ADJD	_	6	null	_	_
+7	sprechen	sprechen	VERB	VVINF	_	7	null	_	_
+8	?	?	PUNCT	$.	_	8	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Wenn	wenn	SCONJ	KOUS	_	2	null	_	_
+3	es	ich	PRON	PPER	_	3	null	_	_
+4	sein	mein	AUX	VAINF	_	4	null	_	_
+5	muss	muss	VERB	VMFIN	_	5	null	_	_
+6	.	.	PUNCT	$.	_	6	null	_	_
+
+1	Dieses	Dieses	DET	PDAT	_	1	null	_	_
+2	Buch	buchen	NOUN	NN	_	2	null	_	_
+3	wurde	werden	AUX	VAFIN	_	3	null	_	_
+4	seit	seit	ADP	APPR	_	4	null	_	_
+5	700	700	NUM	CARD	_	5	null	_	_
+6	Jahren	Jahr	NOUN	NN	_	6	null	_	_
+7	nicht	nicht	PART	PTKNEG	_	7	null	_	_
+8	mehr	mehr	ADV	ADV	_	8	null	_	_
+9	aus	aus	ADP	APPR	_	9	null	_	_
+10	den	der	DET	ART	_	10	null	_	_
+11	Archiven	Archiv	NOUN	NN	_	11	null	_	_
+12	geholt	holen	VERB	VVPP	_	12	null	_	_
+13	.	.	PUNCT	$.	_	13	null	_	_
+
+1	Was	Was	PRON	PWS	_	1	null	_	_
+2	wollen	wollen	VERB	VMFIN	_	2	null	_	_
+3	Sie	ich	PRON	PPER	_	3	null	_	_
+4	damit	damit	ADV	PROAV	_	4	null	_	_
+5	sagen	sagen	VERB	VVINF	_	5	null	_	_
+6	?	?	PUNCT	$.	_	6	null	_	_
+
+1	Er	ich	PRON	PPER	_	1	null	_	_
+2	hat	haben	AUX	VAFIN	_	2	null	_	_
+3	dich	sich	PRON	PPER	_	3	null	_	_
+4	gebraucht	gebrauchen	VERB	VVPP	_	4	null	_	_
+5	,	,	PUNCT	$,	_	5	null	_	_
+6	und	und	CONJ	KON	_	6	null	_	_
+7	du	du	PRON	PPER	_	7	null	_	_
+8	hast	haben	AUX	VAFIN	_	8	null	_	_
+9	ihn	ich	PRON	PPER	_	9	null	_	_
+10	im	im	ADP	APPRART	_	10	null	_	_
+11	Stich	Stich	NOUN	NN	_	11	null	_	_
+12	gelassen	lassen	VERB	VVPP	_	12	null	_	_
+13	.	.	PUNCT	$.	_	13	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Mom	Mom	NOUN	NN	_	2	null	_	_
+3	,	,	PUNCT	$,	_	3	null	_	_
+4	Dad	Dad	PROPN	NE	_	4	null	_	_
+5	,	,	PUNCT	$,	_	5	null	_	_
+6	helft	helfen	VERB	VVFIN	_	6	null	_	_
+7	mir	sich	PRON	PPER	_	7	null	_	_
+8	!	!	PUNCT	$.	_	8	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Schatz	Schatz	NOUN	NN	_	2	null	_	_
+3	.	.	PUNCT	$.	_	3	null	_	_
+
+1	Eddie	Eddie	PROPN	NE	_	1	null	_	_
+2	wollte	wollen	VERB	VMFIN	_	2	null	_	_
+3	den	der	DET	ART	_	3	null	_	_
+4	Brand	Brand	NOUN	NN	_	4	null	_	_
+5	in	in	ADP	APPR	_	5	null	_	_
+6	sich	sich	PRON	PRF	_	6	null	_	_
+7	löschen	löschen	VERB	VVINF	_	7	null	_	_
+8	,	,	PUNCT	$,	_	8	null	_	_
+9	indem	indem	SCONJ	KOUS	_	9	null	_	_
+10	er	ich	PRON	PPER	_	10	null	_	_
+11	in	in	ADP	APPR	_	11	null	_	_
+12	den	der	DET	ART	_	12	null	_	_
+13	Fluss	Fluss	NOUN	NN	_	13	null	_	_
+14	sprang	springen	VERB	VVFIN	_	14	null	_	_
+15	.	.	PUNCT	$.	_	15	null	_	_
+
+1	Siehst	Siehst	VERB	VVFIN	_	1	null	_	_
+2	du	du	PRON	PPER	_	2	null	_	_
+3	?	?	PUNCT	$.	_	3	null	_	_
+
+1	Es	ich	PRON	PPER	_	1	null	_	_
+2	ist	sein	AUX	VAFIN	_	2	null	_	_
+3	das	der	DET	ART	_	3	null	_	_
+4	Beste	Beste	NOUN	NN	_	4	null	_	_
+5	,	,	PUNCT	$,	_	5	null	_	_
+6	wenn	wenn	SCONJ	KOUS	_	6	null	_	_
+7	wir	ich	PRON	PPER	_	7	null	_	_
+8	uns	sich	PRON	PRF	_	8	null	_	_
+9	in	in	ADP	APPR	_	9	null	_	_
+10	diesen	dies	DET	PDAT	_	10	null	_	_
+11	Dingen	Ding	NOUN	NN	_	11	null	_	_
+12	nicht	nicht	PART	PTKNEG	_	12	null	_	_
+13	einmischen	einmischen	VERB	VVINF	_	13	null	_	_
+14	.	.	PUNCT	$.	_	14	null	_	_
+
+1	Aber	aber	CONJ	KON	_	1	null	_	_
+2	er	ich	PRON	PPER	_	2	null	_	_
+3	kann	können	VERB	VMFIN	_	3	null	_	_
+4	nicht	nicht	PART	PTKNEG	_	4	null	_	_
+5	schwimmen	schwimmen	VERB	VVINF	_	5	null	_	_
+6	.	.	PUNCT	$.	_	6	null	_	_
+
+1	Du	ich	PRON	PPER	_	1	null	_	_
+2	hast	haben	AUX	VAFIN	_	2	null	_	_
+3	es	ich	PRON	PPER	_	3	null	_	_
+4	ihm	ich	PRON	PPER	_	4	null	_	_
+5	nie	nie	ADV	ADV	_	5	null	_	_
+6	beigebracht	beibringen	VERB	VVPP	_	6	null	_	_
+7	.	.	PUNCT	$.	_	7	null	_	_
+
+1	Lass	Lass	VERB	VVFIN	_	1	null	_	_
+2	ihn	ich	PRON	PPER	_	2	null	_	_
+3	das	der	PRON	PDS	_	3	null	_	_
+4	lernen	lernen	VERB	VVINF	_	4	null	_	_
+5	,	,	PUNCT	$,	_	5	null	_	_
+6	wie	wie	ADV	PWAV	_	6	null	_	_
+7	ich	ich	PRON	PPER	_	7	null	_	_
+8	es	ich	PRON	PPER	_	8	null	_	_
+9	tat	tun	VERB	VVFIN	_	9	null	_	_
+10	:	:	PUNCT	$.	_	10	null	_	_
+11	auf	auf	ADP	APPR	_	11	null	_	_
+12	der	der	DET	ART	_	12	null	_	_
+13	Straße	Straße	NOUN	NN	_	13	null	_	_
+14	.	.	PUNCT	$.	_	14	null	_	_
+
+1	Nächste	Nächste	ADJ	ADJA	_	1	null	_	_
+2	Woche	Woche	NOUN	NN	_	2	null	_	_
+3	bei	bei	ADP	APPR	_	3	null	_	_
+4	Völlig	Völlig	ADJ	ADJD	_	4	null	_	_
+5	ineffektiver	ineffektiv	ADJ	ADJA	_	5	null	_	_
+6	Dad	Dad	NOUN	NN	_	6	null	_	_
+7	die	der	DET	ART	_	7	null	_	_
+8	urkomische	urkomische	ADJ	ADJA	_	8	null	_	_
+9	Beerdigungsfolge	Beerdigungsfolge	NOUN	NN	_	9	null	_	_
+10	.	.	PUNCT	$.	_	10	null	_	_
+
+1	Ich	ich	PRON	PPER	_	1	null	_	_
+2	finde	finden	VERB	VVFIN	_	2	null	_	_
+3	,	,	PUNCT	$,	_	3	null	_	_
+4	man	man	PRON	PIS	_	4	null	_	_
+5	kann	können	VERB	VMFIN	_	5	null	_	_
+6	über	über	ADP	APPR	_	6	null	_	_
+7	so	so	ADV	ADV	_	7	null	_	_
+8	persönliche	persönlich	ADJ	ADJA	_	8	null	_	_
+9	Dinge	dingen	NOUN	NN	_	9	null	_	_
+10	nur	nur	ADV	ADV	_	10	null	_	_
+11	sprechen	sprechen	VERB	VVINF	_	11	null	_	_
+12	,	,	PUNCT	$,	_	12	null	_	_
+13	wenn	wenn	SCONJ	KOUS	_	13	null	_	_
+14	der	der	DET	ART	_	14	null	_	_
+15	andere	ander	PRON	PIS	_	15	null	_	_
+16	das	der	DET	ART	_	16	null	_	_
+17	Verständnis	Verständnis	NOUN	NN	_	17	null	_	_
+18	hat	haben	AUX	VAFIN	_	18	null	_	_
+19	.	.	PUNCT	$.	_	19	null	_	_
+
+1	Deshalb	deshalb	ADV	PROAV	_	1	null	_	_
+2	schäme	schämen	VERB	VVFIN	_	2	null	_	_
+3	ich	ich	PRON	PPER	_	3	null	_	_
+4	mich	sich	PRON	PRF	_	4	null	_	_
+5	überhaupt	überhaupt	ADV	ADV	_	5	null	_	_
+6	nicht	nicht	PART	PTKNEG	_	6	null	_	_
+7	,	,	PUNCT	$,	_	7	null	_	_
+8	Ihnen	ich	PRON	PPER	_	8	null	_	_
+9	zu	zu	PART	PTKZU	_	9	null	_	_
+10	sagen	sagen	VERB	VVINF	_	10	null	_	_
+11	:	:	PUNCT	$.	_	11	null	_	_
+12	Ohne	ohne	ADP	APPR	_	12	null	_	_
+13	Babs	Babs	PROPN	NE	_	13	null	_	_
+14	wäre	sein	AUX	VAFIN	_	14	null	_	_
+15	ich	ich	PRON	PPER	_	15	null	_	_
+16	verloren	verlieren	VERB	VVPP	_	16	null	_	_
+17	.	.	PUNCT	$.	_	17	null	_	_
+
+1	Das	der	PRON	PDS	_	1	null	_	_
+2	ist	sein	AUX	VAFIN	_	2	null	_	_
+3	mir	sich	PRON	PPER	_	3	null	_	_
+4	ganz	ganz	ADV	ADV	_	4	null	_	_
+5	klar	klaren	ADJ	ADJD	_	5	null	_	_
+6	geworden	werden	AUX	VAPP	_	6	null	_	_
+7	,	,	PUNCT	$,	_	7	null	_	_
+8	schon	schon	ADV	ADV	_	8	null	_	_
+9	bei	bei	ADP	APPR	_	9	null	_	_
+10	dieser	dies	DET	PDAT	_	10	null	_	_
+11	kurzen	kurz	ADJ	ADJA	_	11	null	_	_
+12	Trennung	Trennung	NOUN	NN	_	12	null	_	_
+13	.	.	PUNCT	$.	_	13	null	_	_
+
+1	Ich	ich	PRON	PPER	_	1	null	_	_
+2	glaube	glauben	VERB	VVFIN	_	2	null	_	_
+3	,	,	PUNCT	$,	_	3	null	_	_
+4	das	der	PRON	PDS	_	4	null	_	_
+5	wäre	sein	AUX	VAFIN	_	5	null	_	_
+6	ein	einen	DET	ART	_	6	null	_	_
+7	schlechtes	schlecht	ADJ	ADJA	_	7	null	_	_
+8	Land	Land	NOUN	NN	_	8	null	_	_
+9	,	,	PUNCT	$,	_	9	null	_	_
+10	um	um	SCONJ	KOUI	_	10	null	_	_
+11	Kinder	Kind	NOUN	NN	_	11	null	_	_
+12	aufzuziehen	aufziehen	VERB	VVIZU	_	12	null	_	_
+13	.	.	PUNCT	$.	_	13	null	_	_
+
+1	Ich	ich	PRON	PPER	_	1	null	_	_
+2	weiß	weiß	VERB	VVFIN	_	2	null	_	_
+3	nicht	nicht	PART	PTKNEG	_	3	null	_	_
+4	.	.	PUNCT	$.	_	4	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Wissen	Wissen	VERB	VVFIN	_	2	null	_	_
+3	Sie	ich	PRON	PPER	_	3	null	_	_
+4	?	?	PUNCT	$.	_	4	null	_	_
+
+1	Babs	Babs	PROPN	NE	_	1	null	_	_
+2	und	und	CONJ	KON	_	2	null	_	_
+3	ich	ich	PRON	PPER	_	3	null	_	_
+4	,	,	PUNCT	$,	_	4	null	_	_
+5	wir	ich	PRON	PPER	_	5	null	_	_
+6	wollten	wollen	VERB	VMFIN	_	6	null	_	_
+7	am	am	PART	PTKA	_	7	null	_	_
+8	liebsten	lieb	ADJ	ADJD	_	8	null	_	_
+9	gleich	gleichen	ADV	ADV	_	9	null	_	_
+10	Kinder	Kind	NOUN	NN	_	10	null	_	_
+11	haben	haben	AUX	VAINF	_	11	null	_	_
+12	.	.	PUNCT	$.	_	12	null	_	_
+
+1	Doch	doch	CONJ	KON	_	1	null	_	_
+2	dann	dann	ADV	ADV	_	2	null	_	_
+3	kam	kommen	VERB	VVFIN	_	3	null	_	_
+4	ich	ich	PRON	PPER	_	4	null	_	_
+5	zu	zu	ADP	APPR	_	5	null	_	_
+6	diesem	dies	DET	PDAT	_	6	null	_	_
+7	Job	Job	NOUN	NN	_	7	null	_	_
+8	.	.	PUNCT	$.	_	8	null	_	_
+
+1	Kinder	Kind	NOUN	NN	_	1	null	_	_
+2	...	...	PUNCT	$(	_	2	null	_	_
+
+1	Zuerst	Zuerst	ADV	ADV	_	1	null	_	_
+2	dachten	denken	VERB	VVFIN	_	2	null	_	_
+3	wir	ich	PRON	PPER	_	3	null	_	_
+4	an	an	ADP	APPR	_	4	null	_	_
+5	2	2	NUM	CARD	_	5	null	_	_
+6	Jungen	Junge	NOUN	NN	_	6	null	_	_
+7	und	und	CONJ	KON	_	7	null	_	_
+8	dann	dann	ADV	ADV	_	8	null	_	_
+9	vielleicht	vielleicht	ADV	ADV	_	9	null	_	_
+10	ein	einen	DET	ART	_	10	null	_	_
+11	Mädchen	Mädchen	NOUN	NN	_	11	null	_	_
+12	.	.	PUNCT	$.	_	12	null	_	_
+
+1	Auf	Auf	ADP	APPR	_	1	null	_	_
+2	der	der	DET	ART	_	2	null	_	_
+3	Flucht	Flucht	NOUN	NN	_	3	null	_	_
+4	vor	vor	ADP	APPR	_	4	null	_	_
+5	der	der	DET	ART	_	5	null	_	_
+6	Steuerfaschistin	Steuerfaschistin	NOUN	NN	_	6	null	_	_
+7	konnte	können	VERB	VMFIN	_	7	null	_	_
+8	ich	ich	PRON	PPER	_	8	null	_	_
+9	Pluspunkte	Pluspunkte	NOUN	NN	_	9	null	_	_
+10	bei	bei	ADP	APPR	_	10	null	_	_
+11	Sam	Sam	PROPN	NE	_	11	null	_	_
+12	und	und	CONJ	KON	_	12	null	_	_
+13	den	der	DET	ART	_	13	null	_	_
+14	Kindern	Kind	NOUN	NN	_	14	null	_	_
+15	sammeln	sammeln	VERB	VVINF	_	15	null	_	_
+16	.	.	PUNCT	$.	_	16	null	_	_
+
+1	Wer	Wer	PRON	PWS	_	1	null	_	_
+2	hält	halten	VERB	VVFIN	_	2	null	_	_
+3	mich	sich	PRON	PPER	_	3	null	_	_
+4	für	für	ADP	APPR	_	4	null	_	_
+5	den	der	DET	ART	_	5	null	_	_
+6	besten	gut	ADJ	ADJA	_	6	null	_	_
+7	Daddy	Daddy	NOUN	NN	_	7	null	_	_
+8	der	der	DET	ART	_	8	null	_	_
+9	Welt	Welt	NOUN	NN	_	9	null	_	_
+10	?	?	PUNCT	$.	_	10	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Wer	Wer	PRON	PWS	_	2	null	_	_
+3	will	wollen	VERB	VMFIN	_	3	null	_	_
+4	heute	heute	ADV	ADV	_	4	null	_	_
+5	Schule	schulen	NOUN	NN	_	5	null	_	_
+6	schwänzen	schwänzen	VERB	VVINF	_	6	null	_	_
+7	?	?	PUNCT	$.	_	7	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Ja	ja	PART	PTKANT	_	2	null	_	_
+3	.	.	PUNCT	$.	_	3	null	_	_
+
+1	Schon	Schon	ADV	ADV	_	1	null	_	_
+2	besser	gut	ADJ	ADJD	_	2	null	_	_
+3	.	.	PUNCT	$.	_	3	null	_	_
+
+1	Okay	Okay	PROPN	NE	_	1	null	_	_
+2	.	.	PUNCT	$.	_	2	null	_	_
+
+1	Die	der	DET	ART	_	1	null	_	_
+2	Swans	Swans	NOUN	NN	_	2	null	_	_
+3	machen	machen	VERB	VVFIN	_	3	null	_	_
+4	einen	ein	DET	ART	_	4	null	_	_
+5	Familienausflug	Familienausflug	NOUN	NN	_	5	null	_	_
+6	.	.	PUNCT	$.	_	6	null	_	_
+
+1	Die	der	DET	ART	_	1	null	_	_
+2	finden	finden	VERB	VVFIN	_	2	null	_	_
+3	Wege	Weg	NOUN	NN	_	3	null	_	_
+4	,	,	PUNCT	$,	_	4	null	_	_
+5	die	der	DET	ART	_	5	null	_	_
+6	Seite	Seite	NOUN	NN	_	6	null	_	_
+7	drei	drei	NUM	CARD	_	7	null	_	_
+8	jetzt	jetzt	ADV	ADV	_	8	null	_	_
+9	sogar	sogar	ADV	ADV	_	9	null	_	_
+10	noch	noch	ADV	ADV	_	10	null	_	_
+11	gruseliger	gruselig	ADJ	ADJD	_	11	null	_	_
+12	zu	zu	PART	PTKZU	_	12	null	_	_
+13	machen	machen	VERB	VVINF	_	13	null	_	_
+14	.	.	PUNCT	$.	_	14	null	_	_
+
+1	"	"	X	XY	_	1	null	_	_
+2	Die	der	DET	ART	_	2	null	_	_
+3	süße	süß	ADJ	ADJA	_	3	null	_	_
+4	Karen	Karen	NOUN	NN	_	4	null	_	_
+5	Clarke	Clarke	PROPN	NE	_	5	null	_	_
+6	war	sein	AUX	VAFIN	_	6	null	_	_
+7	schon	schon	ADV	ADV	_	7	null	_	_
+8	in	in	ADP	APPR	_	8	null	_	_
+9	jungen	jung	ADJ	ADJA	_	9	null	_	_
+10	Jahren	Jahr	NOUN	NN	_	10	null	_	_
+11	eine	einen	DET	ART	_	11	null	_	_
+12	Oben-ohne-Schönheit	Oben-ohne-Schönheit	NOUN	NN	_	12	null	_	_
+13	.	.	PUNCT	$.	_	13	null	_	_
+
+1	Aber	aber	CONJ	KON	_	1	null	_	_
+2	jetzt	jetzt	ADV	ADV	_	2	null	_	_
+3	ist	sein	AUX	VAFIN	_	3	null	_	_
+4	sie	ich	PRON	PPER	_	4	null	_	_
+5	ein	einen	DET	ART	_	5	null	_	_
+6	großes	groß	ADJ	ADJA	_	6	null	_	_
+7	Mädchen	Mädchen	NOUN	NN	_	7	null	_	_
+8	und	und	CONJ	KON	_	8	null	_	_
+9	eine	einen	DET	ART	_	9	null	_	_
+10	wohlgeformte	wohlgeformte	ADJ	ADJA	_	10	null	_	_
+11	Lady	Lady	NOUN	NN	_	11	null	_	_
+12	.	.	PUNCT	$.	_	12	null	_	_
+13	"	"	X	XY	_	13	null	_	_
+
+1	Was	Was	PRON	PWS	_	1	null	_	_
+2	ist	sein	AUX	VAFIN	_	2	null	_	_
+3	mit	mit	ADP	APPR	_	3	null	_	_
+4	Cassie	Cassie	PROPN	NE	_	4	null	_	_
+5	und	und	CONJ	KON	_	5	null	_	_
+6	Ramse	Ramse	PROPN	NE	_	6	null	_	_
+7	?	?	PUNCT	$.	_	7	null	_	_
+
+1	Ich	ich	PRON	PPER	_	1	null	_	_
+2	dachte	denken	VERB	VVFIN	_	2	null	_	_
+3	,	,	PUNCT	$,	_	3	null	_	_
+4	du	du	PRON	PPER	_	4	null	_	_
+5	würdest	werden	VERB	VVFIN	_	5	null	_	_
+6	sie	ich	PRON	PPER	_	6	null	_	_
+7	zuletzt	zuletzt	ADV	ADV	_	7	null	_	_
+8	rauslassen	rauslassen	VERB	VVINF	_	8	null	_	_
+9	wollen	wollen	VERB	VMFIN	_	9	null	_	_
+10	,	,	PUNCT	$,	_	10	null	_	_
+11	für	für	ADP	APPR	_	11	null	_	_
+12	den	der	DET	ART	_	12	null	_	_
+13	Fall	Fall	NOUN	NN	_	13	null	_	_
+14	,	,	PUNCT	$,	_	14	null	_	_
+15	dass	dass	SCONJ	KOUS	_	15	null	_	_
+16	sie	ich	PRON	PPER	_	16	null	_	_
+17	etwas	etwas	PRON	PIS	_	17	null	_	_
+18	versuchen	versuchen	VERB	VVFIN	_	18	null	_	_
+19	.	.	PUNCT	$.	_	19	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Ja	ja	PART	PTKANT	_	2	null	_	_
+3	.	.	PUNCT	$.	_	3	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Das	der	PRON	PDS	_	2	null	_	_
+3	habe	habe	AUX	VAFIN	_	3	null	_	_
+4	ich	ich	PRON	PPER	_	4	null	_	_
+5	mir	sich	PRON	PRF	_	5	null	_	_
+6	gedacht	gedenken	VERB	VVPP	_	6	null	_	_
+7	.	.	PUNCT	$.	_	7	null	_	_
+
+1	Was	Was	PRON	PWS	_	1	null	_	_
+2	zur	zur	ADP	APPRART	_	2	null	_	_
+3	Hölle	Hölle	NOUN	NN	_	3	null	_	_
+4	war	sein	AUX	VAFIN	_	4	null	_	_
+5	das	der	PRON	PDS	_	5	null	_	_
+6	?	?	PUNCT	$.	_	6	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Was	Was	PRON	PWS	_	2	null	_	_
+3	zur	zur	ADP	APPRART	_	3	null	_	_
+4	Hölle	Hölle	NOUN	NN	_	4	null	_	_
+5	ist	sein	AUX	VAFIN	_	5	null	_	_
+6	passiert	passieren	VERB	VVPP	_	6	null	_	_
+7	?	?	PUNCT	$.	_	7	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Der	der	DET	ART	_	2	null	_	_
+3	Blitz	blitzen	NOUN	NN	_	3	null	_	_
+4	traf	treffen	VERB	VVFIN	_	4	null	_	_
+5	einen	ein	PRON	PIS	_	5	null	_	_
+6	der	der	DET	ART	_	6	null	_	_
+7	Transformatoren	Transformator	NOUN	NN	_	7	null	_	_
+8	.	.	PUNCT	$.	_	8	null	_	_
+
+1	Wir	ich	PRON	PPER	_	1	null	_	_
+2	dürfen	dürfen	VERB	VMFIN	_	2	null	_	_
+3	die	der	DET	ART	_	3	null	_	_
+4	Evakuierung	Evakuierung	NOUN	NN	_	4	null	_	_
+5	nicht	nicht	PART	PTKNEG	_	5	null	_	_
+6	verzögern	verzögern	VERB	VVINF	_	6	null	_	_
+7	.	.	PUNCT	$.	_	7	null	_	_
+
+1	Leite	Leite	VERB	VVFIN	_	1	null	_	_
+2	alle	all	PRON	PIS	_	2	null	_	_
+3	über	über	ADP	APPR	_	3	null	_	_
+4	den	der	DET	ART	_	4	null	_	_
+5	westlichen	westlich	ADJ	ADJA	_	5	null	_	_
+6	Gang	Gang	NOUN	NN	_	6	null	_	_
+7	zur	zur	ADP	APPRART	_	7	null	_	_
+8	Fahrzeughalle	Fahrzeughalle	NOUN	NN	_	8	null	_	_
+9	.	.	PUNCT	$.	_	9	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Wie	wie	ADV	PWAV	_	2	null	_	_
+3	viele	viel	PRON	PIS	_	3	null	_	_
+4	sind	sein	AUX	VAFIN	_	4	null	_	_
+5	verwundet	verwundet	VERB	VVPP	_	5	null	_	_
+6	?	?	PUNCT	$.	_	6	null	_	_
+
+1	Obwohl	obwohl	SCONJ	KOUS	_	1	null	_	_
+2	,	,	PUNCT	$,	_	2	null	_	_
+3	er	ich	PRON	PPER	_	3	null	_	_
+4	hat	haben	AUX	VAFIN	_	4	null	_	_
+5	schöne	schöne	ADJ	ADJA	_	5	null	_	_
+6	Reifen	Reife	NOUN	NN	_	6	null	_	_
+7	hat	haben	AUX	VAFIN	_	7	null	_	_
+8	...	...	PUNCT	$(	_	8	null	_	_
+9	für	für	ADP	APPR	_	9	null	_	_
+10	einen	ein	DET	ART	_	10	null	_	_
+11	Verrückten	Verrückte	NOUN	NN	_	11	null	_	_
+12	.	.	PUNCT	$.	_	12	null	_	_
+
+1	Halt	halten	ADP	APPR	_	1	null	_	_
+2	den	der	DET	ART	_	2	null	_	_
+3	Mund	Mund	NOUN	NN	_	3	null	_	_
+4	!	!	PUNCT	$.	_	4	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Zu	zu	ADP	APPR	_	2	null	_	_
+3	Hause	hausen	NOUN	NN	_	3	null	_	_
+4	!	!	PUNCT	$.	_	4	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Dieser	Dieser	DET	PDAT	_	2	null	_	_
+3	Ort	Ort	NOUN	NN	_	3	null	_	_
+4	ist	sein	AUX	VAFIN	_	4	null	_	_
+5	verdammt	verdammen	ADJ	ADJD	_	5	null	_	_
+6	geil	geil	ADJ	ADJD	_	6	null	_	_
+7	.	.	PUNCT	$.	_	7	null	_	_
+
+1	Wie	wie	ADV	PWAV	_	1	null	_	_
+2	im	im	ADP	APPRART	_	2	null	_	_
+3	Schlaraffenland	Schlaraffenland	NOUN	NN	_	3	null	_	_
+4	.	.	PUNCT	$.	_	4	null	_	_
+
+1	Hier	Hier	ADV	ADV	_	1	null	_	_
+2	kommen	kommen	VERB	VVFIN	_	2	null	_	_
+3	die	der	DET	ART	_	3	null	_	_
+4	reichen	reich	ADJ	ADJA	_	4	null	_	_
+5	Kinder	Kind	NOUN	NN	_	5	null	_	_
+6	zum	zum	ADP	APPRART	_	6	null	_	_
+7	sterben	sterben	VERB	VVFIN	_	7	null	_	_
+8	hin	hin	PART	PTKVZ	_	8	null	_	_
+9	.	.	PUNCT	$.	_	9	null	_	_
+
+1	Willkommen	Willkommen	ADJ	ADJD	_	1	null	_	_
+2	in	in	ADP	APPR	_	2	null	_	_
+3	meiner	sich	DET	PPOSAT	_	3	null	_	_
+4	Welt	Welt	NOUN	NN	_	4	null	_	_
+5	.	.	PUNCT	$.	_	5	null	_	_
+
+1	Mir	ich	PRON	PPER	_	1	null	_	_
+2	ist	sein	AUX	VAFIN	_	2	null	_	_
+3	ein	einen	DET	ART	_	3	null	_	_
+4	bisschen	bisschen	PRON	PIS	_	4	null	_	_
+5	schlecht	schlecht	ADJ	ADJD	_	5	null	_	_
+6	!	!	PUNCT	$.	_	6	null	_	_
+
+1	Kevin	Kevin	PROPN	NE	_	1	null	_	_
+2	,	,	PUNCT	$,	_	2	null	_	_
+3	ich	ich	PRON	PPER	_	3	null	_	_
+4	glaube	glauben	VERB	VVFIN	_	4	null	_	_
+5	,	,	PUNCT	$,	_	5	null	_	_
+6	du	du	PRON	PPER	_	6	null	_	_
+7	solltest	sollen	VERB	VVFIN	_	7	null	_	_
+8	Julie	Julie	PROPN	NE	_	8	null	_	_
+9	ins	ins	ADP	APPRART	_	9	null	_	_
+10	Badezimmer	Badezimmer	NOUN	NN	_	10	null	_	_
+11	bringen	bringen	VERB	VVINF	_	11	null	_	_
+12	.	.	PUNCT	$.	_	12	null	_	_
+
+1	Komm	Komm	VERB	VVIMP	_	1	null	_	_
+2	schon	schon	ADV	ADV	_	2	null	_	_
+3	.	.	PUNCT	$.	_	3	null	_	_
+
+1	Nein	nein	PART	PTKANT	_	1	null	_	_
+2	,	,	PUNCT	$,	_	2	null	_	_
+3	die	der	DET	ART	_	3	null	_	_
+4	Ärzte	Arzt	NOUN	NN	_	4	null	_	_
+5	sind	sein	AUX	VAFIN	_	5	null	_	_
+6	sehr	sehr	ADV	ADV	_	6	null	_	_
+7	zufrieden	zufrieden	ADJ	ADJD	_	7	null	_	_
+8	,	,	PUNCT	$,	_	8	null	_	_
+9	er	ich	PRON	PPER	_	9	null	_	_
+10	ist	sein	AUX	VAFIN	_	10	null	_	_
+11	der	der	DET	ART	_	11	null	_	_
+12	Tapferste	Tapferste	NOUN	NN	_	12	null	_	_
+13	.	.	PUNCT	$.	_	13	null	_	_
+
+1	Hast	haben	VERB	VVFIN	_	1	null	_	_
+2	du	du	PRON	PPER	_	2	null	_	_
+3	die	der	DET	ART	_	3	null	_	_
+4	Bodys	Bodys	NOUN	NN	_	4	null	_	_
+5	?	?	PUNCT	$.	_	5	null	_	_
+
+1	Frag	Frag	NOUN	NN	_	1	null	_	_
+2	deinen	mein	DET	PPOSAT	_	2	null	_	_
+3	Vater	Vater	NOUN	NN	_	3	null	_	_
+4	!	!	PUNCT	$.	_	4	null	_	_
+
+1	Sag	Sag	VERB	VVIMP	_	1	null	_	_
+2	's	's	PRON	PPER	_	2	null	_	_
+3	ihr	mein	PRON	PPER	_	3	null	_	_
+4	!	!	PUNCT	$.	_	4	null	_	_
+
+1	Ich	ich	PRON	PPER	_	1	null	_	_
+2	hatte	haben	AUX	VAFIN	_	2	null	_	_
+3	die	der	DET	ART	_	3	null	_	_
+4	Tüte	Tüte	NOUN	NN	_	4	null	_	_
+5	damit	damit	ADV	PROAV	_	5	null	_	_
+6	vorbereitet	vorbereiten	VERB	VVPP	_	6	null	_	_
+7	und	und	CONJ	KON	_	7	null	_	_
+8	er	ich	PRON	PPER	_	8	null	_	_
+9	lässt	lässt	VERB	VVFIN	_	9	null	_	_
+10	sie	ich	PRON	PPER	_	10	null	_	_
+11	stehen	stehen	VERB	VVINF	_	11	null	_	_
+12	!	!	PUNCT	$.	_	12	null	_	_
+
+1	Schade	Schade	ADJ	ADJD	_	1	null	_	_
+2	,	,	PUNCT	$,	_	2	null	_	_
+3	ich	ich	PRON	PPER	_	3	null	_	_
+4	hab	hab	VERB	VVFIN	_	4	null	_	_
+5	nicht	nicht	PART	PTKNEG	_	5	null	_	_
+6	mehr	mehr	ADV	ADV	_	6	null	_	_
+7	viele	viel	PRON	PIS	_	7	null	_	_
+8	.	.	PUNCT	$.	_	8	null	_	_
+
+1	Siehst	Siehst	VERB	VVFIN	_	1	null	_	_
+2	du	du	PRON	PPER	_	2	null	_	_
+3	,	,	PUNCT	$,	_	3	null	_	_
+4	sie	ich	PRON	PPER	_	4	null	_	_
+5	ist	sein	AUX	VAFIN	_	5	null	_	_
+6	sehr	sehr	ADV	ADV	_	6	null	_	_
+7	enttäuscht	enttäuschen	VERB	VVPP	_	7	null	_	_
+8	!	!	PUNCT	$.	_	8	null	_	_
+
+1	Gut	Gut	ADJ	ADJD	_	1	null	_	_
+2	,	,	PUNCT	$,	_	2	null	_	_
+3	ich	ich	PRON	PPER	_	3	null	_	_
+4	hab	hab	AUX	VAFIN	_	4	null	_	_
+5	sie	ich	PRON	PPER	_	5	null	_	_
+6	vergessen	vergessen	VERB	VVPP	_	6	null	_	_
+7	!	!	PUNCT	$.	_	7	null	_	_
+
+1	Mach	Mach	VERB	VVIMP	_	1	null	_	_
+2	nicht	nicht	PART	PTKNEG	_	2	null	_	_
+3	so	so	ADV	ADV	_	3	null	_	_
+4	ein	einen	DET	ART	_	4	null	_	_
+5	Theater	Theater	NOUN	NN	_	5	null	_	_
+6	!	!	PUNCT	$.	_	6	null	_	_
+
+1	Typisch	Typisch	ADJ	ADJD	_	1	null	_	_
+2	!	!	PUNCT	$.	_	2	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Mit	Mit	ADP	APPR	_	2	null	_	_
+3	dem	der	DET	ART	_	3	null	_	_
+4	Mund	Mund	NOUN	NN	_	4	null	_	_
+5	.	.	PUNCT	$.	_	5	null	_	_
+
+1	Mein	mein	DET	PPOSAT	_	1	null	_	_
+2	Autoreifen	Autoreifen	NOUN	NN	_	2	null	_	_
+3	ist	sein	AUX	VAFIN	_	3	null	_	_
+4	geplatzt	platzen	VERB	VVPP	_	4	null	_	_
+5	.	.	PUNCT	$.	_	5	null	_	_
+
+1	Meine	Meine	DET	PPOSAT	_	1	null	_	_
+2	Allianz	Allianz	NOUN	NN	_	2	null	_	_
+3	ist	sein	AUX	VAFIN	_	3	null	_	_
+4	vorbei	vorbei	ADV	ADV	_	4	null	_	_
+5	.	.	PUNCT	$.	_	5	null	_	_
+
+1	Viel	viel	DET	PIAT	_	1	null	_	_
+2	Glück	glücken	NOUN	NN	_	2	null	_	_
+3	.	.	PUNCT	$.	_	3	null	_	_
+
+1	Was	Was	PRON	PWS	_	1	null	_	_
+2	?	?	PUNCT	$.	_	2	null	_	_
+
+1	Dad	Dad	PROPN	NE	_	1	null	_	_
+2	!	!	PUNCT	$.	_	2	null	_	_
+
+1	Das	der	DET	ART	_	1	null	_	_
+2	Gute	Gute	NOUN	NN	_	2	null	_	_
+3	daran	daran	ADV	PROAV	_	3	null	_	_
+4	ist	sein	AUX	VAFIN	_	4	null	_	_
+5	,	,	PUNCT	$,	_	5	null	_	_
+6	dass	dass	SCONJ	KOUS	_	6	null	_	_
+7	ich	ich	PRON	PPER	_	7	null	_	_
+8	meinen	mein	DET	PPOSAT	_	8	null	_	_
+9	Fisch	fischen	NOUN	NN	_	9	null	_	_
+10	wiedersehe	wiedersehen	VERB	VVFIN	_	10	null	_	_
+11	.	.	PUNCT	$.	_	11	null	_	_
+
+1	Hey	Hey	PART	PTKANT	_	1	null	_	_
+2	,	,	PUNCT	$,	_	2	null	_	_
+3	was	was	PRON	PWS	_	3	null	_	_
+4	ist	sein	AUX	VAFIN	_	4	null	_	_
+5	los	los	PART	PTKVZ	_	5	null	_	_
+6	?	?	PUNCT	$.	_	6	null	_	_
+
+1	Es	ich	PRON	PPER	_	1	null	_	_
+2	spült	spülen	VERB	VVFIN	_	2	null	_	_
+3	nicht	nicht	PART	PTKNEG	_	3	null	_	_
+4	runter	runter	PART	PTKVZ	_	4	null	_	_
+5	.	.	PUNCT	$.	_	5	null	_	_
+
+1	Wir	ich	PRON	PPER	_	1	null	_	_
+2	brauchen	brauchen	VERB	VVFIN	_	2	null	_	_
+3	ein	einen	DET	ART	_	3	null	_	_
+4	größeres	groß	ADJ	ADJA	_	4	null	_	_
+5	Klo	Klo	NOUN	NN	_	5	null	_	_
+6	.	.	PUNCT	$.	_	6	null	_	_
+
+1	Führe	Führe	VERB	VVFIN	_	1	null	_	_
+2	mich	sich	PRON	PPER	_	2	null	_	_
+3	zu	zu	ADP	APPR	_	3	null	_	_
+4	dem	der	DET	ART	_	4	null	_	_
+5	Mann	Mann	NOUN	NN	_	5	null	_	_
+6	,	,	PUNCT	$,	_	6	null	_	_
+7	der	der	PRON	PRELS	_	7	null	_	_
+8	dich	sich	PRON	PPER	_	8	null	_	_
+9	schickte	schicken	VERB	VVFIN	_	9	null	_	_
+10	.	.	PUNCT	$.	_	10	null	_	_
+
+1	Er	ich	PRON	PPER	_	1	null	_	_
+2	erwartet	erwarten	VERB	VVFIN	_	2	null	_	_
+3	dich	sich	PRON	PPER	_	3	null	_	_
+4	.	.	PUNCT	$.	_	4	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Wo	wo	ADV	PWAV	_	2	null	_	_
+3	?	?	PUNCT	$.	_	3	null	_	_
+
+1	Das	der	PRON	PDS	_	1	null	_	_
+2	wirst	werden	AUX	VAFIN	_	2	null	_	_
+3	du	du	PRON	PPER	_	3	null	_	_
+4	sehen	sehen	VERB	VVINF	_	4	null	_	_
+5	,	,	PUNCT	$,	_	5	null	_	_
+6	wenn	wenn	SCONJ	KOUS	_	6	null	_	_
+7	wir	ich	PRON	PPER	_	7	null	_	_
+8	nicht	nicht	PART	PTKNEG	_	8	null	_	_
+9	verhaftet	verhaften	VERB	VVPP	_	9	null	_	_
+10	werden	werden	AUX	VAINF	_	10	null	_	_
+11	.	.	PUNCT	$.	_	11	null	_	_
+
+1	Also	Also	ADV	ADV	_	1	null	_	_
+2	los	los	PART	PTKVZ	_	2	null	_	_
+3	.	.	PUNCT	$.	_	3	null	_	_
+
+1	Du	ich	PRON	PPER	_	1	null	_	_
+2	gehst	gehen	VERB	VVFIN	_	2	null	_	_
+3	vor	vor	ADP	APPR	_	3	null	_	_
+4	mir	sich	PRON	PPER	_	4	null	_	_
+5	.	.	PUNCT	$.	_	5	null	_	_
+
+1	Ich	ich	PRON	PPER	_	1	null	_	_
+2	komme	kommen	VERB	VVFIN	_	2	null	_	_
+3	nach	nach	PART	PTKVZ	_	3	null	_	_
+4	.	.	PUNCT	$.	_	4	null	_	_
+
+1	Das	der	PRON	PDS	_	1	null	_	_
+2	war	sein	AUX	VAFIN	_	2	null	_	_
+3	ein	einen	DET	ART	_	3	null	_	_
+4	Test	Test	NOUN	NN	_	4	null	_	_
+5	.	.	PUNCT	$.	_	5	null	_	_
+
+1	Du	ich	PRON	PPER	_	1	null	_	_
+2	konntest	können	VERB	VMFIN	_	2	null	_	_
+3	ein	einen	DET	ART	_	3	null	_	_
+4	Spion	Spion	NOUN	NN	_	4	null	_	_
+5	sein	mein	AUX	VAINF	_	5	null	_	_
+6	.	.	PUNCT	$.	_	6	null	_	_
+
+1	Die	der	DET	ART	_	1	null	_	_
+2	Waffe	Waffe	NOUN	NN	_	2	null	_	_
+3	war	sein	AUX	VAFIN	_	3	null	_	_
+4	ungeladen	ungeladen	ADJ	ADJD	_	4	null	_	_
+5	.	.	PUNCT	$.	_	5	null	_	_
+
+1	-	-	PUNCT	$(	_	1	null	_	_
+2	Kommen	Kommen	VERB	VVFIN	_	2	null	_	_
+3	Sie	ich	PRON	PPER	_	3	null	_	_
+4	.	.	PUNCT	$.	_	4	null	_	_
+
+1	Seien	sein	AUX	VAFIN	_	1	null	_	_
+2	Sie	ich	PRON	PPER	_	2	null	_	_
+3	außergewöhnlich	außergewöhnlich	ADJ	ADJD	_	3	null	_	_
+4	.	.	PUNCT	$.	_	4	null	_	_
+
+1	Oh	Oh	PART	PTKANT	_	1	null	_	_
+2	,	,	PUNCT	$,	_	2	null	_	_
+3	Sie	ich	PRON	PPER	_	3	null	_	_
+4	...	...	PUNCT	$(	_	4	null	_	_
+
+1	Okay	Okay	PROPN	NE	_	1	null	_	_
+2	.	.	PUNCT	$.	_	2	null	_	_
+
+1	Um	um	SCONJ	KOUI	_	1	null	_	_
+2	die	der	DET	ART	_	2	null	_	_
+3	Dinge	dingen	NOUN	NN	_	3	null	_	_
+4	zu	zu	PART	PTKZU	_	4	null	_	_
+5	ordnen	ordnen	VERB	VVINF	_	5	null	_	_
+6	:	:	PUNCT	$.	_	6	null	_	_
+
+1	Das	der	DET	ART	_	1	null	_	_
+2	erste	erste	ADJ	ADJA	_	2	null	_	_
+3	Treffen	Treffen	NOUN	NN	_	3	null	_	_
+4	von	von	ADP	APPR	_	4	null	_	_
+5	Vertretern	Vertreter	NOUN	NN	_	5	null	_	_
+6	der	der	DET	ART	_	6	null	_	_
+7	menschlichen	menschlich	ADJ	ADJA	_	7	null	_	_
+8	Spezies	Spezies	NOUN	NN	_	8	null	_	_
+9	und	und	CONJ	KON	_	9	null	_	_
+10	Homo	Homo	X	FM	_	10	null	_	_
+11	Reptilia	Reptilia	PROPN	NE	_	11	null	_	_
+12	wird	werden	AUX	VAFIN	_	12	null	_	_
+13	jetzt	jetzt	ADV	ADV	_	13	null	_	_
+14	abgehalten	abhalten	VERB	VVPP	_	14	null	_	_
+15	.	.	PUNCT	$.	_	15	null	_	_
+
+1	Das	der	PRON	PDS	_	1	null	_	_
+2	habe	habe	AUX	VAFIN	_	2	null	_	_
+3	ich	ich	PRON	PPER	_	3	null	_	_
+4	noch	noch	ADV	ADV	_	4	null	_	_
+5	nie	nie	ADV	ADV	_	5	null	_	_
+6	gesagt	sagen	VERB	VVPP	_	6	null	_	_
+7	,	,	PUNCT	$,	_	7	null	_	_
+8	dass	dass	SCONJ	KOUS	_	8	null	_	_
+9	ist	sein	AUX	VAFIN	_	9	null	_	_
+10	toll	tollen	ADJ	ADJD	_	10	null	_	_
+11	!	!	PUNCT	$.	_	11	null	_	_
+
+1	Machen	Machen	VERB	VVFIN	_	1	null	_	_
+2	wir	ich	PRON	PPER	_	2	null	_	_
+3	weiter	weit	ADV	ADV	_	3	null	_	_
+4	!	!	PUNCT	$.	_	4	null	_	_
+
+1	Nun	Nun	ADV	ADV	_	1	null	_	_
+2	,	,	PUNCT	$,	_	2	null	_	_
+3	Mo	Mo	PROPN	NE	_	3	null	_	_
+4	,	,	PUNCT	$,	_	4	null	_	_
+5	gehen	gehen	VERB	VVFIN	_	5	null	_	_
+6	wir	ich	PRON	PPER	_	6	null	_	_
+7	Ihren	mein	DET	PPOSAT	_	7	null	_	_
+8	Sohn	Sohn	NOUN	NN	_	8	null	_	_
+9	holen	holen	VERB	VVINF	_	9	null	_	_
+10	.	.	PUNCT	$.	_	10	null	_	_
+
+1	Ach	Ach	INTJ	ITJ	_	1	null	_	_
+2	,	,	PUNCT	$,	_	2	null	_	_
+3	wissen	wissen	VERB	VVFIN	_	3	null	_	_
+4	Sie	ich	PRON	PPER	_	4	null	_	_
+5	,	,	PUNCT	$,	_	5	null	_	_
+6	Menschen	Mensch	NOUN	NN	_	6	null	_	_
+7	und	und	CONJ	KON	_	7	null	_	_
+8	ihre	mein	DET	PPOSAT	_	8	null	_	_
+9	Vorgänger	Vorgänger	NOUN	NN	_	9	null	_	_
+10	unterhalten	unterhalten	VERB	VVFIN	_	10	null	_	_
+11	sich	sich	PRON	PRF	_	11	null	_	_
+12	ganz	ganz	ADV	ADV	_	12	null	_	_
+13	gemütlich	gemütlich	ADJ	ADJD	_	13	null	_	_
+14	.	.	PUNCT	$.	_	14	null	_	_
+
+1	Niemals	Niemals	ADV	ADV	_	1	null	_	_
+2	.	.	PUNCT	$.	_	2	null	_	_
+
+1	Wenn	wenn	SCONJ	KOUS	_	1	null	_	_
+2	er	ich	PRON	PPER	_	2	null	_	_
+3	lügt	lügen	VERB	VVFIN	_	3	null	_	_
+4	,	,	PUNCT	$,	_	4	null	_	_
+5	haben	haben	AUX	VAFIN	_	5	null	_	_
+6	Sie	ich	PRON	PPER	_	6	null	_	_
+7	nichts	nichts	PRON	PIS	_	7	null	_	_
+8	zu	zu	PART	PTKZU	_	8	null	_	_
+9	befürchten	befürchten	VERB	VVINF	_	9	null	_	_
+10	.	.	PUNCT	$.	_	10	null	_	_
+
+1	Kahless	Kahless	NOUN	NN	_	1	null	_	_
+2	ist	sein	AUX	VAFIN	_	2	null	_	_
+3	seit	seit	ADP	APPR	_	3	null	_	_
+4	1.000	1.000	NUM	CARD	_	4	null	_	_
+5	Jahren	Jahr	NOUN	NN	_	5	null	_	_
+6	tot	tot	ADJ	ADJD	_	6	null	_	_
+7	.	.	PUNCT	$.	_	7	null	_	_
+
+1	Aber	aber	CONJ	KON	_	1	null	_	_
+2	sein	mein	DET	PPOSAT	_	2	null	_	_
+3	Geist	Geist	NOUN	NN	_	3	null	_	_
+4	ist	sein	AUX	VAFIN	_	4	null	_	_
+5	noch	noch	ADV	ADV	_	5	null	_	_
+6	lebendig	lebendig	ADJ	ADJD	_	6	null	_	_
+7	.	.	PUNCT	$.	_	7	null	_	_
+
+1	Haben	haben	AUX	VAFIN	_	1	null	_	_
+2	Sie	ich	PRON	PPER	_	2	null	_	_
+3	je	je	ADV	ADV	_	3	null	_	_
+4	einen	ein	DET	ART	_	4	null	_	_
+5	Geist	Geist	NOUN	NN	_	5	null	_	_
+6	bekämpft	bekämpfen	VERB	VVPP	_	6	null	_	_
+7	?	?	PUNCT	$.	_	7	null	_	_
+
+1	Keine	kein	DET	PIAT	_	1	null	_	_
+2	Waffe	Waffe	NOUN	NN	_	2	null	_	_
+3	kann	können	VERB	VMFIN	_	3	null	_	_
+4	ihn	ich	PRON	PPER	_	4	null	_	_
+5	vernichten	vernichten	VERB	VVINF	_	5	null	_	_
+6	.	.	PUNCT	$.	_	6	null	_	_
+
+1	Der	der	DET	ART	_	1	null	_	_
+2	Geist	Geist	NOUN	NN	_	2	null	_	_
+3	von	von	ADP	APPR	_	3	null	_	_
+4	Kahless	Kahless	NOUN	NN	_	4	null	_	_
+5	muss	muss	VERB	VMFIN	_	5	null	_	_
+6	aber	aber	ADV	ADV	_	6	null	_	_
+7	sofort	sofort	ADV	ADV	_	7	null	_	_
+8	ausgemerzt	ausmerzen	VERB	VVPP	_	8	null	_	_
+9	werden	werden	AUX	VAINF	_	9	null	_	_
+10	,	,	PUNCT	$,	_	10	null	_	_
+11	oder	oder	CONJ	KON	_	11	null	_	_
+12	er	ich	PRON	PPER	_	12	null	_	_
+13	wird	werden	AUX	VAFIN	_	13	null	_	_
+14	sich	sich	PRON	PRF	_	14	null	_	_
+15	wie	wie	CONJ	KOKOM	_	15	null	_	_
+16	eine	einen	DET	ART	_	16	null	_	_
+17	Welle	Welle	NOUN	NN	_	17	null	_	_
+18	im	im	ADP	APPRART	_	18	null	_	_
+19	Reich	Reich	NOUN	NN	_	19	null	_	_
+20	verbreiten	verbreiten	VERB	VVFIN	_	20	null	_	_
+21	,	,	PUNCT	$,	_	21	null	_	_
+22	und	und	CONJ	KON	_	22	null	_	_
+23	bleiben	bleiben	VERB	VVINF	_	23	null	_	_
+24	wird	werden	AUX	VAFIN	_	24	null	_	_
+25	nichts	nichts	PRON	PIS	_	25	null	_	_
+26	als	als	CONJ	KOKOM	_	26	null	_	_
+27	eine	einen	DET	ART	_	27	null	_	_
+28	öde	öden	ADJ	ADJA	_	28	null	_	_
+29	Wüste	Wüste	NOUN	NN	_	29	null	_	_
+30	.	.	PUNCT	$.	_	30	null	_	_
+
+1	Gowron	Gowron	PROPN	NE	_	1	null	_	_
+2	ist	sein	AUX	VAFIN	_	2	null	_	_
+3	also	also	ADV	ADV	_	3	null	_	_
+4	an	an	ADP	APPR	_	4	null	_	_
+5	Bord	Bord	NOUN	NN	_	5	null	_	_
+6	gekommen	kommen	VERB	VVPP	_	6	null	_	_
+7	,	,	PUNCT	$,	_	7	null	_	_
+8	um	um	SCONJ	KOUI	_	8	null	_	_
+9	Ihren	mein	DET	PPOSAT	_	9	null	_	_
+10	Anspruch	Anspruch	NOUN	NN	_	10	null	_	_
+11	zu	zu	PART	PTKZU	_	11	null	_	_
+12	prüfen	prüfen	VERB	VVINF	_	12	null	_	_
+13	.	.	PUNCT	$.	_	13	null	_	_
+
+1	Gowron	Gowron	PROPN	NE	_	1	null	_	_
+2	weiß	weiß	VERB	VVFIN	_	2	null	_	_
+3	,	,	PUNCT	$,	_	3	null	_	_
+4	seine	mein	DET	PPOSAT	_	4	null	_	_
+5	Tage	tagen	NOUN	NN	_	5	null	_	_
+6	sind	sein	AUX	VAFIN	_	6	null	_	_
+7	gezählt	zählen	VERB	VVPP	_	7	null	_	_
+8	.	.	PUNCT	$.	_	8	null	_	_
+
+1	Also	Also	ADV	ADV	_	1	null	_	_
+2	kommt	kommen	VERB	VVFIN	_	2	null	_	_
+3	er	ich	PRON	PPER	_	3	null	_	_
+4	mit	mit	ADP	APPR	_	4	null	_	_
+5	einem	einer	DET	ART	_	5	null	_	_
+6	läppischen	läppischen	ADJ	ADJA	_	6	null	_	_
+7	Test	Test	NOUN	NN	_	7	null	_	_
+8	daher	daher	PART	PTKVZ	_	8	null	_	_
+9	.	.	PUNCT	$.	_	9	null	_	_
+
+1	Das	der	PRON	PDS	_	1	null	_	_
+2	hat	haben	AUX	VAFIN	_	2	null	_	_
+3	was	was	PRON	PIS	_	3	null	_	_
+4	.	.	PUNCT	$.	_	4	null	_	_
+
+1	Aber	aber	CONJ	KON	_	1	null	_	_
+2	denk	denk	VERB	VVFIN	_	2	null	_	_
+3	dran	dran	ADV	PROAV	_	3	null	_	_
+4	du	du	PRON	PPER	_	4	null	_	_
+5	bist	sein	AUX	VAFIN	_	5	null	_	_
+6	nicht	nicht	PART	PTKNEG	_	6	null	_	_
+7	wirklich	wirklich	ADJ	ADJD	_	7	null	_	_
+8	sauer	sauern	ADJ	ADJD	_	8	null	_	_
+9	wegen	wegen	ADP	APPR	_	9	null	_	_
+10	der	der	DET	ART	_	10	null	_	_
+11	schnurrbarthaare	schnurrbarthaare	ADJ	ADJA	_	11	null	_	_
+12	.	.	PUNCT	$.	_	12	null	_	_
+
+1	Du	ich	PRON	PPER	_	1	null	_	_
+2	bist	sein	AUX	VAFIN	_	2	null	_	_
+3	sauer	sauern	ADJ	ADJD	_	3	null	_	_
+4	weil	weil	SCONJ	KOUS	_	4	null	_	_
+5	ich	ich	PRON	PPER	_	5	null	_	_
+6	dir	sich	PRON	PPER	_	6	null	_	_
+7	nicht	nicht	PART	PTKNEG	_	7	null	_	_
+8	zuhöre	zuhören	VERB	VVFIN	_	8	null	_	_
+9	,	,	PUNCT	$,	_	9	null	_	_
+10	deine	mein	DET	PPOSAT	_	10	null	_	_
+11	Freunde	freunden	NOUN	NN	_	11	null	_	_
+12	nicht	nicht	PART	PTKNEG	_	12	null	_	_
+13	mag	mögen	VERB	VMFIN	_	13	null	_	_
+14	und	und	CONJ	KON	_	14	null	_	_
+15	über	über	ADP	APPR	_	15	null	_	_
+16	deine	mein	DET	PPOSAT	_	16	null	_	_
+17	Mutter	Mutter	NOUN	NN	_	17	null	_	_
+18	läster	läster	VERB	VVFIN	_	18	null	_	_
+19	.	.	PUNCT	$.	_	19	null	_	_
+

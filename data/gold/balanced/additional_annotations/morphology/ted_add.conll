@@ -1,0 +1,25 @@
+1	Dieses	_	PDAT	PDAT	case=nom|gender=neut|number=sg	1	_	_	_
+2	Rauschen	_	NN	NN	case=nom|gender=neut|number=sg	2	_	_	_
+3	ist	_	VAFIN	VAFIN	person=3|tense=pres|number=sg|mood=ind	3	_	_	_
+4	so	_	ADV	ADV	_	4	_	_	_
+5	stark	_	ADJD	ADJD	degree=pos	5	_	_	_
+6	,	_	$,	$,	_	6	_	_	_
+7	dass	_	KOUS	KOUS	_	7	_	_	_
+8	die	_	ART	ART	case=nom|gender=fem|number=sg	8	_	_	_
+9	Gesellschaft	_	NN	NN	case=nom|gender=fem|number=sg	9	_	_	_
+10	eine	_	ART	ART	case=acc|gender=fem|number=sg	10	_	_	_
+11	große	_	ADJA	ADJA	degree=pos|case=acc|number=sg|gender=fem	11	_	_	_
+12	Prämie	_	NN	NN	case=acc|gender=fem|number=sg	12	_	_	_
+13	ausschreibt	_	VVFIN	VVFIN	person=3|tense=pres|number=sg|mood=ind	13	_	_	_
+14	für	_	APPR	APPR	_	14	_	_	_
+15	jene	_	PDS	PDS	case=acc|gender=*|number=pl	15	_	_	_
+16	,	_	$,	$,	_	16	_	_	_
+17	die	_	PRELS	PRELS	case=nom|gender=*|number=pl	17	_	_	_
+18	die	_	ART	ART	case=nom|gender=fem|number=pl	18	_	_	_
+19	Konsequenzen	_	NN	NN	case=nom|gender=fem|number=pl	19	_	_	_
+20	dieses	_	PDAT	PDAT	case=gen|gender=neut|number=sg	20	_	_	_
+21	Rauschens	_	NN	NN	case=gen|gender=neut|number=sg	21	_	_	_
+22	reduzieren	_	VVINF	VVINF	_	22	_	_	_
+23	können	_	VMFIN	VMFIN	person=3|tense=pres|number=pl|mood=ind	23	_	_	_
+24	.	_	$.	$.	_	24	_	_	_
+

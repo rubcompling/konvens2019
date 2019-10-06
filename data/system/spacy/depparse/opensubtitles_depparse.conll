@@ -1,0 +1,1717 @@
+1	Du	ich	_	_	_	2	sb	_	_
+2	willst	wollen	_	_	_	2	ROOT	_	_
+3	alles	alle	_	_	_	2	oa	_	_
+4	wissen	wissen	_	_	_	2	mo	_	_
+5	.	.	_	_	_	2	punct	_	_
+
+1	Es	ich	_	_	_	2	sb	_	_
+2	ist	sein	_	_	_	2	ROOT	_	_
+3	mein	meinen	_	_	_	4	nk	_	_
+4	Töff	Töff	_	_	_	2	pd	_	_
+5	,	,	_	_	_	2	punct	_	_
+6	oder	oder	_	_	_	2	cd	_	_
+7	!	!	_	_	_	2	punct	_	_
+
+1	Gut	Gut	_	_	_	6	mo	_	_
+2	,	,	_	_	_	1	punct	_	_
+3	also	also	_	_	_	5	mo	_	_
+4	das	der	_	_	_	5	nk	_	_
+5	Benzin	Benzin	_	_	_	6	sb	_	_
+6	geht	gehen	_	_	_	6	ROOT	_	_
+7	hier	hier	_	_	_	6	mo	_	_
+8	durch	durch	_	_	_	6	svp	_	_
+9	,	,	_	_	_	6	punct	_	_
+10	da	da	_	_	_	6	mo	_	_
+11	hinein	hinein	_	_	_	6	svp	_	_
+12	.	.	_	_	_	6	punct	_	_
+
+1	Da	da	_	_	_	3	mo	_	_
+2	drin	drin	_	_	_	3	mo	_	_
+3	ist	sein	_	_	_	3	ROOT	_	_
+4	es	ich	_	_	_	3	sb	_	_
+5	sehr	sehr	_	_	_	6	mo	_	_
+6	heiss	heiss	_	_	_	3	pd	_	_
+7	.	.	_	_	_	3	punct	_	_
+
+1	Dann	Dann	_	_	_	3	mo	_	_
+2	die	der	_	_	_	3	nk	_	_
+3	Kerze	Kerze	_	_	_	4	sb	_	_
+4	maken	maken	_	_	_	4	ROOT	_	_
+5	ein	einen	_	_	_	4	svp	_	_
+6	...	...	_	_	_	4	punct	_	_
+
+1	Ja	ja	_	_	_	1	ROOT	_	_
+2	,	,	_	_	_	1	punct	_	_
+3	wie	wie	_	_	_	5	cm	_	_
+4	ein	einen	_	_	_	5	nk	_	_
+5	Messer	Messer	_	_	_	1	cc	_	_
+6	auf	auf	_	_	_	5	mnr	_	_
+7	dem	der	_	_	_	8	nk	_	_
+8	Schleifstein	Schleifstein	_	_	_	6	nk	_	_
+9	.	.	_	_	_	1	punct	_	_
+
+1	Wie	wie	_	_	_	3	cm	_	_
+2	ein	einen	_	_	_	3	nk	_	_
+3	Feuerzeug	Feuerzeug	_	_	_	3	ROOT	_	_
+4	.	.	_	_	_	3	punct	_	_
+
+1	Ein	Ein	_	_	_	2	nk	_	_
+2	Funke	funken	_	_	_	2	ROOT	_	_
+3	.	.	_	_	_	2	punct	_	_
+
+1	Funke	funken	_	_	_	1	ROOT	_	_
+2	...	...	_	_	_	1	punct	_	_
+3	gut	gut	_	_	_	1	par	_	_
+4	.	.	_	_	_	1	punct	_	_
+
+1	Also	Also	_	_	_	3	mo	_	_
+2	die	der	_	_	_	3	nk	_	_
+3	Kerze	Kerze	_	_	_	4	sb	_	_
+4	machen	machen	_	_	_	4	ROOT	_	_
+5	ein	einen	_	_	_	6	nk	_	_
+6	Funke	funken	_	_	_	4	oa	_	_
+7	und	und	_	_	_	6	cd	_	_
+8	päng	päng	_	_	_	7	cj	_	_
+9	bringt	bringen	_	_	_	4	cj	_	_
+10	das	der	_	_	_	11	nk	_	_
+11	Benzin	Benzin	_	_	_	9	sb	_	_
+12	zum	zum	_	_	_	9	mo	_	_
+13	Explodiern	Explodiern	_	_	_	12	nk	_	_
+
+1	Anateo	Anateo	_	_	_	2	sb	_	_
+2	hat	haben	_	_	_	2	ROOT	_	_
+3	uns	sich	_	_	_	5	da	_	_
+4	alle	all	_	_	_	2	sb	_	_
+5	verraten	verraten	_	_	_	2	oc	_	_
+6	und	und	_	_	_	2	cd	_	_
+7	er	ich	_	_	_	8	sb	_	_
+8	wird	werden	_	_	_	6	cj	_	_
+9	dafür	dafür	_	_	_	10	mo	_	_
+10	bezahlen	bezahlen	_	_	_	8	oc	_	_
+11	.	.	_	_	_	2	punct	_	_
+
+1	Und	und	_	_	_	7	ju	_	_
+2	wegen	wegen	_	_	_	7	mo	_	_
+3	der	der	_	_	_	4	nk	_	_
+4	Tau'ri	Tau'ri	_	_	_	2	nk	_	_
+5	...	...	_	_	_	7	punct	_	_
+6	sie	ich	_	_	_	7	sb	_	_
+7	befanden	befinden	_	_	_	7	ROOT	_	_
+8	sich	sich	_	_	_	7	oa	_	_
+9	schon	schon	_	_	_	7	mo	_	_
+10	im	im	_	_	_	7	mo	_	_
+11	Krieg	kriegen	_	_	_	10	nk	_	_
+12	gegen	gegen	_	_	_	11	mnr	_	_
+13	uns	sich	_	_	_	12	nk	_	_
+14	und	und	_	_	_	7	cd	_	_
+15	wir	ich	_	_	_	14	cj	_	_
+16	gegen	gegen	_	_	_	14	cj	_	_
+17	sie	ich	_	_	_	16	nk	_	_
+18	...	...	_	_	_	7	punct	_	_
+19	und	und	_	_	_	7	cd	_	_
+20	ich	ich	_	_	_	21	sb	_	_
+21	werde	werden	_	_	_	19	cj	_	_
+22	mich	sich	_	_	_	25	oa	_	_
+23	nicht	nicht	_	_	_	25	ng	_	_
+24	ängstlich	ängstlich	_	_	_	25	mo	_	_
+25	verkriechen	verkriechen	_	_	_	21	oc	_	_
+26	.	.	_	_	_	7	punct	_	_
+
+1	Sagt	Sagt	_	_	_	1	ROOT	_	_
+2	das	der	_	_	_	1	sb	_	_
+3	weiter	weit	_	_	_	1	mo	_	_
+4	.	.	_	_	_	1	punct	_	_
+
+1	Schickt	Schickt	_	_	_	1	ROOT	_	_
+2	alle	all	_	_	_	4	nk	_	_
+3	verfügbaren	verfügbar	_	_	_	4	nk	_	_
+4	Schiffe	schiffen	_	_	_	1	sb	_	_
+5	.	.	_	_	_	1	punct	_	_
+
+1	Ich	ich	_	_	_	2	sb	_	_
+2	will	wollen	_	_	_	2	ROOT	_	_
+3	,	,	_	_	_	2	punct	_	_
+4	dass	dass	_	_	_	8	cp	_	_
+5	die	der	_	_	_	6	nk	_	_
+6	0dyssey	0dyssey	_	_	_	8	sb	_	_
+7	gefunden	finden	_	_	_	8	oc	_	_
+8	wird	werden	_	_	_	2	oc	_	_
+9	.	.	_	_	_	2	punct	_	_
+
+1	Sofort	Sofort	_	_	_	1	ROOT	_	_
+2	!	!	_	_	_	1	punct	_	_
+
+1	Kefflin	Kefflin	_	_	_	1	ROOT	_	_
+2	.	.	_	_	_	1	punct	_	_
+
+1	War	sein	_	_	_	1	ROOT	_	_
+2	es	ich	_	_	_	1	sb	_	_
+3	wirklich	wirklich	_	_	_	4	mo	_	_
+4	nötig	nötigen	_	_	_	1	pd	_	_
+5	,	,	_	_	_	1	punct	_	_
+6	mich	sich	_	_	_	9	oa	_	_
+7	so	so	_	_	_	9	mo	_	_
+8	zu	zu	_	_	_	9	pm	_	_
+9	blamieren	blamieren	_	_	_	2	re	_	_
+10	?	?	_	_	_	1	punct	_	_
+
+1	Es	ich	_	_	_	2	ep	_	_
+2	gab	geben	_	_	_	2	ROOT	_	_
+3	Gerüchte	Gerücht	_	_	_	2	oa	_	_
+4	wegen	wegen	_	_	_	3	mnr	_	_
+5	der	der	_	_	_	6	nk	_	_
+6	Stärke	Stärke	_	_	_	4	nk	_	_
+7	deiner	sich	_	_	_	8	nk	_	_
+8	Führung	Führung	_	_	_	6	ag	_	_
+9	.	.	_	_	_	2	punct	_	_
+
+1	Jetzt	Jetzt	_	_	_	5	mo	_	_
+2	werden	werden	_	_	_	2	ROOT	_	_
+3	diese	dies	_	_	_	4	nk	_	_
+4	Gerüchte	Gerücht	_	_	_	2	sb	_	_
+5	aufhören	aufhören	_	_	_	2	oc	_	_
+6	.	.	_	_	_	2	punct	_	_
+
+1	Und	und	_	_	_	1	ROOT	_	_
+2	?	?	_	_	_	1	punct	_	_
+
+1	Wirst	Wirst	_	_	_	1	ROOT	_	_
+2	du	du	_	_	_	1	sb	_	_
+3	es	ich	_	_	_	5	oa	_	_
+4	so	so	_	_	_	5	mo	_	_
+5	lassen	lassen	_	_	_	1	oc	_	_
+6	oder	oder	_	_	_	5	cd	_	_
+7	wirst	werden	_	_	_	6	cj	_	_
+8	du	du	_	_	_	7	sb	_	_
+9	das	der	_	_	_	12	oa	_	_
+10	in	in	_	_	_	12	cvc	_	_
+11	Ordnung	Ordnung	_	_	_	10	nk	_	_
+12	bringen	bringen	_	_	_	7	oc	_	_
+13	?	?	_	_	_	1	punct	_	_
+
+1	Bist	sein	_	_	_	1	ROOT	_	_
+2	du	du	_	_	_	1	sb	_	_
+3	glücklich	glücklich	_	_	_	1	pd	_	_
+4	?	?	_	_	_	1	punct	_	_
+
+1	Ja	ja	_	_	_	2	subtok	_	_
+2	.	.	_	_	_	2	ROOT	_	_
+
+1	-	-	_	_	_	3	punct	_	_
+2	Es	ich	_	_	_	3	sb	_	_
+3	ist	sein	_	_	_	3	ROOT	_	_
+4	nett	nett	_	_	_	3	pd	_	_
+5	von	von	_	_	_	4	sbp	_	_
+6	dir	sich	_	_	_	5	nk	_	_
+7	,	,	_	_	_	3	punct	_	_
+8	dass	dass	_	_	_	10	cp	_	_
+9	du	du	_	_	_	10	sb	_	_
+10	hilfst	helfen	_	_	_	2	re	_	_
+11	.	.	_	_	_	3	punct	_	_
+
+1	-	-	_	_	_	4	punct	_	_
+2	Einmal	Einmal	_	_	_	4	mo	_	_
+3	ein	einen	_	_	_	4	nk	_	_
+4	Pfadfinder	Pfadfinder	_	_	_	4	ROOT	_	_
+5	,	,	_	_	_	4	punct	_	_
+6	immer	immer	_	_	_	8	mo	_	_
+7	ein	einen	_	_	_	8	nk	_	_
+8	Pfadfinder	Pfadfinder	_	_	_	4	par	_	_
+9	.	.	_	_	_	4	punct	_	_
+
+1	-	-	_	_	_	3	punct	_	_
+2	Du	ich	_	_	_	3	sb	_	_
+3	warst	sein	_	_	_	3	ROOT	_	_
+4	nie	nie	_	_	_	3	mo	_	_
+5	ein	einen	_	_	_	6	nk	_	_
+6	Pfandfinder	Pfandfinder	_	_	_	3	oa	_	_
+7	.	.	_	_	_	3	punct	_	_
+
+1	-	-	_	_	_	3	punct	_	_
+2	Offensichtlich	Offensichtlich	_	_	_	3	mo	_	_
+3	habe	habe	_	_	_	3	ROOT	_	_
+4	ich	ich	_	_	_	3	sb	_	_
+5	mein	meinen	_	_	_	3	oa	_	_
+6	...	...	_	_	_	3	punct	_	_
+
+1	Verdienstabzeichen	Verdienstabzeichen	_	_	_	4	oa	_	_
+2	für	für	_	_	_	1	mnr	_	_
+3	Biberfallen	Biberfallen	_	_	_	2	nk	_	_
+4	bekommen	bekommen	_	_	_	4	ROOT	_	_
+5	.	.	_	_	_	4	punct	_	_
+
+1	-	-	_	_	_	2	punct	_	_
+2	Konzentriere	konzentrieren	_	_	_	2	ROOT	_	_
+3	dich	sich	_	_	_	2	oa	_	_
+4	lieber	lieb	_	_	_	2	mo	_	_
+5	da	da	_	_	_	2	mo	_	_
+6	drauf	drauf	_	_	_	2	svp	_	_
+7	.	.	_	_	_	2	punct	_	_
+
+1	Kommt	Kommt	_	_	_	1	ROOT	_	_
+2	mit	mit	_	_	_	1	mo	_	_
+3	mir	sich	_	_	_	2	nk	_	_
+4	.	.	_	_	_	1	punct	_	_
+
+1	Wisst	Wisst	_	_	_	1	ROOT	_	_
+2	ihr	mein	_	_	_	1	sb	_	_
+3	,	,	_	_	_	1	punct	_	_
+4	wie	wie	_	_	_	5	mo	_	_
+5	wertvoll	wertvoll	_	_	_	8	pd	_	_
+6	diese	dies	_	_	_	7	nk	_	_
+7	Mohnblumen	Mohnblumen	_	_	_	8	sb	_	_
+8	waren	sein	_	_	_	1	oc	_	_
+9	?	?	_	_	_	1	punct	_	_
+
+1	In	In	_	_	_	3	mo	_	_
+2	Rauch	rauchen	_	_	_	1	nk	_	_
+3	aufgegangen	aufgehen	_	_	_	3	ROOT	_	_
+4	.	.	_	_	_	3	punct	_	_
+
+1	-	-	_	_	_	2	punct	_	_
+2	Was	Was	_	_	_	2	ROOT	_	_
+3	?	?	_	_	_	2	punct	_	_
+
+1	Hat	haben	_	_	_	1	ROOT	_	_
+2	sie	ich	_	_	_	1	sb	_	_
+3	jemand	jemand	_	_	_	4	oa	_	_
+4	angezündet	anzünden	_	_	_	1	oc	_	_
+5	?	?	_	_	_	1	punct	_	_
+
+1	-	-	_	_	_	2	punct	_	_
+2	Ja	ja	_	_	_	2	ROOT	_	_
+3	.	.	_	_	_	2	punct	_	_
+
+1	Betrunkene	Betrunkene	_	_	_	3	nk	_	_
+2	irische	irische	_	_	_	3	nk	_	_
+3	Familie	Familie	_	_	_	3	ROOT	_	_
+4	,	,	_	_	_	3	punct	_	_
+5	die	der	_	_	_	6	nk	_	_
+6	Straße	Straße	_	_	_	3	cj	_	_
+7	hoch	hoch	_	_	_	3	mo	_	_
+8	.	.	_	_	_	3	punct	_	_
+
+1	Die	der	_	_	_	3	nk	_	_
+2	O'Hallorans	O'Hallorans	_	_	_	3	subtok	_	_
+3	.	.	_	_	_	3	ROOT	_	_
+
+1	Warum	warum	_	_	_	1	ROOT	_	_
+2	?	?	_	_	_	1	punct	_	_
+
+1	Was	Was	_	_	_	4	oa	_	_
+2	hast	haben	_	_	_	2	ROOT	_	_
+3	du	du	_	_	_	2	sb	_	_
+4	getan	tun	_	_	_	2	oc	_	_
+5	,	,	_	_	_	4	punct	_	_
+6	um	um	_	_	_	9	cp	_	_
+7	sie	ich	_	_	_	9	oa	_	_
+8	zu	zu	_	_	_	9	pm	_	_
+9	verärgern	verärgern	_	_	_	4	mo	_	_
+10	?	?	_	_	_	2	punct	_	_
+
+1	-	-	_	_	_	2	punct	_	_
+2	Arbeitet	Arbeitet	_	_	_	2	ROOT	_	_
+3	sie	ich	_	_	_	2	sb	_	_
+4	nicht	nicht	_	_	_	2	ng	_	_
+5	für	für	_	_	_	2	mo	_	_
+6	dich	sich	_	_	_	5	nk	_	_
+7	,	,	_	_	_	6	punct	_	_
+8	Vince	Vince	_	_	_	6	cj	_	_
+9	?	?	_	_	_	2	punct	_	_
+
+1	-	-	_	_	_	4	punct	_	_
+2	Ja	ja	_	_	_	4	dm	_	_
+3	,	,	_	_	_	4	punct	_	_
+4	allerdings	allerdings	_	_	_	4	ROOT	_	_
+5	.	.	_	_	_	4	punct	_	_
+
+1	Und	und	_	_	_	7	ju	_	_
+2	bei	bei	_	_	_	7	mo	_	_
+3	E	E	_	_	_	2	nk	_	_
+4	einfach	einfach	_	_	_	7	mo	_	_
+5	den	der	_	_	_	6	nk	_	_
+6	Hörer	Hörer	_	_	_	7	oa	_	_
+7	aufzulegen	auflegen	_	_	_	7	ROOT	_	_
+8	,	,	_	_	_	7	punct	_	_
+9	muss	muss	_	_	_	11	mo	_	_
+10	ziemlich	ziemlich	_	_	_	11	mo	_	_
+11	entmannend	entmannend	_	_	_	12	pd	_	_
+12	gewesen	sein	_	_	_	13	oc	_	_
+13	sein	mein	_	_	_	7	oc	_	_
+14	?	?	_	_	_	7	punct	_	_
+
+1	Fühlte	Fühlte	_	_	_	1	ROOT	_	_
+2	sich	sich	_	_	_	1	oa	_	_
+3	an	an	_	_	_	1	svp	_	_
+4	,	,	_	_	_	1	punct	_	_
+5	wie	wie	_	_	_	11	mo	_	_
+6	zum	zum	_	_	_	11	mo	_	_
+7	Direktor	Direktor	_	_	_	6	nk	_	_
+8	Reeve	Reeve	_	_	_	7	nk	_	_
+9	ins	ins	_	_	_	11	mo	_	_
+10	Büro	Büro	_	_	_	9	nk	_	_
+11	gerufen	rufen	_	_	_	13	oc	_	_
+12	zu	zu	_	_	_	13	pm	_	_
+13	werden	werden	_	_	_	1	oc	_	_
+14	.	.	_	_	_	1	punct	_	_
+
+1	Genauso	Genauso	_	_	_	8	mo	_	_
+2	wie	wie	_	_	_	3	cm	_	_
+3	er	ich	_	_	_	1	cc	_	_
+4	,	,	_	_	_	5	punct	_	_
+5	werde	werden	_	_	_	5	ROOT	_	_
+6	ich	ich	_	_	_	5	sb	_	_
+7	ihr	mein	_	_	_	8	da	_	_
+8	sagen	sagen	_	_	_	5	oc	_	_
+9	,	,	_	_	_	8	punct	_	_
+10	wie	wie	_	_	_	12	mo	_	_
+11	es	ich	_	_	_	12	sb	_	_
+12	ist	sein	_	_	_	8	oc	_	_
+13	.	.	_	_	_	5	punct	_	_
+
+1	Mach	Mach	_	_	_	1	ROOT	_	_
+2	das	der	_	_	_	3	nk	_	_
+3	bitte	bitte	_	_	_	1	mo	_	_
+4	,	,	_	_	_	1	punct	_	_
+5	denn	denn	_	_	_	1	cd	_	_
+6	ich	ich	_	_	_	7	sb	_	_
+7	mag	mögen	_	_	_	5	cj	_	_
+8	ihr	mein	_	_	_	13	oa	_	_
+9	nicht	nicht	_	_	_	7	ng	_	_
+10	aus	aus	_	_	_	13	mo	_	_
+11	dem	der	_	_	_	12	nk	_	_
+12	Weg	Weg	_	_	_	10	nk	_	_
+13	gehen	gehen	_	_	_	7	oc	_	_
+14	.	.	_	_	_	1	punct	_	_
+
+1	Nein	nein	_	_	_	3	dm	_	_
+2	,	,	_	_	_	3	punct	_	_
+3	nein	nein	_	_	_	3	ROOT	_	_
+4	.	.	_	_	_	3	punct	_	_
+
+1	Kein	kein	_	_	_	3	nk	_	_
+2	weiteres	weit	_	_	_	3	nk	_	_
+3	Ausweichen	Ausweiche	_	_	_	3	ROOT	_	_
+4	.	.	_	_	_	3	punct	_	_
+
+1	Wir	ich	_	_	_	2	sb	_	_
+2	werden	werden	_	_	_	2	ROOT	_	_
+3	ihr	mein	_	_	_	4	da	_	_
+4	sagen	sagen	_	_	_	2	oc	_	_
+5	,	,	_	_	_	4	punct	_	_
+6	wir	ich	_	_	_	7	sb	_	_
+7	machen	machen	_	_	_	4	oc	_	_
+8	keinen	kein	_	_	_	9	nk	_	_
+9	Film	filmen	_	_	_	7	oa	_	_
+10	über	über	_	_	_	7	mo	_	_
+11	irgendwas	irgendwas	_	_	_	10	nk	_	_
+12	,	,	_	_	_	11	punct	_	_
+13	bis	bis	_	_	_	21	cp	_	_
+14	die	der	_	_	_	15	nk	_	_
+15	Kameras	Kamera	_	_	_	21	sb	_	_
+16	tatsächlich	tatsächlich	_	_	_	21	mo	_	_
+17	für	für	_	_	_	21	mo	_	_
+18	"	"	_	_	_	19	nk	_	_
+19	Medellin	Medellin	_	_	_	17	nk	_	_
+20	"	"	_	_	_	17	nk	_	_
+21	anlaufen	anlaufen	_	_	_	7	mo	_	_
+22	.	.	_	_	_	2	punct	_	_
+
+1	Sie	ich	_	_	_	2	sb	_	_
+2	wird	werden	_	_	_	2	ROOT	_	_
+3	angepisst	angepisst	_	_	_	4	pd	_	_
+4	sein	mein	_	_	_	2	oc	_	_
+5	,	,	_	_	_	4	punct	_	_
+6	wenn	wenn	_	_	_	8	cp	_	_
+7	sie	ich	_	_	_	8	sb	_	_
+8	denkt	denken	_	_	_	4	mo	_	_
+9	,	,	_	_	_	8	punct	_	_
+10	du	du	_	_	_	11	sb	_	_
+11	nimmst	nehmen	_	_	_	8	oc	_	_
+12	Ari	Ari	_	_	_	11	oa	_	_
+13	ernst	ernst	_	_	_	11	svp	_	_
+14	.	.	_	_	_	2	punct	_	_
+
+1	Anpassung	Anpassung	_	_	_	1	ROOT	_	_
+2	von	von	_	_	_	1	pg	_	_
+3	Movie	Movie	_	_	_	2	nk	_	_
+
+1	Er	ich	_	_	_	2	sb	_	_
+2	sieht	sehen	_	_	_	2	ROOT	_	_
+3	wie	wie	_	_	_	4	cm	_	_
+4	Frankenstein	Frankenstein	_	_	_	2	mo	_	_
+5	aus	aus	_	_	_	2	svp	_	_
+6	.	.	_	_	_	2	punct	_	_
+
+1	Immerhin	Immerhin	_	_	_	2	mo	_	_
+2	läuft	laufen	_	_	_	2	ROOT	_	_
+3	er	ich	_	_	_	2	sb	_	_
+4	ohne	ohne	_	_	_	2	mo	_	_
+5	Krücken	Krücke	_	_	_	4	nk	_	_
+6	.	.	_	_	_	2	punct	_	_
+
+1	Ja	ja	_	_	_	4	dm	_	_
+2	,	,	_	_	_	4	punct	_	_
+3	ich	ich	_	_	_	4	sb	_	_
+4	dachte	denken	_	_	_	4	ROOT	_	_
+5	,	,	_	_	_	4	punct	_	_
+6	er	ich	_	_	_	7	sb	_	_
+7	wäre	sein	_	_	_	4	oc	_	_
+8	glücklicher	glücklich	_	_	_	7	pd	_	_
+9	darüber	darüber	_	_	_	7	mo	_	_
+10	.	.	_	_	_	4	punct	_	_
+
+1	Ich	ich	_	_	_	2	sb	_	_
+2	bin	sein	_	_	_	2	ROOT	_	_
+3	glücklicher	glücklich	_	_	_	2	pd	_	_
+4	darüber	darüber	_	_	_	2	mo	_	_
+5	.	.	_	_	_	2	punct	_	_
+
+1	Wie	wie	_	_	_	2	mo	_	_
+2	geht	gehen	_	_	_	2	ROOT	_	_
+3	es	ich	_	_	_	2	ep	_	_
+4	dir	sich	_	_	_	2	da	_	_
+5	,	,	_	_	_	2	punct	_	_
+6	Maggie	Maggie	_	_	_	2	app	_	_
+7	?	?	_	_	_	2	punct	_	_
+
+1	Langer	Langer	_	_	_	2	nk	_	_
+2	Tag	tagen	_	_	_	2	ROOT	_	_
+3	.	.	_	_	_	2	punct	_	_
+
+1	Sieht	Sieht	_	_	_	1	ROOT	_	_
+2	so	so	_	_	_	1	mo	_	_
+3	aus	aus	_	_	_	1	svp	_	_
+4	,	,	_	_	_	1	punct	_	_
+5	als	als	_	_	_	6	cm	_	_
+6	fängt	fangen	_	_	_	2	re	_	_
+7	mein	meinen	_	_	_	8	nk	_	_
+8	Tag	tagen	_	_	_	6	sb	_	_
+9	gerade	gerade	_	_	_	6	mo	_	_
+10	an	an	_	_	_	6	svp	_	_
+11	.	.	_	_	_	1	punct	_	_
+
+1	Hal	Hal	_	_	_	1	ROOT	_	_
+2	.	.	_	_	_	1	punct	_	_
+
+1	Was	Was	_	_	_	9	oa	_	_
+2	ich	ich	_	_	_	4	sb	_	_
+3	sage	sage	_	_	_	4	pd	_	_
+4	ist	sein	_	_	_	4	ROOT	_	_
+5	,	,	_	_	_	4	punct	_	_
+6	mit	mit	_	_	_	9	mo	_	_
+7	dem	der	_	_	_	8	nk	_	_
+8	Militär	Militär	_	_	_	6	nk	_	_
+9	ausgenommen	ausnehmen	_	_	_	10	oc	_	_
+10	sind	sein	_	_	_	4	cj	_	_
+11	es	ich	_	_	_	10	sb	_	_
+12	vielleicht	vielleicht	_	_	_	10	mo	_	_
+13	vier	vier	_	_	_	14	nk	_	_
+14	Leute	Leute	_	_	_	10	pd	_	_
+15	,	,	_	_	_	14	punct	_	_
+16	die	der	_	_	_	18	sb	_	_
+17	genau	genau	_	_	_	18	mo	_	_
+18	wissen	wissen	_	_	_	14	rc	_	_
+19	,	,	_	_	_	18	punct	_	_
+20	wie	wie	_	_	_	23	mo	_	_
+21	dieser	dies	_	_	_	22	nk	_	_
+22	Ort	Ort	_	_	_	23	sb	_	_
+23	funktioniert	funktionieren	_	_	_	18	mo	_	_
+24	.	.	_	_	_	4	punct	_	_
+
+1	-	-	_	_	_	3	punct	_	_
+2	Die	der	_	_	_	3	nk	_	_
+3	Vaginoplastie	Vaginoplastie	_	_	_	3	ROOT	_	_
+4	.	.	_	_	_	3	punct	_	_
+
+1	Wird	Wird	_	_	_	1	ROOT	_	_
+2	die	der	_	_	_	3	nk	_	_
+3	Vaginoplastie	Vaginoplastie	_	_	_	1	sb	_	_
+4	separat	separat	_	_	_	5	mo	_	_
+5	gemacht	machen	_	_	_	1	oc	_	_
+6	?	?	_	_	_	1	punct	_	_
+
+1	Genau	Genau	_	_	_	1	ROOT	_	_
+2	.	.	_	_	_	1	punct	_	_
+
+1	Das	der	_	_	_	2	sb	_	_
+2	wird	werden	_	_	_	2	ROOT	_	_
+3	einzeln	einzeln	_	_	_	4	oc	_	_
+4	gemacht	machen	_	_	_	2	oc	_	_
+5	.	.	_	_	_	2	punct	_	_
+
+1	Ich	ich	_	_	_	2	sb	_	_
+2	möchte	mögen	_	_	_	2	ROOT	_	_
+3	nicht	nicht	_	_	_	2	ng	_	_
+4	mehr	mehr	_	_	_	3	mo	_	_
+5	als	als	_	_	_	6	cm	_	_
+6	nötig	nötigen	_	_	_	4	cc	_	_
+7	unter	unter	_	_	_	9	mo	_	_
+8	Narkose	Narkose	_	_	_	7	nk	_	_
+9	gesetzt	setzen	_	_	_	10	oc	_	_
+10	werden	werden	_	_	_	2	oc	_	_
+11	.	.	_	_	_	2	punct	_	_
+
+1	Ich	ich	_	_	_	2	sb	_	_
+2	bekomme	bekommen	_	_	_	2	ROOT	_	_
+3	eine	einen	_	_	_	4	nk	_	_
+4	Narkose	Narkose	_	_	_	2	oa	_	_
+5	,	,	_	_	_	2	punct	_	_
+6	und	und	_	_	_	2	cd	_	_
+7	dann	dann	_	_	_	9	mo	_	_
+8	noch	noch	_	_	_	9	mo	_	_
+9	eine	einen	_	_	_	6	cj	_	_
+10	?	?	_	_	_	2	punct	_	_
+
+1	Es	ich	_	_	_	2	sb	_	_
+2	ist	sein	_	_	_	2	ROOT	_	_
+3	ein	einen	_	_	_	5	nk	_	_
+4	schwerer	schwer	_	_	_	5	nk	_	_
+5	Eingriff	Eingriff	_	_	_	2	pd	_	_
+6	mit	mit	_	_	_	5	mnr	_	_
+7	einer	einer	_	_	_	9	nk	_	_
+8	langen	lang	_	_	_	9	nk	_	_
+9	Rekonvaleszenz	Rekonvaleszenz	_	_	_	6	nk	_	_
+10	.	.	_	_	_	2	punct	_	_
+
+1	Außerdem	Außerdem	_	_	_	2	mo	_	_
+2	brauchen	brauchen	_	_	_	2	ROOT	_	_
+3	wir	ich	_	_	_	2	sb	_	_
+4	dafür	dafür	_	_	_	2	mo	_	_
+5	einen	ein	_	_	_	6	nk	_	_
+6	Spezialisten	Spezialist	_	_	_	2	oa	_	_
+7	.	.	_	_	_	2	punct	_	_
+
+1	Aufregend	Aufregend	_	_	_	1	ROOT	_	_
+2	.	.	_	_	_	1	punct	_	_
+
+1	Ja	ja	_	_	_	4	dm	_	_
+2	,	,	_	_	_	4	punct	_	_
+3	das	der	_	_	_	4	sb	_	_
+4	ist	sein	_	_	_	4	ROOT	_	_
+5	es	ich	_	_	_	4	sb	_	_
+6	in	in	_	_	_	4	mo	_	_
+7	der	der	_	_	_	8	nk	_	_
+8	Tat	Tat	_	_	_	6	nk	_	_
+9	.	.	_	_	_	4	punct	_	_
+
+1	-	-	_	_	_	3	punct	_	_
+2	Oh	Oh	_	_	_	3	pnc	_	_
+3	Gott	Gott	_	_	_	3	ROOT	_	_
+4	.	.	_	_	_	3	punct	_	_
+
+1	Das	der	_	_	_	2	sb	_	_
+2	reicht	reichen	_	_	_	2	ROOT	_	_
+3	,	,	_	_	_	2	punct	_	_
+4	Dad	Dad	_	_	_	2	cj	_	_
+5	!	!	_	_	_	2	punct	_	_
+
+1	Weißt	Weißt	_	_	_	1	ROOT	_	_
+2	du	du	_	_	_	1	sb	_	_
+3	,	,	_	_	_	1	punct	_	_
+4	wovon	wovon	_	_	_	6	mo	_	_
+5	ich	ich	_	_	_	6	sb	_	_
+6	rede	rede	_	_	_	1	oc	_	_
+7	?	?	_	_	_	1	punct	_	_
+
+1	-	-	_	_	_	2	punct	_	_
+2	Verstehst	Verstehst	_	_	_	2	ROOT	_	_
+3	du	du	_	_	_	2	sb	_	_
+4	mich	sich	_	_	_	2	oa	_	_
+5	?	?	_	_	_	2	punct	_	_
+
+1	-	-	_	_	_	2	punct	_	_
+2	Dad	Dad	_	_	_	2	ROOT	_	_
+3	,	,	_	_	_	2	punct	_	_
+4	das	der	_	_	_	5	sb	_	_
+5	reicht	reichen	_	_	_	2	rc	_	_
+6	!	!	_	_	_	2	punct	_	_
+
+1	Ich	ich	_	_	_	2	sb	_	_
+2	gehe	gehen	_	_	_	2	ROOT	_	_
+3	,	,	_	_	_	2	punct	_	_
+4	ok	ok	_	_	_	2	svp	_	_
+5	.	.	_	_	_	2	punct	_	_
+
+1	Ok	Ok	_	_	_	2	subtok	_	_
+2	.	.	_	_	_	2	ROOT	_	_
+
+1	Gut	Gut	_	_	_	1	ROOT	_	_
+2	.	.	_	_	_	1	punct	_	_
+
+1	Warte	Warte	_	_	_	1	ROOT	_	_
+2	...	...	_	_	_	1	punct	_	_
+
+1	Ja	ja	_	_	_	4	dm	_	_
+2	,	,	_	_	_	4	punct	_	_
+3	die	der	_	_	_	4	nk	_	_
+4	DVD	DVD	_	_	_	4	ROOT	_	_
+5	.	.	_	_	_	4	punct	_	_
+
+1	Okay	Okay	_	_	_	4	vo	_	_
+2	,	,	_	_	_	4	punct	_	_
+3	ich	ich	_	_	_	4	sb	_	_
+4	sehe	sehen	_	_	_	4	ROOT	_	_
+5	mal	mal	_	_	_	4	mo	_	_
+6	nach	nach	_	_	_	4	svp	_	_
+7	,	,	_	_	_	4	punct	_	_
+8	ob	ob	_	_	_	13	cp	_	_
+9	wir	ich	_	_	_	13	sb	_	_
+10	noch	noch	_	_	_	11	mo	_	_
+11	gefrorene	gefroren	_	_	_	12	nk	_	_
+12	Soja-Pizza	Soja-Pizza	_	_	_	13	oa	_	_
+13	haben	haben	_	_	_	4	oc	_	_
+14	.	.	_	_	_	4	punct	_	_
+
+1	Ausweise	ausweisen	_	_	_	1	ROOT	_	_
+2	.	.	_	_	_	1	punct	_	_
+
+1	-	-	_	_	_	2	punct	_	_
+2	Hi	Hi	_	_	_	2	ROOT	_	_
+3	.	.	_	_	_	2	punct	_	_
+
+1	Echt	Echt	_	_	_	2	mo	_	_
+2	jetzt	jetzt	_	_	_	2	ROOT	_	_
+3	?	?	_	_	_	2	punct	_	_
+
+1	Ja	ja	_	_	_	3	dm	_	_
+2	,	,	_	_	_	3	punct	_	_
+3	Baby	Baby	_	_	_	6	cj	_	_
+4	,	,	_	_	_	3	punct	_	_
+5	man	man	_	_	_	6	sb	_	_
+6	kann	können	_	_	_	6	ROOT	_	_
+7	euer	sich	_	_	_	8	nk	_	_
+8	Alter	alt	_	_	_	11	oa	_	_
+9	kaum	kaum	_	_	_	6	mo	_	_
+10	noch	noch	_	_	_	9	mo	_	_
+11	schätzen	schätzen	_	_	_	6	oc	_	_
+12	,	,	_	_	_	13	punct	_	_
+13	wisst	wisst	_	_	_	6	cj	_	_
+14	ihr	mein	_	_	_	13	sb	_	_
+15	.	.	_	_	_	6	punct	_	_
+
+1	Ja	ja	_	_	_	3	dm	_	_
+2	,	,	_	_	_	3	punct	_	_
+3	bitte	bitte	_	_	_	3	ROOT	_	_
+4	.	.	_	_	_	3	punct	_	_
+
+1	-	-	_	_	_	4	punct	_	_
+2	Der	der	_	_	_	3	nk	_	_
+3	Abend	Abend	_	_	_	4	sb	_	_
+4	gefällt	gefallen	_	_	_	4	ROOT	_	_
+5	mir	sich	_	_	_	4	da	_	_
+6	jetzt	jetzt	_	_	_	4	mo	_	_
+7	schon	schon	_	_	_	4	mo	_	_
+8	.	.	_	_	_	4	punct	_	_
+
+1	Rachel	Rachel	_	_	_	1	ROOT	_	_
+2	?	?	_	_	_	1	punct	_	_
+
+1	-	-	_	_	_	5	punct	_	_
+2	Ja	ja	_	_	_	5	dm	_	_
+3	,	,	_	_	_	5	punct	_	_
+4	das	der	_	_	_	5	sb	_	_
+5	bin	sein	_	_	_	5	ROOT	_	_
+6	ich	ich	_	_	_	5	sb	_	_
+7	.	.	_	_	_	5	punct	_	_
+
+1	-	-	_	_	_	3	punct	_	_
+2	Vielen	viel	_	_	_	3	nk	_	_
+3	Dank	Dank	_	_	_	3	ROOT	_	_
+4	.	.	_	_	_	3	punct	_	_
+
+1	Es	ich	_	_	_	2	sb	_	_
+2	gefällt	gefallen	_	_	_	2	ROOT	_	_
+3	mir	sich	_	_	_	2	da	_	_
+4	viel	viel	_	_	_	5	mo	_	_
+5	besser	gut	_	_	_	2	mo	_	_
+6	,	,	_	_	_	2	punct	_	_
+7	wenn	wenn	_	_	_	11	cp	_	_
+8	wir	ich	_	_	_	11	sb	_	_
+9	einer	einer	_	_	_	10	nk	_	_
+10	Meinung	Meinung	_	_	_	11	da	_	_
+11	sind	sein	_	_	_	2	mo	_	_
+12	.	.	_	_	_	2	punct	_	_
+
+1	Ihnen	ich	_	_	_	1	ROOT	_	_
+2	nicht	nicht	_	_	_	1	ng	_	_
+3	?	?	_	_	_	1	punct	_	_
+
+1	Der	der	_	_	_	2	nk	_	_
+2	Text	Text	_	_	_	2	ROOT	_	_
+3	des	der	_	_	_	4	nk	_	_
+4	Kosst	Kosst	_	_	_	2	ag	_	_
+5	Amojan	Amojan	_	_	_	4	nk	_	_
+6	,	,	_	_	_	2	punct	_	_
+7	wie	wie	_	_	_	9	mo	_	_
+8	Sie	ich	_	_	_	9	sb	_	_
+9	wünschten	wünschen	_	_	_	2	mnr	_	_
+10	.	.	_	_	_	2	punct	_	_
+
+1	Sehr	Sehr	_	_	_	2	mo	_	_
+2	gut	gut	_	_	_	2	ROOT	_	_
+3	.	.	_	_	_	2	punct	_	_
+
+1	Also	Also	_	_	_	1	ROOT	_	_
+2	?	?	_	_	_	1	punct	_	_
+
+1	Legen	Legen	_	_	_	1	ROOT	_	_
+2	Sie	ich	_	_	_	1	sb	_	_
+3	ihn	ich	_	_	_	1	oa	_	_
+4	auf	auf	_	_	_	1	mo	_	_
+5	meinen	mein	_	_	_	6	nk	_	_
+6	Schreibtisch	Schreibtisch	_	_	_	4	nk	_	_
+7	.	.	_	_	_	1	punct	_	_
+
+1	-	-	_	_	_	2	punct	_	_
+2	Eminenz	Eminenz	_	_	_	7	oa	_	_
+3	,	,	_	_	_	4	punct	_	_
+4	darf	dürfen	_	_	_	4	ROOT	_	_
+5	ich	ich	_	_	_	4	sb	_	_
+6	offen	offen	_	_	_	7	mo	_	_
+7	sprechen	sprechen	_	_	_	4	oc	_	_
+8	?	?	_	_	_	4	punct	_	_
+
+1	-	-	_	_	_	4	punct	_	_
+2	Wenn	wenn	_	_	_	4	cp	_	_
+3	es	ich	_	_	_	4	sb	_	_
+4	sein	mein	_	_	_	4	ROOT	_	_
+5	muss	muss	_	_	_	4	pd	_	_
+6	.	.	_	_	_	4	punct	_	_
+
+1	Dieses	Dieses	_	_	_	2	nk	_	_
+2	Buch	buchen	_	_	_	3	sb	_	_
+3	wurde	werden	_	_	_	3	ROOT	_	_
+4	seit	seit	_	_	_	12	mo	_	_
+5	700	700	_	_	_	6	nk	_	_
+6	Jahren	Jahr	_	_	_	4	nk	_	_
+7	nicht	nicht	_	_	_	12	ng	_	_
+8	mehr	mehr	_	_	_	7	mo	_	_
+9	aus	aus	_	_	_	12	mo	_	_
+10	den	der	_	_	_	11	nk	_	_
+11	Archiven	Archiv	_	_	_	9	nk	_	_
+12	geholt	holen	_	_	_	3	oc	_	_
+13	.	.	_	_	_	3	punct	_	_
+
+1	Was	Was	_	_	_	5	oa	_	_
+2	wollen	wollen	_	_	_	2	ROOT	_	_
+3	Sie	ich	_	_	_	2	sb	_	_
+4	damit	damit	_	_	_	5	op	_	_
+5	sagen	sagen	_	_	_	2	oc	_	_
+6	?	?	_	_	_	2	punct	_	_
+
+1	Er	ich	_	_	_	2	sb	_	_
+2	hat	haben	_	_	_	2	ROOT	_	_
+3	dich	sich	_	_	_	4	oa	_	_
+4	gebraucht	gebrauchen	_	_	_	2	oc	_	_
+5	,	,	_	_	_	2	punct	_	_
+6	und	und	_	_	_	2	cd	_	_
+7	du	du	_	_	_	8	sb	_	_
+8	hast	haben	_	_	_	6	cj	_	_
+9	ihn	ich	_	_	_	12	oa	_	_
+10	im	im	_	_	_	12	mo	_	_
+11	Stich	Stich	_	_	_	10	nk	_	_
+12	gelassen	lassen	_	_	_	8	oc	_	_
+13	.	.	_	_	_	2	punct	_	_
+
+1	-	-	_	_	_	2	punct	_	_
+2	Mom	Mom	_	_	_	6	sb	_	_
+3	,	,	_	_	_	2	punct	_	_
+4	Dad	Dad	_	_	_	2	cj	_	_
+5	,	,	_	_	_	6	punct	_	_
+6	helft	helfen	_	_	_	6	ROOT	_	_
+7	mir	sich	_	_	_	6	da	_	_
+8	!	!	_	_	_	6	punct	_	_
+
+1	-	-	_	_	_	2	punct	_	_
+2	Schatz	Schatz	_	_	_	2	ROOT	_	_
+3	.	.	_	_	_	2	punct	_	_
+
+1	Eddie	Eddie	_	_	_	2	sb	_	_
+2	wollte	wollen	_	_	_	2	ROOT	_	_
+3	den	der	_	_	_	4	nk	_	_
+4	Brand	Brand	_	_	_	7	oa	_	_
+5	in	in	_	_	_	7	mo	_	_
+6	sich	sich	_	_	_	5	nk	_	_
+7	löschen	löschen	_	_	_	2	oc	_	_
+8	,	,	_	_	_	2	punct	_	_
+9	indem	indem	_	_	_	14	cp	_	_
+10	er	ich	_	_	_	14	sb	_	_
+11	in	in	_	_	_	14	mo	_	_
+12	den	der	_	_	_	13	nk	_	_
+13	Fluss	Fluss	_	_	_	11	nk	_	_
+14	sprang	springen	_	_	_	2	mo	_	_
+15	.	.	_	_	_	2	punct	_	_
+
+1	Siehst	Siehst	_	_	_	1	ROOT	_	_
+2	du	du	_	_	_	1	sb	_	_
+3	?	?	_	_	_	1	punct	_	_
+
+1	Es	ich	_	_	_	2	sb	_	_
+2	ist	sein	_	_	_	2	ROOT	_	_
+3	das	der	_	_	_	4	nk	_	_
+4	Beste	Beste	_	_	_	2	pd	_	_
+5	,	,	_	_	_	2	punct	_	_
+6	wenn	wenn	_	_	_	13	cp	_	_
+7	wir	ich	_	_	_	13	sb	_	_
+8	uns	sich	_	_	_	13	oa	_	_
+9	in	in	_	_	_	13	mo	_	_
+10	diesen	dies	_	_	_	11	nk	_	_
+11	Dingen	Ding	_	_	_	9	nk	_	_
+12	nicht	nicht	_	_	_	13	ng	_	_
+13	einmischen	einmischen	_	_	_	1	re	_	_
+14	.	.	_	_	_	2	punct	_	_
+
+1	Aber	aber	_	_	_	3	ju	_	_
+2	er	ich	_	_	_	3	sb	_	_
+3	kann	können	_	_	_	3	ROOT	_	_
+4	nicht	nicht	_	_	_	3	ng	_	_
+5	schwimmen	schwimmen	_	_	_	3	oc	_	_
+6	.	.	_	_	_	3	punct	_	_
+
+1	Du	ich	_	_	_	2	sb	_	_
+2	hast	haben	_	_	_	2	ROOT	_	_
+3	es	ich	_	_	_	6	oa	_	_
+4	ihm	ich	_	_	_	6	da	_	_
+5	nie	nie	_	_	_	6	mo	_	_
+6	beigebracht	beibringen	_	_	_	2	oc	_	_
+7	.	.	_	_	_	2	punct	_	_
+
+1	Lass	Lass	_	_	_	1	ROOT	_	_
+2	ihn	ich	_	_	_	1	oa	_	_
+3	das	der	_	_	_	1	sb	_	_
+4	lernen	lernen	_	_	_	1	oc	_	_
+5	,	,	_	_	_	4	punct	_	_
+6	wie	wie	_	_	_	9	mo	_	_
+7	ich	ich	_	_	_	9	sb	_	_
+8	es	ich	_	_	_	9	oa	_	_
+9	tat	tun	_	_	_	1	mo	_	_
+10	:	:	_	_	_	1	punct	_	_
+11	auf	auf	_	_	_	1	mo	_	_
+12	der	der	_	_	_	13	nk	_	_
+13	Straße	Straße	_	_	_	11	nk	_	_
+14	.	.	_	_	_	1	punct	_	_
+
+1	Nächste	Nächste	_	_	_	2	nk	_	_
+2	Woche	Woche	_	_	_	3	mo	_	_
+3	bei	bei	_	_	_	9	mo	_	_
+4	Völlig	Völlig	_	_	_	6	ag	_	_
+5	ineffektiver	ineffektiv	_	_	_	6	nk	_	_
+6	Dad	Dad	_	_	_	3	nk	_	_
+7	die	der	_	_	_	9	nk	_	_
+8	urkomische	urkomische	_	_	_	9	nk	_	_
+9	Beerdigungsfolge	Beerdigungsfolge	_	_	_	9	ROOT	_	_
+10	.	.	_	_	_	9	punct	_	_
+
+1	Ich	ich	_	_	_	2	sb	_	_
+2	finde	finden	_	_	_	2	ROOT	_	_
+3	,	,	_	_	_	2	punct	_	_
+4	man	man	_	_	_	5	sb	_	_
+5	kann	können	_	_	_	2	oc	_	_
+6	über	über	_	_	_	5	mo	_	_
+7	so	so	_	_	_	8	mo	_	_
+8	persönliche	persönlich	_	_	_	9	nk	_	_
+9	Dinge	dingen	_	_	_	6	nk	_	_
+10	nur	nur	_	_	_	11	mo	_	_
+11	sprechen	sprechen	_	_	_	5	oc	_	_
+12	,	,	_	_	_	11	punct	_	_
+13	wenn	wenn	_	_	_	18	cp	_	_
+14	der	der	_	_	_	15	nk	_	_
+15	andere	ander	_	_	_	18	sb	_	_
+16	das	der	_	_	_	17	nk	_	_
+17	Verständnis	Verständnis	_	_	_	18	oa	_	_
+18	hat	haben	_	_	_	5	mo	_	_
+19	.	.	_	_	_	2	punct	_	_
+
+1	Deshalb	deshalb	_	_	_	2	mo	_	_
+2	schäme	schämen	_	_	_	2	ROOT	_	_
+3	ich	ich	_	_	_	2	sb	_	_
+4	mich	sich	_	_	_	2	oa	_	_
+5	überhaupt	überhaupt	_	_	_	6	mo	_	_
+6	nicht	nicht	_	_	_	2	ng	_	_
+7	,	,	_	_	_	2	punct	_	_
+8	Ihnen	ich	_	_	_	10	da	_	_
+9	zu	zu	_	_	_	10	pm	_	_
+10	sagen	sagen	_	_	_	2	oc	_	_
+11	:	:	_	_	_	2	punct	_	_
+12	Ohne	ohne	_	_	_	14	mo	_	_
+13	Babs	Babs	_	_	_	12	nk	_	_
+14	wäre	sein	_	_	_	2	oc	_	_
+15	ich	ich	_	_	_	14	sb	_	_
+16	verloren	verlieren	_	_	_	14	pd	_	_
+17	.	.	_	_	_	2	punct	_	_
+
+1	Das	der	_	_	_	2	sb	_	_
+2	ist	sein	_	_	_	2	ROOT	_	_
+3	mir	sich	_	_	_	6	da	_	_
+4	ganz	ganz	_	_	_	5	mo	_	_
+5	klar	klaren	_	_	_	6	pd	_	_
+6	geworden	werden	_	_	_	2	oc	_	_
+7	,	,	_	_	_	6	punct	_	_
+8	schon	schon	_	_	_	9	mo	_	_
+9	bei	bei	_	_	_	2	mo	_	_
+10	dieser	dies	_	_	_	12	nk	_	_
+11	kurzen	kurz	_	_	_	12	nk	_	_
+12	Trennung	Trennung	_	_	_	9	nk	_	_
+13	.	.	_	_	_	2	punct	_	_
+
+1	Ich	ich	_	_	_	2	sb	_	_
+2	glaube	glauben	_	_	_	2	ROOT	_	_
+3	,	,	_	_	_	2	punct	_	_
+4	das	der	_	_	_	5	sb	_	_
+5	wäre	sein	_	_	_	2	oc	_	_
+6	ein	einen	_	_	_	8	nk	_	_
+7	schlechtes	schlecht	_	_	_	8	nk	_	_
+8	Land	Land	_	_	_	5	pd	_	_
+9	,	,	_	_	_	5	punct	_	_
+10	um	um	_	_	_	12	cp	_	_
+11	Kinder	Kind	_	_	_	12	oa	_	_
+12	aufzuziehen	aufziehen	_	_	_	5	mo	_	_
+13	.	.	_	_	_	2	punct	_	_
+
+1	Ich	ich	_	_	_	2	sb	_	_
+2	weiß	weiß	_	_	_	2	ROOT	_	_
+3	nicht	nicht	_	_	_	2	ng	_	_
+4	.	.	_	_	_	2	punct	_	_
+
+1	-	-	_	_	_	2	punct	_	_
+2	Wissen	Wissen	_	_	_	2	ROOT	_	_
+3	Sie	ich	_	_	_	2	sb	_	_
+4	?	?	_	_	_	2	punct	_	_
+
+1	Babs	Babs	_	_	_	6	sb	_	_
+2	und	und	_	_	_	1	cd	_	_
+3	ich	ich	_	_	_	2	cj	_	_
+4	,	,	_	_	_	6	punct	_	_
+5	wir	ich	_	_	_	6	sb	_	_
+6	wollten	wollen	_	_	_	6	ROOT	_	_
+7	am	am	_	_	_	8	pm	_	_
+8	liebsten	lieb	_	_	_	11	mo	_	_
+9	gleich	gleichen	_	_	_	11	mo	_	_
+10	Kinder	Kind	_	_	_	11	oa	_	_
+11	haben	haben	_	_	_	6	oc	_	_
+12	.	.	_	_	_	6	punct	_	_
+
+1	Doch	doch	_	_	_	3	ju	_	_
+2	dann	dann	_	_	_	3	mo	_	_
+3	kam	kommen	_	_	_	3	ROOT	_	_
+4	ich	ich	_	_	_	3	sb	_	_
+5	zu	zu	_	_	_	3	mo	_	_
+6	diesem	dies	_	_	_	7	nk	_	_
+7	Job	Job	_	_	_	5	nk	_	_
+8	.	.	_	_	_	3	punct	_	_
+
+1	Kinder	Kind	_	_	_	1	ROOT	_	_
+2	...	...	_	_	_	1	punct	_	_
+
+1	Zuerst	Zuerst	_	_	_	2	mo	_	_
+2	dachten	denken	_	_	_	2	ROOT	_	_
+3	wir	ich	_	_	_	2	sb	_	_
+4	an	an	_	_	_	2	mo	_	_
+5	2	2	_	_	_	6	nk	_	_
+6	Jungen	Junge	_	_	_	4	nk	_	_
+7	und	und	_	_	_	2	cd	_	_
+8	dann	dann	_	_	_	11	mo	_	_
+9	vielleicht	vielleicht	_	_	_	8	mo	_	_
+10	ein	einen	_	_	_	11	nk	_	_
+11	Mädchen	Mädchen	_	_	_	7	cj	_	_
+12	.	.	_	_	_	2	punct	_	_
+
+1	Auf	Auf	_	_	_	7	mo	_	_
+2	der	der	_	_	_	3	nk	_	_
+3	Flucht	Flucht	_	_	_	1	nk	_	_
+4	vor	vor	_	_	_	3	mnr	_	_
+5	der	der	_	_	_	6	nk	_	_
+6	Steuerfaschistin	Steuerfaschistin	_	_	_	4	nk	_	_
+7	konnte	können	_	_	_	7	ROOT	_	_
+8	ich	ich	_	_	_	7	sb	_	_
+9	Pluspunkte	Pluspunkte	_	_	_	15	oa	_	_
+10	bei	bei	_	_	_	9	mnr	_	_
+11	Sam	Sam	_	_	_	10	nk	_	_
+12	und	und	_	_	_	11	cd	_	_
+13	den	der	_	_	_	14	nk	_	_
+14	Kindern	Kind	_	_	_	12	cj	_	_
+15	sammeln	sammeln	_	_	_	7	oc	_	_
+16	.	.	_	_	_	7	punct	_	_
+
+1	Wer	Wer	_	_	_	2	sb	_	_
+2	hält	halten	_	_	_	2	ROOT	_	_
+3	mich	sich	_	_	_	2	oa	_	_
+4	für	für	_	_	_	2	mo	_	_
+5	den	der	_	_	_	7	nk	_	_
+6	besten	gut	_	_	_	7	nk	_	_
+7	Daddy	Daddy	_	_	_	4	nk	_	_
+8	der	der	_	_	_	9	nk	_	_
+9	Welt	Welt	_	_	_	7	ag	_	_
+10	?	?	_	_	_	2	punct	_	_
+
+1	-	-	_	_	_	3	punct	_	_
+2	Wer	Wer	_	_	_	3	sb	_	_
+3	will	wollen	_	_	_	3	ROOT	_	_
+4	heute	heute	_	_	_	6	mo	_	_
+5	Schule	schulen	_	_	_	6	oa	_	_
+6	schwänzen	schwänzen	_	_	_	3	oc	_	_
+7	?	?	_	_	_	3	punct	_	_
+
+1	-	-	_	_	_	2	punct	_	_
+2	Ja	ja	_	_	_	2	ROOT	_	_
+3	.	.	_	_	_	2	punct	_	_
+
+1	Schon	Schon	_	_	_	2	mo	_	_
+2	besser	gut	_	_	_	2	ROOT	_	_
+3	.	.	_	_	_	2	punct	_	_
+
+1	Okay	Okay	_	_	_	1	ROOT	_	_
+2	.	.	_	_	_	1	punct	_	_
+
+1	Die	der	_	_	_	2	nk	_	_
+2	Swans	Swans	_	_	_	3	sb	_	_
+3	machen	machen	_	_	_	3	ROOT	_	_
+4	einen	ein	_	_	_	5	nk	_	_
+5	Familienausflug	Familienausflug	_	_	_	3	oa	_	_
+6	.	.	_	_	_	3	punct	_	_
+
+1	Die	der	_	_	_	3	nk	_	_
+2	finden	finden	_	_	_	3	nk	_	_
+3	Wege	Weg	_	_	_	3	ROOT	_	_
+4	,	,	_	_	_	3	punct	_	_
+5	die	der	_	_	_	6	nk	_	_
+6	Seite	Seite	_	_	_	13	oa	_	_
+7	drei	drei	_	_	_	6	nk	_	_
+8	jetzt	jetzt	_	_	_	13	mo	_	_
+9	sogar	sogar	_	_	_	13	mo	_	_
+10	noch	noch	_	_	_	11	mo	_	_
+11	gruseliger	gruselig	_	_	_	13	mo	_	_
+12	zu	zu	_	_	_	13	pm	_	_
+13	machen	machen	_	_	_	3	oc	_	_
+14	.	.	_	_	_	3	punct	_	_
+
+1	"	"	_	_	_	6	ju	_	_
+2	Die	der	_	_	_	4	nk	_	_
+3	süße	süß	_	_	_	4	nk	_	_
+4	Karen	Karen	_	_	_	6	sb	_	_
+5	Clarke	Clarke	_	_	_	4	nk	_	_
+6	war	sein	_	_	_	6	ROOT	_	_
+7	schon	schon	_	_	_	8	mo	_	_
+8	in	in	_	_	_	6	mo	_	_
+9	jungen	jung	_	_	_	10	nk	_	_
+10	Jahren	Jahr	_	_	_	8	nk	_	_
+11	eine	einen	_	_	_	12	nk	_	_
+12	Oben-ohne-Schönheit	Oben-ohne-Schönheit	_	_	_	6	pd	_	_
+13	.	.	_	_	_	6	punct	_	_
+
+1	Aber	aber	_	_	_	3	ju	_	_
+2	jetzt	jetzt	_	_	_	3	mo	_	_
+3	ist	sein	_	_	_	3	ROOT	_	_
+4	sie	ich	_	_	_	3	sb	_	_
+5	ein	einen	_	_	_	7	nk	_	_
+6	großes	groß	_	_	_	7	nk	_	_
+7	Mädchen	Mädchen	_	_	_	3	pd	_	_
+8	und	und	_	_	_	7	cd	_	_
+9	eine	einen	_	_	_	11	nk	_	_
+10	wohlgeformte	wohlgeformte	_	_	_	11	nk	_	_
+11	Lady	Lady	_	_	_	8	cj	_	_
+12	.	.	_	_	_	3	punct	_	_
+13	"	"	_	_	_	3	punct	_	_
+
+1	Was	Was	_	_	_	2	sb	_	_
+2	ist	sein	_	_	_	2	ROOT	_	_
+3	mit	mit	_	_	_	2	mo	_	_
+4	Cassie	Cassie	_	_	_	3	nk	_	_
+5	und	und	_	_	_	4	cd	_	_
+6	Ramse	Ramse	_	_	_	5	cj	_	_
+7	?	?	_	_	_	2	punct	_	_
+
+1	Ich	ich	_	_	_	2	sb	_	_
+2	dachte	denken	_	_	_	2	ROOT	_	_
+3	,	,	_	_	_	2	punct	_	_
+4	du	du	_	_	_	5	sb	_	_
+5	würdest	werden	_	_	_	2	oc	_	_
+6	sie	ich	_	_	_	5	oa	_	_
+7	zuletzt	zuletzt	_	_	_	8	mo	_	_
+8	rauslassen	rauslassen	_	_	_	9	oc	_	_
+9	wollen	wollen	_	_	_	5	oc	_	_
+10	,	,	_	_	_	9	punct	_	_
+11	für	für	_	_	_	5	mo	_	_
+12	den	der	_	_	_	13	nk	_	_
+13	Fall	Fall	_	_	_	11	nk	_	_
+14	,	,	_	_	_	13	punct	_	_
+15	dass	dass	_	_	_	18	cp	_	_
+16	sie	ich	_	_	_	18	sb	_	_
+17	etwas	etwas	_	_	_	18	oa	_	_
+18	versuchen	versuchen	_	_	_	13	oc	_	_
+19	.	.	_	_	_	2	punct	_	_
+
+1	-	-	_	_	_	3	punct	_	_
+2	Ja	ja	_	_	_	3	subtok	_	_
+3	.	.	_	_	_	3	ROOT	_	_
+
+1	-	-	_	_	_	3	punct	_	_
+2	Das	der	_	_	_	6	oa	_	_
+3	habe	habe	_	_	_	3	ROOT	_	_
+4	ich	ich	_	_	_	3	sb	_	_
+5	mir	sich	_	_	_	6	da	_	_
+6	gedacht	gedenken	_	_	_	3	oc	_	_
+7	.	.	_	_	_	3	punct	_	_
+
+1	Was	Was	_	_	_	4	pd	_	_
+2	zur	zur	_	_	_	1	mnr	_	_
+3	Hölle	Hölle	_	_	_	2	nk	_	_
+4	war	sein	_	_	_	4	ROOT	_	_
+5	das	der	_	_	_	4	sb	_	_
+6	?	?	_	_	_	4	punct	_	_
+
+1	-	-	_	_	_	5	punct	_	_
+2	Was	Was	_	_	_	5	sb	_	_
+3	zur	zur	_	_	_	5	mo	_	_
+4	Hölle	Hölle	_	_	_	3	nk	_	_
+5	ist	sein	_	_	_	5	ROOT	_	_
+6	passiert	passieren	_	_	_	5	oc	_	_
+7	?	?	_	_	_	5	punct	_	_
+
+1	-	-	_	_	_	4	punct	_	_
+2	Der	der	_	_	_	3	nk	_	_
+3	Blitz	blitzen	_	_	_	4	sb	_	_
+4	traf	treffen	_	_	_	4	ROOT	_	_
+5	einen	ein	_	_	_	4	oa	_	_
+6	der	der	_	_	_	7	nk	_	_
+7	Transformatoren	Transformator	_	_	_	5	ag	_	_
+8	.	.	_	_	_	4	punct	_	_
+
+1	Wir	ich	_	_	_	2	sb	_	_
+2	dürfen	dürfen	_	_	_	2	ROOT	_	_
+3	die	der	_	_	_	4	nk	_	_
+4	Evakuierung	Evakuierung	_	_	_	6	oa	_	_
+5	nicht	nicht	_	_	_	2	ng	_	_
+6	verzögern	verzögern	_	_	_	2	oc	_	_
+7	.	.	_	_	_	2	punct	_	_
+
+1	Leite	Leite	_	_	_	1	ROOT	_	_
+2	alle	all	_	_	_	1	nk	_	_
+3	über	über	_	_	_	1	mnr	_	_
+4	den	der	_	_	_	6	nk	_	_
+5	westlichen	westlich	_	_	_	6	nk	_	_
+6	Gang	Gang	_	_	_	3	nk	_	_
+7	zur	zur	_	_	_	6	mnr	_	_
+8	Fahrzeughalle	Fahrzeughalle	_	_	_	7	nk	_	_
+9	.	.	_	_	_	1	punct	_	_
+
+1	-	-	_	_	_	4	punct	_	_
+2	Wie	wie	_	_	_	3	mo	_	_
+3	viele	viel	_	_	_	4	sb	_	_
+4	sind	sein	_	_	_	4	ROOT	_	_
+5	verwundet	verwundet	_	_	_	4	pd	_	_
+6	?	?	_	_	_	4	punct	_	_
+
+1	Obwohl	obwohl	_	_	_	4	cp	_	_
+2	,	,	_	_	_	4	punct	_	_
+3	er	ich	_	_	_	4	sb	_	_
+4	hat	haben	_	_	_	4	ROOT	_	_
+5	schöne	schöne	_	_	_	6	nk	_	_
+6	Reifen	Reife	_	_	_	7	oa	_	_
+7	hat	haben	_	_	_	4	oc	_	_
+8	...	...	_	_	_	7	punct	_	_
+9	für	für	_	_	_	6	mnr	_	_
+10	einen	ein	_	_	_	11	nk	_	_
+11	Verrückten	Verrückte	_	_	_	9	nk	_	_
+12	.	.	_	_	_	4	punct	_	_
+
+1	Halt	halten	_	_	_	1	ROOT	_	_
+2	den	der	_	_	_	3	nk	_	_
+3	Mund	Mund	_	_	_	1	oa	_	_
+4	!	!	_	_	_	1	punct	_	_
+
+1	-	-	_	_	_	2	punct	_	_
+2	Zu	zu	_	_	_	2	ROOT	_	_
+3	Hause	hausen	_	_	_	2	nk	_	_
+4	!	!	_	_	_	2	punct	_	_
+
+1	-	-	_	_	_	4	punct	_	_
+2	Dieser	Dieser	_	_	_	3	nk	_	_
+3	Ort	Ort	_	_	_	4	sb	_	_
+4	ist	sein	_	_	_	4	ROOT	_	_
+5	verdammt	verdammen	_	_	_	4	pd	_	_
+6	geil	geil	_	_	_	4	pd	_	_
+7	.	.	_	_	_	4	punct	_	_
+
+1	Wie	wie	_	_	_	2	cm	_	_
+2	im	im	_	_	_	2	ROOT	_	_
+3	Schlaraffenland	Schlaraffenland	_	_	_	2	nk	_	_
+4	.	.	_	_	_	2	punct	_	_
+
+1	Hier	Hier	_	_	_	2	mo	_	_
+2	kommen	kommen	_	_	_	2	ROOT	_	_
+3	die	der	_	_	_	5	nk	_	_
+4	reichen	reich	_	_	_	5	nk	_	_
+5	Kinder	Kind	_	_	_	2	sb	_	_
+6	zum	zum	_	_	_	2	mo	_	_
+7	sterben	sterben	_	_	_	6	nk	_	_
+8	hin	hin	_	_	_	2	svp	_	_
+9	.	.	_	_	_	2	punct	_	_
+
+1	Willkommen	Willkommen	_	_	_	1	ROOT	_	_
+2	in	in	_	_	_	1	mnr	_	_
+3	meiner	sich	_	_	_	4	nk	_	_
+4	Welt	Welt	_	_	_	2	nk	_	_
+5	.	.	_	_	_	1	punct	_	_
+
+1	Mir	ich	_	_	_	2	da	_	_
+2	ist	sein	_	_	_	2	ROOT	_	_
+3	ein	einen	_	_	_	4	nk	_	_
+4	bisschen	bisschen	_	_	_	2	sb	_	_
+5	schlecht	schlecht	_	_	_	2	pd	_	_
+6	!	!	_	_	_	2	punct	_	_
+
+1	Kevin	Kevin	_	_	_	4	sb	_	_
+2	,	,	_	_	_	4	punct	_	_
+3	ich	ich	_	_	_	4	sb	_	_
+4	glaube	glauben	_	_	_	4	ROOT	_	_
+5	,	,	_	_	_	4	punct	_	_
+6	du	du	_	_	_	7	sb	_	_
+7	solltest	sollen	_	_	_	4	cj	_	_
+8	Julie	Julie	_	_	_	11	oa	_	_
+9	ins	ins	_	_	_	11	cvc	_	_
+10	Badezimmer	Badezimmer	_	_	_	9	nk	_	_
+11	bringen	bringen	_	_	_	7	oc	_	_
+12	.	.	_	_	_	4	punct	_	_
+
+1	Komm	Komm	_	_	_	1	ROOT	_	_
+2	schon	schon	_	_	_	1	mo	_	_
+3	.	.	_	_	_	1	punct	_	_
+
+1	Nein	nein	_	_	_	5	dm	_	_
+2	,	,	_	_	_	5	punct	_	_
+3	die	der	_	_	_	4	nk	_	_
+4	Ärzte	Arzt	_	_	_	5	sb	_	_
+5	sind	sein	_	_	_	5	ROOT	_	_
+6	sehr	sehr	_	_	_	7	mo	_	_
+7	zufrieden	zufrieden	_	_	_	5	pd	_	_
+8	,	,	_	_	_	5	punct	_	_
+9	er	ich	_	_	_	10	sb	_	_
+10	ist	sein	_	_	_	5	cj	_	_
+11	der	der	_	_	_	12	nk	_	_
+12	Tapferste	Tapferste	_	_	_	10	pd	_	_
+13	.	.	_	_	_	5	punct	_	_
+
+1	Hast	haben	_	_	_	1	ROOT	_	_
+2	du	du	_	_	_	1	sb	_	_
+3	die	der	_	_	_	4	nk	_	_
+4	Bodys	Bodys	_	_	_	1	oa	_	_
+5	?	?	_	_	_	1	punct	_	_
+
+1	Frag	Frag	_	_	_	3	mo	_	_
+2	deinen	mein	_	_	_	3	nk	_	_
+3	Vater	Vater	_	_	_	3	ROOT	_	_
+4	!	!	_	_	_	3	punct	_	_
+
+1	Sag	Sag	_	_	_	2	nmc	_	_
+2	's	's	_	_	_	2	ROOT	_	_
+3	ihr	mein	_	_	_	2	sb	_	_
+4	!	!	_	_	_	2	punct	_	_
+
+1	Ich	ich	_	_	_	2	sb	_	_
+2	hatte	haben	_	_	_	2	ROOT	_	_
+3	die	der	_	_	_	4	nk	_	_
+4	Tüte	Tüte	_	_	_	6	oa	_	_
+5	damit	damit	_	_	_	6	mo	_	_
+6	vorbereitet	vorbereiten	_	_	_	2	oc	_	_
+7	und	und	_	_	_	6	cd	_	_
+8	er	ich	_	_	_	9	sb	_	_
+9	lässt	lässt	_	_	_	7	cj	_	_
+10	sie	ich	_	_	_	11	oa	_	_
+11	stehen	stehen	_	_	_	9	oc	_	_
+12	!	!	_	_	_	2	punct	_	_
+
+1	Schade	Schade	_	_	_	4	dm	_	_
+2	,	,	_	_	_	4	punct	_	_
+3	ich	ich	_	_	_	4	sb	_	_
+4	hab	hab	_	_	_	4	ROOT	_	_
+5	nicht	nicht	_	_	_	7	ng	_	_
+6	mehr	mehr	_	_	_	5	mo	_	_
+7	viele	viel	_	_	_	4	pd	_	_
+8	.	.	_	_	_	4	punct	_	_
+
+1	Siehst	Siehst	_	_	_	1	ROOT	_	_
+2	du	du	_	_	_	1	sb	_	_
+3	,	,	_	_	_	1	punct	_	_
+4	sie	ich	_	_	_	5	sb	_	_
+5	ist	sein	_	_	_	1	oc	_	_
+6	sehr	sehr	_	_	_	7	mo	_	_
+7	enttäuscht	enttäuschen	_	_	_	5	pd	_	_
+8	!	!	_	_	_	1	punct	_	_
+
+1	Gut	Gut	_	_	_	1	ROOT	_	_
+2	,	,	_	_	_	1	punct	_	_
+3	ich	ich	_	_	_	4	sb	_	_
+4	hab	hab	_	_	_	1	sb	_	_
+5	sie	ich	_	_	_	6	oa	_	_
+6	vergessen	vergessen	_	_	_	4	oc	_	_
+7	!	!	_	_	_	1	punct	_	_
+
+1	Mach	Mach	_	_	_	1	ROOT	_	_
+2	nicht	nicht	_	_	_	1	ng	_	_
+3	so	so	_	_	_	5	mo	_	_
+4	ein	einen	_	_	_	5	nk	_	_
+5	Theater	Theater	_	_	_	1	oa	_	_
+6	!	!	_	_	_	1	punct	_	_
+
+1	Typisch	Typisch	_	_	_	1	ROOT	_	_
+2	!	!	_	_	_	1	punct	_	_
+
+1	-	-	_	_	_	4	punct	_	_
+2	Mit	Mit	_	_	_	2	ROOT	_	_
+3	dem	der	_	_	_	4	nk	_	_
+4	Mund	Mund	_	_	_	2	nk	_	_
+5	.	.	_	_	_	4	punct	_	_
+
+1	Mein	mein	_	_	_	2	nk	_	_
+2	Autoreifen	Autoreifen	_	_	_	3	sb	_	_
+3	ist	sein	_	_	_	3	ROOT	_	_
+4	geplatzt	platzen	_	_	_	3	oc	_	_
+5	.	.	_	_	_	3	punct	_	_
+
+1	Meine	Meine	_	_	_	2	nk	_	_
+2	Allianz	Allianz	_	_	_	3	sb	_	_
+3	ist	sein	_	_	_	3	ROOT	_	_
+4	vorbei	vorbei	_	_	_	3	mo	_	_
+5	.	.	_	_	_	3	punct	_	_
+
+1	Viel	viel	_	_	_	2	nk	_	_
+2	Glück	glücken	_	_	_	2	ROOT	_	_
+3	.	.	_	_	_	2	punct	_	_
+
+1	Was	Was	_	_	_	1	ROOT	_	_
+2	?	?	_	_	_	1	punct	_	_
+
+1	Dad	Dad	_	_	_	1	ROOT	_	_
+2	!	!	_	_	_	1	punct	_	_
+
+1	Das	der	_	_	_	2	nk	_	_
+2	Gute	Gute	_	_	_	4	sb	_	_
+3	daran	daran	_	_	_	2	mnr	_	_
+4	ist	sein	_	_	_	4	ROOT	_	_
+5	,	,	_	_	_	4	punct	_	_
+6	dass	dass	_	_	_	10	cp	_	_
+7	ich	ich	_	_	_	10	sb	_	_
+8	meinen	mein	_	_	_	9	nk	_	_
+9	Fisch	fischen	_	_	_	10	oa	_	_
+10	wiedersehe	wiedersehen	_	_	_	4	re	_	_
+11	.	.	_	_	_	4	punct	_	_
+
+1	Hey	Hey	_	_	_	4	sb	_	_
+2	,	,	_	_	_	1	punct	_	_
+3	was	was	_	_	_	4	sb	_	_
+4	ist	sein	_	_	_	4	ROOT	_	_
+5	los	los	_	_	_	4	svp	_	_
+6	?	?	_	_	_	4	punct	_	_
+
+1	Es	ich	_	_	_	2	sb	_	_
+2	spült	spülen	_	_	_	2	ROOT	_	_
+3	nicht	nicht	_	_	_	2	ng	_	_
+4	runter	runter	_	_	_	2	mo	_	_
+5	.	.	_	_	_	2	punct	_	_
+
+1	Wir	ich	_	_	_	2	sb	_	_
+2	brauchen	brauchen	_	_	_	2	ROOT	_	_
+3	ein	einen	_	_	_	5	nk	_	_
+4	größeres	groß	_	_	_	5	nk	_	_
+5	Klo	Klo	_	_	_	2	oa	_	_
+6	.	.	_	_	_	2	punct	_	_
+
+1	Führe	Führe	_	_	_	1	ROOT	_	_
+2	mich	sich	_	_	_	1	oa	_	_
+3	zu	zu	_	_	_	1	mo	_	_
+4	dem	der	_	_	_	5	nk	_	_
+5	Mann	Mann	_	_	_	3	nk	_	_
+6	,	,	_	_	_	5	punct	_	_
+7	der	der	_	_	_	9	sb	_	_
+8	dich	sich	_	_	_	9	oa	_	_
+9	schickte	schicken	_	_	_	5	rc	_	_
+10	.	.	_	_	_	1	punct	_	_
+
+1	Er	ich	_	_	_	2	sb	_	_
+2	erwartet	erwarten	_	_	_	2	ROOT	_	_
+3	dich	sich	_	_	_	2	oa	_	_
+4	.	.	_	_	_	2	punct	_	_
+
+1	-	-	_	_	_	2	punct	_	_
+2	Wo	wo	_	_	_	2	ROOT	_	_
+3	?	?	_	_	_	2	punct	_	_
+
+1	Das	der	_	_	_	4	oa	_	_
+2	wirst	werden	_	_	_	2	ROOT	_	_
+3	du	du	_	_	_	2	sb	_	_
+4	sehen	sehen	_	_	_	2	oc	_	_
+5	,	,	_	_	_	4	punct	_	_
+6	wenn	wenn	_	_	_	10	cp	_	_
+7	wir	ich	_	_	_	10	sb	_	_
+8	nicht	nicht	_	_	_	9	ng	_	_
+9	verhaftet	verhaften	_	_	_	10	oc	_	_
+10	werden	werden	_	_	_	4	mo	_	_
+11	.	.	_	_	_	2	punct	_	_
+
+1	Also	Also	_	_	_	2	mo	_	_
+2	los	los	_	_	_	2	ROOT	_	_
+3	.	.	_	_	_	2	punct	_	_
+
+1	Du	ich	_	_	_	2	sb	_	_
+2	gehst	gehen	_	_	_	2	ROOT	_	_
+3	vor	vor	_	_	_	2	mo	_	_
+4	mir	sich	_	_	_	3	nk	_	_
+5	.	.	_	_	_	2	punct	_	_
+
+1	Ich	ich	_	_	_	2	sb	_	_
+2	komme	kommen	_	_	_	2	ROOT	_	_
+3	nach	nach	_	_	_	2	svp	_	_
+4	.	.	_	_	_	2	punct	_	_
+
+1	Das	der	_	_	_	2	sb	_	_
+2	war	sein	_	_	_	2	ROOT	_	_
+3	ein	einen	_	_	_	4	nk	_	_
+4	Test	Test	_	_	_	2	pd	_	_
+5	.	.	_	_	_	2	punct	_	_
+
+1	Du	ich	_	_	_	2	sb	_	_
+2	konntest	können	_	_	_	5	mo	_	_
+3	ein	einen	_	_	_	4	nk	_	_
+4	Spion	Spion	_	_	_	5	pd	_	_
+5	sein	mein	_	_	_	5	ROOT	_	_
+6	.	.	_	_	_	5	punct	_	_
+
+1	Die	der	_	_	_	2	nk	_	_
+2	Waffe	Waffe	_	_	_	3	sb	_	_
+3	war	sein	_	_	_	3	ROOT	_	_
+4	ungeladen	ungeladen	_	_	_	3	oc	_	_
+5	.	.	_	_	_	3	punct	_	_
+
+1	-	-	_	_	_	2	punct	_	_
+2	Kommen	Kommen	_	_	_	2	ROOT	_	_
+3	Sie	ich	_	_	_	2	sb	_	_
+4	.	.	_	_	_	2	punct	_	_
+
+1	Seien	sein	_	_	_	1	ROOT	_	_
+2	Sie	ich	_	_	_	1	sb	_	_
+3	außergewöhnlich	außergewöhnlich	_	_	_	1	pd	_	_
+4	.	.	_	_	_	1	punct	_	_
+
+1	Oh	Oh	_	_	_	1	ROOT	_	_
+2	,	,	_	_	_	1	punct	_	_
+3	Sie	ich	_	_	_	1	cj	_	_
+4	...	...	_	_	_	1	punct	_	_
+
+1	Okay	Okay	_	_	_	1	ROOT	_	_
+2	.	.	_	_	_	1	punct	_	_
+
+1	Um	um	_	_	_	5	cp	_	_
+2	die	der	_	_	_	3	nk	_	_
+3	Dinge	dingen	_	_	_	5	oa	_	_
+4	zu	zu	_	_	_	5	pm	_	_
+5	ordnen	ordnen	_	_	_	5	ROOT	_	_
+6	:	:	_	_	_	5	punct	_	_
+
+1	Das	der	_	_	_	3	nk	_	_
+2	erste	erste	_	_	_	3	nk	_	_
+3	Treffen	Treffen	_	_	_	12	sb	_	_
+4	von	von	_	_	_	3	pg	_	_
+5	Vertretern	Vertreter	_	_	_	4	nk	_	_
+6	der	der	_	_	_	8	nk	_	_
+7	menschlichen	menschlich	_	_	_	8	nk	_	_
+8	Spezies	Spezies	_	_	_	5	ag	_	_
+9	und	und	_	_	_	8	cd	_	_
+10	Homo	Homo	_	_	_	11	pnc	_	_
+11	Reptilia	Reptilia	_	_	_	9	cj	_	_
+12	wird	werden	_	_	_	12	ROOT	_	_
+13	jetzt	jetzt	_	_	_	14	mo	_	_
+14	abgehalten	abhalten	_	_	_	12	oc	_	_
+15	.	.	_	_	_	12	punct	_	_
+
+1	Das	der	_	_	_	6	oa	_	_
+2	habe	habe	_	_	_	2	ROOT	_	_
+3	ich	ich	_	_	_	2	sb	_	_
+4	noch	noch	_	_	_	5	mo	_	_
+5	nie	nie	_	_	_	6	mo	_	_
+6	gesagt	sagen	_	_	_	2	oc	_	_
+7	,	,	_	_	_	6	punct	_	_
+8	dass	dass	_	_	_	9	cp	_	_
+9	ist	sein	_	_	_	6	oc	_	_
+10	toll	tollen	_	_	_	9	pd	_	_
+11	!	!	_	_	_	2	punct	_	_
+
+1	Machen	Machen	_	_	_	1	ROOT	_	_
+2	wir	ich	_	_	_	1	sb	_	_
+3	weiter	weit	_	_	_	1	mo	_	_
+4	!	!	_	_	_	1	punct	_	_
+
+1	Nun	Nun	_	_	_	5	mo	_	_
+2	,	,	_	_	_	5	punct	_	_
+3	Mo	Mo	_	_	_	5	mo	_	_
+4	,	,	_	_	_	5	punct	_	_
+5	gehen	gehen	_	_	_	5	ROOT	_	_
+6	wir	ich	_	_	_	5	sb	_	_
+7	Ihren	mein	_	_	_	8	nk	_	_
+8	Sohn	Sohn	_	_	_	9	oa	_	_
+9	holen	holen	_	_	_	5	oc	_	_
+10	.	.	_	_	_	5	punct	_	_
+
+1	Ach	Ach	_	_	_	10	mo	_	_
+2	,	,	_	_	_	3	punct	_	_
+3	wissen	wissen	_	_	_	3	ROOT	_	_
+4	Sie	ich	_	_	_	3	sb	_	_
+5	,	,	_	_	_	4	punct	_	_
+6	Menschen	Mensch	_	_	_	4	cj	_	_
+7	und	und	_	_	_	6	cd	_	_
+8	ihre	mein	_	_	_	9	nk	_	_
+9	Vorgänger	Vorgänger	_	_	_	7	cj	_	_
+10	unterhalten	unterhalten	_	_	_	3	oc	_	_
+11	sich	sich	_	_	_	10	oa	_	_
+12	ganz	ganz	_	_	_	13	mo	_	_
+13	gemütlich	gemütlich	_	_	_	10	mo	_	_
+14	.	.	_	_	_	3	punct	_	_
+
+1	Niemals	Niemals	_	_	_	1	ROOT	_	_
+2	.	.	_	_	_	1	punct	_	_
+
+1	Wenn	wenn	_	_	_	3	cp	_	_
+2	er	ich	_	_	_	3	sb	_	_
+3	lügt	lügen	_	_	_	9	mo	_	_
+4	,	,	_	_	_	5	punct	_	_
+5	haben	haben	_	_	_	5	ROOT	_	_
+6	Sie	ich	_	_	_	5	sb	_	_
+7	nichts	nichts	_	_	_	9	oa	_	_
+8	zu	zu	_	_	_	9	pm	_	_
+9	befürchten	befürchten	_	_	_	5	oc	_	_
+10	.	.	_	_	_	5	punct	_	_
+
+1	Kahless	Kahless	_	_	_	2	sb	_	_
+2	ist	sein	_	_	_	2	ROOT	_	_
+3	seit	seit	_	_	_	2	mo	_	_
+4	1.000	1.000	_	_	_	5	nk	_	_
+5	Jahren	Jahr	_	_	_	3	nk	_	_
+6	tot	tot	_	_	_	2	pd	_	_
+7	.	.	_	_	_	2	punct	_	_
+
+1	Aber	aber	_	_	_	4	ju	_	_
+2	sein	mein	_	_	_	3	nk	_	_
+3	Geist	Geist	_	_	_	4	sb	_	_
+4	ist	sein	_	_	_	4	ROOT	_	_
+5	noch	noch	_	_	_	4	mo	_	_
+6	lebendig	lebendig	_	_	_	4	pd	_	_
+7	.	.	_	_	_	4	punct	_	_
+
+1	Haben	haben	_	_	_	1	ROOT	_	_
+2	Sie	ich	_	_	_	1	sb	_	_
+3	je	je	_	_	_	6	mo	_	_
+4	einen	ein	_	_	_	5	nk	_	_
+5	Geist	Geist	_	_	_	6	oa	_	_
+6	bekämpft	bekämpfen	_	_	_	1	oc	_	_
+7	?	?	_	_	_	1	punct	_	_
+
+1	Keine	kein	_	_	_	2	nk	_	_
+2	Waffe	Waffe	_	_	_	3	sb	_	_
+3	kann	können	_	_	_	3	ROOT	_	_
+4	ihn	ich	_	_	_	5	oa	_	_
+5	vernichten	vernichten	_	_	_	3	oc	_	_
+6	.	.	_	_	_	3	punct	_	_
+
+1	Der	der	_	_	_	2	nk	_	_
+2	Geist	Geist	_	_	_	9	sb	_	_
+3	von	von	_	_	_	2	pg	_	_
+4	Kahless	Kahless	_	_	_	3	nk	_	_
+5	muss	muss	_	_	_	8	mo	_	_
+6	aber	aber	_	_	_	8	mo	_	_
+7	sofort	sofort	_	_	_	8	mo	_	_
+8	ausgemerzt	ausmerzen	_	_	_	9	oc	_	_
+9	werden	werden	_	_	_	9	ROOT	_	_
+10	,	,	_	_	_	9	punct	_	_
+11	oder	oder	_	_	_	9	cd	_	_
+12	er	ich	_	_	_	13	sb	_	_
+13	wird	werden	_	_	_	11	cj	_	_
+14	sich	sich	_	_	_	20	oa	_	_
+15	wie	wie	_	_	_	17	cm	_	_
+16	eine	einen	_	_	_	17	nk	_	_
+17	Welle	Welle	_	_	_	20	mo	_	_
+18	im	im	_	_	_	17	mnr	_	_
+19	Reich	Reich	_	_	_	18	nk	_	_
+20	verbreiten	verbreiten	_	_	_	13	oc	_	_
+21	,	,	_	_	_	9	punct	_	_
+22	und	und	_	_	_	9	cd	_	_
+23	bleiben	bleiben	_	_	_	24	oc	_	_
+24	wird	werden	_	_	_	22	cj	_	_
+25	nichts	nichts	_	_	_	24	sb	_	_
+26	als	als	_	_	_	29	cm	_	_
+27	eine	einen	_	_	_	29	nk	_	_
+28	öde	öden	_	_	_	29	nk	_	_
+29	Wüste	Wüste	_	_	_	25	cc	_	_
+30	.	.	_	_	_	9	punct	_	_
+
+1	Gowron	Gowron	_	_	_	2	sb	_	_
+2	ist	sein	_	_	_	2	ROOT	_	_
+3	also	also	_	_	_	6	mo	_	_
+4	an	an	_	_	_	6	mo	_	_
+5	Bord	Bord	_	_	_	4	nk	_	_
+6	gekommen	kommen	_	_	_	2	oc	_	_
+7	,	,	_	_	_	6	punct	_	_
+8	um	um	_	_	_	12	cp	_	_
+9	Ihren	mein	_	_	_	10	nk	_	_
+10	Anspruch	Anspruch	_	_	_	12	oa	_	_
+11	zu	zu	_	_	_	12	pm	_	_
+12	prüfen	prüfen	_	_	_	6	mo	_	_
+13	.	.	_	_	_	2	punct	_	_
+
+1	Gowron	Gowron	_	_	_	2	sb	_	_
+2	weiß	weiß	_	_	_	2	ROOT	_	_
+3	,	,	_	_	_	2	punct	_	_
+4	seine	mein	_	_	_	5	nk	_	_
+5	Tage	tagen	_	_	_	6	sb	_	_
+6	sind	sein	_	_	_	2	oc	_	_
+7	gezählt	zählen	_	_	_	6	pd	_	_
+8	.	.	_	_	_	2	punct	_	_
+
+1	Also	Also	_	_	_	2	mo	_	_
+2	kommt	kommen	_	_	_	2	ROOT	_	_
+3	er	ich	_	_	_	2	sb	_	_
+4	mit	mit	_	_	_	2	mo	_	_
+5	einem	einer	_	_	_	7	nk	_	_
+6	läppischen	läppischen	_	_	_	7	nk	_	_
+7	Test	Test	_	_	_	4	nk	_	_
+8	daher	daher	_	_	_	2	svp	_	_
+9	.	.	_	_	_	2	punct	_	_
+
+1	Das	der	_	_	_	2	sb	_	_
+2	hat	haben	_	_	_	2	ROOT	_	_
+3	was	was	_	_	_	2	sb	_	_
+4	.	.	_	_	_	2	punct	_	_
+
+1	Aber	aber	_	_	_	2	ju	_	_
+2	denk	denk	_	_	_	2	ROOT	_	_
+3	dran	dran	_	_	_	2	mo	_	_
+4	du	du	_	_	_	5	sb	_	_
+5	bist	sein	_	_	_	2	sb	_	_
+6	nicht	nicht	_	_	_	7	ng	_	_
+7	wirklich	wirklich	_	_	_	8	mo	_	_
+8	sauer	sauern	_	_	_	5	pd	_	_
+9	wegen	wegen	_	_	_	5	mo	_	_
+10	der	der	_	_	_	11	nk	_	_
+11	schnurrbarthaare	schnurrbarthaare	_	_	_	9	nk	_	_
+12	.	.	_	_	_	2	punct	_	_
+
+1	Du	ich	_	_	_	2	sb	_	_
+2	bist	sein	_	_	_	2	ROOT	_	_
+3	sauer	sauern	_	_	_	2	pd	_	_
+4	weil	weil	_	_	_	8	cp	_	_
+5	ich	ich	_	_	_	8	sb	_	_
+6	dir	sich	_	_	_	8	oa	_	_
+7	nicht	nicht	_	_	_	8	ng	_	_
+8	zuhöre	zuhören	_	_	_	2	mo	_	_
+9	,	,	_	_	_	2	punct	_	_
+10	deine	mein	_	_	_	11	nk	_	_
+11	Freunde	freunden	_	_	_	13	oa	_	_
+12	nicht	nicht	_	_	_	13	ng	_	_
+13	mag	mögen	_	_	_	2	cj	_	_
+14	und	und	_	_	_	13	cd	_	_
+15	über	über	_	_	_	18	mo	_	_
+16	deine	mein	_	_	_	17	nk	_	_
+17	Mutter	Mutter	_	_	_	15	nk	_	_
+18	läster	läster	_	_	_	14	cj	_	_
+19	.	.	_	_	_	2	punct	_	_
+

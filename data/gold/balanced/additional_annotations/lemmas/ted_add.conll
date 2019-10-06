@@ -1,0 +1,25 @@
+1	Dieses	dieser	PDAT	PDAT	_	_	_	_	_
+2	Rauschen	Rauschen	NN	NN	_	3	subj	_	_
+3	ist	sein	VAFIN	VAFIN	_	_	_	_	_
+4	so	so	ADV	ADV	_	_	_	_	_
+5	stark	stark	ADJD	ADJD	_	_	_	_	_
+6	,	,	$,	$,	_	_	_	_	_
+7	dass	dass	KOUS	KOUS	_	_	_	_	_
+8	die	der	ART	ART	_	_	_	_	_
+9	Gesellschaft	Gesellschaft	NN	NN	_	13	subj	_	_
+10	eine	ein	ART	ART	_	_	_	_	_
+11	große	groß	ADJA	ADJA	_	_	_	_	_
+12	Prämie	Prämie	NN	NN	_	13	obj	_	_
+13	ausschreibt	ausschreiben	VVFIN	VVFIN	_	_	_	_	_
+14	für	für	APPR	APPR	_	_	_	_	_
+15	jene	jener	PDS	PDS	_	_	_	_	_
+16	,	,	$,	$,	_	_	_	_	_
+17	die	der	PRELS	PRELS	_	_	_	_	_
+18	die	der	ART	ART	_	_	_	_	_
+19	Konsequenzen	Konsequenz	NN	NN	_	22	obj	_	_
+20	dieses	dieser	PDAT	PDAT	_	_	_	_	_
+21	Rauschens	Rauschen	NN	NN	_	_	_	_	_
+22	reduzieren	reduzieren	VVINF	VVINF	_	_	_	_	_
+23	können	können	VMFIN	VMFIN	_	22	aux	_	_
+24	.	.	$.	$.	_	_	_	_	_
+

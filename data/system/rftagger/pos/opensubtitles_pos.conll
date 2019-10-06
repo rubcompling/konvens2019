@@ -1,0 +1,1719 @@
+1	Du	sie	_	PPER	person=2|case=nom|number=sg|gender=*	1	null	_	_
+2	willst	wollen	_	VMFIN	person=2|number=sg|tense=pres|mood=ind	2	null	_	_
+3	alles	alle	_	PIS	person=-|case=acc|number=sg	3	null	_	_
+4	wissen	wissen	_	VVINF	_	4	null	_	_
+5	.	.	_	$.	_	5	null	_	_
+
+1	Es	sie	_	PPER	person=3|case=nom|number=sg|gender=neut	1	null	_	_
+2	ist	sein	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	2	null	_	_
+3	mein	meine	_	PPOSAT	person=-|case=nom|number=sg	3	null	_	_
+4	Töff	Töff	_	NN	case=nom|number=sg|gender=masc	4	null	_	_
+5	,	,	_	$,	_	5	null	_	_
+6	oder	oder	_	KON	_	6	null	_	_
+7	!	!	_	$.	_	7	null	_	_
+
+1	Gut	gut	_	ADJD	degree=pos	1	null	_	_
+2	,	,	_	$,	_	2	null	_	_
+3	also	also	_	ADV	_	3	null	_	_
+4	das	die	_	ART	case=nom|number=sg|gender=neut	4	null	_	_
+5	Benzin	Benzin	_	NN	case=nom|number=sg|gender=neut	5	null	_	_
+6	geht	gehen	_	VVFIN	person=3|number=sg|tense=pres|mood=ind	6	null	_	_
+7	hier	hier	_	ADV	_	7	null	_	_
+8	durch	durch	_	PTKVZ	_	8	null	_	_
+9	,	,	_	$,	_	9	null	_	_
+10	da	da	_	KOUS	_	10	null	_	_
+11	hinein	hinein	_	PTKVZ	_	11	null	_	_
+12	.	.	_	$.	_	12	null	_	_
+
+1	Da	da	_	ADV	_	1	null	_	_
+2	drin	_	_	ADV	_	2	null	_	_
+3	ist	sein	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	3	null	_	_
+4	es	sie	_	PPER	person=3|case=nom|number=sg|gender=neut	4	null	_	_
+5	sehr	sehr	_	ADV	_	5	null	_	_
+6	heiss	heiß	_	ADJD	degree=pos	6	null	_	_
+7	.	.	_	$.	_	7	null	_	_
+
+1	Dann	dann	_	ADV	_	1	null	_	_
+2	die	die	_	ART	case=acc|number=sg|gender=fem	2	null	_	_
+3	Kerze	Kerze	_	NN	case=acc|number=sg|gender=fem	3	null	_	_
+4	maken	_	_	VVFIN	person=3|number=pl|tense=pres|mood=ind	4	null	_	_
+5	ein	ein	_	PTKVZ	_	5	null	_	_
+6	...	_	_	$(	_	6	null	_	_
+
+1	Ja	ja	_	PTKANT	_	1	null	_	_
+2	,	,	_	$,	_	2	null	_	_
+3	wie	wie	_	KOUS	_	3	null	_	_
+4	ein	eine	_	ART	case=acc|number=sg|gender=neut	4	null	_	_
+5	Messer	Messer	_	NN	case=acc|number=sg|gender=neut	5	null	_	_
+6	auf	auf	_	APPR	_	6	null	_	_
+7	dem	die	_	ART	case=dat|number=sg|gender=masc	7	null	_	_
+8	Schleifstein	Schleifstein	_	NN	case=dat|number=sg|gender=masc	8	null	_	_
+9	.	.	_	$.	_	9	null	_	_
+
+1	Wie	wie	_	PWAV	_	1	null	_	_
+2	ein	eine	_	ART	case=nom|number=sg|gender=neut	2	null	_	_
+3	Feuerzeug	Feuerzeug	_	NN	case=nom|number=sg|gender=neut	3	null	_	_
+4	.	.	_	$.	_	4	null	_	_
+
+1	Ein	eine	_	ART	case=nom|number=sg|gender=masc	1	null	_	_
+2	Funke	Funke	_	NN	case=nom|number=sg|gender=masc	2	null	_	_
+3	.	.	_	$.	_	3	null	_	_
+
+1	Funke	Funke	_	NN	case=nom|number=sg|gender=masc	1	null	_	_
+2	...	_	_	$(	_	2	null	_	_
+3	gut	gut	_	ADJD	degree=pos	3	null	_	_
+4	.	.	_	$.	_	4	null	_	_
+
+1	Also	also	_	ADV	_	1	null	_	_
+2	die	die	_	ART	case=acc|number=sg|gender=fem	2	null	_	_
+3	Kerze	Kerze	_	NN	case=acc|number=sg|gender=fem	3	null	_	_
+4	machen	machen	_	VVFIN	person=3|number=pl|tense=pres|mood=ind	4	null	_	_
+5	ein	eine	_	ART	case=nom|number=sg|gender=masc	5	null	_	_
+6	Funke	Funke	_	NN	case=nom|number=sg|gender=masc	6	null	_	_
+7	und	und	_	KON	_	7	null	_	_
+8	päng	_	_	FM	_	8	null	_	_
+9	bringt	bringen	_	VVFIN	person=3|number=sg|tense=pres|mood=ind	9	null	_	_
+10	das	die	_	ART	case=acc|number=sg|gender=neut	10	null	_	_
+11	Benzin	Benzin	_	NN	case=acc|number=sg|gender=neut	11	null	_	_
+12	zum	zu	_	APPRART	case=dat|number=sg|gender=neut	12	null	_	_
+13	Explodiern	_	_	NN	case=dat|number=sg|gender=neut	13	null	_	_
+
+1	Anateo	_	_	NE	case=nom|number=sg|gender=*	1	null	_	_
+2	hat	haben	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	2	null	_	_
+3	uns	sie	_	PPER	person=1|case=dat|number=pl|gender=*	3	null	_	_
+4	alle	alle	_	PIS	person=-|case=nom|number=pl	4	null	_	_
+5	verraten	verraten	_	VVPP	_	5	null	_	_
+6	und	und	_	KON	_	6	null	_	_
+7	er	sie	_	PPER	person=3|case=nom|number=sg|gender=masc	7	null	_	_
+8	wird	werden	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	8	null	_	_
+9	dafür	dafür	_	PROP	_	9	null	_	_
+10	bezahlen	bezahlen	_	VVINF	_	10	null	_	_
+11	.	.	_	$.	_	11	null	_	_
+
+1	Und	und	_	KON	_	1	null	_	_
+2	wegen	wegen	_	APPR	_	2	null	_	_
+3	der	die	_	ART	case=gen|number=sg|gender=fem	3	null	_	_
+4	Tau'ri	_	_	NN	case=gen|number=sg|gender=fem	4	null	_	_
+5	...	_	_	$(	_	5	null	_	_
+6	sie	sie	_	PPER	person=3|case=nom|number=pl|gender=*	6	null	_	_
+7	befanden	befinden	_	VVFIN	person=3|number=pl|tense=past|mood=ind	7	null	_	_
+8	sich	sie	_	PRF	person=3|case=acc|number=pl	8	null	_	_
+9	schon	schon	_	ADV	_	9	null	_	_
+10	im	in	_	APPRART	case=dat|number=sg|gender=masc	10	null	_	_
+11	Krieg	Krieg	_	NN	case=dat|number=sg|gender=masc	11	null	_	_
+12	gegen	gegen	_	APPR	_	12	null	_	_
+13	uns	sie	_	PPER	person=1|case=acc|number=pl|gender=*	13	null	_	_
+14	und	und	_	KON	_	14	null	_	_
+15	wir	sie	_	PPER	person=1|case=nom|number=pl|gender=*	15	null	_	_
+16	gegen	gegen	_	APPR	_	16	null	_	_
+17	sie	sie	_	PPER	person=3|case=acc|number=pl|gender=*	17	null	_	_
+18	...	_	_	$(	_	18	null	_	_
+19	und	und	_	KON	_	19	null	_	_
+20	ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	20	null	_	_
+21	werde	werden	_	VAFIN	person=1|number=sg|tense=pres|mood=ind	21	null	_	_
+22	mich	sie	_	PRF	person=1|case=acc|number=sg	22	null	_	_
+23	nicht	nicht	_	PTKNEG	_	23	null	_	_
+24	ängstlich	ängstlich	_	ADJD	degree=pos	24	null	_	_
+25	verkriechen	verkriechen	_	VVINF	_	25	null	_	_
+26	.	.	_	$.	_	26	null	_	_
+
+1	Sagt	sagen	_	VVFIN	person=3|number=sg|tense=pres|mood=ind	1	null	_	_
+2	das	die	_	PDS	person=-|case=nom|number=sg	2	null	_	_
+3	weiter	weiter	_	ADV	_	3	null	_	_
+4	.	.	_	$.	_	4	null	_	_
+
+1	Schickt	schicken	_	VVFIN	person=3|number=sg|tense=pres|mood=ind	1	null	_	_
+2	alle	_	_	PIAT	person=-|case=acc|number=pl	2	null	_	_
+3	verfügbaren	verfügbar	_	ADJA	degree=pos|case=acc|number=pl|gender=neut	3	null	_	_
+4	Schiffe	Schiff	_	NN	case=acc|number=pl|gender=neut	4	null	_	_
+5	.	.	_	$.	_	5	null	_	_
+
+1	Ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	1	null	_	_
+2	will	wollen	_	VMFIN	person=1|number=sg|tense=pres|mood=ind	2	null	_	_
+3	,	,	_	$,	_	3	null	_	_
+4	dass	dass	_	KOUS	_	4	null	_	_
+5	die	die	_	ART	case=nom|number=sg|gender=fem	5	null	_	_
+6	0dyssey	_	_	NN	case=nom|number=sg|gender=fem	6	null	_	_
+7	gefunden	finden	_	VVPP	_	7	null	_	_
+8	wird	werden	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	8	null	_	_
+9	.	.	_	$.	_	9	null	_	_
+
+1	Sofort	sofort	_	ADV	_	1	null	_	_
+2	!	!	_	$.	_	2	null	_	_
+
+1	Kefflin	_	_	NE	case=nom|number=sg|gender=neut	1	null	_	_
+2	.	.	_	$.	_	2	null	_	_
+
+1	War	sein	_	VAFIN	person=3|number=sg|tense=past|mood=ind	1	null	_	_
+2	es	sie	_	PPER	person=3|case=nom|number=sg|gender=neut	2	null	_	_
+3	wirklich	wirklich	_	ADJD	degree=pos	3	null	_	_
+4	nötig	nötig	_	ADJD	degree=pos	4	null	_	_
+5	,	,	_	$,	_	5	null	_	_
+6	mich	sie	_	PPER	person=1|case=acc|number=sg|gender=*	6	null	_	_
+7	so	so	_	ADV	_	7	null	_	_
+8	zu	zu	_	PTKZU	_	8	null	_	_
+9	blamieren	blamieren	_	VVINF	_	9	null	_	_
+10	?	?	_	$.	_	10	null	_	_
+
+1	Es	sie	_	PPER	person=3|case=nom|number=sg|gender=neut	1	null	_	_
+2	gab	geben	_	VVFIN	person=3|number=sg|tense=past|mood=ind	2	null	_	_
+3	Gerüchte	Gerücht	_	NN	case=acc|number=pl|gender=neut	3	null	_	_
+4	wegen	wegen	_	APPR	_	4	null	_	_
+5	der	_	_	ART	case=*|number=sg|gender=fem	5	null	_	_
+6	Stärke	_	_	NN	case=*|number=sg|gender=fem	6	null	_	_
+7	deiner	deine	_	PPOSAT	person=-|case=gen|number=sg	7	null	_	_
+8	Führung	Führung	_	NN	case=gen|number=sg|gender=fem	8	null	_	_
+9	.	.	_	$.	_	9	null	_	_
+
+1	Jetzt	jetzt	_	ADV	_	1	null	_	_
+2	werden	werden	_	VAFIN	person=3|number=pl|tense=pres|mood=ind	2	null	_	_
+3	diese	_	_	PDAT	person=-|case=acc|number=pl	3	null	_	_
+4	Gerüchte	Gerücht	_	NN	case=acc|number=pl|gender=neut	4	null	_	_
+5	aufhören	aufhören	_	VVINF	_	5	null	_	_
+6	.	.	_	$.	_	6	null	_	_
+
+1	Und	und	_	KON	_	1	null	_	_
+2	?	?	_	$.	_	2	null	_	_
+
+1	Wirst	werden	_	VAFIN	person=2|number=sg|tense=pres|mood=ind	1	null	_	_
+2	du	sie	_	PPER	person=2|case=nom|number=sg|gender=*	2	null	_	_
+3	es	sie	_	PPER	person=3|case=acc|number=sg|gender=neut	3	null	_	_
+4	so	so	_	ADV	_	4	null	_	_
+5	lassen	lassen	_	VVINF	_	5	null	_	_
+6	oder	oder	_	KON	_	6	null	_	_
+7	wirst	werden	_	VAFIN	person=2|number=sg|tense=pres|mood=ind	7	null	_	_
+8	du	sie	_	PPER	person=2|case=nom|number=sg|gender=*	8	null	_	_
+9	das	die	_	PDS	person=-|case=acc|number=sg	9	null	_	_
+10	in	in	_	APPR	_	10	null	_	_
+11	Ordnung	Ordnung	_	NN	case=acc|number=sg|gender=fem	11	null	_	_
+12	bringen	bringen	_	VVINF	_	12	null	_	_
+13	?	?	_	$.	_	13	null	_	_
+
+1	Bist	sein	_	VAFIN	person=2|number=sg|tense=pres|mood=ind	1	null	_	_
+2	du	sie	_	PPER	person=2|case=nom|number=sg|gender=*	2	null	_	_
+3	glücklich	glücklich	_	ADJD	degree=pos	3	null	_	_
+4	?	?	_	$.	_	4	null	_	_
+
+1	Ja	ja	_	PTKANT	_	1	null	_	_
+2	.	.	_	$.	_	2	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Es	sie	_	PPER	person=3|case=nom|number=sg|gender=neut	2	null	_	_
+3	ist	sein	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	3	null	_	_
+4	nett	nett	_	ADJD	degree=pos	4	null	_	_
+5	von	von	_	APPR	_	5	null	_	_
+6	dir	sie	_	PPER	person=2|case=dat|number=sg|gender=*	6	null	_	_
+7	,	,	_	$,	_	7	null	_	_
+8	dass	dass	_	KOUS	_	8	null	_	_
+9	du	sie	_	PPER	person=2|case=nom|number=sg|gender=*	9	null	_	_
+10	hilfst	helfen	_	VVFIN	person=2|number=sg|tense=pres|mood=ind	10	null	_	_
+11	.	.	_	$.	_	11	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Einmal	einmal	_	ADV	_	2	null	_	_
+3	ein	eine	_	ART	case=nom|number=sg|gender=masc	3	null	_	_
+4	Pfadfinder	Pfadfinder	_	NN	case=nom|number=sg|gender=masc	4	null	_	_
+5	,	,	_	$,	_	5	null	_	_
+6	immer	immer	_	ADV	_	6	null	_	_
+7	ein	eine	_	ART	case=nom|number=sg|gender=masc	7	null	_	_
+8	Pfadfinder	Pfadfinder	_	NN	case=nom|number=sg|gender=masc	8	null	_	_
+9	.	.	_	$.	_	9	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Du	sie	_	PPER	person=2|case=nom|number=sg|gender=*	2	null	_	_
+3	warst	sein	_	VAFIN	person=2|number=sg|tense=past|mood=ind	3	null	_	_
+4	nie	nie	_	ADV	_	4	null	_	_
+5	ein	eine	_	ART	case=nom|number=sg|gender=masc	5	null	_	_
+6	Pfandfinder	Pfandfinder	_	NN	case=nom|number=sg|gender=masc	6	null	_	_
+7	.	.	_	$.	_	7	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Offensichtlich	offensichtlich	_	ADJD	degree=pos	2	null	_	_
+3	habe	haben	_	VAFIN	person=1|number=sg|tense=pres|mood=ind	3	null	_	_
+4	ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	4	null	_	_
+5	mein	meine	_	PPOSAT	person=-|case=acc|number=sg	5	null	_	_
+6	...	_	_	$(	_	6	null	_	_
+
+1	Verdienstabzeichen	Verdienstabzeichen	_	NN	case=nom|number=sg|gender=neut	1	null	_	_
+2	für	für	_	APPR	_	2	null	_	_
+3	Biberfallen	Biberfalle	_	NN	case=acc|number=pl|gender=fem	3	null	_	_
+4	bekommen	bekommen	_	VVPP	_	4	null	_	_
+5	.	.	_	$.	_	5	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Konzentriere	konzentrieren	_	VVFIN	person=3|number=sg|tense=pres|mood=subj	2	null	_	_
+3	dich	sie	_	PPER	person=2|case=acc|number=sg|gender=*	3	null	_	_
+4	lieber	lieber	_	ADV	_	4	null	_	_
+5	da	da	_	ADV	_	5	null	_	_
+6	drauf	drauf	_	PTKVZ	_	6	null	_	_
+7	.	.	_	$.	_	7	null	_	_
+
+1	Kommt	kommen	_	VVIMP	person=2|number=pl	1	null	_	_
+2	mit	mit	_	APPR	_	2	null	_	_
+3	mir	sie	_	PPER	person=1|case=dat|number=sg|gender=*	3	null	_	_
+4	.	.	_	$.	_	4	null	_	_
+
+1	Wisst	wissen	_	VVFIN	person=2|number=pl|tense=pres|mood=ind	1	null	_	_
+2	ihr	sie	_	PPER	person=2|case=nom|number=pl|gender=*	2	null	_	_
+3	,	,	_	$,	_	3	null	_	_
+4	wie	wie	_	PWAV	_	4	null	_	_
+5	wertvoll	wertvoll	_	ADJD	degree=pos	5	null	_	_
+6	diese	_	_	PDAT	person=-|case=nom|number=pl	6	null	_	_
+7	Mohnblumen	Mohnblume	_	NN	case=nom|number=pl|gender=fem	7	null	_	_
+8	waren	sein	_	VAFIN	person=3|number=pl|tense=past|mood=ind	8	null	_	_
+9	?	?	_	$.	_	9	null	_	_
+
+1	In	in	_	APPR	_	1	null	_	_
+2	Rauch	Rauch	_	NN	case=dat|number=sg|gender=masc	2	null	_	_
+3	aufgegangen	aufgehen	_	VVPP	_	3	null	_	_
+4	.	.	_	$.	_	4	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Was	was	_	PWS	person=-|case=nom|number=sg	2	null	_	_
+3	?	?	_	$.	_	3	null	_	_
+
+1	Hat	haben	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	1	null	_	_
+2	sie	sie	_	PPER	person=3|case=nom|number=sg|gender=fem	2	null	_	_
+3	jemand	_	_	PIS	person=-|case=nom|number=sg	3	null	_	_
+4	angezündet	anzünden	_	VVPP	_	4	null	_	_
+5	?	?	_	$.	_	5	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Ja	ja	_	PTKANT	_	2	null	_	_
+3	.	.	_	$.	_	3	null	_	_
+
+1	Betrunkene	betrunken	_	ADJA	degree=pos|case=nom|number=sg|gender=fem	1	null	_	_
+2	irische	irisch	_	ADJA	degree=pos|case=nom|number=sg|gender=fem	2	null	_	_
+3	Familie	Familie	_	NN	case=nom|number=sg|gender=fem	3	null	_	_
+4	,	,	_	$,	_	4	null	_	_
+5	die	die	_	ART	case=acc|number=sg|gender=fem	5	null	_	_
+6	Straße	Straße	_	NN	case=acc|number=sg|gender=fem	6	null	_	_
+7	hoch	hoch	_	PTKVZ	_	7	null	_	_
+8	.	.	_	$.	_	8	null	_	_
+
+1	Die	die	_	ART	case=nom|number=pl|gender=masc	1	null	_	_
+2	O'Hallorans	_	_	NN	case=nom|number=pl|gender=masc	2	null	_	_
+3	.	.	_	$.	_	3	null	_	_
+
+1	Warum	warum	_	PWAV	_	1	null	_	_
+2	?	?	_	$.	_	2	null	_	_
+
+1	Was	was	_	PWS	person=-|case=nom|number=sg	1	null	_	_
+2	hast	haben	_	VAFIN	person=2|number=sg|tense=pres|mood=ind	2	null	_	_
+3	du	sie	_	PPER	person=2|case=nom|number=sg|gender=*	3	null	_	_
+4	getan	tun	_	VVPP	_	4	null	_	_
+5	,	,	_	$,	_	5	null	_	_
+6	um	um	_	KOUI	_	6	null	_	_
+7	sie	sie	_	PPER	person=3|case=acc|number=pl|gender=*	7	null	_	_
+8	zu	zu	_	PTKZU	_	8	null	_	_
+9	verärgern	verärgern	_	VVINF	_	9	null	_	_
+10	?	?	_	$.	_	10	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Arbeitet	arbeiten	_	VVFIN	person=3|number=sg|tense=pres|mood=ind	2	null	_	_
+3	sie	sie	_	PPER	person=3|case=nom|number=sg|gender=fem	3	null	_	_
+4	nicht	nicht	_	PTKNEG	_	4	null	_	_
+5	für	für	_	APPR	_	5	null	_	_
+6	dich	sie	_	PPER	person=2|case=acc|number=sg|gender=*	6	null	_	_
+7	,	,	_	$,	_	7	null	_	_
+8	Vince	Vince	_	NE	case=acc|number=sg|gender=*	8	null	_	_
+9	?	?	_	$.	_	9	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Ja	ja	_	PTKANT	_	2	null	_	_
+3	,	,	_	$,	_	3	null	_	_
+4	allerdings	allerdings	_	ADV	_	4	null	_	_
+5	.	.	_	$.	_	5	null	_	_
+
+1	Und	und	_	KON	_	1	null	_	_
+2	bei	bei	_	APPR	_	2	null	_	_
+3	E	E	_	NN	case=dat|number=sg|gender=neut	3	null	_	_
+4	einfach	einfach	_	ADV	_	4	null	_	_
+5	den	die	_	ART	case=acc|number=sg|gender=masc	5	null	_	_
+6	Hörer	Hörer	_	NN	case=acc|number=sg|gender=masc	6	null	_	_
+7	aufzulegen	auflegen	_	VVIZU	_	7	null	_	_
+8	,	,	_	$,	_	8	null	_	_
+9	muss	müssen	_	VMFIN	person=3|number=sg|tense=pres|mood=ind	9	null	_	_
+10	ziemlich	ziemlich	_	ADV	_	10	null	_	_
+11	entmannend	_	_	ADJD	degree=pos	11	null	_	_
+12	gewesen	sein	_	VAPP	_	12	null	_	_
+13	sein	sein	_	VAINF	_	13	null	_	_
+14	?	?	_	$.	_	14	null	_	_
+
+1	Fühlte	fühlen	_	VVFIN	person=3|number=sg|tense=past|mood=ind	1	null	_	_
+2	sich	sie	_	PRF	person=3|case=acc|number=sg	2	null	_	_
+3	an	an	_	PTKVZ	_	3	null	_	_
+4	,	,	_	$,	_	4	null	_	_
+5	wie	wie	_	KOUS	_	5	null	_	_
+6	zum	zu	_	APPRART	case=dat|number=sg|gender=masc	6	null	_	_
+7	Direktor	Direktor	_	NN	case=dat|number=sg|gender=masc	7	null	_	_
+8	Reeve	_	_	NE	case=nom|number=sg|gender=*	8	null	_	_
+9	ins	in	_	APPRART	case=acc|number=sg|gender=neut	9	null	_	_
+10	Büro	Büro	_	NN	case=acc|number=sg|gender=neut	10	null	_	_
+11	gerufen	rufen	_	VVPP	_	11	null	_	_
+12	zu	zu	_	PTKZU	_	12	null	_	_
+13	werden	werden	_	VAINF	_	13	null	_	_
+14	.	.	_	$.	_	14	null	_	_
+
+1	Genauso	genauso	_	ADV	_	1	null	_	_
+2	wie	wie	_	KOUS	_	2	null	_	_
+3	er	sie	_	PPER	person=3|case=nom|number=sg|gender=masc	3	null	_	_
+4	,	,	_	$,	_	4	null	_	_
+5	werde	werden	_	VAFIN	person=1|number=sg|tense=pres|mood=ind	5	null	_	_
+6	ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	6	null	_	_
+7	ihr	sie	_	PPER	person=3|case=dat|number=sg|gender=fem	7	null	_	_
+8	sagen	sagen	_	VVINF	_	8	null	_	_
+9	,	,	_	$,	_	9	null	_	_
+10	wie	wie	_	PWAV	_	10	null	_	_
+11	es	sie	_	PPER	person=3|case=nom|number=sg|gender=neut	11	null	_	_
+12	ist	sein	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	12	null	_	_
+13	.	.	_	$.	_	13	null	_	_
+
+1	Mach	machen	_	VVIMP	person=2|number=sg	1	null	_	_
+2	das	die	_	PDS	person=-|case=nom|number=sg	2	null	_	_
+3	bitte	bitte	_	ADV	_	3	null	_	_
+4	,	,	_	$,	_	4	null	_	_
+5	denn	denn	_	KON	_	5	null	_	_
+6	ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	6	null	_	_
+7	mag	mögen	_	VMFIN	person=1|number=sg|tense=pres|mood=ind	7	null	_	_
+8	ihr	sie	_	PPER	person=3|case=dat|number=sg|gender=fem	8	null	_	_
+9	nicht	nicht	_	PTKNEG	_	9	null	_	_
+10	aus	aus	_	APPR	_	10	null	_	_
+11	dem	die	_	ART	case=dat|number=sg|gender=masc	11	null	_	_
+12	Weg	Weg	_	NN	case=dat|number=sg|gender=masc	12	null	_	_
+13	gehen	gehen	_	VVINF	_	13	null	_	_
+14	.	.	_	$.	_	14	null	_	_
+
+1	Nein	nein	_	PTKANT	_	1	null	_	_
+2	,	,	_	$,	_	2	null	_	_
+3	nein	nein	_	PTKANT	_	3	null	_	_
+4	.	.	_	$.	_	4	null	_	_
+
+1	Kein	keine	_	PIAT	person=-|case=nom|number=sg	1	null	_	_
+2	weiteres	weit	_	ADJA	degree=comp|case=nom|number=sg|gender=neut	2	null	_	_
+3	Ausweichen	Ausweichen	_	NN	case=nom|number=sg|gender=neut	3	null	_	_
+4	.	.	_	$.	_	4	null	_	_
+
+1	Wir	sie	_	PPER	person=1|case=nom|number=pl|gender=*	1	null	_	_
+2	werden	werden	_	VAFIN	person=1|number=pl|tense=pres|mood=ind	2	null	_	_
+3	ihr	sie	_	PPER	person=3|case=dat|number=sg|gender=fem	3	null	_	_
+4	sagen	sagen	_	VVINF	_	4	null	_	_
+5	,	,	_	$,	_	5	null	_	_
+6	wir	sie	_	PPER	person=1|case=nom|number=pl|gender=*	6	null	_	_
+7	machen	machen	_	VVFIN	person=1|number=pl|tense=pres|mood=ind	7	null	_	_
+8	keinen	keine	_	PIAT	person=-|case=acc|number=sg	8	null	_	_
+9	Film	Film	_	NN	case=acc|number=sg|gender=masc	9	null	_	_
+10	über	über	_	APPR	_	10	null	_	_
+11	irgendwas	irgendwas	_	PIS	person=-|case=*|number=*	11	null	_	_
+12	,	,	_	$,	_	12	null	_	_
+13	bis	bis	_	KOUS	_	13	null	_	_
+14	die	die	_	ART	case=nom|number=pl|gender=fem	14	null	_	_
+15	Kameras	Kamera	_	NN	case=nom|number=pl|gender=fem	15	null	_	_
+16	tatsächlich	tatsächlich	_	ADJD	degree=pos	16	null	_	_
+17	für	für	_	APPR	_	17	null	_	_
+18	"	"	_	$(	_	18	null	_	_
+19	Medellin	Medellin	_	NE	case=acc|number=sg|gender=neut	19	null	_	_
+20	"	"	_	$(	_	20	null	_	_
+21	anlaufen	anlaufen	_	VVINF	_	21	null	_	_
+22	.	.	_	$.	_	22	null	_	_
+
+1	Sie	sie	_	PPER	person=3|case=nom|number=sg|gender=fem	1	null	_	_
+2	wird	werden	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	2	null	_	_
+3	angepisst	gepisst	_	ADJD	degree=pos	3	null	_	_
+4	sein	sein	_	VAINF	_	4	null	_	_
+5	,	,	_	$,	_	5	null	_	_
+6	wenn	wenn	_	KOUS	_	6	null	_	_
+7	sie	sie	_	PPER	person=3|case=nom|number=sg|gender=fem	7	null	_	_
+8	denkt	denken	_	VVFIN	person=3|number=sg|tense=pres|mood=ind	8	null	_	_
+9	,	,	_	$,	_	9	null	_	_
+10	du	sie	_	PPER	person=2|case=nom|number=sg|gender=*	10	null	_	_
+11	nimmst	nehmen	_	VVFIN	person=2|number=sg|tense=pres|mood=ind	11	null	_	_
+12	Ari	Ari	_	NE	case=acc|number=sg|gender=masc	12	null	_	_
+13	ernst	ernst	_	PTKVZ	_	13	null	_	_
+14	.	.	_	$.	_	14	null	_	_
+
+1	Anpassung	Anpassung	_	NN	case=nom|number=sg|gender=fem	1	null	_	_
+2	von	von	_	APPR	_	2	null	_	_
+3	Movie	Movie	_	NN	case=dat|number=sg|gender=neut	3	null	_	_
+
+1	Er	sie	_	PPER	person=3|case=nom|number=sg|gender=masc	1	null	_	_
+2	sieht	sehen	_	VVFIN	person=3|number=sg|tense=pres|mood=ind	2	null	_	_
+3	wie	wie	_	KOUS	_	3	null	_	_
+4	Frankenstein	Frankenstein	_	NN	case=acc|number=sg|gender=masc	4	null	_	_
+5	aus	aus	_	PTKVZ	_	5	null	_	_
+6	.	.	_	$.	_	6	null	_	_
+
+1	Immerhin	immerhin	_	ADV	_	1	null	_	_
+2	läuft	laufen	_	VVFIN	person=3|number=sg|tense=pres|mood=ind	2	null	_	_
+3	er	sie	_	PPER	person=3|case=nom|number=sg|gender=masc	3	null	_	_
+4	ohne	ohne	_	APPR	_	4	null	_	_
+5	Krücken	Krücke	_	NN	case=acc|number=pl|gender=fem	5	null	_	_
+6	.	.	_	$.	_	6	null	_	_
+
+1	Ja	ja	_	PTKANT	_	1	null	_	_
+2	,	,	_	$,	_	2	null	_	_
+3	ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	3	null	_	_
+4	dachte	denken	_	VVFIN	person=1|number=sg|tense=past|mood=ind	4	null	_	_
+5	,	,	_	$,	_	5	null	_	_
+6	er	sie	_	PPER	person=3|case=nom|number=sg|gender=masc	6	null	_	_
+7	wäre	sein	_	VAFIN	person=3|number=sg|tense=past|mood=subj	7	null	_	_
+8	glücklicher	glücklich	_	ADJD	degree=comp	8	null	_	_
+9	darüber	darüber	_	PROP	_	9	null	_	_
+10	.	.	_	$.	_	10	null	_	_
+
+1	Ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	1	null	_	_
+2	bin	sein	_	VAFIN	person=1|number=sg|tense=pres|mood=ind	2	null	_	_
+3	glücklicher	glücklich	_	ADJD	degree=comp	3	null	_	_
+4	darüber	darüber	_	PROP	_	4	null	_	_
+5	.	.	_	$.	_	5	null	_	_
+
+1	Wie	wie	_	PWAV	_	1	null	_	_
+2	geht	gehen	_	VVFIN	person=3|number=sg|tense=pres|mood=ind	2	null	_	_
+3	es	sie	_	PPER	person=3|case=nom|number=sg|gender=neut	3	null	_	_
+4	dir	sie	_	PPER	person=2|case=dat|number=sg|gender=*	4	null	_	_
+5	,	,	_	$,	_	5	null	_	_
+6	Maggie	Maggie	_	NE	case=nom|number=sg|gender=fem	6	null	_	_
+7	?	?	_	$.	_	7	null	_	_
+
+1	Langer	lang	_	ADJA	degree=pos|case=nom|number=sg|gender=masc	1	null	_	_
+2	Tag	Tag	_	NN	case=nom|number=sg|gender=masc	2	null	_	_
+3	.	.	_	$.	_	3	null	_	_
+
+1	Sieht	sehen	_	VVFIN	person=3|number=sg|tense=pres|mood=ind	1	null	_	_
+2	so	so	_	ADV	_	2	null	_	_
+3	aus	aus	_	PTKVZ	_	3	null	_	_
+4	,	,	_	$,	_	4	null	_	_
+5	als	als	_	KOUS	_	5	null	_	_
+6	fängt	fangen	_	VVFIN	person=3|number=sg|tense=pres|mood=ind	6	null	_	_
+7	mein	meine	_	PPOSAT	person=-|case=nom|number=sg	7	null	_	_
+8	Tag	Tag	_	NN	case=nom|number=sg|gender=masc	8	null	_	_
+9	gerade	gerade	_	ADV	_	9	null	_	_
+10	an	an	_	PTKVZ	_	10	null	_	_
+11	.	.	_	$.	_	11	null	_	_
+
+1	Hal	_	_	NE	case=nom|number=sg|gender=neut	1	null	_	_
+2	.	.	_	$.	_	2	null	_	_
+
+1	Was	was	_	PWS	person=-|case=acc|number=sg	1	null	_	_
+2	ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	2	null	_	_
+3	sage	sagen	_	VVFIN	person=1|number=sg|tense=pres|mood=ind	3	null	_	_
+4	ist	sein	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	4	null	_	_
+5	,	,	_	$,	_	5	null	_	_
+6	mit	mit	_	APPR	_	6	null	_	_
+7	dem	die	_	ART	case=dat|number=sg|gender=neut	7	null	_	_
+8	Militär	Militär	_	NN	case=dat|number=sg|gender=neut	8	null	_	_
+9	ausgenommen	nehmen	_	VVPP	_	9	null	_	_
+10	sind	sein	_	VAFIN	person=3|number=pl|tense=pres|mood=ind	10	null	_	_
+11	es	sie	_	PPER	person=3|case=nom|number=sg|gender=neut	11	null	_	_
+12	vielleicht	vielleicht	_	ADV	_	12	null	_	_
+13	vier	vier	_	CARD	_	13	null	_	_
+14	Leute	Leute	_	NN	case=nom|number=pl|gender=*	14	null	_	_
+15	,	,	_	$,	_	15	null	_	_
+16	die	_	_	PRELS	person=-|case=nom|number=pl	16	null	_	_
+17	genau	genau	_	ADJD	degree=pos	17	null	_	_
+18	wissen	wissen	_	VVFIN	person=3|number=pl|tense=pres|mood=ind	18	null	_	_
+19	,	,	_	$,	_	19	null	_	_
+20	wie	wie	_	PWAV	_	20	null	_	_
+21	dieser	diese	_	PDAT	person=-|case=nom|number=sg	21	null	_	_
+22	Ort	Ort	_	NN	case=nom|number=sg|gender=masc	22	null	_	_
+23	funktioniert	funktionieren	_	VVFIN	person=3|number=sg|tense=pres|mood=ind	23	null	_	_
+24	.	.	_	$.	_	24	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Die	die	_	ART	case=nom|number=sg|gender=fem	2	null	_	_
+3	Vaginoplastie	_	_	NN	case=nom|number=sg|gender=fem	3	null	_	_
+4	.	.	_	$.	_	4	null	_	_
+
+1	Wird	werden	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	1	null	_	_
+2	die	die	_	ART	case=nom|number=sg|gender=fem	2	null	_	_
+3	Vaginoplastie	_	_	NN	case=nom|number=sg|gender=fem	3	null	_	_
+4	separat	separat	_	ADJD	degree=pos	4	null	_	_
+5	gemacht	machen	_	VVPP	_	5	null	_	_
+6	?	?	_	$.	_	6	null	_	_
+
+1	Genau	genau	_	ADJD	degree=pos	1	null	_	_
+2	.	.	_	$.	_	2	null	_	_
+
+1	Das	die	_	PDS	person=-|case=nom|number=sg	1	null	_	_
+2	wird	werden	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	2	null	_	_
+3	einzeln	einzeln	_	ADJD	degree=pos	3	null	_	_
+4	gemacht	machen	_	VVPP	_	4	null	_	_
+5	.	.	_	$.	_	5	null	_	_
+
+1	Ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	1	null	_	_
+2	möchte	mögen	_	VMFIN	person=1|number=sg|tense=past|mood=subj	2	null	_	_
+3	nicht	nicht	_	PTKNEG	_	3	null	_	_
+4	mehr	mehr	_	PIS	person=-|case=*|number=*	4	null	_	_
+5	als	als	_	KOUS	_	5	null	_	_
+6	nötig	nötig	_	ADJD	degree=pos	6	null	_	_
+7	unter	unter	_	APPR	_	7	null	_	_
+8	Narkose	Narkose	_	NN	case=acc|number=sg|gender=fem	8	null	_	_
+9	gesetzt	setzen	_	VVPP	_	9	null	_	_
+10	werden	werden	_	VAINF	_	10	null	_	_
+11	.	.	_	$.	_	11	null	_	_
+
+1	Ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	1	null	_	_
+2	bekomme	bekommen	_	VVFIN	person=1|number=sg|tense=pres|mood=ind	2	null	_	_
+3	eine	eine	_	ART	case=acc|number=sg|gender=fem	3	null	_	_
+4	Narkose	Narkose	_	NN	case=acc|number=sg|gender=fem	4	null	_	_
+5	,	,	_	$,	_	5	null	_	_
+6	und	und	_	KON	_	6	null	_	_
+7	dann	dann	_	ADV	_	7	null	_	_
+8	noch	noch	_	ADV	_	8	null	_	_
+9	eine	eine	_	PIS	person=-|case=nom|number=sg	9	null	_	_
+10	?	?	_	$.	_	10	null	_	_
+
+1	Es	sie	_	PPER	person=3|case=nom|number=sg|gender=neut	1	null	_	_
+2	ist	sein	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	2	null	_	_
+3	ein	eine	_	ART	case=nom|number=sg|gender=masc	3	null	_	_
+4	schwerer	schwer	_	ADJA	degree=pos|case=nom|number=sg|gender=masc	4	null	_	_
+5	Eingriff	Eingriff	_	NN	case=nom|number=sg|gender=masc	5	null	_	_
+6	mit	mit	_	APPR	_	6	null	_	_
+7	einer	eine	_	ART	case=dat|number=sg|gender=fem	7	null	_	_
+8	langen	lang	_	ADJA	degree=pos|case=dat|number=sg|gender=fem	8	null	_	_
+9	Rekonvaleszenz	Rekonvaleszenz	_	NN	case=dat|number=sg|gender=fem	9	null	_	_
+10	.	.	_	$.	_	10	null	_	_
+
+1	Außerdem	außerdem	_	PROP	_	1	null	_	_
+2	brauchen	brauchen	_	VVFIN	person=1|number=pl|tense=pres|mood=ind	2	null	_	_
+3	wir	sie	_	PPER	person=1|case=nom|number=pl|gender=*	3	null	_	_
+4	dafür	dafür	_	PROP	_	4	null	_	_
+5	einen	eine	_	ART	case=acc|number=sg|gender=masc	5	null	_	_
+6	Spezialisten	Spezialist	_	NN	case=acc|number=sg|gender=masc	6	null	_	_
+7	.	.	_	$.	_	7	null	_	_
+
+1	Aufregend	aufregend	_	ADJD	degree=pos	1	null	_	_
+2	.	.	_	$.	_	2	null	_	_
+
+1	Ja	ja	_	PTKANT	_	1	null	_	_
+2	,	,	_	$,	_	2	null	_	_
+3	das	die	_	PDS	person=-|case=nom|number=sg	3	null	_	_
+4	ist	sein	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	4	null	_	_
+5	es	sie	_	PPER	person=3|case=nom|number=sg|gender=neut	5	null	_	_
+6	in	in	_	APPR	_	6	null	_	_
+7	der	die	_	ART	case=dat|number=sg|gender=fem	7	null	_	_
+8	Tat	Tat	_	NN	case=dat|number=sg|gender=fem	8	null	_	_
+9	.	.	_	$.	_	9	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Oh	oh	_	ITJ	_	2	null	_	_
+3	Gott	Gott	_	NN	case=nom|number=sg|gender=masc	3	null	_	_
+4	.	.	_	$.	_	4	null	_	_
+
+1	Das	die	_	PDS	person=-|case=nom|number=sg	1	null	_	_
+2	reicht	reichen	_	VVFIN	person=3|number=sg|tense=pres|mood=ind	2	null	_	_
+3	,	,	_	$,	_	3	null	_	_
+4	Dad	Dad	_	NN	case=acc|number=sg|gender=masc	4	null	_	_
+5	!	!	_	$.	_	5	null	_	_
+
+1	Weißt	weißen|wissen	_	VVFIN	person=2|number=sg|tense=pres|mood=ind	1	null	_	_
+2	du	sie	_	PPER	person=2|case=nom|number=sg|gender=*	2	null	_	_
+3	,	,	_	$,	_	3	null	_	_
+4	wovon	wovon	_	PWAV	_	4	null	_	_
+5	ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	5	null	_	_
+6	rede	reden	_	VVFIN	person=1|number=sg|tense=pres|mood=ind	6	null	_	_
+7	?	?	_	$.	_	7	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Verstehst	verstehen	_	VVFIN	person=2|number=sg|tense=pres|mood=ind	2	null	_	_
+3	du	sie	_	PPER	person=2|case=nom|number=sg|gender=*	3	null	_	_
+4	mich	sie	_	PPER	person=1|case=acc|number=sg|gender=*	4	null	_	_
+5	?	?	_	$.	_	5	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Dad	Dad	_	NN	case=nom|number=sg|gender=masc	2	null	_	_
+3	,	,	_	$,	_	3	null	_	_
+4	das	die	_	PDS	person=-|case=nom|number=sg	4	null	_	_
+5	reicht	reichen	_	VVFIN	person=3|number=sg|tense=pres|mood=ind	5	null	_	_
+6	!	!	_	$.	_	6	null	_	_
+
+1	Ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	1	null	_	_
+2	gehe	gehen	_	VVFIN	person=1|number=sg|tense=pres|mood=ind	2	null	_	_
+3	,	,	_	$,	_	3	null	_	_
+4	ok	_	_	ADJD	degree=pos	4	null	_	_
+5	.	.	_	$.	_	5	null	_	_
+
+1	Ok	_	_	NE	case=nom|number=sg|gender=neut	1	null	_	_
+2	.	.	_	$.	_	2	null	_	_
+
+1	Gut	gut	_	ADJD	degree=pos	1	null	_	_
+2	.	.	_	$.	_	2	null	_	_
+
+1	Warte	Wart	_	NN	case=nom|number=pl|gender=masc	1	null	_	_
+2	...	_	_	$(	_	2	null	_	_
+
+1	Ja	ja	_	PTKANT	_	1	null	_	_
+2	,	,	_	$,	_	2	null	_	_
+3	die	die	_	ART	case=nom|number=sg|gender=fem	3	null	_	_
+4	DVD	DVD	_	NN	case=nom|number=sg|gender=fem	4	null	_	_
+5	.	.	_	$.	_	5	null	_	_
+
+1	Okay	Okay	_	NN	case=nom|number=sg|gender=neut	1	null	_	_
+2	,	,	_	$,	_	2	null	_	_
+3	ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	3	null	_	_
+4	sehe	sehen	_	VVFIN	person=1|number=sg|tense=pres|mood=ind	4	null	_	_
+5	mal	mal	_	ADV	_	5	null	_	_
+6	nach	nach	_	PTKVZ	_	6	null	_	_
+7	,	,	_	$,	_	7	null	_	_
+8	ob	ob	_	KOUS	_	8	null	_	_
+9	wir	sie	_	PPER	person=1|case=nom|number=pl|gender=*	9	null	_	_
+10	noch	noch	_	ADV	_	10	null	_	_
+11	gefrorene	gefroren	_	ADJA	degree=pos|case=acc|number=sg|gender=fem	11	null	_	_
+12	Soja-Pizza	Soja-Pizza	_	NN	case=acc|number=sg|gender=fem	12	null	_	_
+13	haben	haben	_	VAFIN	person=1|number=pl|tense=pres|mood=ind	13	null	_	_
+14	.	.	_	$.	_	14	null	_	_
+
+1	Ausweise	Ausweis	_	NN	case=nom|number=pl|gender=masc	1	null	_	_
+2	.	.	_	$.	_	2	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Hi	_	_	NE	case=nom|number=sg|gender=neut	2	null	_	_
+3	.	.	_	$.	_	3	null	_	_
+
+1	Echt	echt	_	ADJD	degree=pos	1	null	_	_
+2	jetzt	jetzt	_	ADV	_	2	null	_	_
+3	?	?	_	$.	_	3	null	_	_
+
+1	Ja	ja	_	PTKANT	_	1	null	_	_
+2	,	,	_	$,	_	2	null	_	_
+3	Baby	_	_	FM	_	3	null	_	_
+4	,	,	_	$,	_	4	null	_	_
+5	man	man	_	PIS	person=-|case=nom|number=sg	5	null	_	_
+6	kann	können	_	VMFIN	person=3|number=sg|tense=pres|mood=ind	6	null	_	_
+7	euer	eure	_	PPOSAT	person=-|case=acc|number=sg	7	null	_	_
+8	Alter	Alter	_	NN	case=acc|number=sg|gender=neut	8	null	_	_
+9	kaum	kaum	_	ADV	_	9	null	_	_
+10	noch	noch	_	ADV	_	10	null	_	_
+11	schätzen	schätzen	_	VVINF	_	11	null	_	_
+12	,	,	_	$,	_	12	null	_	_
+13	wisst	wissen	_	VVFIN	person=2|number=pl|tense=pres|mood=ind	13	null	_	_
+14	ihr	sie	_	PPER	person=2|case=nom|number=pl|gender=*	14	null	_	_
+15	.	.	_	$.	_	15	null	_	_
+
+1	Ja	ja	_	PTKANT	_	1	null	_	_
+2	,	,	_	$,	_	2	null	_	_
+3	bitte	bitte	_	ADV	_	3	null	_	_
+4	.	.	_	$.	_	4	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Der	die	_	ART	case=nom|number=sg|gender=masc	2	null	_	_
+3	Abend	Abend	_	NN	case=nom|number=sg|gender=masc	3	null	_	_
+4	gefällt	gefallen	_	VVFIN	person=3|number=sg|tense=pres|mood=ind	4	null	_	_
+5	mir	sie	_	PPER	person=1|case=dat|number=sg|gender=*	5	null	_	_
+6	jetzt	jetzt	_	ADV	_	6	null	_	_
+7	schon	schon	_	ADV	_	7	null	_	_
+8	.	.	_	$.	_	8	null	_	_
+
+1	Rachel	Rachel	_	NE	case=nom|number=sg|gender=fem	1	null	_	_
+2	?	?	_	$.	_	2	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Ja	ja	_	PTKANT	_	2	null	_	_
+3	,	,	_	$,	_	3	null	_	_
+4	das	die	_	PDS	person=-|case=acc|number=sg	4	null	_	_
+5	bin	sein	_	VAFIN	person=1|number=sg|tense=pres|mood=ind	5	null	_	_
+6	ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	6	null	_	_
+7	.	.	_	$.	_	7	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Vielen	viele	_	PIAT	person=-|case=acc|number=sg	2	null	_	_
+3	Dank	Dank	_	NN	case=acc|number=sg|gender=masc	3	null	_	_
+4	.	.	_	$.	_	4	null	_	_
+
+1	Es	sie	_	PPER	person=3|case=nom|number=sg|gender=neut	1	null	_	_
+2	gefällt	gefallen	_	VVFIN	person=3|number=sg|tense=pres|mood=ind	2	null	_	_
+3	mir	sie	_	PPER	person=1|case=dat|number=sg|gender=*	3	null	_	_
+4	viel	viel	_	ADV	_	4	null	_	_
+5	besser	gut	_	ADJD	degree=comp	5	null	_	_
+6	,	,	_	$,	_	6	null	_	_
+7	wenn	wenn	_	KOUS	_	7	null	_	_
+8	wir	sie	_	PPER	person=1|case=nom|number=pl|gender=*	8	null	_	_
+9	einer	eine	_	ART	case=dat|number=sg|gender=fem	9	null	_	_
+10	Meinung	Meinung	_	NN	case=dat|number=sg|gender=fem	10	null	_	_
+11	sind	sein	_	VAFIN	person=1|number=pl|tense=pres|mood=ind	11	null	_	_
+12	.	.	_	$.	_	12	null	_	_
+
+1	Ihnen	sie	_	PPER	person=3|case=dat|number=pl|gender=*	1	null	_	_
+2	nicht	nicht	_	PTKNEG	_	2	null	_	_
+3	?	?	_	$.	_	3	null	_	_
+
+1	Der	die	_	ART	case=nom|number=sg|gender=masc	1	null	_	_
+2	Text	Text	_	NN	case=nom|number=sg|gender=masc	2	null	_	_
+3	des	die	_	ART	case=gen|number=sg|gender=masc	3	null	_	_
+4	Kosst	_	_	NE	case=*|number=*|gender=*	4	null	_	_
+5	Amojan	_	_	NE	case=*|number=*|gender=*	5	null	_	_
+6	,	,	_	$,	_	6	null	_	_
+7	wie	wie	_	PWAV	_	7	null	_	_
+8	Sie	sie	_	PPER	person=3|case=nom|number=pl|gender=*	8	null	_	_
+9	wünschten	wünschen	_	VVFIN	person=3|number=pl|tense=past|mood=ind	9	null	_	_
+10	.	.	_	$.	_	10	null	_	_
+
+1	Sehr	sehr	_	ADV	_	1	null	_	_
+2	gut	gut	_	ADJD	degree=pos	2	null	_	_
+3	.	.	_	$.	_	3	null	_	_
+
+1	Also	_	_	PTKANT	_	1	null	_	_
+2	?	?	_	$.	_	2	null	_	_
+
+1	Legen	legen	_	VVFIN	person=3|number=pl|tense=pres|mood=ind	1	null	_	_
+2	Sie	sie	_	PPER	person=3|case=nom|number=pl|gender=*	2	null	_	_
+3	ihn	sie	_	PPER	person=3|case=acc|number=sg|gender=masc	3	null	_	_
+4	auf	auf	_	APPR	_	4	null	_	_
+5	meinen	meine	_	PPOSAT	person=-|case=acc|number=sg	5	null	_	_
+6	Schreibtisch	Schreibtisch	_	NN	case=acc|number=sg|gender=masc	6	null	_	_
+7	.	.	_	$.	_	7	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Eminenz	Eminenz	_	NN	case=nom|number=sg|gender=fem	2	null	_	_
+3	,	,	_	$,	_	3	null	_	_
+4	darf	dürfen	_	VMFIN	person=1|number=sg|tense=pres|mood=ind	4	null	_	_
+5	ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	5	null	_	_
+6	offen	offen	_	ADJD	degree=pos	6	null	_	_
+7	sprechen	sprechen	_	VVINF	_	7	null	_	_
+8	?	?	_	$.	_	8	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Wenn	wenn	_	KOUS	_	2	null	_	_
+3	es	sie	_	PPER	person=3|case=nom|number=sg|gender=neut	3	null	_	_
+4	sein	sein	_	VAINF	_	4	null	_	_
+5	muss	müssen	_	VMFIN	person=3|number=sg|tense=pres|mood=ind	5	null	_	_
+6	.	.	_	$.	_	6	null	_	_
+
+1	Dieses	diese	_	PDAT	person=-|case=nom|number=sg	1	null	_	_
+2	Buch	Buch	_	NN	case=nom|number=sg|gender=neut	2	null	_	_
+3	wurde	werden	_	VAFIN	person=3|number=sg|tense=past|mood=ind	3	null	_	_
+4	seit	seit	_	APPR	_	4	null	_	_
+5	700	<card>	_	CARD	_	5	null	_	_
+6	Jahren	Jahr	_	NN	case=dat|number=pl|gender=neut	6	null	_	_
+7	nicht	nicht	_	PTKNEG	_	7	null	_	_
+8	mehr	mehr	_	ADV	_	8	null	_	_
+9	aus	aus	_	APPR	_	9	null	_	_
+10	den	die	_	ART	case=dat|number=pl|gender=neut	10	null	_	_
+11	Archiven	Archiv	_	NN	case=dat|number=pl|gender=neut	11	null	_	_
+12	geholt	holen	_	VVPP	_	12	null	_	_
+13	.	.	_	$.	_	13	null	_	_
+
+1	Was	was	_	PWS	person=-|case=acc|number=sg	1	null	_	_
+2	wollen	wollen	_	VMFIN	person=3|number=pl|tense=pres|mood=ind	2	null	_	_
+3	Sie	sie	_	PPER	person=3|case=nom|number=pl|gender=*	3	null	_	_
+4	damit	damit	_	PROP	_	4	null	_	_
+5	sagen	sagen	_	VVINF	_	5	null	_	_
+6	?	?	_	$.	_	6	null	_	_
+
+1	Er	sie	_	PPER	person=3|case=nom|number=sg|gender=masc	1	null	_	_
+2	hat	haben	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	2	null	_	_
+3	dich	sie	_	PPER	person=2|case=acc|number=sg|gender=*	3	null	_	_
+4	gebraucht	brauchen|gebrauchen	_	VVPP	_	4	null	_	_
+5	,	,	_	$,	_	5	null	_	_
+6	und	und	_	KON	_	6	null	_	_
+7	du	sie	_	PPER	person=2|case=nom|number=sg|gender=*	7	null	_	_
+8	hast	haben	_	VAFIN	person=2|number=sg|tense=pres|mood=ind	8	null	_	_
+9	ihn	sie	_	PPER	person=3|case=acc|number=sg|gender=masc	9	null	_	_
+10	im	in	_	APPRART	case=dat|number=sg|gender=masc	10	null	_	_
+11	Stich	Stich	_	NN	case=dat|number=sg|gender=masc	11	null	_	_
+12	gelassen	lassen	_	VVPP	_	12	null	_	_
+13	.	.	_	$.	_	13	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Mom	Mom	_	NN	case=nom|number=sg|gender=fem	2	null	_	_
+3	,	,	_	$,	_	3	null	_	_
+4	Dad	Dad	_	NN	case=nom|number=sg|gender=masc	4	null	_	_
+5	,	,	_	$,	_	5	null	_	_
+6	helft	helfen	_	VVIMP	person=2|number=pl	6	null	_	_
+7	mir	sie	_	PPER	person=1|case=dat|number=sg|gender=*	7	null	_	_
+8	!	!	_	$.	_	8	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Schatz	Schatz	_	NN	case=nom|number=sg|gender=masc	2	null	_	_
+3	.	.	_	$.	_	3	null	_	_
+
+1	Eddie	Eddie	_	NE	case=nom|number=sg|gender=masc	1	null	_	_
+2	wollte	wollen	_	VMFIN	person=3|number=sg|tense=past|mood=ind	2	null	_	_
+3	den	die	_	ART	case=acc|number=sg|gender=masc	3	null	_	_
+4	Brand	Brand	_	NN	case=acc|number=sg|gender=masc	4	null	_	_
+5	in	in	_	APPR	_	5	null	_	_
+6	sich	sie	_	PRF	person=3|case=dat|number=sg	6	null	_	_
+7	löschen	löschen	_	VVINF	_	7	null	_	_
+8	,	,	_	$,	_	8	null	_	_
+9	indem	indem	_	KOUS	_	9	null	_	_
+10	er	sie	_	PPER	person=3|case=nom|number=sg|gender=masc	10	null	_	_
+11	in	in	_	APPR	_	11	null	_	_
+12	den	die	_	ART	case=acc|number=sg|gender=masc	12	null	_	_
+13	Fluss	Fluss	_	NN	case=acc|number=sg|gender=masc	13	null	_	_
+14	sprang	springen	_	VVFIN	person=3|number=sg|tense=past|mood=ind	14	null	_	_
+15	.	.	_	$.	_	15	null	_	_
+
+1	Siehst	sehen	_	VVFIN	person=2|number=sg|tense=pres|mood=ind	1	null	_	_
+2	du	sie	_	PPER	person=2|case=nom|number=sg|gender=*	2	null	_	_
+3	?	?	_	$.	_	3	null	_	_
+
+1	Es	sie	_	PPER	person=3|case=nom|number=sg|gender=neut	1	null	_	_
+2	ist	sein	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	2	null	_	_
+3	das	die	_	ART	case=nom|number=sg|gender=neut	3	null	_	_
+4	Beste	Beste	_	NN	case=nom|number=sg|gender=neut	4	null	_	_
+5	,	,	_	$,	_	5	null	_	_
+6	wenn	wenn	_	KOUS	_	6	null	_	_
+7	wir	sie	_	PPER	person=1|case=nom|number=pl|gender=*	7	null	_	_
+8	uns	sie	_	PRF	person=1|case=acc|number=pl	8	null	_	_
+9	in	in	_	APPR	_	9	null	_	_
+10	diesen	_	_	PDAT	person=-|case=dat|number=pl	10	null	_	_
+11	Dingen	Ding	_	NN	case=dat|number=pl|gender=neut	11	null	_	_
+12	nicht	nicht	_	PTKNEG	_	12	null	_	_
+13	einmischen	einmischen	_	VVINF	_	13	null	_	_
+14	.	.	_	$.	_	14	null	_	_
+
+1	Aber	aber	_	KON	_	1	null	_	_
+2	er	sie	_	PPER	person=3|case=nom|number=sg|gender=masc	2	null	_	_
+3	kann	können	_	VMFIN	person=3|number=sg|tense=pres|mood=ind	3	null	_	_
+4	nicht	nicht	_	PTKNEG	_	4	null	_	_
+5	schwimmen	schwimmen	_	VVINF	_	5	null	_	_
+6	.	.	_	$.	_	6	null	_	_
+
+1	Du	sie	_	PPER	person=2|case=nom|number=sg|gender=*	1	null	_	_
+2	hast	haben	_	VAFIN	person=2|number=sg|tense=pres|mood=ind	2	null	_	_
+3	es	sie	_	PPER	person=3|case=acc|number=sg|gender=neut	3	null	_	_
+4	ihm	sie	_	PPER	person=3|case=dat|number=sg|gender=masc	4	null	_	_
+5	nie	nie	_	ADV	_	5	null	_	_
+6	beigebracht	beibringen	_	VVPP	_	6	null	_	_
+7	.	.	_	$.	_	7	null	_	_
+
+1	Lass	lassen	_	VVIMP	person=2|number=sg	1	null	_	_
+2	ihn	sie	_	PPER	person=3|case=acc|number=sg|gender=masc	2	null	_	_
+3	das	die	_	PDS	person=-|case=nom|number=sg	3	null	_	_
+4	lernen	lernen	_	VVINF	_	4	null	_	_
+5	,	,	_	$,	_	5	null	_	_
+6	wie	wie	_	PWAV	_	6	null	_	_
+7	ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	7	null	_	_
+8	es	sie	_	PPER	person=3|case=acc|number=sg|gender=neut	8	null	_	_
+9	tat	tun	_	VVFIN	person=3|number=sg|tense=past|mood=ind	9	null	_	_
+10	:	:	_	$.	_	10	null	_	_
+11	auf	auf	_	APPR	_	11	null	_	_
+12	der	die	_	ART	case=dat|number=sg|gender=fem	12	null	_	_
+13	Straße	Straße	_	NN	case=dat|number=sg|gender=fem	13	null	_	_
+14	.	.	_	$.	_	14	null	_	_
+
+1	Nächste	nah	_	ADJA	degree=sup|case=acc|number=sg|gender=fem	1	null	_	_
+2	Woche	Woche	_	NN	case=acc|number=sg|gender=fem	2	null	_	_
+3	bei	bei	_	APPR	_	3	null	_	_
+4	Völlig	völlig	_	ADJD	degree=pos	4	null	_	_
+5	ineffektiver	ineffektiv	_	ADJA	degree=pos|case=nom|number=sg|gender=masc	5	null	_	_
+6	Dad	Dad	_	NN	case=nom|number=sg|gender=masc	6	null	_	_
+7	die	die	_	ART	case=nom|number=pl|gender=masc	7	null	_	_
+8	urkomische	urkomisch	_	ADJA	degree=pos|case=nom|number=pl|gender=masc	8	null	_	_
+9	Beerdigungsfolge	_	_	NN	case=nom|number=pl|gender=masc	9	null	_	_
+10	.	.	_	$.	_	10	null	_	_
+
+1	Ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	1	null	_	_
+2	finde	finden	_	VVFIN	person=1|number=sg|tense=pres|mood=ind	2	null	_	_
+3	,	,	_	$,	_	3	null	_	_
+4	man	man	_	PIS	person=-|case=nom|number=sg	4	null	_	_
+5	kann	können	_	VMFIN	person=3|number=sg|tense=pres|mood=ind	5	null	_	_
+6	über	über	_	ADV	_	6	null	_	_
+7	so	so	_	ADV	_	7	null	_	_
+8	persönliche	persönlich	_	ADJA	degree=pos|case=acc|number=pl|gender=neut	8	null	_	_
+9	Dinge	Ding	_	NN	case=acc|number=pl|gender=neut	9	null	_	_
+10	nur	nur	_	ADV	_	10	null	_	_
+11	sprechen	sprechen	_	VVINF	_	11	null	_	_
+12	,	,	_	$,	_	12	null	_	_
+13	wenn	wenn	_	KOUS	_	13	null	_	_
+14	der	die	_	ART	case=nom|number=sg|gender=masc	14	null	_	_
+15	andere	andere	_	PIS	person=-|case=nom|number=sg	15	null	_	_
+16	das	die	_	ART	case=acc|number=sg|gender=neut	16	null	_	_
+17	Verständnis	Verständnis	_	NN	case=acc|number=sg|gender=neut	17	null	_	_
+18	hat	haben	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	18	null	_	_
+19	.	.	_	$.	_	19	null	_	_
+
+1	Deshalb	deshalb	_	PROP	_	1	null	_	_
+2	schäme	schämen	_	VVFIN	person=1|number=sg|tense=pres|mood=ind	2	null	_	_
+3	ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	3	null	_	_
+4	mich	sie	_	PRF	person=1|case=acc|number=sg	4	null	_	_
+5	überhaupt	überhaupt	_	ADV	_	5	null	_	_
+6	nicht	nicht	_	PTKNEG	_	6	null	_	_
+7	,	,	_	$,	_	7	null	_	_
+8	Ihnen	sie	_	PPER	person=3|case=dat|number=pl|gender=*	8	null	_	_
+9	zu	zu	_	PTKZU	_	9	null	_	_
+10	sagen	sagen	_	VVINF	_	10	null	_	_
+11	:	:	_	$.	_	11	null	_	_
+12	Ohne	ohne	_	APPR	_	12	null	_	_
+13	Babs	_	_	NN	case=acc|number=pl|gender=masc	13	null	_	_
+14	wäre	sein	_	VAFIN	person=1|number=sg|tense=past|mood=subj	14	null	_	_
+15	ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	15	null	_	_
+16	verloren	verlieren	_	VVPP	_	16	null	_	_
+17	.	.	_	$.	_	17	null	_	_
+
+1	Das	die	_	PDS	person=-|case=nom|number=sg	1	null	_	_
+2	ist	sein	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	2	null	_	_
+3	mir	sie	_	PPER	person=1|case=dat|number=sg|gender=*	3	null	_	_
+4	ganz	ganz	_	ADV	_	4	null	_	_
+5	klar	klar	_	ADJD	degree=pos	5	null	_	_
+6	geworden	werden	_	VAPP	_	6	null	_	_
+7	,	,	_	$,	_	7	null	_	_
+8	schon	schon	_	ADV	_	8	null	_	_
+9	bei	bei	_	APPR	_	9	null	_	_
+10	dieser	diese	_	PDAT	person=-|case=dat|number=sg	10	null	_	_
+11	kurzen	kurz	_	ADJA	degree=pos|case=dat|number=sg|gender=fem	11	null	_	_
+12	Trennung	Trennung	_	NN	case=dat|number=sg|gender=fem	12	null	_	_
+13	.	.	_	$.	_	13	null	_	_
+
+1	Ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	1	null	_	_
+2	glaube	glauben	_	VVFIN	person=1|number=sg|tense=pres|mood=ind	2	null	_	_
+3	,	,	_	$,	_	3	null	_	_
+4	das	die	_	PDS	person=-|case=nom|number=sg	4	null	_	_
+5	wäre	sein	_	VAFIN	person=3|number=sg|tense=past|mood=subj	5	null	_	_
+6	ein	eine	_	ART	case=nom|number=sg|gender=neut	6	null	_	_
+7	schlechtes	schlecht	_	ADJA	degree=pos|case=nom|number=sg|gender=neut	7	null	_	_
+8	Land	Land	_	NN	case=nom|number=sg|gender=neut	8	null	_	_
+9	,	,	_	$,	_	9	null	_	_
+10	um	um	_	KOUI	_	10	null	_	_
+11	Kinder	Kind	_	NN	case=acc|number=pl|gender=neut	11	null	_	_
+12	aufzuziehen	aufziehen	_	VVIZU	_	12	null	_	_
+13	.	.	_	$.	_	13	null	_	_
+
+1	Ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	1	null	_	_
+2	weiß	wissen	_	VVFIN	person=1|number=sg|tense=pres|mood=ind	2	null	_	_
+3	nicht	nicht	_	PTKNEG	_	3	null	_	_
+4	.	.	_	$.	_	4	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Wissen	wissen	_	VVFIN	person=3|number=pl|tense=pres|mood=ind	2	null	_	_
+3	Sie	sie	_	PPER	person=3|case=nom|number=pl|gender=*	3	null	_	_
+4	?	?	_	$.	_	4	null	_	_
+
+1	Babs	_	_	NE	case=nom|number=sg|gender=*	1	null	_	_
+2	und	und	_	KON	_	2	null	_	_
+3	ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	3	null	_	_
+4	,	,	_	$,	_	4	null	_	_
+5	wir	sie	_	PPER	person=1|case=nom|number=pl|gender=*	5	null	_	_
+6	wollten	wollen	_	VMFIN	person=1|number=pl|tense=past|mood=ind	6	null	_	_
+7	am	am	_	PTKA	_	7	null	_	_
+8	liebsten	liebsten	_	ADJD	degree=sup	8	null	_	_
+9	gleich	gleich	_	ADV	_	9	null	_	_
+10	Kinder	Kind	_	NN	case=acc|number=pl|gender=neut	10	null	_	_
+11	haben	haben	_	VAINF	_	11	null	_	_
+12	.	.	_	$.	_	12	null	_	_
+
+1	Doch	doch	_	KON	_	1	null	_	_
+2	dann	dann	_	ADV	_	2	null	_	_
+3	kam	kommen	_	VVFIN	person=1|number=sg|tense=past|mood=ind	3	null	_	_
+4	ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	4	null	_	_
+5	zu	zu	_	APPR	_	5	null	_	_
+6	diesem	diese	_	PDAT	person=-|case=dat|number=sg	6	null	_	_
+7	Job	Job	_	NN	case=dat|number=sg|gender=masc	7	null	_	_
+8	.	.	_	$.	_	8	null	_	_
+
+1	Kinder	Kind	_	NN	case=nom|number=pl|gender=neut	1	null	_	_
+2	...	_	_	$(	_	2	null	_	_
+
+1	Zuerst	zuerst	_	ADV	_	1	null	_	_
+2	dachten	denken	_	VVFIN	person=1|number=pl|tense=past|mood=ind	2	null	_	_
+3	wir	sie	_	PPER	person=1|case=nom|number=pl|gender=*	3	null	_	_
+4	an	an	_	APPR	_	4	null	_	_
+5	2	2	_	CARD	_	5	null	_	_
+6	Jungen	Junge	_	NN	case=acc|number=pl|gender=masc	6	null	_	_
+7	und	und	_	KON	_	7	null	_	_
+8	dann	dann	_	ADV	_	8	null	_	_
+9	vielleicht	vielleicht	_	ADV	_	9	null	_	_
+10	ein	eine	_	ART	case=acc|number=sg|gender=neut	10	null	_	_
+11	Mädchen	Mädchen	_	NN	case=acc|number=sg|gender=neut	11	null	_	_
+12	.	.	_	$.	_	12	null	_	_
+
+1	Auf	auf	_	APPR	_	1	null	_	_
+2	der	die	_	ART	case=dat|number=sg|gender=fem	2	null	_	_
+3	Flucht	Flucht	_	NN	case=dat|number=sg|gender=fem	3	null	_	_
+4	vor	vor	_	APPR	_	4	null	_	_
+5	der	die	_	ART	case=dat|number=sg|gender=fem	5	null	_	_
+6	Steuerfaschistin	_	_	NN	case=dat|number=sg|gender=fem	6	null	_	_
+7	konnte	können	_	VMFIN	person=1|number=sg|tense=past|mood=ind	7	null	_	_
+8	ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	8	null	_	_
+9	Pluspunkte	Pluspunkt	_	NN	case=acc|number=pl|gender=masc	9	null	_	_
+10	bei	bei	_	APPR	_	10	null	_	_
+11	Sam	Sam	_	NE	case=dat|number=sg|gender=masc	11	null	_	_
+12	und	und	_	KON	_	12	null	_	_
+13	den	die	_	ART	case=dat|number=pl|gender=neut	13	null	_	_
+14	Kindern	Kind	_	NN	case=dat|number=pl|gender=neut	14	null	_	_
+15	sammeln	sammeln	_	VVINF	_	15	null	_	_
+16	.	.	_	$.	_	16	null	_	_
+
+1	Wer	wer	_	PWS	person=-|case=nom|number=sg	1	null	_	_
+2	hält	halten	_	VVFIN	person=3|number=sg|tense=pres|mood=ind	2	null	_	_
+3	mich	sie	_	PPER	person=1|case=acc|number=sg|gender=*	3	null	_	_
+4	für	für	_	APPR	_	4	null	_	_
+5	den	die	_	ART	case=acc|number=sg|gender=masc	5	null	_	_
+6	besten	gut	_	ADJA	degree=sup|case=acc|number=sg|gender=masc	6	null	_	_
+7	Daddy	Daddy	_	NN	case=acc|number=sg|gender=masc	7	null	_	_
+8	der	die	_	ART	case=gen|number=sg|gender=fem	8	null	_	_
+9	Welt	Welt	_	NN	case=gen|number=sg|gender=fem	9	null	_	_
+10	?	?	_	$.	_	10	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Wer	wer	_	PWS	person=-|case=nom|number=sg	2	null	_	_
+3	will	wollen	_	VMFIN	person=3|number=sg|tense=pres|mood=ind	3	null	_	_
+4	heute	heute	_	ADV	_	4	null	_	_
+5	Schule	Schule	_	NN	case=acc|number=sg|gender=fem	5	null	_	_
+6	schwänzen	schwänzen	_	VVINF	_	6	null	_	_
+7	?	?	_	$.	_	7	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Ja	ja	_	PTKANT	_	2	null	_	_
+3	.	.	_	$.	_	3	null	_	_
+
+1	Schon	schon	_	ADV	_	1	null	_	_
+2	besser	gut	_	ADJD	degree=comp	2	null	_	_
+3	.	.	_	$.	_	3	null	_	_
+
+1	Okay	Okay	_	NN	case=nom|number=sg|gender=neut	1	null	_	_
+2	.	.	_	$.	_	2	null	_	_
+
+1	Die	die	_	ART	case=nom|number=sg|gender=fem	1	null	_	_
+2	Swans	_	_	NE	case=dat|number=sg|gender=*	2	null	_	_
+3	machen	machen	_	VVFIN	person=3|number=pl|tense=pres|mood=ind	3	null	_	_
+4	einen	eine	_	ART	case=acc|number=sg|gender=masc	4	null	_	_
+5	Familienausflug	Familienausflug	_	NN	case=acc|number=sg|gender=masc	5	null	_	_
+6	.	.	_	$.	_	6	null	_	_
+
+1	Die	die	_	PDS	person=-|case=nom|number=pl	1	null	_	_
+2	finden	finden	_	VVFIN	person=3|number=pl|tense=pres|mood=ind	2	null	_	_
+3	Wege	Weg	_	NN	case=acc|number=pl|gender=masc	3	null	_	_
+4	,	,	_	$,	_	4	null	_	_
+5	die	die	_	ART	case=acc|number=sg|gender=fem	5	null	_	_
+6	Seite	Seite	_	NN	case=acc|number=sg|gender=fem	6	null	_	_
+7	drei	drei	_	CARD	_	7	null	_	_
+8	jetzt	jetzt	_	ADV	_	8	null	_	_
+9	sogar	sogar	_	ADV	_	9	null	_	_
+10	noch	noch	_	ADV	_	10	null	_	_
+11	gruseliger	gruselig	_	ADJD	degree=comp	11	null	_	_
+12	zu	zu	_	PTKZU	_	12	null	_	_
+13	machen	machen	_	VVINF	_	13	null	_	_
+14	.	.	_	$.	_	14	null	_	_
+
+1	"	"	_	$(	_	1	null	_	_
+2	Die	die	_	ART	case=nom|number=sg|gender=fem	2	null	_	_
+3	süße	süß	_	ADJA	degree=pos|case=nom|number=sg|gender=fem	3	null	_	_
+4	Karen	Karen	_	NE	case=nom|number=sg|gender=fem	4	null	_	_
+5	Clarke	Clarke	_	NE	case=nom|number=sg|gender=*	5	null	_	_
+6	war	sein	_	VAFIN	person=3|number=sg|tense=past|mood=ind	6	null	_	_
+7	schon	schon	_	ADV	_	7	null	_	_
+8	in	in	_	APPR	_	8	null	_	_
+9	jungen	jung	_	ADJA	degree=pos|case=dat|number=pl|gender=neut	9	null	_	_
+10	Jahren	Jahr	_	NN	case=dat|number=pl|gender=neut	10	null	_	_
+11	eine	eine	_	ART	case=acc|number=sg|gender=fem	11	null	_	_
+12	Oben-ohne-Schönheit	Oben-ohne-Schönheit	_	NN	case=acc|number=sg|gender=fem	12	null	_	_
+13	.	.	_	$.	_	13	null	_	_
+
+1	Aber	aber	_	KON	_	1	null	_	_
+2	jetzt	jetzt	_	ADV	_	2	null	_	_
+3	ist	sein	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	3	null	_	_
+4	sie	sie	_	PPER	person=3|case=nom|number=sg|gender=fem	4	null	_	_
+5	ein	eine	_	ART	case=nom|number=sg|gender=neut	5	null	_	_
+6	großes	groß	_	ADJA	degree=pos|case=nom|number=sg|gender=neut	6	null	_	_
+7	Mädchen	Mädchen	_	NN	case=nom|number=sg|gender=neut	7	null	_	_
+8	und	und	_	KON	_	8	null	_	_
+9	eine	eine	_	ART	case=nom|number=sg|gender=fem	9	null	_	_
+10	wohlgeformte	wohlgeformt	_	ADJA	degree=pos|case=nom|number=sg|gender=fem	10	null	_	_
+11	Lady	Lady	_	NN	case=nom|number=sg|gender=fem	11	null	_	_
+12	.	.	_	$.	_	12	null	_	_
+13	"	"	_	$(	_	13	null	_	_
+
+1	Was	was	_	PWS	person=-|case=nom|number=sg	1	null	_	_
+2	ist	sein	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	2	null	_	_
+3	mit	mit	_	APPR	_	3	null	_	_
+4	Cassie	_	_	NN	case=dat|number=sg|gender=fem	4	null	_	_
+5	und	und	_	KON	_	5	null	_	_
+6	Ramse	_	_	NN	case=dat|number=sg|gender=fem	6	null	_	_
+7	?	?	_	$.	_	7	null	_	_
+
+1	Ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	1	null	_	_
+2	dachte	denken	_	VVFIN	person=1|number=sg|tense=past|mood=ind	2	null	_	_
+3	,	,	_	$,	_	3	null	_	_
+4	du	sie	_	PPER	person=2|case=nom|number=sg|gender=*	4	null	_	_
+5	würdest	werden	_	VAFIN	person=2|number=sg|tense=past|mood=subj	5	null	_	_
+6	sie	sie	_	PPER	person=3|case=acc|number=sg|gender=fem	6	null	_	_
+7	zuletzt	zuletzt	_	ADV	_	7	null	_	_
+8	rauslassen	rauslassen	_	VVINF	_	8	null	_	_
+9	wollen	wollen	_	VMINF	_	9	null	_	_
+10	,	,	_	$,	_	10	null	_	_
+11	für	für	_	APPR	_	11	null	_	_
+12	den	die	_	ART	case=acc|number=sg|gender=masc	12	null	_	_
+13	Fall	Fall	_	NN	case=acc|number=sg|gender=masc	13	null	_	_
+14	,	,	_	$,	_	14	null	_	_
+15	dass	dass	_	KOUS	_	15	null	_	_
+16	sie	sie	_	PPER	person=3|case=nom|number=pl|gender=*	16	null	_	_
+17	etwas	_	_	PIS	person=-|case=*|number=*	17	null	_	_
+18	versuchen	versuchen	_	VVFIN	person=3|number=pl|tense=pres|mood=ind	18	null	_	_
+19	.	.	_	$.	_	19	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Ja	ja	_	PTKANT	_	2	null	_	_
+3	.	.	_	$.	_	3	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Das	die	_	PDS	person=-|case=acc|number=sg	2	null	_	_
+3	habe	haben	_	VAFIN	person=1|number=sg|tense=pres|mood=ind	3	null	_	_
+4	ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	4	null	_	_
+5	mir	sie	_	PRF	person=1|case=dat|number=sg	5	null	_	_
+6	gedacht	denken|gedenken	_	VVPP	_	6	null	_	_
+7	.	.	_	$.	_	7	null	_	_
+
+1	Was	was	_	PWS	person=-|case=nom|number=sg	1	null	_	_
+2	zur	zu	_	APPRART	case=dat|number=sg|gender=fem	2	null	_	_
+3	Hölle	Hölle	_	NN	case=dat|number=sg|gender=fem	3	null	_	_
+4	war	sein	_	VAFIN	person=3|number=sg|tense=past|mood=ind	4	null	_	_
+5	das	die	_	PDS	person=-|case=nom|number=sg	5	null	_	_
+6	?	?	_	$.	_	6	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Was	was	_	PWS	person=-|case=nom|number=sg	2	null	_	_
+3	zur	zu	_	APPRART	case=dat|number=sg|gender=fem	3	null	_	_
+4	Hölle	Hölle	_	NN	case=dat|number=sg|gender=fem	4	null	_	_
+5	ist	sein	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	5	null	_	_
+6	passiert	passieren	_	VVPP	_	6	null	_	_
+7	?	?	_	$.	_	7	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Der	die	_	ART	case=nom|number=sg|gender=masc	2	null	_	_
+3	Blitz	Blitz	_	NN	case=nom|number=sg|gender=masc	3	null	_	_
+4	traf	treffen	_	VVFIN	person=3|number=sg|tense=past|mood=ind	4	null	_	_
+5	einen	eine	_	PIS	person=-|case=acc|number=sg	5	null	_	_
+6	der	die	_	ART	case=gen|number=pl|gender=masc	6	null	_	_
+7	Transformatoren	Transformator	_	NN	case=gen|number=pl|gender=masc	7	null	_	_
+8	.	.	_	$.	_	8	null	_	_
+
+1	Wir	sie	_	PPER	person=1|case=nom|number=pl|gender=*	1	null	_	_
+2	dürfen	dürfen	_	VMFIN	person=1|number=pl|tense=pres|mood=ind	2	null	_	_
+3	die	die	_	ART	case=acc|number=sg|gender=fem	3	null	_	_
+4	Evakuierung	Evakuierung	_	NN	case=acc|number=sg|gender=fem	4	null	_	_
+5	nicht	nicht	_	PTKNEG	_	5	null	_	_
+6	verzögern	verzögern	_	VVINF	_	6	null	_	_
+7	.	.	_	$.	_	7	null	_	_
+
+1	Leite	leiten	_	VVFIN	person=3|number=sg|tense=pres|mood=subj	1	null	_	_
+2	alle	alle	_	PIS	person=-|case=acc|number=pl	2	null	_	_
+3	über	über	_	APPR	_	3	null	_	_
+4	den	die	_	ART	case=acc|number=sg|gender=masc	4	null	_	_
+5	westlichen	westlich	_	ADJA	degree=pos|case=acc|number=sg|gender=masc	5	null	_	_
+6	Gang	Gang	_	NN	case=acc|number=sg|gender=masc	6	null	_	_
+7	zur	zu	_	APPRART	case=dat|number=sg|gender=fem	7	null	_	_
+8	Fahrzeughalle	Fahrzeughalle	_	NN	case=dat|number=sg|gender=fem	8	null	_	_
+9	.	.	_	$.	_	9	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Wie	wie	_	PWAV	_	2	null	_	_
+3	viele	Wahlkartei	_	PIS	person=-|case=nom|number=pl	3	null	_	_
+4	sind	sein	_	VAFIN	person=3|number=pl|tense=pres|mood=ind	4	null	_	_
+5	verwundet	verwunden	_	VVPP	_	5	null	_	_
+6	?	?	_	$.	_	6	null	_	_
+
+1	Obwohl	obwohl	_	KOUS	_	1	null	_	_
+2	,	,	_	$,	_	2	null	_	_
+3	er	sie	_	PPER	person=3|case=nom|number=sg|gender=masc	3	null	_	_
+4	hat	haben	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	4	null	_	_
+5	schöne	schön	_	ADJA	degree=pos|case=acc|number=pl|gender=fem	5	null	_	_
+6	Reifen	reif	_	ADJA	degree=pos|case=acc|number=pl|gender=fem	6	null	_	_
+7	hat	haben	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	7	null	_	_
+8	...	_	_	$(	_	8	null	_	_
+9	für	für	_	APPR	_	9	null	_	_
+10	einen	eine	_	ART	case=acc|number=sg|gender=masc	10	null	_	_
+11	Verrückten	Verrückte	_	NN	case=acc|number=sg|gender=masc	11	null	_	_
+12	.	.	_	$.	_	12	null	_	_
+
+1	Halt	Halt	_	NN	case=nom|number=sg|gender=masc	1	null	_	_
+2	den	die	_	ART	case=acc|number=sg|gender=masc	2	null	_	_
+3	Mund	Mund	_	NN	case=acc|number=sg|gender=masc	3	null	_	_
+4	!	!	_	$.	_	4	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Zu	zu	_	APPR	_	2	null	_	_
+3	Hause	Haus	_	NN	case=dat|number=sg|gender=neut	3	null	_	_
+4	!	!	_	$.	_	4	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Dieser	diese	_	PDAT	person=-|case=nom|number=sg	2	null	_	_
+3	Ort	Ort	_	NN	case=nom|number=sg|gender=masc	3	null	_	_
+4	ist	sein	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	4	null	_	_
+5	verdammt	verdammt	_	ADJD	degree=pos	5	null	_	_
+6	geil	geil	_	ADJD	degree=pos	6	null	_	_
+7	.	.	_	$.	_	7	null	_	_
+
+1	Wie	wie	_	PWAV	_	1	null	_	_
+2	im	in	_	APPRART	case=dat|number=sg|gender=neut	2	null	_	_
+3	Schlaraffenland	Schlaraffenland	_	NN	case=dat|number=sg|gender=neut	3	null	_	_
+4	.	.	_	$.	_	4	null	_	_
+
+1	Hier	hier	_	ADV	_	1	null	_	_
+2	kommen	kommen	_	VVFIN	person=3|number=pl|tense=pres|mood=ind	2	null	_	_
+3	die	die	_	ART	case=nom|number=pl|gender=neut	3	null	_	_
+4	reichen	reich	_	ADJA	degree=pos|case=nom|number=pl|gender=neut	4	null	_	_
+5	Kinder	Kind	_	NN	case=nom|number=pl|gender=neut	5	null	_	_
+6	zum	zu	_	APPRART	case=dat|number=sg|gender=masc	6	null	_	_
+7	sterben	sterben	_	VVFIN	person=3|number=pl|tense=pres|mood=ind	7	null	_	_
+8	hin	hin	_	PTKVZ	_	8	null	_	_
+9	.	.	_	$.	_	9	null	_	_
+
+1	Willkommen	willkommen	_	ADJD	degree=pos	1	null	_	_
+2	in	in	_	APPR	_	2	null	_	_
+3	meiner	meine	_	PPOSAT	person=-|case=dat|number=sg	3	null	_	_
+4	Welt	Welt	_	NN	case=dat|number=sg|gender=fem	4	null	_	_
+5	.	.	_	$.	_	5	null	_	_
+
+1	Mir	_	_	NE	case=nom|number=sg|gender=*	1	null	_	_
+2	ist	sein	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	2	null	_	_
+3	ein	_	_	ART	case=*|number=*|gender=*	3	null	_	_
+4	bisschen	bisschen	_	PIAT	person=-|case=*|number=*	4	null	_	_
+5	schlecht	schlecht	_	ADJD	degree=pos	5	null	_	_
+6	!	!	_	$.	_	6	null	_	_
+
+1	Kevin	Kevin	_	NE	case=nom|number=sg|gender=masc	1	null	_	_
+2	,	,	_	$,	_	2	null	_	_
+3	ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	3	null	_	_
+4	glaube	glauben	_	VVFIN	person=1|number=sg|tense=pres|mood=ind	4	null	_	_
+5	,	,	_	$,	_	5	null	_	_
+6	du	sie	_	PPER	person=2|case=nom|number=sg|gender=*	6	null	_	_
+7	solltest	sollen	_	VMFIN	person=2|number=sg|tense=past|mood=subj	7	null	_	_
+8	Julie	Julie	_	NE	case=nom|number=sg|gender=fem	8	null	_	_
+9	ins	in	_	APPRART	case=acc|number=sg|gender=neut	9	null	_	_
+10	Badezimmer	Badezimmer	_	NN	case=acc|number=sg|gender=neut	10	null	_	_
+11	bringen	bringen	_	VVINF	_	11	null	_	_
+12	.	.	_	$.	_	12	null	_	_
+
+1	Komm	kommen	_	VVIMP	person=2|number=sg	1	null	_	_
+2	schon	schon	_	ADV	_	2	null	_	_
+3	.	.	_	$.	_	3	null	_	_
+
+1	Nein	nein	_	PTKANT	_	1	null	_	_
+2	,	,	_	$,	_	2	null	_	_
+3	die	die	_	ART	case=nom|number=pl|gender=masc	3	null	_	_
+4	Ärzte	Arzt	_	NN	case=nom|number=pl|gender=masc	4	null	_	_
+5	sind	sein	_	VAFIN	person=3|number=pl|tense=pres|mood=ind	5	null	_	_
+6	sehr	sehr	_	ADV	_	6	null	_	_
+7	zufrieden	zufrieden	_	ADJD	degree=pos	7	null	_	_
+8	,	,	_	$,	_	8	null	_	_
+9	er	sie	_	PPER	person=3|case=nom|number=sg|gender=masc	9	null	_	_
+10	ist	sein	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	10	null	_	_
+11	der	die	_	ART	case=nom|number=sg|gender=masc	11	null	_	_
+12	Tapferste	Tapferste	_	NN	case=nom|number=sg|gender=masc	12	null	_	_
+13	.	.	_	$.	_	13	null	_	_
+
+1	Hast	haben	_	VAFIN	person=2|number=sg|tense=pres|mood=ind	1	null	_	_
+2	du	sie	_	PPER	person=2|case=nom|number=sg|gender=*	2	null	_	_
+3	die	die	_	ART	case=acc|number=pl|gender=masc	3	null	_	_
+4	Bodys	Body	_	NN	case=acc|number=pl|gender=masc	4	null	_	_
+5	?	?	_	$.	_	5	null	_	_
+
+1	Frag	fragen	_	VVIMP	person=2|number=sg	1	null	_	_
+2	deinen	deine	_	PPOSAT	person=-|case=acc|number=sg	2	null	_	_
+3	Vater	Vater	_	NN	case=acc|number=sg|gender=masc	3	null	_	_
+4	!	!	_	$.	_	4	null	_	_
+
+1	Sag	sagen	_	VVIMP	person=2|number=sg	1	null	_	_
+2	's	_	_	PPER	person=3|case=nom|number=sg|gender=neut	2	null	_	_
+3	ihr	sie	_	PPER	person=3|case=dat|number=sg|gender=fem	3	null	_	_
+4	!	!	_	$.	_	4	null	_	_
+
+1	Ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	1	null	_	_
+2	hatte	haben	_	VAFIN	person=1|number=sg|tense=past|mood=ind	2	null	_	_
+3	die	die	_	ART	case=acc|number=sg|gender=fem	3	null	_	_
+4	Tüte	Tüte	_	NN	case=acc|number=sg|gender=fem	4	null	_	_
+5	damit	damit	_	PROP	_	5	null	_	_
+6	vorbereitet	vorbereiten	_	VVPP	_	6	null	_	_
+7	und	und	_	KON	_	7	null	_	_
+8	er	sie	_	PPER	person=3|case=nom|number=sg|gender=masc	8	null	_	_
+9	lässt	lassen	_	VVFIN	person=3|number=sg|tense=pres|mood=ind	9	null	_	_
+10	sie	_	_	PPER	person=3|case=acc|number=*|gender=*	10	null	_	_
+11	stehen	stehen	_	VVINF	_	11	null	_	_
+12	!	!	_	$.	_	12	null	_	_
+
+1	Schade	schade	_	ADJD	degree=pos	1	null	_	_
+2	,	,	_	$,	_	2	null	_	_
+3	ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	3	null	_	_
+4	hab	haben	_	VAIMP	person=2|number=sg	4	null	_	_
+5	nicht	nicht	_	PTKNEG	_	5	null	_	_
+6	mehr	mehr	_	ADV	_	6	null	_	_
+7	viele	Wahlkartei	_	PIS	person=-|case=nom|number=pl	7	null	_	_
+8	.	.	_	$.	_	8	null	_	_
+
+1	Siehst	sehen	_	VVFIN	person=2|number=sg|tense=pres|mood=ind	1	null	_	_
+2	du	sie	_	PPER	person=2|case=nom|number=sg|gender=*	2	null	_	_
+3	,	,	_	$,	_	3	null	_	_
+4	sie	sie	_	PPER	person=3|case=nom|number=sg|gender=fem	4	null	_	_
+5	ist	sein	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	5	null	_	_
+6	sehr	sehr	_	ADV	_	6	null	_	_
+7	enttäuscht	enttäuschen	_	VVPP	_	7	null	_	_
+8	!	!	_	$.	_	8	null	_	_
+
+1	Gut	gut	_	ADJD	degree=pos	1	null	_	_
+2	,	,	_	$,	_	2	null	_	_
+3	ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	3	null	_	_
+4	hab	haben	_	VAIMP	person=2|number=sg	4	null	_	_
+5	sie	sie	_	PPER	person=3|case=acc|number=pl|gender=*	5	null	_	_
+6	vergessen	vergessen	_	VVFIN	person=1|number=pl|tense=pres|mood=ind	6	null	_	_
+7	!	!	_	$.	_	7	null	_	_
+
+1	Mach	machen	_	VVIMP	person=2|number=sg	1	null	_	_
+2	nicht	nicht	_	PTKNEG	_	2	null	_	_
+3	so	so	_	ADV	_	3	null	_	_
+4	ein	eine	_	ART	case=nom|number=sg|gender=neut	4	null	_	_
+5	Theater	Theater	_	NN	case=nom|number=sg|gender=neut	5	null	_	_
+6	!	!	_	$.	_	6	null	_	_
+
+1	Typisch	typisch	_	ADJD	degree=pos	1	null	_	_
+2	!	!	_	$.	_	2	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Mit	mit	_	APPR	_	2	null	_	_
+3	dem	die	_	ART	case=dat|number=sg|gender=masc	3	null	_	_
+4	Mund	Mund	_	NN	case=dat|number=sg|gender=masc	4	null	_	_
+5	.	.	_	$.	_	5	null	_	_
+
+1	Mein	meine	_	PPOSAT	person=-|case=nom|number=sg	1	null	_	_
+2	Autoreifen	Autoreifen	_	NN	case=nom|number=sg|gender=masc	2	null	_	_
+3	ist	sein	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	3	null	_	_
+4	geplatzt	platzen	_	VVPP	_	4	null	_	_
+5	.	.	_	$.	_	5	null	_	_
+
+1	Meine	meine	_	PPOSAT	person=-|case=nom|number=sg	1	null	_	_
+2	Allianz	Allianz	_	NN	case=nom|number=sg|gender=fem	2	null	_	_
+3	ist	sein	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	3	null	_	_
+4	vorbei	vorbei	_	ADV	_	4	null	_	_
+5	.	.	_	$.	_	5	null	_	_
+
+1	Viel	viel	_	PIAT	person=-|case=*|number=*	1	null	_	_
+2	Glück	Glück	_	NN	case=nom|number=sg|gender=neut	2	null	_	_
+3	.	.	_	$.	_	3	null	_	_
+
+1	Was	was	_	PWS	person=-|case=nom|number=sg	1	null	_	_
+2	?	?	_	$.	_	2	null	_	_
+
+1	Dad	Dad	_	NN	case=nom|number=sg|gender=masc	1	null	_	_
+2	!	!	_	$.	_	2	null	_	_
+
+1	Das	die	_	ART	case=nom|number=sg|gender=neut	1	null	_	_
+2	Gute	_	_	NN	case=nom|number=sg|gender=neut	2	null	_	_
+3	daran	daran	_	PROP	_	3	null	_	_
+4	ist	sein	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	4	null	_	_
+5	,	,	_	$,	_	5	null	_	_
+6	dass	dass	_	KOUS	_	6	null	_	_
+7	ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	7	null	_	_
+8	meinen	meine	_	PPOSAT	person=-|case=acc|number=sg	8	null	_	_
+9	Fisch	Fisch	_	NN	case=acc|number=sg|gender=masc	9	null	_	_
+10	wiedersehe	wiedersehen	_	VVFIN	person=1|number=sg|tense=pres|mood=ind	10	null	_	_
+11	.	.	_	$.	_	11	null	_	_
+
+1	Hey	_	_	NE	case=nom|number=sg|gender=*	1	null	_	_
+2	,	,	_	$,	_	2	null	_	_
+3	was	was	_	PRELS	person=-|case=nom|number=sg	3	null	_	_
+4	ist	sein	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	4	null	_	_
+5	los	_	_	ADJD	degree=pos	5	null	_	_
+6	?	?	_	$.	_	6	null	_	_
+
+1	Es	sie	_	PPER	person=3|case=nom|number=sg|gender=neut	1	null	_	_
+2	spült	spülen	_	VVFIN	person=3|number=sg|tense=pres|mood=ind	2	null	_	_
+3	nicht	nicht	_	PTKNEG	_	3	null	_	_
+4	runter	runter	_	PTKVZ	_	4	null	_	_
+5	.	.	_	$.	_	5	null	_	_
+
+1	Wir	sie	_	PPER	person=1|case=nom|number=pl|gender=*	1	null	_	_
+2	brauchen	brauchen	_	VVFIN	person=1|number=pl|tense=pres|mood=ind	2	null	_	_
+3	ein	eine	_	ART	case=acc|number=sg|gender=neut	3	null	_	_
+4	größeres	groß	_	ADJA	degree=comp|case=acc|number=sg|gender=neut	4	null	_	_
+5	Klo	Klo	_	NN	case=acc|number=sg|gender=neut	5	null	_	_
+6	.	.	_	$.	_	6	null	_	_
+
+1	Führe	fahren	_	VVFIN	person=3|number=sg|tense=past|mood=subj	1	null	_	_
+2	mich	sie	_	PPER	person=1|case=acc|number=sg|gender=*	2	null	_	_
+3	zu	zu	_	APPR	_	3	null	_	_
+4	dem	die	_	ART	case=dat|number=sg|gender=masc	4	null	_	_
+5	Mann	Mann	_	NN	case=dat|number=sg|gender=masc	5	null	_	_
+6	,	,	_	$,	_	6	null	_	_
+7	der	die	_	PRELS	person=-|case=nom|number=sg	7	null	_	_
+8	dich	sie	_	PPER	person=2|case=acc|number=sg|gender=*	8	null	_	_
+9	schickte	schicken	_	VVFIN	person=3|number=sg|tense=past|mood=ind	9	null	_	_
+10	.	.	_	$.	_	10	null	_	_
+
+1	Er	sie	_	PPER	person=3|case=nom|number=sg|gender=masc	1	null	_	_
+2	erwartet	erwarten	_	VVFIN	person=3|number=sg|tense=pres|mood=ind	2	null	_	_
+3	dich	sie	_	PPER	person=2|case=acc|number=sg|gender=*	3	null	_	_
+4	.	.	_	$.	_	4	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Wo	wo	_	PWAV	_	2	null	_	_
+3	?	?	_	$.	_	3	null	_	_
+
+1	Das	die	_	PDS	person=-|case=nom|number=sg	1	null	_	_
+2	wirst	werden	_	VAFIN	person=2|number=sg|tense=pres|mood=ind	2	null	_	_
+3	du	sie	_	PPER	person=2|case=nom|number=sg|gender=*	3	null	_	_
+4	sehen	sehen	_	VVINF	_	4	null	_	_
+5	,	,	_	$,	_	5	null	_	_
+6	wenn	wenn	_	KOUS	_	6	null	_	_
+7	wir	sie	_	PPER	person=1|case=nom|number=pl|gender=*	7	null	_	_
+8	nicht	nicht	_	PTKNEG	_	8	null	_	_
+9	verhaftet	verhaften	_	VVPP	_	9	null	_	_
+10	werden	werden	_	VAFIN	person=1|number=pl|tense=pres|mood=ind	10	null	_	_
+11	.	.	_	$.	_	11	null	_	_
+
+1	Also	also	_	ADV	_	1	null	_	_
+2	los	_	_	ADJD	degree=pos	2	null	_	_
+3	.	.	_	$.	_	3	null	_	_
+
+1	Du	sie	_	PPER	person=2|case=nom|number=sg|gender=*	1	null	_	_
+2	gehst	gehen	_	VVFIN	person=2|number=sg|tense=pres|mood=ind	2	null	_	_
+3	vor	vor	_	APPR	_	3	null	_	_
+4	mir	sie	_	PPER	person=1|case=dat|number=sg|gender=*	4	null	_	_
+5	.	.	_	$.	_	5	null	_	_
+
+1	Ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	1	null	_	_
+2	komme	kommen	_	VVFIN	person=1|number=sg|tense=pres|mood=ind	2	null	_	_
+3	nach	nach	_	PTKVZ	_	3	null	_	_
+4	.	.	_	$.	_	4	null	_	_
+
+1	Das	die	_	PDS	person=-|case=nom|number=sg	1	null	_	_
+2	war	sein	_	VAFIN	person=3|number=sg|tense=past|mood=ind	2	null	_	_
+3	ein	eine	_	ART	case=nom|number=sg|gender=masc	3	null	_	_
+4	Test	Test	_	NN	case=nom|number=sg|gender=masc	4	null	_	_
+5	.	.	_	$.	_	5	null	_	_
+
+1	Du	sie	_	PPER	person=2|case=nom|number=sg|gender=*	1	null	_	_
+2	konntest	können	_	VMFIN	person=2|number=sg|tense=past|mood=ind	2	null	_	_
+3	ein	eine	_	ART	case=nom|number=sg|gender=masc	3	null	_	_
+4	Spion	Spion	_	NN	case=nom|number=sg|gender=masc	4	null	_	_
+5	sein	sein	_	VAINF	_	5	null	_	_
+6	.	.	_	$.	_	6	null	_	_
+
+1	Die	die	_	ART	case=nom|number=sg|gender=fem	1	null	_	_
+2	Waffe	Waffe	_	NN	case=nom|number=sg|gender=fem	2	null	_	_
+3	war	sein	_	VAFIN	person=3|number=sg|tense=past|mood=ind	3	null	_	_
+4	ungeladen	ungeladen	_	ADJD	degree=pos	4	null	_	_
+5	.	.	_	$.	_	5	null	_	_
+
+1	-	-	_	$(	_	1	null	_	_
+2	Kommen	kommen	_	VVFIN	person=3|number=pl|tense=pres|mood=ind	2	null	_	_
+3	Sie	sie	_	PPER	person=3|case=nom|number=pl|gender=*	3	null	_	_
+4	.	.	_	$.	_	4	null	_	_
+
+1	Seien	sein	_	VAFIN	person=3|number=pl|tense=pres|mood=subj	1	null	_	_
+2	Sie	sie	_	PPER	person=3|case=nom|number=pl|gender=*	2	null	_	_
+3	außergewöhnlich	außergewöhnlich	_	ADJD	degree=pos	3	null	_	_
+4	.	.	_	$.	_	4	null	_	_
+
+1	Oh	oh	_	ITJ	_	1	null	_	_
+2	,	,	_	$,	_	2	null	_	_
+3	Sie	sie	_	PPER	person=3|case=nom|number=pl|gender=*	3	null	_	_
+4	...	_	_	$(	_	4	null	_	_
+
+1	Okay	Okay	_	NN	case=nom|number=sg|gender=neut	1	null	_	_
+2	.	.	_	$.	_	2	null	_	_
+
+1	Um	um	_	KOUI	_	1	null	_	_
+2	die	die	_	ART	case=acc|number=pl|gender=neut	2	null	_	_
+3	Dinge	Ding	_	NN	case=acc|number=pl|gender=neut	3	null	_	_
+4	zu	zu	_	PTKZU	_	4	null	_	_
+5	ordnen	ordnen	_	VVINF	_	5	null	_	_
+6	:	:	_	$.	_	6	null	_	_
+
+1	Das	die	_	ART	case=nom|number=sg|gender=neut	1	null	_	_
+2	erste	erst	_	ADJA	degree=pos|case=nom|number=sg|gender=neut	2	null	_	_
+3	Treffen	Treffen	_	NN	case=nom|number=sg|gender=neut	3	null	_	_
+4	von	von	_	APPR	_	4	null	_	_
+5	Vertretern	Vertreter	_	NN	case=dat|number=pl|gender=masc	5	null	_	_
+6	der	die	_	ART	case=gen|number=sg|gender=fem	6	null	_	_
+7	menschlichen	menschlich	_	ADJA	degree=pos|case=gen|number=sg|gender=fem	7	null	_	_
+8	Spezies	Spezies	_	NN	case=gen|number=sg|gender=fem	8	null	_	_
+9	und	und	_	KON	_	9	null	_	_
+10	Homo	_	_	FM	_	10	null	_	_
+11	Reptilia	_	_	FM	_	11	null	_	_
+12	wird	werden	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	12	null	_	_
+13	jetzt	jetzt	_	ADV	_	13	null	_	_
+14	abgehalten	abhalten	_	VVPP	_	14	null	_	_
+15	.	.	_	$.	_	15	null	_	_
+
+1	Das	die	_	PDS	person=-|case=acc|number=sg	1	null	_	_
+2	habe	haben	_	VAFIN	person=1|number=sg|tense=pres|mood=ind	2	null	_	_
+3	ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	3	null	_	_
+4	noch	noch	_	ADV	_	4	null	_	_
+5	nie	nie	_	ADV	_	5	null	_	_
+6	gesagt	sagen	_	VVPP	_	6	null	_	_
+7	,	,	_	$,	_	7	null	_	_
+8	dass	dass	_	KOUS	_	8	null	_	_
+9	ist	sein	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	9	null	_	_
+10	toll	toll	_	ADJD	degree=pos	10	null	_	_
+11	!	!	_	$.	_	11	null	_	_
+
+1	Machen	machen	_	VVFIN	person=3|number=pl|tense=pres|mood=ind	1	null	_	_
+2	wir	sie	_	PPER	person=1|case=nom|number=pl|gender=*	2	null	_	_
+3	weiter	weiter	_	ADV	_	3	null	_	_
+4	!	!	_	$.	_	4	null	_	_
+
+1	Nun	nun	_	ADV	_	1	null	_	_
+2	,	,	_	$,	_	2	null	_	_
+3	Mo	_	_	NE	case=nom|number=sg|gender=masc	3	null	_	_
+4	,	,	_	$,	_	4	null	_	_
+5	gehen	gehen	_	VVFIN	person=1|number=pl|tense=pres|mood=ind	5	null	_	_
+6	wir	sie	_	PPER	person=1|case=nom|number=pl|gender=*	6	null	_	_
+7	Ihren	ihre	_	PPOSAT	person=-|case=acc|number=sg	7	null	_	_
+8	Sohn	Sohn	_	NN	case=acc|number=sg|gender=masc	8	null	_	_
+9	holen	holen	_	VVINF	_	9	null	_	_
+10	.	.	_	$.	_	10	null	_	_
+
+1	Ach	ach	_	ITJ	_	1	null	_	_
+2	,	,	_	$,	_	2	null	_	_
+3	wissen	wissen	_	VVFIN	person=3|number=pl|tense=pres|mood=ind	3	null	_	_
+4	Sie	sie	_	PPER	person=3|case=nom|number=pl|gender=*	4	null	_	_
+5	,	,	_	$,	_	5	null	_	_
+6	Menschen	Mensch	_	NN	case=nom|number=pl|gender=masc	6	null	_	_
+7	und	und	_	KON	_	7	null	_	_
+8	ihre	_	_	PPOSAT	person=-|case=nom|number=pl	8	null	_	_
+9	Vorgänger	Vorgänger	_	NN	case=nom|number=pl|gender=masc	9	null	_	_
+10	unterhalten	unterhalten	_	VVFIN	person=3|number=pl|tense=pres|mood=ind	10	null	_	_
+11	sich	sie	_	PRF	person=3|case=acc|number=pl	11	null	_	_
+12	ganz	ganz	_	ADV	_	12	null	_	_
+13	gemütlich	gemütlich	_	ADJD	degree=pos	13	null	_	_
+14	.	.	_	$.	_	14	null	_	_
+
+1	Niemals	niemals	_	ADV	_	1	null	_	_
+2	.	.	_	$.	_	2	null	_	_
+
+1	Wenn	wenn	_	KOUS	_	1	null	_	_
+2	er	sie	_	PPER	person=3|case=nom|number=sg|gender=masc	2	null	_	_
+3	lügt	lügen	_	VVFIN	person=3|number=sg|tense=pres|mood=ind	3	null	_	_
+4	,	,	_	$,	_	4	null	_	_
+5	haben	haben	_	VAFIN	person=3|number=pl|tense=pres|mood=ind	5	null	_	_
+6	Sie	sie	_	PPER	person=3|case=nom|number=pl|gender=*	6	null	_	_
+7	nichts	_	_	PIS	person=-|case=*|number=*	7	null	_	_
+8	zu	zu	_	PTKZU	_	8	null	_	_
+9	befürchten	befürchten	_	VVINF	_	9	null	_	_
+10	.	.	_	$.	_	10	null	_	_
+
+1	Kahless	_	_	NE	case=nom|number=sg|gender=*	1	null	_	_
+2	ist	sein	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	2	null	_	_
+3	seit	seit	_	APPR	_	3	null	_	_
+4	1.000	<card>	_	CARD	_	4	null	_	_
+5	Jahren	Jahr	_	NN	case=dat|number=pl|gender=neut	5	null	_	_
+6	tot	tot	_	ADJD	degree=pos	6	null	_	_
+7	.	.	_	$.	_	7	null	_	_
+
+1	Aber	aber	_	KON	_	1	null	_	_
+2	sein	seine	_	PPOSAT	person=-|case=nom|number=sg	2	null	_	_
+3	Geist	Geist	_	NN	case=nom|number=sg|gender=masc	3	null	_	_
+4	ist	sein	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	4	null	_	_
+5	noch	noch	_	ADV	_	5	null	_	_
+6	lebendig	lebendig	_	ADJD	degree=pos	6	null	_	_
+7	.	.	_	$.	_	7	null	_	_
+
+1	Haben	haben	_	VAFIN	person=3|number=pl|tense=pres|mood=ind	1	null	_	_
+2	Sie	sie	_	PPER	person=3|case=nom|number=pl|gender=*	2	null	_	_
+3	je	je	_	ADV	_	3	null	_	_
+4	einen	eine	_	ART	case=acc|number=sg|gender=masc	4	null	_	_
+5	Geist	Geist	_	NN	case=acc|number=sg|gender=masc	5	null	_	_
+6	bekämpft	bekämpfen	_	VVPP	_	6	null	_	_
+7	?	?	_	$.	_	7	null	_	_
+
+1	Keine	keine	_	PIAT	person=-|case=nom|number=sg	1	null	_	_
+2	Waffe	Waffe	_	NN	case=nom|number=sg|gender=fem	2	null	_	_
+3	kann	können	_	VMFIN	person=3|number=sg|tense=pres|mood=ind	3	null	_	_
+4	ihn	sie	_	PPER	person=3|case=acc|number=sg|gender=masc	4	null	_	_
+5	vernichten	vernichten	_	VVINF	_	5	null	_	_
+6	.	.	_	$.	_	6	null	_	_
+
+1	Der	die	_	ART	case=nom|number=sg|gender=masc	1	null	_	_
+2	Geist	Geist	_	NN	case=nom|number=sg|gender=masc	2	null	_	_
+3	von	von	_	APPR	_	3	null	_	_
+4	Kahless	_	_	NE	case=dat|number=sg|gender=*	4	null	_	_
+5	muss	müssen	_	VMFIN	person=3|number=sg|tense=pres|mood=ind	5	null	_	_
+6	aber	aber	_	ADV	_	6	null	_	_
+7	sofort	sofort	_	ADV	_	7	null	_	_
+8	ausgemerzt	ausmerzen	_	VVPP	_	8	null	_	_
+9	werden	werden	_	VAINF	_	9	null	_	_
+10	,	,	_	$,	_	10	null	_	_
+11	oder	oder	_	KON	_	11	null	_	_
+12	er	sie	_	PPER	person=3|case=nom|number=sg|gender=masc	12	null	_	_
+13	wird	werden	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	13	null	_	_
+14	sich	sie	_	PRF	person=3|case=acc|number=sg	14	null	_	_
+15	wie	wie	_	KOUS	_	15	null	_	_
+16	eine	eine	_	ART	case=acc|number=sg|gender=fem	16	null	_	_
+17	Welle	Welle	_	NN	case=acc|number=sg|gender=fem	17	null	_	_
+18	im	in	_	APPRART	case=dat|number=sg|gender=neut	18	null	_	_
+19	Reich	Reich	_	NN	case=dat|number=sg|gender=neut	19	null	_	_
+20	verbreiten	verbreiten	_	VVINF	_	20	null	_	_
+21	,	,	_	$,	_	21	null	_	_
+22	und	und	_	KON	_	22	null	_	_
+23	bleiben	bleiben	_	VVINF	_	23	null	_	_
+24	wird	werden	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	24	null	_	_
+25	nichts	_	_	PIS	person=-|case=*|number=*	25	null	_	_
+26	als	als	_	KOUS	_	26	null	_	_
+27	eine	eine	_	ART	case=acc|number=sg|gender=fem	27	null	_	_
+28	öde	öde	_	ADJA	degree=pos|case=acc|number=sg|gender=fem	28	null	_	_
+29	Wüste	Wüste	_	NN	case=acc|number=sg|gender=fem	29	null	_	_
+30	.	.	_	$.	_	30	null	_	_
+
+1	Gowron	_	_	NE	case=nom|number=sg|gender=*	1	null	_	_
+2	ist	sein	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	2	null	_	_
+3	also	also	_	ADV	_	3	null	_	_
+4	an	an	_	APPR	_	4	null	_	_
+5	Bord	Bord	_	NN	case=dat|number=sg|gender=neut	5	null	_	_
+6	gekommen	kommen	_	VVPP	_	6	null	_	_
+7	,	,	_	$,	_	7	null	_	_
+8	um	um	_	KOUI	_	8	null	_	_
+9	Ihren	ihre	_	PPOSAT	person=-|case=acc|number=sg	9	null	_	_
+10	Anspruch	Anspruch	_	NN	case=acc|number=sg|gender=masc	10	null	_	_
+11	zu	zu	_	PTKZU	_	11	null	_	_
+12	prüfen	prüfen	_	VVINF	_	12	null	_	_
+13	.	.	_	$.	_	13	null	_	_
+
+1	Gowron	_	_	NE	case=nom|number=sg|gender=*	1	null	_	_
+2	weiß	wissen	_	VVFIN	person=3|number=sg|tense=pres|mood=ind	2	null	_	_
+3	,	,	_	$,	_	3	null	_	_
+4	seine	_	_	PPOSAT	person=-|case=nom|number=pl	4	null	_	_
+5	Tage	Tag	_	NN	case=nom|number=pl|gender=masc	5	null	_	_
+6	sind	sein	_	VAFIN	person=3|number=pl|tense=pres|mood=ind	6	null	_	_
+7	gezählt	zählen	_	VVPP	_	7	null	_	_
+8	.	.	_	$.	_	8	null	_	_
+
+1	Also	also	_	ADV	_	1	null	_	_
+2	kommt	kommen	_	VVFIN	person=3|number=sg|tense=pres|mood=ind	2	null	_	_
+3	er	sie	_	PPER	person=3|case=nom|number=sg|gender=masc	3	null	_	_
+4	mit	mit	_	APPR	_	4	null	_	_
+5	einem	eine	_	ART	case=dat|number=sg|gender=masc	5	null	_	_
+6	läppischen	läppisch	_	ADJA	degree=pos|case=dat|number=sg|gender=masc	6	null	_	_
+7	Test	Test	_	NN	case=dat|number=sg|gender=masc	7	null	_	_
+8	daher	daher	_	PTKVZ	_	8	null	_	_
+9	.	.	_	$.	_	9	null	_	_
+
+1	Das	die	_	PDS	person=-|case=nom|number=sg	1	null	_	_
+2	hat	haben	_	VAFIN	person=3|number=sg|tense=pres|mood=ind	2	null	_	_
+3	was	_	_	PIS	person=-|case=*|number=*	3	null	_	_
+4	.	.	_	$.	_	4	null	_	_
+
+1	Aber	aber	_	KON	_	1	null	_	_
+2	denk	denken	_	VVIMP	person=2|number=sg	2	null	_	_
+3	dran	_	_	ADV	_	3	null	_	_
+4	du	sie	_	PPER	person=2|case=nom|number=sg|gender=*	4	null	_	_
+5	bist	sein	_	VAFIN	person=2|number=sg|tense=pres|mood=ind	5	null	_	_
+6	nicht	nicht	_	PTKNEG	_	6	null	_	_
+7	wirklich	wirklich	_	ADJD	degree=pos	7	null	_	_
+8	sauer	sauer	_	ADJD	degree=pos	8	null	_	_
+9	wegen	wegen	_	APPR	_	9	null	_	_
+10	der	_	_	ART	case=*|number=sg|gender=fem	10	null	_	_
+11	schnurrbarthaare	_	_	NE	case=*|number=*|gender=*	11	null	_	_
+12	.	.	_	$.	_	12	null	_	_
+
+1	Du	sie	_	PPER	person=2|case=nom|number=sg|gender=*	1	null	_	_
+2	bist	sein	_	VAFIN	person=2|number=sg|tense=pres|mood=ind	2	null	_	_
+3	sauer	sauer	_	ADJD	degree=pos	3	null	_	_
+4	weil	weil	_	KOUS	_	4	null	_	_
+5	ich	sie	_	PPER	person=1|case=nom|number=sg|gender=*	5	null	_	_
+6	dir	sie	_	PPER	person=2|case=dat|number=sg|gender=*	6	null	_	_
+7	nicht	nicht	_	PTKNEG	_	7	null	_	_
+8	zuhöre	zuhören	_	VVFIN	person=1|number=sg|tense=pres|mood=ind	8	null	_	_
+9	,	,	_	$,	_	9	null	_	_
+10	deine	deine	_	PPOSAT	person=-|case=nom|number=pl	10	null	_	_
+11	Freunde	Freund	_	NN	case=nom|number=pl|gender=masc	11	null	_	_
+12	nicht	nicht	_	PTKNEG	_	12	null	_	_
+13	mag	mögen	_	VMFIN	person=3|number=sg|tense=pres|mood=ind	13	null	_	_
+14	und	und	_	KON	_	14	null	_	_
+15	über	über	_	APPR	_	15	null	_	_
+16	deine	deine	_	PPOSAT	person=-|case=acc|number=sg	16	null	_	_
+17	Mutter	Mutter	_	NN	case=acc|number=sg|gender=fem	17	null	_	_
+18	läster	_	_	ADJD	degree=comp	18	null	_	_
+19	.	.	_	$.	_	19	null	_	_
+
+
+

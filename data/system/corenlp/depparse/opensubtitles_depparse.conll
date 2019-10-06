@@ -1,0 +1,1717 @@
+1	Du	_	_	_	_	2	nsubj	_	_
+2	willst	_	_	_	_	0	root	_	_
+3	alles	_	_	_	_	4	dobj	_	_
+4	wissen	_	_	_	_	2	xcomp	_	_
+5	.	_	_	_	_	2	punct	_	_
+
+1	Es	_	_	_	_	4	nsubj	_	_
+2	ist	_	_	_	_	4	cop	_	_
+3	mein	_	_	_	_	4	det	_	_
+4	Töff	_	_	_	_	0	root	_	_
+5	,	_	_	_	_	4	punct	_	_
+6	oder	_	_	_	_	4	cc	_	_
+7	!	_	_	_	_	4	punct	_	_
+
+1	Gut	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	punct	_	_
+3	also	_	_	_	_	6	advmod	_	_
+4	das	_	_	_	_	5	det	_	_
+5	Benzin	_	_	_	_	6	nsubj	_	_
+6	geht	_	_	_	_	1	acl	_	_
+7	hier	_	_	_	_	6	advmod	_	_
+8	durch	_	_	_	_	6	mark	_	_
+9	,	_	_	_	_	6	punct	_	_
+10	da	_	_	_	_	11	advmod	_	_
+11	hinein	_	_	_	_	6	conj	_	_
+12	.	_	_	_	_	1	punct	_	_
+
+1	Da	_	_	_	_	2	advmod	_	_
+2	drin	_	_	_	_	6	advmod	_	_
+3	ist	_	_	_	_	6	cop	_	_
+4	es	_	_	_	_	6	nsubj	_	_
+5	sehr	_	_	_	_	6	advmod	_	_
+6	heiss	_	_	_	_	0	root	_	_
+7	.	_	_	_	_	6	punct	_	_
+
+1	Dann	_	_	_	_	4	advmod	_	_
+2	die	_	_	_	_	3	det	_	_
+3	Kerze	_	_	_	_	4	dobj	_	_
+4	maken	_	_	_	_	0	root	_	_
+5	ein	_	_	_	_	4	mark	_	_
+6	...	_	_	_	_	4	punct	_	_
+
+1	Ja	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	punct	_	_
+3	wie	_	_	_	_	5	case	_	_
+4	ein	_	_	_	_	5	det	_	_
+5	Messer	_	_	_	_	2	root	_	_
+6	auf	_	_	_	_	8	case	_	_
+7	dem	_	_	_	_	8	det	_	_
+8	Schleifstein	_	_	_	_	5	nmod	_	_
+9	.	_	_	_	_	5	punct	_	_
+
+1	Wie	_	_	_	_	3	case	_	_
+2	ein	_	_	_	_	3	det	_	_
+3	Feuerzeug	_	_	_	_	0	root	_	_
+4	.	_	_	_	_	3	punct	_	_
+
+1	Ein	_	_	_	_	2	det	_	_
+2	Funke	_	_	_	_	0	root	_	_
+3	.	_	_	_	_	2	punct	_	_
+
+1	Funke	_	_	_	_	0	root	_	_
+2	...	_	_	_	_	1	punct	_	_
+3	gut	_	_	_	_	1	advmod	_	_
+4	.	_	_	_	_	1	punct	_	_
+
+1	Also	_	_	_	_	4	advmod	_	_
+2	die	_	_	_	_	3	det	_	_
+3	Kerze	_	_	_	_	4	nsubj	_	_
+4	machen	_	_	_	_	0	root	_	_
+5	ein	_	_	_	_	6	det	_	_
+6	Funke	_	_	_	_	9	nsubj	_	_
+7	und	_	_	_	_	6	cc	_	_
+8	päng	_	_	_	_	6	conj	_	_
+9	bringt	_	_	_	_	4	ccomp	_	_
+10	das	_	_	_	_	11	det	_	_
+11	Benzin	_	_	_	_	9	dobj	_	_
+12	zum	_	_	_	_	9	advmod	_	_
+13	Explodiern	_	_	_	_	9	mark	_	_
+
+1	Anateo	_	_	_	_	5	nsubj	_	_
+2	hat	_	_	_	_	5	aux	_	_
+3	uns	_	_	_	_	5	iobj	_	_
+4	alle	_	_	_	_	5	dobj	_	_
+5	verraten	_	_	_	_	0	root	_	_
+6	und	_	_	_	_	5	cc	_	_
+7	er	_	_	_	_	10	nsubjpass	_	_
+8	wird	_	_	_	_	10	auxpass	_	_
+9	dafür	_	_	_	_	10	advmod	_	_
+10	bezahlen	_	_	_	_	5	conj	_	_
+11	.	_	_	_	_	5	punct	_	_
+
+1	Und	_	_	_	_	4	cc	_	_
+2	wegen	_	_	_	_	4	case	_	_
+3	der	_	_	_	_	4	det	_	_
+4	Tau'ri	_	_	_	_	7	nmod	_	_
+5	...	_	_	_	_	4	punct	_	_
+6	sie	_	_	_	_	7	nsubj	_	_
+7	befanden	_	_	_	_	0	root	_	_
+8	sich	_	_	_	_	7	dobj	_	_
+9	schon	_	_	_	_	10	advmod	_	_
+10	im	_	_	_	_	11	amod	_	_
+11	Krieg	_	_	_	_	7	nsubj	_	_
+12	gegen	_	_	_	_	13	case	_	_
+13	uns	_	_	_	_	11	nmod	_	_
+14	und	_	_	_	_	11	cc	_	_
+15	wir	_	_	_	_	25	dobj	_	_
+16	gegen	_	_	_	_	17	case	_	_
+17	sie	_	_	_	_	25	nmod	_	_
+18	...	_	_	_	_	17	punct	_	_
+19	und	_	_	_	_	17	cc	_	_
+20	ich	_	_	_	_	17	conj	_	_
+21	werde	_	_	_	_	25	aux	_	_
+22	mich	_	_	_	_	25	dobj	_	_
+23	nicht	_	_	_	_	24	neg	_	_
+24	ängstlich	_	_	_	_	25	advmod	_	_
+25	verkriechen	_	_	_	_	11	acl	_	_
+26	.	_	_	_	_	7	punct	_	_
+
+1	Sagt	_	_	_	_	3	advmod	_	_
+2	das	_	_	_	_	3	nsubj	_	_
+3	weiter	_	_	_	_	0	root	_	_
+4	.	_	_	_	_	3	punct	_	_
+
+1	Schickt	_	_	_	_	0	root	_	_
+2	alle	_	_	_	_	4	det	_	_
+3	verfügbaren	_	_	_	_	4	amod	_	_
+4	Schiffe	_	_	_	_	1	dobj	_	_
+5	.	_	_	_	_	1	punct	_	_
+
+1	Ich	_	_	_	_	2	nsubj	_	_
+2	will	_	_	_	_	0	root	_	_
+3	,	_	_	_	_	2	punct	_	_
+4	dass	_	_	_	_	7	mark	_	_
+5	die	_	_	_	_	6	det	_	_
+6	0dyssey	_	_	_	_	7	nsubjpass	_	_
+7	gefunden	_	_	_	_	2	ccomp	_	_
+8	wird	_	_	_	_	7	auxpass	_	_
+9	.	_	_	_	_	2	punct	_	_
+
+1	Sofort	_	_	_	_	0	root	_	_
+2	!	_	_	_	_	1	punct	_	_
+
+1	Kefflin	_	_	_	_	0	root	_	_
+2	.	_	_	_	_	1	punct	_	_
+
+1	War	_	_	_	_	4	cop	_	_
+2	es	_	_	_	_	4	nsubj	_	_
+3	wirklich	_	_	_	_	4	advmod	_	_
+4	nötig	_	_	_	_	0	root	_	_
+5	,	_	_	_	_	4	punct	_	_
+6	mich	_	_	_	_	9	dobj	_	_
+7	so	_	_	_	_	9	advmod	_	_
+8	zu	_	_	_	_	9	aux	_	_
+9	blamieren	_	_	_	_	4	xcomp	_	_
+10	?	_	_	_	_	4	punct	_	_
+
+1	Es	_	_	_	_	2	expl	_	_
+2	gab	_	_	_	_	0	root	_	_
+3	Gerüchte	_	_	_	_	2	nsubj	_	_
+4	wegen	_	_	_	_	6	case	_	_
+5	der	_	_	_	_	6	det	_	_
+6	Stärke	_	_	_	_	3	nmod	_	_
+7	deiner	_	_	_	_	8	amod	_	_
+8	Führung	_	_	_	_	6	det	_	_
+9	.	_	_	_	_	2	punct	_	_
+
+1	Jetzt	_	_	_	_	5	advmod	_	_
+2	werden	_	_	_	_	5	aux	_	_
+3	diese	_	_	_	_	4	det	_	_
+4	Gerüchte	_	_	_	_	5	dobj	_	_
+5	aufhören	_	_	_	_	0	root	_	_
+6	.	_	_	_	_	5	punct	_	_
+
+1	Und	_	_	_	_	0	root	_	_
+2	?	_	_	_	_	1	punct	_	_
+
+1	Wirst	_	_	_	_	5	advmod	_	_
+2	du	_	_	_	_	5	aux	_	_
+3	es	_	_	_	_	5	dobj	_	_
+4	so	_	_	_	_	5	advmod	_	_
+5	lassen	_	_	_	_	0	root	_	_
+6	oder	_	_	_	_	5	cc	_	_
+7	wirst	_	_	_	_	12	aux	_	_
+8	du	_	_	_	_	12	nsubj	_	_
+9	das	_	_	_	_	12	dobj	_	_
+10	in	_	_	_	_	11	case	_	_
+11	Ordnung	_	_	_	_	12	nmod	_	_
+12	bringen	_	_	_	_	5	conj	_	_
+13	?	_	_	_	_	5	punct	_	_
+
+1	Bist	_	_	_	_	0	root	_	_
+2	du	_	_	_	_	3	case	_	_
+3	glücklich	_	_	_	_	1	nmod	_	_
+4	?	_	_	_	_	1	punct	_	_
+
+1	Ja	_	_	_	_	0	root	_	_
+2	.	_	_	_	_	1	punct	_	_
+
+1	-	_	_	_	_	2	punct	_	_
+2	Es	_	_	_	_	4	nsubj	_	_
+3	ist	_	_	_	_	4	cop	_	_
+4	nett	_	_	_	_	0	root	_	_
+5	von	_	_	_	_	6	case	_	_
+6	dir	_	_	_	_	4	nmod	_	_
+7	,	_	_	_	_	4	punct	_	_
+8	dass	_	_	_	_	10	cc	_	_
+9	du	_	_	_	_	10	case	_	_
+10	hilfst	_	_	_	_	4	nmod	_	_
+11	.	_	_	_	_	4	punct	_	_
+
+1	-	_	_	_	_	2	punct	_	_
+2	Einmal	_	_	_	_	0	root	_	_
+3	ein	_	_	_	_	4	det	_	_
+4	Pfadfinder	_	_	_	_	2	nsubj	_	_
+5	,	_	_	_	_	4	punct	_	_
+6	immer	_	_	_	_	8	advmod	_	_
+7	ein	_	_	_	_	8	det	_	_
+8	Pfadfinder	_	_	_	_	4	appos	_	_
+9	.	_	_	_	_	2	punct	_	_
+
+1	-	_	_	_	_	3	punct	_	_
+2	Du	_	_	_	_	3	name	_	_
+3	warst	_	_	_	_	0	root	_	_
+4	nie	_	_	_	_	6	neg	_	_
+5	ein	_	_	_	_	6	det	_	_
+6	Pfandfinder	_	_	_	_	3	nsubj	_	_
+7	.	_	_	_	_	3	punct	_	_
+
+1	-	_	_	_	_	2	punct	_	_
+2	Offensichtlich	_	_	_	_	5	advmod	_	_
+3	habe	_	_	_	_	5	aux	_	_
+4	ich	_	_	_	_	5	nsubj	_	_
+5	mein	_	_	_	_	0	root	_	_
+6	...	_	_	_	_	5	punct	_	_
+
+1	Verdienstabzeichen	_	_	_	_	4	dobj	_	_
+2	für	_	_	_	_	3	case	_	_
+3	Biberfallen	_	_	_	_	1	nmod	_	_
+4	bekommen	_	_	_	_	0	root	_	_
+5	.	_	_	_	_	4	punct	_	_
+
+1	-	_	_	_	_	2	punct	_	_
+2	Konzentriere	_	_	_	_	6	dep	_	_
+3	dich	_	_	_	_	6	advmod	_	_
+4	lieber	_	_	_	_	6	advmod	_	_
+5	da	_	_	_	_	6	advmod	_	_
+6	drauf	_	_	_	_	0	root	_	_
+7	.	_	_	_	_	6	punct	_	_
+
+1	Kommt	_	_	_	_	0	root	_	_
+2	mit	_	_	_	_	3	case	_	_
+3	mir	_	_	_	_	1	nmod	_	_
+4	.	_	_	_	_	1	punct	_	_
+
+1	Wisst	_	_	_	_	8	advmod	_	_
+2	ihr	_	_	_	_	8	nsubj	_	_
+3	,	_	_	_	_	8	punct	_	_
+4	wie	_	_	_	_	5	advmod	_	_
+5	wertvoll	_	_	_	_	8	acl	_	_
+6	diese	_	_	_	_	7	det	_	_
+7	Mohnblumen	_	_	_	_	8	nsubj	_	_
+8	waren	_	_	_	_	0	root	_	_
+9	?	_	_	_	_	8	punct	_	_
+
+1	In	_	_	_	_	2	case	_	_
+2	Rauch	_	_	_	_	3	nmod	_	_
+3	aufgegangen	_	_	_	_	0	root	_	_
+4	.	_	_	_	_	3	punct	_	_
+
+1	-	_	_	_	_	2	punct	_	_
+2	Was	_	_	_	_	0	root	_	_
+3	?	_	_	_	_	2	punct	_	_
+
+1	Hat	_	_	_	_	4	aux	_	_
+2	sie	_	_	_	_	4	nsubj	_	_
+3	jemand	_	_	_	_	4	dobj	_	_
+4	angezündet	_	_	_	_	0	root	_	_
+5	?	_	_	_	_	4	punct	_	_
+
+1	-	_	_	_	_	2	punct	_	_
+2	Ja	_	_	_	_	0	root	_	_
+3	.	_	_	_	_	2	punct	_	_
+
+1	Betrunkene	_	_	_	_	2	advmod	_	_
+2	irische	_	_	_	_	3	amod	_	_
+3	Familie	_	_	_	_	0	root	_	_
+4	,	_	_	_	_	3	punct	_	_
+5	die	_	_	_	_	6	det	_	_
+6	Straße	_	_	_	_	7	dobj	_	_
+7	hoch	_	_	_	_	3	xcomp	_	_
+8	.	_	_	_	_	3	punct	_	_
+
+1	Die	_	_	_	_	2	det	_	_
+2	O'Hallorans	_	_	_	_	0	root	_	_
+3	.	_	_	_	_	2	punct	_	_
+
+1	Warum	_	_	_	_	0	root	_	_
+2	?	_	_	_	_	1	punct	_	_
+
+1	Was	_	_	_	_	4	nsubj	_	_
+2	hast	_	_	_	_	4	aux	_	_
+3	du	_	_	_	_	4	dobj	_	_
+4	getan	_	_	_	_	0	root	_	_
+5	,	_	_	_	_	4	punct	_	_
+6	um	_	_	_	_	9	mark	_	_
+7	sie	_	_	_	_	9	dobj	_	_
+8	zu	_	_	_	_	9	aux	_	_
+9	verärgern	_	_	_	_	4	advcl	_	_
+10	?	_	_	_	_	4	punct	_	_
+
+1	-	_	_	_	_	2	punct	_	_
+2	Arbeitet	_	_	_	_	0	root	_	_
+3	sie	_	_	_	_	2	nsubj	_	_
+4	nicht	_	_	_	_	2	neg	_	_
+5	für	_	_	_	_	6	case	_	_
+6	dich	_	_	_	_	2	nmod	_	_
+7	,	_	_	_	_	2	punct	_	_
+8	Vince	_	_	_	_	2	conj	_	_
+9	?	_	_	_	_	2	punct	_	_
+
+1	-	_	_	_	_	2	punct	_	_
+2	Ja	_	_	_	_	0	root	_	_
+3	,	_	_	_	_	2	punct	_	_
+4	allerdings	_	_	_	_	2	dep	_	_
+5	.	_	_	_	_	4	punct	_	_
+
+1	Und	_	_	_	_	7	cc	_	_
+2	bei	_	_	_	_	3	case	_	_
+3	E	_	_	_	_	7	nmod	_	_
+4	einfach	_	_	_	_	7	advmod	_	_
+5	den	_	_	_	_	6	det	_	_
+6	Hörer	_	_	_	_	7	dobj	_	_
+7	aufzulegen	_	_	_	_	0	root	_	_
+8	,	_	_	_	_	7	punct	_	_
+9	muss	_	_	_	_	11	aux	_	_
+10	ziemlich	_	_	_	_	11	advmod	_	_
+11	entmannend	_	_	_	_	7	parataxis	_	_
+12	gewesen	_	_	_	_	11	cop	_	_
+13	sein	_	_	_	_	12	aux	_	_
+14	?	_	_	_	_	11	punct	_	_
+
+1	Fühlte	_	_	_	_	0	root	_	_
+2	sich	_	_	_	_	1	dobj	_	_
+3	an	_	_	_	_	1	mark	_	_
+4	,	_	_	_	_	1	punct	_	_
+5	wie	_	_	_	_	7	case	_	_
+6	zum	_	_	_	_	7	amod	_	_
+7	Direktor	_	_	_	_	11	nmod	_	_
+8	Reeve	_	_	_	_	11	advmod	_	_
+9	ins	_	_	_	_	10	amod	_	_
+10	Büro	_	_	_	_	11	dobj	_	_
+11	gerufen	_	_	_	_	1	acl	_	_
+12	zu	_	_	_	_	13	aux	_	_
+13	werden	_	_	_	_	11	auxpass	_	_
+14	.	_	_	_	_	1	punct	_	_
+
+1	Genauso	_	_	_	_	8	advmod	_	_
+2	wie	_	_	_	_	8	mark	_	_
+3	er	_	_	_	_	8	nsubj	_	_
+4	,	_	_	_	_	8	punct	_	_
+5	werde	_	_	_	_	8	aux	_	_
+6	ich	_	_	_	_	8	nsubj	_	_
+7	ihr	_	_	_	_	8	dobj	_	_
+8	sagen	_	_	_	_	0	root	_	_
+9	,	_	_	_	_	8	punct	_	_
+10	wie	_	_	_	_	12	mark	_	_
+11	es	_	_	_	_	12	nsubj	_	_
+12	ist	_	_	_	_	8	advcl	_	_
+13	.	_	_	_	_	8	punct	_	_
+
+1	Mach	_	_	_	_	0	root	_	_
+2	das	_	_	_	_	3	det	_	_
+3	bitte	_	_	_	_	1	dobj	_	_
+4	,	_	_	_	_	1	punct	_	_
+5	denn	_	_	_	_	13	mark	_	_
+6	ich	_	_	_	_	13	nsubj	_	_
+7	mag	_	_	_	_	13	aux	_	_
+8	ihr	_	_	_	_	13	iobj	_	_
+9	nicht	_	_	_	_	13	neg	_	_
+10	aus	_	_	_	_	12	case	_	_
+11	dem	_	_	_	_	12	det	_	_
+12	Weg	_	_	_	_	13	nmod	_	_
+13	gehen	_	_	_	_	1	advcl	_	_
+14	.	_	_	_	_	1	punct	_	_
+
+1	Nein	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	punct	_	_
+3	nein	_	_	_	_	1	conj	_	_
+4	.	_	_	_	_	1	punct	_	_
+
+1	Kein	_	_	_	_	3	neg	_	_
+2	weiteres	_	_	_	_	3	amod	_	_
+3	Ausweichen	_	_	_	_	0	root	_	_
+4	.	_	_	_	_	3	punct	_	_
+
+1	Wir	_	_	_	_	4	nsubj	_	_
+2	werden	_	_	_	_	4	aux	_	_
+3	ihr	_	_	_	_	4	iobj	_	_
+4	sagen	_	_	_	_	0	root	_	_
+5	,	_	_	_	_	4	punct	_	_
+6	wir	_	_	_	_	7	nsubj	_	_
+7	machen	_	_	_	_	4	ccomp	_	_
+8	keinen	_	_	_	_	9	neg	_	_
+9	Film	_	_	_	_	7	dobj	_	_
+10	über	_	_	_	_	11	case	_	_
+11	irgendwas	_	_	_	_	7	nmod	_	_
+12	,	_	_	_	_	4	punct	_	_
+13	bis	_	_	_	_	15	case	_	_
+14	die	_	_	_	_	15	det	_	_
+15	Kameras	_	_	_	_	21	nmod	_	_
+16	tatsächlich	_	_	_	_	21	advmod	_	_
+17	für	_	_	_	_	19	case	_	_
+18	"	_	_	_	_	19	punct	_	_
+19	Medellin	_	_	_	_	21	nmod	_	_
+20	"	_	_	_	_	19	punct	_	_
+21	anlaufen	_	_	_	_	4	xcomp	_	_
+22	.	_	_	_	_	4	punct	_	_
+
+1	Sie	_	_	_	_	0	root	_	_
+2	wird	_	_	_	_	1	appos	_	_
+3	angepisst	_	_	_	_	2	conj	_	_
+4	sein	_	_	_	_	3	cop	_	_
+5	,	_	_	_	_	3	punct	_	_
+6	wenn	_	_	_	_	8	mark	_	_
+7	sie	_	_	_	_	8	nsubj	_	_
+8	denkt	_	_	_	_	3	advcl	_	_
+9	,	_	_	_	_	8	punct	_	_
+10	du	_	_	_	_	12	case	_	_
+11	nimmst	_	_	_	_	12	amod	_	_
+12	Ari	_	_	_	_	8	nmod	_	_
+13	ernst	_	_	_	_	12	appos	_	_
+14	.	_	_	_	_	3	punct	_	_
+
+1	Anpassung	_	_	_	_	0	root	_	_
+2	von	_	_	_	_	3	case	_	_
+3	Movie	_	_	_	_	1	nmod	_	_
+
+1	Er	_	_	_	_	2	nsubj	_	_
+2	sieht	_	_	_	_	0	root	_	_
+3	wie	_	_	_	_	4	case	_	_
+4	Frankenstein	_	_	_	_	2	nmod	_	_
+5	aus	_	_	_	_	2	mark	_	_
+6	.	_	_	_	_	2	punct	_	_
+
+1	Immerhin	_	_	_	_	2	advmod	_	_
+2	läuft	_	_	_	_	0	root	_	_
+3	er	_	_	_	_	2	nsubj	_	_
+4	ohne	_	_	_	_	5	case	_	_
+5	Krücken	_	_	_	_	2	nmod	_	_
+6	.	_	_	_	_	2	punct	_	_
+
+1	Ja	_	_	_	_	4	appos	_	_
+2	,	_	_	_	_	4	punct	_	_
+3	ich	_	_	_	_	4	nsubj	_	_
+4	dachte	_	_	_	_	0	root	_	_
+5	,	_	_	_	_	4	punct	_	_
+6	er	_	_	_	_	9	nsubj	_	_
+7	wäre	_	_	_	_	9	cop	_	_
+8	glücklicher	_	_	_	_	9	advmod	_	_
+9	darüber	_	_	_	_	4	ccomp	_	_
+10	.	_	_	_	_	4	punct	_	_
+
+1	Ich	_	_	_	_	4	nsubj	_	_
+2	bin	_	_	_	_	4	cop	_	_
+3	glücklicher	_	_	_	_	4	advmod	_	_
+4	darüber	_	_	_	_	0	root	_	_
+5	.	_	_	_	_	4	punct	_	_
+
+1	Wie	_	_	_	_	2	advmod	_	_
+2	geht	_	_	_	_	0	root	_	_
+3	es	_	_	_	_	2	nsubj	_	_
+4	dir	_	_	_	_	2	advmod	_	_
+5	,	_	_	_	_	2	punct	_	_
+6	Maggie	_	_	_	_	2	conj	_	_
+7	?	_	_	_	_	2	punct	_	_
+
+1	Langer	_	_	_	_	2	amod	_	_
+2	Tag	_	_	_	_	0	root	_	_
+3	.	_	_	_	_	2	punct	_	_
+
+1	Sieht	_	_	_	_	0	root	_	_
+2	so	_	_	_	_	1	advmod	_	_
+3	aus	_	_	_	_	1	mark	_	_
+4	,	_	_	_	_	1	punct	_	_
+5	als	_	_	_	_	6	case	_	_
+6	fängt	_	_	_	_	1	nmod	_	_
+7	mein	_	_	_	_	8	det	_	_
+8	Tag	_	_	_	_	6	det	_	_
+9	gerade	_	_	_	_	8	case	_	_
+10	an	_	_	_	_	9	mark	_	_
+11	.	_	_	_	_	1	punct	_	_
+
+1	Hal	_	_	_	_	0	root	_	_
+2	.	_	_	_	_	1	punct	_	_
+
+1	Was	_	_	_	_	3	dobj	_	_
+2	ich	_	_	_	_	3	nsubj	_	_
+3	sage	_	_	_	_	0	root	_	_
+4	ist	_	_	_	_	3	aux	_	_
+5	,	_	_	_	_	3	punct	_	_
+6	mit	_	_	_	_	8	case	_	_
+7	dem	_	_	_	_	8	det	_	_
+8	Militär	_	_	_	_	9	nmod	_	_
+9	ausgenommen	_	_	_	_	3	parataxis	_	_
+10	sind	_	_	_	_	9	auxpass	_	_
+11	es	_	_	_	_	14	nsubj	_	_
+12	vielleicht	_	_	_	_	14	advmod	_	_
+13	vier	_	_	_	_	14	nummod	_	_
+14	Leute	_	_	_	_	9	nsubjpass	_	_
+15	,	_	_	_	_	14	punct	_	_
+16	die	_	_	_	_	18	nsubj	_	_
+17	genau	_	_	_	_	18	advmod	_	_
+18	wissen	_	_	_	_	14	acl	_	_
+19	,	_	_	_	_	18	punct	_	_
+20	wie	_	_	_	_	22	case	_	_
+21	dieser	_	_	_	_	22	det	_	_
+22	Ort	_	_	_	_	23	nmod	_	_
+23	funktioniert	_	_	_	_	18	ccomp	_	_
+24	.	_	_	_	_	3	punct	_	_
+
+1	-	_	_	_	_	3	punct	_	_
+2	Die	_	_	_	_	3	det	_	_
+3	Vaginoplastie	_	_	_	_	0	root	_	_
+4	.	_	_	_	_	3	punct	_	_
+
+1	Wird	_	_	_	_	5	aux	_	_
+2	die	_	_	_	_	3	det	_	_
+3	Vaginoplastie	_	_	_	_	5	dobj	_	_
+4	separat	_	_	_	_	5	xcomp	_	_
+5	gemacht	_	_	_	_	0	root	_	_
+6	?	_	_	_	_	5	punct	_	_
+
+1	Genau	_	_	_	_	0	root	_	_
+2	.	_	_	_	_	1	punct	_	_
+
+1	Das	_	_	_	_	4	nsubjpass	_	_
+2	wird	_	_	_	_	4	auxpass	_	_
+3	einzeln	_	_	_	_	4	advmod	_	_
+4	gemacht	_	_	_	_	0	root	_	_
+5	.	_	_	_	_	4	punct	_	_
+
+1	Ich	_	_	_	_	9	nsubjpass	_	_
+2	möchte	_	_	_	_	9	aux	_	_
+3	nicht	_	_	_	_	4	neg	_	_
+4	mehr	_	_	_	_	9	advmod	_	_
+5	als	_	_	_	_	6	case	_	_
+6	nötig	_	_	_	_	9	nmod	_	_
+7	unter	_	_	_	_	8	case	_	_
+8	Narkose	_	_	_	_	9	nmod	_	_
+9	gesetzt	_	_	_	_	0	root	_	_
+10	werden	_	_	_	_	9	auxpass	_	_
+11	.	_	_	_	_	9	punct	_	_
+
+1	Ich	_	_	_	_	2	nsubj	_	_
+2	bekomme	_	_	_	_	0	root	_	_
+3	eine	_	_	_	_	4	det	_	_
+4	Narkose	_	_	_	_	2	dobj	_	_
+5	,	_	_	_	_	2	punct	_	_
+6	und	_	_	_	_	2	cc	_	_
+7	dann	_	_	_	_	9	advmod	_	_
+8	noch	_	_	_	_	9	advmod	_	_
+9	eine	_	_	_	_	2	conj	_	_
+10	?	_	_	_	_	2	punct	_	_
+
+1	Es	_	_	_	_	5	nsubj	_	_
+2	ist	_	_	_	_	5	cop	_	_
+3	ein	_	_	_	_	5	det	_	_
+4	schwerer	_	_	_	_	5	amod	_	_
+5	Eingriff	_	_	_	_	0	root	_	_
+6	mit	_	_	_	_	9	case	_	_
+7	einer	_	_	_	_	9	det	_	_
+8	langen	_	_	_	_	9	amod	_	_
+9	Rekonvaleszenz	_	_	_	_	5	nmod	_	_
+10	.	_	_	_	_	5	punct	_	_
+
+1	Außerdem	_	_	_	_	2	advmod	_	_
+2	brauchen	_	_	_	_	0	root	_	_
+3	wir	_	_	_	_	2	nsubj	_	_
+4	dafür	_	_	_	_	2	advmod	_	_
+5	einen	_	_	_	_	6	det	_	_
+6	Spezialisten	_	_	_	_	2	dobj	_	_
+7	.	_	_	_	_	2	punct	_	_
+
+1	Aufregend	_	_	_	_	0	root	_	_
+2	.	_	_	_	_	1	punct	_	_
+
+1	Ja	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	4	punct	_	_
+3	das	_	_	_	_	4	nsubj	_	_
+4	ist	_	_	_	_	1	acl	_	_
+5	es	_	_	_	_	4	conj	_	_
+6	in	_	_	_	_	8	case	_	_
+7	der	_	_	_	_	8	det	_	_
+8	Tat	_	_	_	_	5	nmod	_	_
+9	.	_	_	_	_	8	punct	_	_
+
+1	-	_	_	_	_	2	punct	_	_
+2	Oh	_	_	_	_	0	root	_	_
+3	Gott	_	_	_	_	2	det	_	_
+4	.	_	_	_	_	2	punct	_	_
+
+1	Das	_	_	_	_	2	nsubj	_	_
+2	reicht	_	_	_	_	0	root	_	_
+3	,	_	_	_	_	2	punct	_	_
+4	Dad	_	_	_	_	2	conj	_	_
+5	!	_	_	_	_	2	punct	_	_
+
+1	Weißt	_	_	_	_	0	root	_	_
+2	du	_	_	_	_	1	dobj	_	_
+3	,	_	_	_	_	6	punct	_	_
+4	wovon	_	_	_	_	6	advmod	_	_
+5	ich	_	_	_	_	6	nsubj	_	_
+6	rede	_	_	_	_	2	appos	_	_
+7	?	_	_	_	_	6	punct	_	_
+
+1	-	_	_	_	_	2	punct	_	_
+2	Verstehst	_	_	_	_	0	root	_	_
+3	du	_	_	_	_	2	nsubj	_	_
+4	mich	_	_	_	_	2	dobj	_	_
+5	?	_	_	_	_	2	punct	_	_
+
+1	-	_	_	_	_	2	punct	_	_
+2	Dad	_	_	_	_	0	root	_	_
+3	,	_	_	_	_	2	punct	_	_
+4	das	_	_	_	_	5	nsubj	_	_
+5	reicht	_	_	_	_	2	acl	_	_
+6	!	_	_	_	_	2	punct	_	_
+
+1	Ich	_	_	_	_	2	nsubj	_	_
+2	gehe	_	_	_	_	0	root	_	_
+3	,	_	_	_	_	2	punct	_	_
+4	ok	_	_	_	_	2	dep	_	_
+5	.	_	_	_	_	4	punct	_	_
+
+1	Ok	_	_	_	_	0	root	_	_
+2	.	_	_	_	_	1	punct	_	_
+
+1	Gut	_	_	_	_	0	root	_	_
+2	.	_	_	_	_	1	punct	_	_
+
+1	Warte	_	_	_	_	0	root	_	_
+2	...	_	_	_	_	1	punct	_	_
+
+1	Ja	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	punct	_	_
+3	die	_	_	_	_	4	det	_	_
+4	DVD	_	_	_	_	1	appos	_	_
+5	.	_	_	_	_	1	punct	_	_
+
+1	Okay	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	punct	_	_
+3	ich	_	_	_	_	4	nsubj	_	_
+4	sehe	_	_	_	_	1	parataxis	_	_
+5	mal	_	_	_	_	4	advmod	_	_
+6	nach	_	_	_	_	4	mark	_	_
+7	,	_	_	_	_	4	punct	_	_
+8	ob	_	_	_	_	13	mark	_	_
+9	wir	_	_	_	_	13	nsubj	_	_
+10	noch	_	_	_	_	11	advmod	_	_
+11	gefrorene	_	_	_	_	12	amod	_	_
+12	Soja-Pizza	_	_	_	_	13	dobj	_	_
+13	haben	_	_	_	_	4	ccomp	_	_
+14	.	_	_	_	_	1	punct	_	_
+
+1	Ausweise	_	_	_	_	0	root	_	_
+2	.	_	_	_	_	1	punct	_	_
+
+1	-	_	_	_	_	2	punct	_	_
+2	Hi	_	_	_	_	0	root	_	_
+3	.	_	_	_	_	2	punct	_	_
+
+1	Echt	_	_	_	_	2	advmod	_	_
+2	jetzt	_	_	_	_	0	root	_	_
+3	?	_	_	_	_	2	punct	_	_
+
+1	Ja	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	punct	_	_
+3	Baby	_	_	_	_	11	dobj	_	_
+4	,	_	_	_	_	11	punct	_	_
+5	man	_	_	_	_	11	nsubj	_	_
+6	kann	_	_	_	_	11	aux	_	_
+7	euer	_	_	_	_	8	amod	_	_
+8	Alter	_	_	_	_	11	dobj	_	_
+9	kaum	_	_	_	_	10	advmod	_	_
+10	noch	_	_	_	_	11	advmod	_	_
+11	schätzen	_	_	_	_	1	acl	_	_
+12	,	_	_	_	_	11	punct	_	_
+13	wisst	_	_	_	_	11	conj	_	_
+14	ihr	_	_	_	_	13	iobj	_	_
+15	.	_	_	_	_	1	punct	_	_
+
+1	Ja	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	punct	_	_
+3	bitte	_	_	_	_	1	conj	_	_
+4	.	_	_	_	_	1	punct	_	_
+
+1	-	_	_	_	_	3	punct	_	_
+2	Der	_	_	_	_	3	det	_	_
+3	Abend	_	_	_	_	4	nsubj	_	_
+4	gefällt	_	_	_	_	0	root	_	_
+5	mir	_	_	_	_	4	iobj	_	_
+6	jetzt	_	_	_	_	4	advmod	_	_
+7	schon	_	_	_	_	4	advmod	_	_
+8	.	_	_	_	_	4	punct	_	_
+
+1	Rachel	_	_	_	_	0	root	_	_
+2	?	_	_	_	_	1	punct	_	_
+
+1	-	_	_	_	_	2	punct	_	_
+2	Ja	_	_	_	_	0	root	_	_
+3	,	_	_	_	_	2	punct	_	_
+4	das	_	_	_	_	6	nsubj	_	_
+5	bin	_	_	_	_	6	cop	_	_
+6	ich	_	_	_	_	2	root	_	_
+7	.	_	_	_	_	6	punct	_	_
+
+1	-	_	_	_	_	2	punct	_	_
+2	Vielen	_	_	_	_	3	amod	_	_
+3	Dank	_	_	_	_	0	root	_	_
+4	.	_	_	_	_	3	punct	_	_
+
+1	Es	_	_	_	_	2	nsubj	_	_
+2	gefällt	_	_	_	_	0	root	_	_
+3	mir	_	_	_	_	2	iobj	_	_
+4	viel	_	_	_	_	5	advmod	_	_
+5	besser	_	_	_	_	2	advmod	_	_
+6	,	_	_	_	_	2	punct	_	_
+7	wenn	_	_	_	_	11	mark	_	_
+8	wir	_	_	_	_	11	nsubj	_	_
+9	einer	_	_	_	_	10	det	_	_
+10	Meinung	_	_	_	_	11	iobj	_	_
+11	sind	_	_	_	_	2	advcl	_	_
+12	.	_	_	_	_	2	punct	_	_
+
+1	Ihnen	_	_	_	_	0	root	_	_
+2	nicht	_	_	_	_	1	neg	_	_
+3	?	_	_	_	_	1	punct	_	_
+
+1	Der	_	_	_	_	2	det	_	_
+2	Text	_	_	_	_	5	nsubj	_	_
+3	des	_	_	_	_	4	det	_	_
+4	Kosst	_	_	_	_	2	det	_	_
+5	Amojan	_	_	_	_	0	root	_	_
+6	,	_	_	_	_	5	punct	_	_
+7	wie	_	_	_	_	9	mark	_	_
+8	Sie	_	_	_	_	9	nsubj	_	_
+9	wünschten	_	_	_	_	5	advcl	_	_
+10	.	_	_	_	_	5	punct	_	_
+
+1	Sehr	_	_	_	_	2	advmod	_	_
+2	gut	_	_	_	_	0	root	_	_
+3	.	_	_	_	_	2	punct	_	_
+
+1	Also	_	_	_	_	0	root	_	_
+2	?	_	_	_	_	1	punct	_	_
+
+1	Legen	_	_	_	_	0	root	_	_
+2	Sie	_	_	_	_	1	nsubj	_	_
+3	ihn	_	_	_	_	1	dobj	_	_
+4	auf	_	_	_	_	6	case	_	_
+5	meinen	_	_	_	_	6	det	_	_
+6	Schreibtisch	_	_	_	_	1	nmod	_	_
+7	.	_	_	_	_	1	punct	_	_
+
+1	-	_	_	_	_	2	punct	_	_
+2	Eminenz	_	_	_	_	0	root	_	_
+3	,	_	_	_	_	2	punct	_	_
+4	darf	_	_	_	_	7	aux	_	_
+5	ich	_	_	_	_	7	nsubj	_	_
+6	offen	_	_	_	_	7	advmod	_	_
+7	sprechen	_	_	_	_	2	acl	_	_
+8	?	_	_	_	_	2	punct	_	_
+
+1	-	_	_	_	_	2	punct	_	_
+2	Wenn	_	_	_	_	4	mark	_	_
+3	es	_	_	_	_	4	nsubj	_	_
+4	sein	_	_	_	_	0	root	_	_
+5	muss	_	_	_	_	4	aux	_	_
+6	.	_	_	_	_	4	punct	_	_
+
+1	Dieses	_	_	_	_	2	det	_	_
+2	Buch	_	_	_	_	12	nsubjpass	_	_
+3	wurde	_	_	_	_	12	auxpass	_	_
+4	seit	_	_	_	_	6	case	_	_
+5	700	_	_	_	_	6	nummod	_	_
+6	Jahren	_	_	_	_	12	nmod	_	_
+7	nicht	_	_	_	_	8	neg	_	_
+8	mehr	_	_	_	_	12	advmod	_	_
+9	aus	_	_	_	_	11	case	_	_
+10	den	_	_	_	_	11	det	_	_
+11	Archiven	_	_	_	_	12	nmod	_	_
+12	geholt	_	_	_	_	0	root	_	_
+13	.	_	_	_	_	12	punct	_	_
+
+1	Was	_	_	_	_	5	dobj	_	_
+2	wollen	_	_	_	_	5	aux	_	_
+3	Sie	_	_	_	_	5	nsubj	_	_
+4	damit	_	_	_	_	5	advmod	_	_
+5	sagen	_	_	_	_	0	root	_	_
+6	?	_	_	_	_	5	punct	_	_
+
+1	Er	_	_	_	_	4	nsubj	_	_
+2	hat	_	_	_	_	4	aux	_	_
+3	dich	_	_	_	_	4	dobj	_	_
+4	gebraucht	_	_	_	_	0	root	_	_
+5	,	_	_	_	_	4	punct	_	_
+6	und	_	_	_	_	4	cc	_	_
+7	du	_	_	_	_	12	nsubj	_	_
+8	hast	_	_	_	_	12	aux	_	_
+9	ihn	_	_	_	_	12	iobj	_	_
+10	im	_	_	_	_	11	amod	_	_
+11	Stich	_	_	_	_	12	dobj	_	_
+12	gelassen	_	_	_	_	4	conj	_	_
+13	.	_	_	_	_	4	punct	_	_
+
+1	-	_	_	_	_	2	punct	_	_
+2	Mom	_	_	_	_	0	root	_	_
+3	,	_	_	_	_	2	punct	_	_
+4	Dad	_	_	_	_	2	conj	_	_
+5	,	_	_	_	_	2	punct	_	_
+6	helft	_	_	_	_	2	conj	_	_
+7	mir	_	_	_	_	6	iobj	_	_
+8	!	_	_	_	_	2	punct	_	_
+
+1	-	_	_	_	_	2	punct	_	_
+2	Schatz	_	_	_	_	0	root	_	_
+3	.	_	_	_	_	2	punct	_	_
+
+1	Eddie	_	_	_	_	7	nsubj	_	_
+2	wollte	_	_	_	_	7	aux	_	_
+3	den	_	_	_	_	4	det	_	_
+4	Brand	_	_	_	_	7	dobj	_	_
+5	in	_	_	_	_	6	case	_	_
+6	sich	_	_	_	_	7	nmod	_	_
+7	löschen	_	_	_	_	0	root	_	_
+8	,	_	_	_	_	7	punct	_	_
+9	indem	_	_	_	_	14	mark	_	_
+10	er	_	_	_	_	14	nsubj	_	_
+11	in	_	_	_	_	13	case	_	_
+12	den	_	_	_	_	13	det	_	_
+13	Fluss	_	_	_	_	14	nmod	_	_
+14	sprang	_	_	_	_	7	advcl	_	_
+15	.	_	_	_	_	7	punct	_	_
+
+1	Siehst	_	_	_	_	0	root	_	_
+2	du	_	_	_	_	1	nsubj	_	_
+3	?	_	_	_	_	1	punct	_	_
+
+1	Es	_	_	_	_	4	nsubj	_	_
+2	ist	_	_	_	_	4	cop	_	_
+3	das	_	_	_	_	4	det	_	_
+4	Beste	_	_	_	_	0	root	_	_
+5	,	_	_	_	_	4	punct	_	_
+6	wenn	_	_	_	_	13	mark	_	_
+7	wir	_	_	_	_	13	nsubj	_	_
+8	uns	_	_	_	_	13	dobj	_	_
+9	in	_	_	_	_	11	case	_	_
+10	diesen	_	_	_	_	11	det	_	_
+11	Dingen	_	_	_	_	13	nmod	_	_
+12	nicht	_	_	_	_	13	neg	_	_
+13	einmischen	_	_	_	_	4	advcl	_	_
+14	.	_	_	_	_	4	punct	_	_
+
+1	Aber	_	_	_	_	5	cc	_	_
+2	er	_	_	_	_	5	nsubj	_	_
+3	kann	_	_	_	_	5	aux	_	_
+4	nicht	_	_	_	_	5	neg	_	_
+5	schwimmen	_	_	_	_	0	root	_	_
+6	.	_	_	_	_	5	punct	_	_
+
+1	Du	_	_	_	_	6	dobj	_	_
+2	hast	_	_	_	_	6	aux	_	_
+3	es	_	_	_	_	6	nsubj	_	_
+4	ihm	_	_	_	_	6	iobj	_	_
+5	nie	_	_	_	_	6	neg	_	_
+6	beigebracht	_	_	_	_	0	root	_	_
+7	.	_	_	_	_	6	punct	_	_
+
+1	Lass	_	_	_	_	0	root	_	_
+2	ihn	_	_	_	_	1	dobj	_	_
+3	das	_	_	_	_	4	dobj	_	_
+4	lernen	_	_	_	_	1	acl	_	_
+5	,	_	_	_	_	1	punct	_	_
+6	wie	_	_	_	_	9	mark	_	_
+7	ich	_	_	_	_	9	nsubj	_	_
+8	es	_	_	_	_	9	nsubj	_	_
+9	tat	_	_	_	_	1	advcl	_	_
+10	:	_	_	_	_	9	punct	_	_
+11	auf	_	_	_	_	13	case	_	_
+12	der	_	_	_	_	13	det	_	_
+13	Straße	_	_	_	_	9	nmod	_	_
+14	.	_	_	_	_	1	punct	_	_
+
+1	Nächste	_	_	_	_	2	amod	_	_
+2	Woche	_	_	_	_	6	nmod	_	_
+3	bei	_	_	_	_	5	case	_	_
+4	Völlig	_	_	_	_	5	amod	_	_
+5	ineffektiver	_	_	_	_	6	nmod	_	_
+6	Dad	_	_	_	_	0	root	_	_
+7	die	_	_	_	_	9	det	_	_
+8	urkomische	_	_	_	_	9	amod	_	_
+9	Beerdigungsfolge	_	_	_	_	6	nsubj	_	_
+10	.	_	_	_	_	6	punct	_	_
+
+1	Ich	_	_	_	_	2	nsubj	_	_
+2	finde	_	_	_	_	0	root	_	_
+3	,	_	_	_	_	2	punct	_	_
+4	man	_	_	_	_	11	nsubj	_	_
+5	kann	_	_	_	_	11	aux	_	_
+6	über	_	_	_	_	9	case	_	_
+7	so	_	_	_	_	8	advmod	_	_
+8	persönliche	_	_	_	_	9	amod	_	_
+9	Dinge	_	_	_	_	11	nmod	_	_
+10	nur	_	_	_	_	11	advmod	_	_
+11	sprechen	_	_	_	_	2	ccomp	_	_
+12	,	_	_	_	_	11	punct	_	_
+13	wenn	_	_	_	_	18	mark	_	_
+14	der	_	_	_	_	15	det	_	_
+15	andere	_	_	_	_	18	nsubj	_	_
+16	das	_	_	_	_	17	det	_	_
+17	Verständnis	_	_	_	_	18	dobj	_	_
+18	hat	_	_	_	_	11	advcl	_	_
+19	.	_	_	_	_	2	punct	_	_
+
+1	Deshalb	_	_	_	_	2	advmod	_	_
+2	schäme	_	_	_	_	0	root	_	_
+3	ich	_	_	_	_	2	nsubj	_	_
+4	mich	_	_	_	_	2	dobj	_	_
+5	überhaupt	_	_	_	_	6	advmod	_	_
+6	nicht	_	_	_	_	2	neg	_	_
+7	,	_	_	_	_	2	punct	_	_
+8	Ihnen	_	_	_	_	10	dobj	_	_
+9	zu	_	_	_	_	10	aux	_	_
+10	sagen	_	_	_	_	2	xcomp	_	_
+11	:	_	_	_	_	2	punct	_	_
+12	Ohne	_	_	_	_	13	case	_	_
+13	Babs	_	_	_	_	16	nmod	_	_
+14	wäre	_	_	_	_	16	cop	_	_
+15	ich	_	_	_	_	16	nsubj	_	_
+16	verloren	_	_	_	_	2	parataxis	_	_
+17	.	_	_	_	_	2	punct	_	_
+
+1	Das	_	_	_	_	6	nsubj	_	_
+2	ist	_	_	_	_	6	aux	_	_
+3	mir	_	_	_	_	6	iobj	_	_
+4	ganz	_	_	_	_	5	advmod	_	_
+5	klar	_	_	_	_	6	xcomp	_	_
+6	geworden	_	_	_	_	0	root	_	_
+7	,	_	_	_	_	6	punct	_	_
+8	schon	_	_	_	_	12	advmod	_	_
+9	bei	_	_	_	_	12	case	_	_
+10	dieser	_	_	_	_	12	det	_	_
+11	kurzen	_	_	_	_	12	amod	_	_
+12	Trennung	_	_	_	_	6	nmod	_	_
+13	.	_	_	_	_	6	punct	_	_
+
+1	Ich	_	_	_	_	2	nsubj	_	_
+2	glaube	_	_	_	_	0	root	_	_
+3	,	_	_	_	_	2	punct	_	_
+4	das	_	_	_	_	8	nsubj	_	_
+5	wäre	_	_	_	_	8	cop	_	_
+6	ein	_	_	_	_	8	det	_	_
+7	schlechtes	_	_	_	_	8	amod	_	_
+8	Land	_	_	_	_	2	ccomp	_	_
+9	,	_	_	_	_	8	punct	_	_
+10	um	_	_	_	_	12	mark	_	_
+11	Kinder	_	_	_	_	12	dobj	_	_
+12	aufzuziehen	_	_	_	_	8	advcl	_	_
+13	.	_	_	_	_	2	punct	_	_
+
+1	Ich	_	_	_	_	2	nsubj	_	_
+2	weiß	_	_	_	_	0	root	_	_
+3	nicht	_	_	_	_	2	neg	_	_
+4	.	_	_	_	_	2	punct	_	_
+
+1	-	_	_	_	_	2	punct	_	_
+2	Wissen	_	_	_	_	0	root	_	_
+3	Sie	_	_	_	_	2	nsubj	_	_
+4	?	_	_	_	_	2	punct	_	_
+
+1	Babs	_	_	_	_	0	root	_	_
+2	und	_	_	_	_	1	cc	_	_
+3	ich	_	_	_	_	1	conj	_	_
+4	,	_	_	_	_	1	punct	_	_
+5	wir	_	_	_	_	11	nsubj	_	_
+6	wollten	_	_	_	_	11	aux	_	_
+7	am	_	_	_	_	11	nsubj	_	_
+8	liebsten	_	_	_	_	11	advmod	_	_
+9	gleich	_	_	_	_	10	advmod	_	_
+10	Kinder	_	_	_	_	11	dobj	_	_
+11	haben	_	_	_	_	1	ccomp	_	_
+12	.	_	_	_	_	1	punct	_	_
+
+1	Doch	_	_	_	_	3	cc	_	_
+2	dann	_	_	_	_	3	advmod	_	_
+3	kam	_	_	_	_	0	root	_	_
+4	ich	_	_	_	_	3	nsubj	_	_
+5	zu	_	_	_	_	7	case	_	_
+6	diesem	_	_	_	_	7	det	_	_
+7	Job	_	_	_	_	3	nmod	_	_
+8	.	_	_	_	_	3	punct	_	_
+
+1	Kinder	_	_	_	_	0	root	_	_
+2	...	_	_	_	_	1	punct	_	_
+
+1	Zuerst	_	_	_	_	2	advmod	_	_
+2	dachten	_	_	_	_	0	root	_	_
+3	wir	_	_	_	_	2	nsubj	_	_
+4	an	_	_	_	_	6	case	_	_
+5	2	_	_	_	_	6	nummod	_	_
+6	Jungen	_	_	_	_	2	nmod	_	_
+7	und	_	_	_	_	6	cc	_	_
+8	dann	_	_	_	_	9	advmod	_	_
+9	vielleicht	_	_	_	_	6	conj	_	_
+10	ein	_	_	_	_	11	det	_	_
+11	Mädchen	_	_	_	_	2	dobj	_	_
+12	.	_	_	_	_	2	punct	_	_
+
+1	Auf	_	_	_	_	3	case	_	_
+2	der	_	_	_	_	3	det	_	_
+3	Flucht	_	_	_	_	9	nmod	_	_
+4	vor	_	_	_	_	6	case	_	_
+5	der	_	_	_	_	6	det	_	_
+6	Steuerfaschistin	_	_	_	_	3	nmod	_	_
+7	konnte	_	_	_	_	9	aux	_	_
+8	ich	_	_	_	_	9	nsubj	_	_
+9	Pluspunkte	_	_	_	_	0	root	_	_
+10	bei	_	_	_	_	11	case	_	_
+11	Sam	_	_	_	_	15	nmod	_	_
+12	und	_	_	_	_	11	cc	_	_
+13	den	_	_	_	_	14	det	_	_
+14	Kindern	_	_	_	_	11	conj	_	_
+15	sammeln	_	_	_	_	9	xcomp	_	_
+16	.	_	_	_	_	9	punct	_	_
+
+1	Wer	_	_	_	_	2	nsubj	_	_
+2	hält	_	_	_	_	0	root	_	_
+3	mich	_	_	_	_	2	dobj	_	_
+4	für	_	_	_	_	7	case	_	_
+5	den	_	_	_	_	7	det	_	_
+6	besten	_	_	_	_	7	amod	_	_
+7	Daddy	_	_	_	_	2	nmod	_	_
+8	der	_	_	_	_	9	det	_	_
+9	Welt	_	_	_	_	7	det	_	_
+10	?	_	_	_	_	2	punct	_	_
+
+1	-	_	_	_	_	2	punct	_	_
+2	Wer	_	_	_	_	6	nsubj	_	_
+3	will	_	_	_	_	6	aux	_	_
+4	heute	_	_	_	_	6	advmod	_	_
+5	Schule	_	_	_	_	6	dobj	_	_
+6	schwänzen	_	_	_	_	0	root	_	_
+7	?	_	_	_	_	6	punct	_	_
+
+1	-	_	_	_	_	2	punct	_	_
+2	Ja	_	_	_	_	0	root	_	_
+3	.	_	_	_	_	2	punct	_	_
+
+1	Schon	_	_	_	_	2	advmod	_	_
+2	besser	_	_	_	_	0	root	_	_
+3	.	_	_	_	_	2	punct	_	_
+
+1	Okay	_	_	_	_	0	root	_	_
+2	.	_	_	_	_	1	punct	_	_
+
+1	Die	_	_	_	_	2	det	_	_
+2	Swans	_	_	_	_	3	nsubj	_	_
+3	machen	_	_	_	_	0	root	_	_
+4	einen	_	_	_	_	5	det	_	_
+5	Familienausflug	_	_	_	_	3	dobj	_	_
+6	.	_	_	_	_	3	punct	_	_
+
+1	Die	_	_	_	_	3	det	_	_
+2	finden	_	_	_	_	3	amod	_	_
+3	Wege	_	_	_	_	0	root	_	_
+4	,	_	_	_	_	3	punct	_	_
+5	die	_	_	_	_	6	det	_	_
+6	Seite	_	_	_	_	13	nsubj	_	_
+7	drei	_	_	_	_	13	dobj	_	_
+8	jetzt	_	_	_	_	9	advmod	_	_
+9	sogar	_	_	_	_	13	advmod	_	_
+10	noch	_	_	_	_	11	advmod	_	_
+11	gruseliger	_	_	_	_	13	xcomp	_	_
+12	zu	_	_	_	_	13	aux	_	_
+13	machen	_	_	_	_	3	acl	_	_
+14	.	_	_	_	_	3	punct	_	_
+
+1	"	_	_	_	_	12	punct	_	_
+2	Die	_	_	_	_	5	det	_	_
+3	süße	_	_	_	_	5	amod	_	_
+4	Karen	_	_	_	_	5	name	_	_
+5	Clarke	_	_	_	_	12	nsubj	_	_
+6	war	_	_	_	_	12	cop	_	_
+7	schon	_	_	_	_	12	advmod	_	_
+8	in	_	_	_	_	10	case	_	_
+9	jungen	_	_	_	_	10	amod	_	_
+10	Jahren	_	_	_	_	12	nmod	_	_
+11	eine	_	_	_	_	12	det	_	_
+12	Oben-ohne-Schönheit	_	_	_	_	0	root	_	_
+13	.	_	_	_	_	12	punct	_	_
+
+1	Aber	_	_	_	_	7	cc	_	_
+2	jetzt	_	_	_	_	7	advmod	_	_
+3	ist	_	_	_	_	7	cop	_	_
+4	sie	_	_	_	_	7	nsubj	_	_
+5	ein	_	_	_	_	7	det	_	_
+6	großes	_	_	_	_	7	amod	_	_
+7	Mädchen	_	_	_	_	0	root	_	_
+8	und	_	_	_	_	7	cc	_	_
+9	eine	_	_	_	_	11	det	_	_
+10	wohlgeformte	_	_	_	_	11	amod	_	_
+11	Lady	_	_	_	_	7	conj	_	_
+12	.	_	_	_	_	7	punct	_	_
+13	"	_	_	_	_	7	punct	_	_
+
+1	Was	_	_	_	_	0	root	_	_
+2	ist	_	_	_	_	1	case	_	_
+3	mit	_	_	_	_	4	case	_	_
+4	Cassie	_	_	_	_	2	nmod	_	_
+5	und	_	_	_	_	4	cc	_	_
+6	Ramse	_	_	_	_	4	conj	_	_
+7	?	_	_	_	_	4	punct	_	_
+
+1	Ich	_	_	_	_	2	nsubj	_	_
+2	dachte	_	_	_	_	0	root	_	_
+3	,	_	_	_	_	2	punct	_	_
+4	du	_	_	_	_	5	case	_	_
+5	würdest	_	_	_	_	2	conj	_	_
+6	sie	_	_	_	_	5	nsubj	_	_
+7	zuletzt	_	_	_	_	8	advmod	_	_
+8	rauslassen	_	_	_	_	5	dobj	_	_
+9	wollen	_	_	_	_	8	aux	_	_
+10	,	_	_	_	_	8	punct	_	_
+11	für	_	_	_	_	13	case	_	_
+12	den	_	_	_	_	13	det	_	_
+13	Fall	_	_	_	_	8	nmod	_	_
+14	,	_	_	_	_	13	punct	_	_
+15	dass	_	_	_	_	18	mark	_	_
+16	sie	_	_	_	_	18	nsubj	_	_
+17	etwas	_	_	_	_	18	advmod	_	_
+18	versuchen	_	_	_	_	13	ccomp	_	_
+19	.	_	_	_	_	2	punct	_	_
+
+1	-	_	_	_	_	2	punct	_	_
+2	Ja	_	_	_	_	0	root	_	_
+3	.	_	_	_	_	2	punct	_	_
+
+1	-	_	_	_	_	6	punct	_	_
+2	Das	_	_	_	_	6	dobj	_	_
+3	habe	_	_	_	_	6	aux	_	_
+4	ich	_	_	_	_	6	nsubj	_	_
+5	mir	_	_	_	_	6	iobj	_	_
+6	gedacht	_	_	_	_	0	root	_	_
+7	.	_	_	_	_	6	punct	_	_
+
+1	Was	_	_	_	_	0	root	_	_
+2	zur	_	_	_	_	3	amod	_	_
+3	Hölle	_	_	_	_	1	det	_	_
+4	war	_	_	_	_	3	acl	_	_
+5	das	_	_	_	_	4	iobj	_	_
+6	?	_	_	_	_	5	punct	_	_
+
+1	-	_	_	_	_	6	punct	_	_
+2	Was	_	_	_	_	6	dobj	_	_
+3	zur	_	_	_	_	4	amod	_	_
+4	Hölle	_	_	_	_	6	nsubj	_	_
+5	ist	_	_	_	_	6	cop	_	_
+6	passiert	_	_	_	_	0	root	_	_
+7	?	_	_	_	_	6	punct	_	_
+
+1	-	_	_	_	_	3	punct	_	_
+2	Der	_	_	_	_	3	det	_	_
+3	Blitz	_	_	_	_	4	nsubj	_	_
+4	traf	_	_	_	_	0	root	_	_
+5	einen	_	_	_	_	4	dobj	_	_
+6	der	_	_	_	_	7	det	_	_
+7	Transformatoren	_	_	_	_	5	det	_	_
+8	.	_	_	_	_	4	punct	_	_
+
+1	Wir	_	_	_	_	6	nsubj	_	_
+2	dürfen	_	_	_	_	6	aux	_	_
+3	die	_	_	_	_	4	det	_	_
+4	Evakuierung	_	_	_	_	6	dobj	_	_
+5	nicht	_	_	_	_	6	neg	_	_
+6	verzögern	_	_	_	_	0	root	_	_
+7	.	_	_	_	_	6	punct	_	_
+
+1	Leite	_	_	_	_	0	root	_	_
+2	alle	_	_	_	_	8	det	_	_
+3	über	_	_	_	_	6	case	_	_
+4	den	_	_	_	_	6	det	_	_
+5	westlichen	_	_	_	_	6	amod	_	_
+6	Gang	_	_	_	_	7	nmod	_	_
+7	zur	_	_	_	_	8	amod	_	_
+8	Fahrzeughalle	_	_	_	_	1	nsubj	_	_
+9	.	_	_	_	_	1	punct	_	_
+
+1	-	_	_	_	_	5	punct	_	_
+2	Wie	_	_	_	_	5	advmod	_	_
+3	viele	_	_	_	_	5	nsubj	_	_
+4	sind	_	_	_	_	5	cop	_	_
+5	verwundet	_	_	_	_	0	root	_	_
+6	?	_	_	_	_	5	punct	_	_
+
+1	Obwohl	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	7	punct	_	_
+3	er	_	_	_	_	7	nsubj	_	_
+4	hat	_	_	_	_	7	aux	_	_
+5	schöne	_	_	_	_	6	amod	_	_
+6	Reifen	_	_	_	_	7	dobj	_	_
+7	hat	_	_	_	_	1	acl	_	_
+8	...	_	_	_	_	7	punct	_	_
+9	für	_	_	_	_	11	case	_	_
+10	einen	_	_	_	_	11	det	_	_
+11	Verrückten	_	_	_	_	7	nmod	_	_
+12	.	_	_	_	_	1	punct	_	_
+
+1	Halt	_	_	_	_	0	root	_	_
+2	den	_	_	_	_	3	det	_	_
+3	Mund	_	_	_	_	1	dobj	_	_
+4	!	_	_	_	_	1	punct	_	_
+
+1	-	_	_	_	_	3	punct	_	_
+2	Zu	_	_	_	_	3	case	_	_
+3	Hause	_	_	_	_	0	root	_	_
+4	!	_	_	_	_	3	punct	_	_
+
+1	-	_	_	_	_	3	punct	_	_
+2	Dieser	_	_	_	_	3	det	_	_
+3	Ort	_	_	_	_	6	nsubj	_	_
+4	ist	_	_	_	_	6	cop	_	_
+5	verdammt	_	_	_	_	6	advmod	_	_
+6	geil	_	_	_	_	0	root	_	_
+7	.	_	_	_	_	6	punct	_	_
+
+1	Wie	_	_	_	_	2	advmod	_	_
+2	im	_	_	_	_	3	amod	_	_
+3	Schlaraffenland	_	_	_	_	0	root	_	_
+4	.	_	_	_	_	3	punct	_	_
+
+1	Hier	_	_	_	_	2	advmod	_	_
+2	kommen	_	_	_	_	0	root	_	_
+3	die	_	_	_	_	5	det	_	_
+4	reichen	_	_	_	_	5	amod	_	_
+5	Kinder	_	_	_	_	2	nsubj	_	_
+6	zum	_	_	_	_	7	nsubj	_	_
+7	sterben	_	_	_	_	2	xcomp	_	_
+8	hin	_	_	_	_	7	mark	_	_
+9	.	_	_	_	_	2	punct	_	_
+
+1	Willkommen	_	_	_	_	0	root	_	_
+2	in	_	_	_	_	4	case	_	_
+3	meiner	_	_	_	_	4	det	_	_
+4	Welt	_	_	_	_	1	nmod	_	_
+5	.	_	_	_	_	1	punct	_	_
+
+1	Mir	_	_	_	_	5	advmod	_	_
+2	ist	_	_	_	_	5	cop	_	_
+3	ein	_	_	_	_	4	det	_	_
+4	bisschen	_	_	_	_	5	nsubj	_	_
+5	schlecht	_	_	_	_	0	root	_	_
+6	!	_	_	_	_	5	punct	_	_
+
+1	Kevin	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	punct	_	_
+3	ich	_	_	_	_	4	nsubj	_	_
+4	glaube	_	_	_	_	1	parataxis	_	_
+5	,	_	_	_	_	4	punct	_	_
+6	du	_	_	_	_	11	nsubj	_	_
+7	solltest	_	_	_	_	11	dobj	_	_
+8	Julie	_	_	_	_	11	advmod	_	_
+9	ins	_	_	_	_	10	amod	_	_
+10	Badezimmer	_	_	_	_	11	dobj	_	_
+11	bringen	_	_	_	_	4	acl	_	_
+12	.	_	_	_	_	1	punct	_	_
+
+1	Komm	_	_	_	_	0	root	_	_
+2	schon	_	_	_	_	1	advmod	_	_
+3	.	_	_	_	_	1	punct	_	_
+
+1	Nein	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	punct	_	_
+3	die	_	_	_	_	4	det	_	_
+4	Ärzte	_	_	_	_	7	nsubj	_	_
+5	sind	_	_	_	_	7	cop	_	_
+6	sehr	_	_	_	_	7	advmod	_	_
+7	zufrieden	_	_	_	_	1	parataxis	_	_
+8	,	_	_	_	_	7	punct	_	_
+9	er	_	_	_	_	12	nsubj	_	_
+10	ist	_	_	_	_	12	cop	_	_
+11	der	_	_	_	_	12	det	_	_
+12	Tapferste	_	_	_	_	7	conj	_	_
+13	.	_	_	_	_	1	punct	_	_
+
+1	Hast	_	_	_	_	0	root	_	_
+2	du	_	_	_	_	4	case	_	_
+3	die	_	_	_	_	4	det	_	_
+4	Bodys	_	_	_	_	1	nmod	_	_
+5	?	_	_	_	_	1	punct	_	_
+
+1	Frag	_	_	_	_	0	root	_	_
+2	deinen	_	_	_	_	3	det	_	_
+3	Vater	_	_	_	_	1	dobj	_	_
+4	!	_	_	_	_	1	punct	_	_
+
+1	Sag	_	_	_	_	3	det	_	_
+2	's	_	_	_	_	1	case	_	_
+3	ihr	_	_	_	_	0	root	_	_
+4	!	_	_	_	_	3	punct	_	_
+
+1	Ich	_	_	_	_	2	nsubj	_	_
+2	hatte	_	_	_	_	0	root	_	_
+3	die	_	_	_	_	4	det	_	_
+4	Tüte	_	_	_	_	6	dobj	_	_
+5	damit	_	_	_	_	6	advmod	_	_
+6	vorbereitet	_	_	_	_	2	xcomp	_	_
+7	und	_	_	_	_	2	cc	_	_
+8	er	_	_	_	_	9	nsubj	_	_
+9	lässt	_	_	_	_	2	conj	_	_
+10	sie	_	_	_	_	9	dobj	_	_
+11	stehen	_	_	_	_	9	xcomp	_	_
+12	!	_	_	_	_	2	punct	_	_
+
+1	Schade	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	punct	_	_
+3	ich	_	_	_	_	7	nsubj	_	_
+4	hab	_	_	_	_	7	cop	_	_
+5	nicht	_	_	_	_	6	neg	_	_
+6	mehr	_	_	_	_	7	advmod	_	_
+7	viele	_	_	_	_	1	parataxis	_	_
+8	.	_	_	_	_	1	punct	_	_
+
+1	Siehst	_	_	_	_	0	root	_	_
+2	du	_	_	_	_	1	nsubj	_	_
+3	,	_	_	_	_	7	punct	_	_
+4	sie	_	_	_	_	7	nsubj	_	_
+5	ist	_	_	_	_	7	cop	_	_
+6	sehr	_	_	_	_	7	advmod	_	_
+7	enttäuscht	_	_	_	_	2	acl	_	_
+8	!	_	_	_	_	1	punct	_	_
+
+1	Gut	_	_	_	_	6	appos	_	_
+2	,	_	_	_	_	6	punct	_	_
+3	ich	_	_	_	_	6	nsubj	_	_
+4	hab	_	_	_	_	6	aux	_	_
+5	sie	_	_	_	_	6	nsubj	_	_
+6	vergessen	_	_	_	_	0	root	_	_
+7	!	_	_	_	_	6	punct	_	_
+
+1	Mach	_	_	_	_	0	root	_	_
+2	nicht	_	_	_	_	1	neg	_	_
+3	so	_	_	_	_	5	advmod	_	_
+4	ein	_	_	_	_	5	det	_	_
+5	Theater	_	_	_	_	1	dobj	_	_
+6	!	_	_	_	_	1	punct	_	_
+
+1	Typisch	_	_	_	_	0	root	_	_
+2	!	_	_	_	_	1	punct	_	_
+
+1	-	_	_	_	_	4	punct	_	_
+2	Mit	_	_	_	_	4	case	_	_
+3	dem	_	_	_	_	4	det	_	_
+4	Mund	_	_	_	_	0	root	_	_
+5	.	_	_	_	_	4	punct	_	_
+
+1	Mein	_	_	_	_	2	det	_	_
+2	Autoreifen	_	_	_	_	4	nsubj	_	_
+3	ist	_	_	_	_	4	cop	_	_
+4	geplatzt	_	_	_	_	0	root	_	_
+5	.	_	_	_	_	4	punct	_	_
+
+1	Meine	_	_	_	_	2	det	_	_
+2	Allianz	_	_	_	_	4	nsubj	_	_
+3	ist	_	_	_	_	4	cop	_	_
+4	vorbei	_	_	_	_	0	root	_	_
+5	.	_	_	_	_	4	punct	_	_
+
+1	Viel	_	_	_	_	2	amod	_	_
+2	Glück	_	_	_	_	0	root	_	_
+3	.	_	_	_	_	2	punct	_	_
+
+1	Was	_	_	_	_	0	root	_	_
+2	?	_	_	_	_	1	punct	_	_
+
+1	Dad	_	_	_	_	0	root	_	_
+2	!	_	_	_	_	1	punct	_	_
+
+1	Das	_	_	_	_	2	det	_	_
+2	Gute	_	_	_	_	3	nsubj	_	_
+3	daran	_	_	_	_	0	root	_	_
+4	ist	_	_	_	_	3	cop	_	_
+5	,	_	_	_	_	3	punct	_	_
+6	dass	_	_	_	_	10	mark	_	_
+7	ich	_	_	_	_	10	nsubj	_	_
+8	meinen	_	_	_	_	9	det	_	_
+9	Fisch	_	_	_	_	10	dobj	_	_
+10	wiedersehe	_	_	_	_	3	ccomp	_	_
+11	.	_	_	_	_	3	punct	_	_
+
+1	Hey	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	punct	_	_
+3	was	_	_	_	_	5	nsubj	_	_
+4	ist	_	_	_	_	5	cop	_	_
+5	los	_	_	_	_	1	parataxis	_	_
+6	?	_	_	_	_	5	punct	_	_
+
+1	Es	_	_	_	_	2	nsubj	_	_
+2	spült	_	_	_	_	0	root	_	_
+3	nicht	_	_	_	_	2	neg	_	_
+4	runter	_	_	_	_	2	dobj	_	_
+5	.	_	_	_	_	2	punct	_	_
+
+1	Wir	_	_	_	_	2	nsubj	_	_
+2	brauchen	_	_	_	_	0	root	_	_
+3	ein	_	_	_	_	5	det	_	_
+4	größeres	_	_	_	_	5	amod	_	_
+5	Klo	_	_	_	_	2	dobj	_	_
+6	.	_	_	_	_	2	punct	_	_
+
+1	Führe	_	_	_	_	0	root	_	_
+2	mich	_	_	_	_	1	dobj	_	_
+3	zu	_	_	_	_	5	case	_	_
+4	dem	_	_	_	_	5	det	_	_
+5	Mann	_	_	_	_	1	nmod	_	_
+6	,	_	_	_	_	5	punct	_	_
+7	der	_	_	_	_	9	nsubj	_	_
+8	dich	_	_	_	_	9	dobj	_	_
+9	schickte	_	_	_	_	5	acl	_	_
+10	.	_	_	_	_	1	punct	_	_
+
+1	Er	_	_	_	_	2	nsubj	_	_
+2	erwartet	_	_	_	_	0	root	_	_
+3	dich	_	_	_	_	2	dobj	_	_
+4	.	_	_	_	_	2	punct	_	_
+
+1	-	_	_	_	_	2	punct	_	_
+2	Wo	_	_	_	_	0	root	_	_
+3	?	_	_	_	_	2	punct	_	_
+
+1	Das	_	_	_	_	2	det	_	_
+2	wirst	_	_	_	_	4	nsubj	_	_
+3	du	_	_	_	_	4	aux	_	_
+4	sehen	_	_	_	_	0	root	_	_
+5	,	_	_	_	_	4	punct	_	_
+6	wenn	_	_	_	_	9	mark	_	_
+7	wir	_	_	_	_	9	nsubjpass	_	_
+8	nicht	_	_	_	_	9	neg	_	_
+9	verhaftet	_	_	_	_	4	advcl	_	_
+10	werden	_	_	_	_	9	auxpass	_	_
+11	.	_	_	_	_	4	punct	_	_
+
+1	Also	_	_	_	_	2	advmod	_	_
+2	los	_	_	_	_	0	root	_	_
+3	.	_	_	_	_	2	punct	_	_
+
+1	Du	_	_	_	_	2	nsubj	_	_
+2	gehst	_	_	_	_	0	root	_	_
+3	vor	_	_	_	_	4	case	_	_
+4	mir	_	_	_	_	2	nmod	_	_
+5	.	_	_	_	_	2	punct	_	_
+
+1	Ich	_	_	_	_	2	nsubj	_	_
+2	komme	_	_	_	_	0	root	_	_
+3	nach	_	_	_	_	2	mark	_	_
+4	.	_	_	_	_	2	punct	_	_
+
+1	Das	_	_	_	_	4	nsubj	_	_
+2	war	_	_	_	_	4	cop	_	_
+3	ein	_	_	_	_	4	det	_	_
+4	Test	_	_	_	_	0	root	_	_
+5	.	_	_	_	_	4	punct	_	_
+
+1	Du	_	_	_	_	2	nsubj	_	_
+2	konntest	_	_	_	_	0	root	_	_
+3	ein	_	_	_	_	4	det	_	_
+4	Spion	_	_	_	_	2	dobj	_	_
+5	sein	_	_	_	_	2	mark	_	_
+6	.	_	_	_	_	2	punct	_	_
+
+1	Die	_	_	_	_	2	det	_	_
+2	Waffe	_	_	_	_	4	nsubj	_	_
+3	war	_	_	_	_	4	cop	_	_
+4	ungeladen	_	_	_	_	0	root	_	_
+5	.	_	_	_	_	4	punct	_	_
+
+1	-	_	_	_	_	2	punct	_	_
+2	Kommen	_	_	_	_	0	root	_	_
+3	Sie	_	_	_	_	2	nsubj	_	_
+4	.	_	_	_	_	2	punct	_	_
+
+1	Seien	_	_	_	_	3	cop	_	_
+2	Sie	_	_	_	_	3	nsubj	_	_
+3	außergewöhnlich	_	_	_	_	0	root	_	_
+4	.	_	_	_	_	3	punct	_	_
+
+1	Oh	_	_	_	_	0	root	_	_
+2	,	_	_	_	_	1	punct	_	_
+3	Sie	_	_	_	_	1	appos	_	_
+4	...	_	_	_	_	3	punct	_	_
+
+1	Okay	_	_	_	_	0	root	_	_
+2	.	_	_	_	_	1	punct	_	_
+
+1	Um	_	_	_	_	5	mark	_	_
+2	die	_	_	_	_	3	det	_	_
+3	Dinge	_	_	_	_	5	dobj	_	_
+4	zu	_	_	_	_	5	aux	_	_
+5	ordnen	_	_	_	_	0	root	_	_
+6	:	_	_	_	_	5	punct	_	_
+
+1	Das	_	_	_	_	3	det	_	_
+2	erste	_	_	_	_	3	amod	_	_
+3	Treffen	_	_	_	_	14	nsubjpass	_	_
+4	von	_	_	_	_	5	case	_	_
+5	Vertretern	_	_	_	_	3	nmod	_	_
+6	der	_	_	_	_	8	det	_	_
+7	menschlichen	_	_	_	_	8	amod	_	_
+8	Spezies	_	_	_	_	5	det	_	_
+9	und	_	_	_	_	5	cc	_	_
+10	Homo	_	_	_	_	11	amod	_	_
+11	Reptilia	_	_	_	_	5	conj	_	_
+12	wird	_	_	_	_	14	auxpass	_	_
+13	jetzt	_	_	_	_	14	advmod	_	_
+14	abgehalten	_	_	_	_	0	root	_	_
+15	.	_	_	_	_	14	punct	_	_
+
+1	Das	_	_	_	_	6	dobj	_	_
+2	habe	_	_	_	_	6	aux	_	_
+3	ich	_	_	_	_	6	nsubj	_	_
+4	noch	_	_	_	_	5	advmod	_	_
+5	nie	_	_	_	_	6	neg	_	_
+6	gesagt	_	_	_	_	0	root	_	_
+7	,	_	_	_	_	6	punct	_	_
+8	dass	_	_	_	_	10	nsubj	_	_
+9	ist	_	_	_	_	10	cop	_	_
+10	toll	_	_	_	_	6	parataxis	_	_
+11	!	_	_	_	_	6	punct	_	_
+
+1	Machen	_	_	_	_	0	root	_	_
+2	wir	_	_	_	_	1	nsubj	_	_
+3	weiter	_	_	_	_	1	mark	_	_
+4	!	_	_	_	_	1	punct	_	_
+
+1	Nun	_	_	_	_	3	advmod	_	_
+2	,	_	_	_	_	3	punct	_	_
+3	Mo	_	_	_	_	0	root	_	_
+4	,	_	_	_	_	3	punct	_	_
+5	gehen	_	_	_	_	9	aux	_	_
+6	wir	_	_	_	_	9	nsubj	_	_
+7	Ihren	_	_	_	_	8	det	_	_
+8	Sohn	_	_	_	_	9	dobj	_	_
+9	holen	_	_	_	_	3	acl	_	_
+10	.	_	_	_	_	3	punct	_	_
+
+1	Ach	_	_	_	_	3	appos	_	_
+2	,	_	_	_	_	3	punct	_	_
+3	wissen	_	_	_	_	0	root	_	_
+4	Sie	_	_	_	_	3	nsubj	_	_
+5	,	_	_	_	_	3	punct	_	_
+6	Menschen	_	_	_	_	10	nsubj	_	_
+7	und	_	_	_	_	6	cc	_	_
+8	ihre	_	_	_	_	9	det	_	_
+9	Vorgänger	_	_	_	_	6	conj	_	_
+10	unterhalten	_	_	_	_	3	ccomp	_	_
+11	sich	_	_	_	_	10	dobj	_	_
+12	ganz	_	_	_	_	13	advmod	_	_
+13	gemütlich	_	_	_	_	10	advmod	_	_
+14	.	_	_	_	_	3	punct	_	_
+
+1	Niemals	_	_	_	_	0	root	_	_
+2	.	_	_	_	_	1	punct	_	_
+
+1	Wenn	_	_	_	_	3	mark	_	_
+2	er	_	_	_	_	3	nsubj	_	_
+3	lügt	_	_	_	_	9	advcl	_	_
+4	,	_	_	_	_	9	punct	_	_
+5	haben	_	_	_	_	9	aux	_	_
+6	Sie	_	_	_	_	9	nsubj	_	_
+7	nichts	_	_	_	_	9	dobj	_	_
+8	zu	_	_	_	_	9	aux	_	_
+9	befürchten	_	_	_	_	0	root	_	_
+10	.	_	_	_	_	9	punct	_	_
+
+1	Kahless	_	_	_	_	6	nsubj	_	_
+2	ist	_	_	_	_	6	cop	_	_
+3	seit	_	_	_	_	5	case	_	_
+4	1.000	_	_	_	_	5	nummod	_	_
+5	Jahren	_	_	_	_	6	nmod	_	_
+6	tot	_	_	_	_	0	root	_	_
+7	.	_	_	_	_	6	punct	_	_
+
+1	Aber	_	_	_	_	6	cc	_	_
+2	sein	_	_	_	_	3	det	_	_
+3	Geist	_	_	_	_	6	nsubj	_	_
+4	ist	_	_	_	_	6	cop	_	_
+5	noch	_	_	_	_	6	advmod	_	_
+6	lebendig	_	_	_	_	0	root	_	_
+7	.	_	_	_	_	6	punct	_	_
+
+1	Haben	_	_	_	_	6	aux	_	_
+2	Sie	_	_	_	_	6	nsubj	_	_
+3	je	_	_	_	_	6	advmod	_	_
+4	einen	_	_	_	_	5	det	_	_
+5	Geist	_	_	_	_	6	dobj	_	_
+6	bekämpft	_	_	_	_	0	root	_	_
+7	?	_	_	_	_	6	punct	_	_
+
+1	Keine	_	_	_	_	2	det	_	_
+2	Waffe	_	_	_	_	5	nsubj	_	_
+3	kann	_	_	_	_	5	aux	_	_
+4	ihn	_	_	_	_	5	dobj	_	_
+5	vernichten	_	_	_	_	0	root	_	_
+6	.	_	_	_	_	5	punct	_	_
+
+1	Der	_	_	_	_	2	det	_	_
+2	Geist	_	_	_	_	8	nsubjpass	_	_
+3	von	_	_	_	_	4	case	_	_
+4	Kahless	_	_	_	_	2	nmod	_	_
+5	muss	_	_	_	_	8	aux	_	_
+6	aber	_	_	_	_	8	advmod	_	_
+7	sofort	_	_	_	_	8	advmod	_	_
+8	ausgemerzt	_	_	_	_	0	root	_	_
+9	werden	_	_	_	_	8	auxpass	_	_
+10	,	_	_	_	_	8	punct	_	_
+11	oder	_	_	_	_	8	cc	_	_
+12	er	_	_	_	_	20	nsubj	_	_
+13	wird	_	_	_	_	20	aux	_	_
+14	sich	_	_	_	_	20	dobj	_	_
+15	wie	_	_	_	_	19	case	_	_
+16	eine	_	_	_	_	19	det	_	_
+17	Welle	_	_	_	_	19	amod	_	_
+18	im	_	_	_	_	19	amod	_	_
+19	Reich	_	_	_	_	20	nmod	_	_
+20	verbreiten	_	_	_	_	8	conj	_	_
+21	,	_	_	_	_	8	punct	_	_
+22	und	_	_	_	_	8	cc	_	_
+23	bleiben	_	_	_	_	8	conj	_	_
+24	wird	_	_	_	_	23	auxpass	_	_
+25	nichts	_	_	_	_	24	root	_	_
+26	als	_	_	_	_	29	case	_	_
+27	eine	_	_	_	_	29	det	_	_
+28	öde	_	_	_	_	29	amod	_	_
+29	Wüste	_	_	_	_	25	nmod	_	_
+30	.	_	_	_	_	25	punct	_	_
+
+1	Gowron	_	_	_	_	6	nsubj	_	_
+2	ist	_	_	_	_	6	aux	_	_
+3	also	_	_	_	_	6	advmod	_	_
+4	an	_	_	_	_	5	case	_	_
+5	Bord	_	_	_	_	6	nmod	_	_
+6	gekommen	_	_	_	_	0	root	_	_
+7	,	_	_	_	_	6	punct	_	_
+8	um	_	_	_	_	12	mark	_	_
+9	Ihren	_	_	_	_	10	det	_	_
+10	Anspruch	_	_	_	_	12	dobj	_	_
+11	zu	_	_	_	_	12	aux	_	_
+12	prüfen	_	_	_	_	6	advcl	_	_
+13	.	_	_	_	_	6	punct	_	_
+
+1	Gowron	_	_	_	_	2	nsubj	_	_
+2	weiß	_	_	_	_	0	root	_	_
+3	,	_	_	_	_	2	punct	_	_
+4	seine	_	_	_	_	5	det	_	_
+5	Tage	_	_	_	_	7	nsubj	_	_
+6	sind	_	_	_	_	7	cop	_	_
+7	gezählt	_	_	_	_	2	conj	_	_
+8	.	_	_	_	_	2	punct	_	_
+
+1	Also	_	_	_	_	2	advmod	_	_
+2	kommt	_	_	_	_	0	root	_	_
+3	er	_	_	_	_	2	nsubj	_	_
+4	mit	_	_	_	_	7	case	_	_
+5	einem	_	_	_	_	7	det	_	_
+6	läppischen	_	_	_	_	7	amod	_	_
+7	Test	_	_	_	_	2	nmod	_	_
+8	daher	_	_	_	_	2	advmod	_	_
+9	.	_	_	_	_	2	punct	_	_
+
+1	Das	_	_	_	_	3	nsubj	_	_
+2	hat	_	_	_	_	3	aux	_	_
+3	was	_	_	_	_	0	root	_	_
+4	.	_	_	_	_	3	punct	_	_
+
+1	Aber	_	_	_	_	2	cc	_	_
+2	denk	_	_	_	_	0	root	_	_
+3	dran	_	_	_	_	2	case	_	_
+4	du	_	_	_	_	3	dobj	_	_
+5	bist	_	_	_	_	4	nmod	_	_
+6	nicht	_	_	_	_	7	neg	_	_
+7	wirklich	_	_	_	_	8	advmod	_	_
+8	sauer	_	_	_	_	5	appos	_	_
+9	wegen	_	_	_	_	11	case	_	_
+10	der	_	_	_	_	11	det	_	_
+11	schnurrbarthaare	_	_	_	_	8	nmod	_	_
+12	.	_	_	_	_	2	punct	_	_
+
+1	Du	_	_	_	_	2	det	_	_
+2	bist	_	_	_	_	0	root	_	_
+3	sauer	_	_	_	_	2	case	_	_
+4	weil	_	_	_	_	8	mark	_	_
+5	ich	_	_	_	_	8	nsubj	_	_
+6	dir	_	_	_	_	8	dobj	_	_
+7	nicht	_	_	_	_	8	neg	_	_
+8	zuhöre	_	_	_	_	3	advcl	_	_
+9	,	_	_	_	_	8	punct	_	_
+10	deine	_	_	_	_	11	det	_	_
+11	Freunde	_	_	_	_	13	dobj	_	_
+12	nicht	_	_	_	_	13	neg	_	_
+13	mag	_	_	_	_	8	xcomp	_	_
+14	und	_	_	_	_	13	cc	_	_
+15	über	_	_	_	_	16	case	_	_
+16	deine	_	_	_	_	18	nmod	_	_
+17	Mutter	_	_	_	_	18	dobj	_	_
+18	läster	_	_	_	_	13	conj	_	_
+19	.	_	_	_	_	2	punct	_	_
+

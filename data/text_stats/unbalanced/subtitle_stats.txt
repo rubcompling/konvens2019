@@ -1,0 +1,132 @@
+Tokens: 702
+Tokens without punctuation: 533
+Types: 343
+Types (without punctuation): 336
+Types lowercased: 315
+Types lowercased (without punctuation): 308
+Different lemmas: 259
+Different lemmas lowercased: 258
+Tokens with more than one lemma: 4 {'eine', 'Sie', 'alle', 'ihr'}
+POS: 42
+Tokens with more than one POS: 14 {'das', 'alle', 'sein', 'werden', 'aus', 'mich', 'eine', 'die', 'wie', 'als', 'Wie', 'dich', 'wissen', '...'}
+POS frequencies:
+	$.	99
+	PPER	76
+	NN	65
+	ADV	49
+	$,	47
+	VVFIN	36
+	ART	35
+	VAFIN	34
+	APPR	24
+	$(	23
+	ADJD	20
+	NE	18
+	VVINF	14
+	PTKANT	14
+	VVPP	12
+	KOUS	11
+	KON	11
+	VMFIN	9
+	PTKVZ	9
+	ADJA	8
+	PDS	8
+	PAV	8
+	VVIMP	7
+	PPOSAT	6
+	PTKNEG	6
+	PIS	6
+	KOKOM	6
+	APPRART	4
+	PDAT	4
+	PIAT	4
+	PWAV	4
+	PWS	4
+	VAINF	4
+	PRF	4
+	ITJ	3
+	PTKZU	3
+	CARD	2
+	FM	1
+	KOUI	1
+	VAPP	1
+	PRELS	1
+	VVIZU	1
+Morphology annotations (without '_'): 349
+Different morphology annotations (without '_'): 73
+Tokens with more than one morphology annotation: 30 {'dir', 'alle', 'die', 'Was', 'es', 'diese', 'Kerze', 'ihr', 'das', 'den', 'sie', 'werden', 'Gerüchte', 'sind', 'der', 'ein', 'Benzin', 'einer', 'dich', 'zum', 'sich', 'Die', 'Funke', 'Sie', 'sein', 'dem', 'machen', 'wissen', 'mich', 'mein'}
+Morphology frequencies:
+	_	353
+	mood=ind|tense=pres|person=3|number=sg	32
+	gender=masc|case=nom|number=sg	31
+	degree=pos	17
+	gender=neut|case=nom|number=sg	16
+	gender=fem|case=nom|number=sg	15
+	gender=*|person=1|case=nom|number=sg	15
+	gender=neut|case=acc|number=sg	14
+	mood=ind|tense=pres|person=1|number=sg	14
+	gender=masc|case=acc|number=sg	13
+	gender=neut|person=3|case=nom|number=sg	12
+	gender=*|person=2|case=nom|number=sg	10
+	gender=fem|case=acc|number=sg	10
+	mood=ind|tense=pres|person=2|number=sg	9
+	gender=masc|case=dat|number=sg	7
+	mood=ind|tense=pres|person=3|number=pl	7
+	gender=*|person=1|case=nom|number=pl	6
+	gender=fem|case=gen|number=sg	6
+	mood=ind|tense=pres|person=1|number=pl	5
+	gender=masc|person=3|case=nom|number=sg	5
+	number=pl	4
+	gender=fem|case=nom|number=pl	4
+	gender=*|case=nom|number=pl	4
+	gender=fem|case=dat|number=sg	4
+	mood=ind|tense=past|person=3|number=sg	4
+	gender=*|case=nom|number=sg	3
+	gender=*|person=1|case=dat|number=sg	3
+	gender=neut|case=dat|number=pl	3
+	degree=comp	3
+	mood=ind|tense=past|person=3|number=pl	3
+	gender=fem|person=3|case=dat|number=sg	3
+	gender=masc|case=gen|number=sg	3
+	gender=neut|case=acc|number=pl	3
+	gender=*|person=3|case=nom|number=sg	3
+	gender=neut|case=dat|number=sg	3
+	number=sg	3
+	gender=fem|person=3|case=nom|number=sg	3
+	gender=*|person=1|case=acc|number=sg	2
+	gender=*|case=acc|number=sg	2
+	gender=fem|case=acc|number=pl	2
+	gender=*|person=1|case=acc|number=pl	2
+	gender=masc|case=dat	2
+	mood=ind|tense=pres|person=2|number=pl	2
+	gender=*|case=gen|number=pl	2
+	gender=fem|degree=pos|case=nom|number=sg	2
+	gender=masc|degree=pos|case=nom|number=sg	2
+	gender=neut|case=nom|number=pl	2
+	gender=*|person=3|case=acc|number=pl	2
+	gender=*|person=2|case=nom|number=pl	2
+	gender=*|person=3|case=dat|number=sg	1
+	gender=neut|degree=pos|case=nom|number=sg	1
+	gender=masc|person=2|case=acc|number=sg	1
+	gender=*|person=3|case=nom|number=pl	1
+	gender=neut|person=3|case=acc|number=sg	1
+	person=1|case=nom|number=sg	1
+	gender=masc|person=3|case=acc|number=sg	1
+	mood=ind|tense=past|person=2|number=sg	1
+	gender=fem|person=3|case=acc|number=pl	1
+	gender=*|case=acc|number=pl	1
+	gender=neut|case=acc	1
+	gender=fem|degree=pos|case=dat|number=sg	1
+	gender=fem|person=2|case=dat|number=sg	1
+	mood=ind|tense=past|person=1|number=sg	1
+	gender=fem|degree=pos|case=acc|number=sg	1
+	gender=neut|case=dat	1
+	gender=*|case=dat|number=sg	1
+	gender=masc|case=acc|number=pl	1
+	person=3|case=nom|number=pl	1
+	mood=subj|tense=past|person=3|number=sg	1
+	gender=neut|degree=pos|case=acc|number=pl	1
+	gender=neut|case=*|number=*	1
+	person=*|case=nom|number=sg	1
+	person=3|case=acc|number=sg	1
+	gender=*|person=2|case=dat|number=sg	1

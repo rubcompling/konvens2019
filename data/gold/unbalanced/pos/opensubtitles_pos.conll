@@ -1,0 +1,802 @@
+1	Du	_	_	PPER	_	_	_	_	_
+2	willst	_	_	VMFIN	_	_	_	_	_
+3	alles	_	_	PIS	_	_	_	_	_
+4	wissen	_	_	VVINF	_	_	_	_	_
+5	.	_	_	$.	_	_	_	_	_
+
+1	Es	_	_	PPER	_	_	_	_	_
+2	ist	_	_	VAFIN	_	_	_	_	_
+3	mein	_	_	PPOSAT	_	_	_	_	_
+4	Töff	_	_	NN	_	_	_	_	_
+5	,	_	_	$,	_	_	_	_	_
+6	oder	_	_	KON	_	_	_	_	_
+7	!	_	_	$.	_	_	_	_	_
+
+1	Gut	_	_	ADJD	_	_	_	_	_
+2	,	_	_	$,	_	_	_	_	_
+3	also	_	_	ADV	_	_	_	_	_
+4	das	_	_	ART	_	_	_	_	_
+5	Benzin	_	_	NN	_	_	_	_	_
+6	geht	_	_	VVFIN	_	_	_	_	_
+7	hier	_	_	ADV	_	_	_	_	_
+8	durch	_	_	PTKVZ	_	_	_	_	_
+9	,	_	_	$,	_	_	_	_	_
+10	da	_	_	ADV	_	_	_	_	_
+11	hinein	_	_	PTKVZ	_	_	_	_	_
+12	.	_	_	$.	_	_	_	_	_
+
+1	Da	_	_	ADV	_	_	_	_	_
+2	drin	_	_	PAV	_	_	_	_	_
+3	ist	_	_	VAFIN	_	_	_	_	_
+4	es	_	_	PPER	_	_	_	_	_
+5	sehr	_	_	ADV	_	_	_	_	_
+6	heiss	_	_	ADJD	_	_	_	_	_
+7	.	_	_	$.	_	_	_	_	_
+
+1	Dann	_	_	ADV	_	_	_	_	_
+2	die	_	_	ART	_	_	_	_	_
+3	Kerze	_	_	NN	_	_	_	_	_
+4	maken	_	_	VVFIN	_	_	_	_	_
+5	ein	_	_	ART	_	_	_	_	_
+6	...	_	_	$.	_	_	_	_	_
+
+1	Ja	_	_	PTKANT	_	_	_	_	_
+2	,	_	_	$,	_	_	_	_	_
+3	wie	_	_	KOKOM	_	_	_	_	_
+4	ein	_	_	ART	_	_	_	_	_
+5	Messer	_	_	NN	_	_	_	_	_
+6	auf	_	_	APPR	_	_	_	_	_
+7	dem	_	_	ART	_	_	_	_	_
+8	Schleifstein	_	_	NN	_	_	_	_	_
+9	.	_	_	$.	_	_	_	_	_
+
+1	Wie	_	_	KOKOM	_	_	_	_	_
+2	ein	_	_	ART	_	_	_	_	_
+3	Feuerzeug	_	_	NN	_	_	_	_	_
+4	.	_	_	$.	_	_	_	_	_
+
+1	Ein	_	_	ART	_	_	_	_	_
+2	Funke	_	_	NN	_	_	_	_	_
+3	.	_	_	$.	_	_	_	_	_
+
+1	Funke	_	_	NN	_	_	_	_	_
+2	...	_	_	$(	_	_	_	_	_
+3	gut	_	_	ADJD	_	_	_	_	_
+4	.	_	_	$.	_	_	_	_	_
+
+1	Also	_	_	ADV	_	_	_	_	_
+2	die	_	_	ART	_	_	_	_	_
+3	Kerze	_	_	NN	_	_	_	_	_
+4	machen	_	_	VVFIN	_	_	_	_	_
+5	ein	_	_	ART	_	_	_	_	_
+6	Funke	_	_	NN	_	_	_	_	_
+7	und	_	_	KON	_	_	_	_	_
+8	päng	_	_	ITJ	_	_	_	_	_
+9	bringt	_	_	VVFIN	_	_	_	_	_
+10	das	_	_	ART	_	_	_	_	_
+11	Benzin	_	_	NN	_	_	_	_	_
+12	zum	_	_	APPRART	_	_	_	_	_
+13	Explodiern	_	_	NN	_	_	_	_	_
+
+1	Anateo	_	_	NE	_	_	_	_	_
+2	hat	_	_	VAFIN	_	_	_	_	_
+3	uns	_	_	PPER	_	_	_	_	_
+4	alle	_	_	PIS	_	_	_	_	_
+5	verraten	_	_	VVPP	_	_	_	_	_
+6	und	_	_	KON	_	_	_	_	_
+7	er	_	_	PPER	_	_	_	_	_
+8	wird	_	_	VAFIN	_	_	_	_	_
+9	dafür	_	_	PAV	_	_	_	_	_
+10	bezahlen	_	_	VVINF	_	_	_	_	_
+11	.	_	_	$.	_	_	_	_	_
+
+1	Und	_	_	KON	_	_	_	_	_
+2	wegen	_	_	APPR	_	_	_	_	_
+3	der	_	_	ART	_	_	_	_	_
+4	Tau'ri	_	_	NE	_	_	_	_	_
+5	...	_	_	$(	_	_	_	_	_
+6	sie	_	_	PPER	_	_	_	_	_
+7	befanden	_	_	VVFIN	_	_	_	_	_
+8	sich	_	_	PRF	_	_	_	_	_
+9	schon	_	_	ADV	_	_	_	_	_
+10	im	_	_	APPRART	_	_	_	_	_
+11	Krieg	_	_	NN	_	_	_	_	_
+12	gegen	_	_	APPR	_	_	_	_	_
+13	uns	_	_	PPER	_	_	_	_	_
+14	und	_	_	KON	_	_	_	_	_
+15	wir	_	_	PPER	_	_	_	_	_
+16	gegen	_	_	APPR	_	_	_	_	_
+17	sie	_	_	PPER	_	_	_	_	_
+18	...	_	_	$.	_	_	_	_	_
+19	und	_	_	KON	_	_	_	_	_
+20	ich	_	_	PPER	_	_	_	_	_
+21	werde	_	_	VAFIN	_	_	_	_	_
+22	mich	_	_	PRF	_	_	_	_	_
+23	nicht	_	_	PTKNEG	_	_	_	_	_
+24	ängstlich	_	_	ADJD	_	_	_	_	_
+25	verkriechen	_	_	VVINF	_	_	_	_	_
+26	.	_	_	$.	_	_	_	_	_
+
+1	Sagt	_	_	VVIMP	_	_	_	_	_
+2	das	_	_	PDS	_	_	_	_	_
+3	weiter	_	_	PTKVZ	_	_	_	_	_
+4	.	_	_	$.	_	_	_	_	_
+
+1	Schickt	_	_	VVIMP	_	_	_	_	_
+2	alle	_	_	PIAT	_	_	_	_	_
+3	verfügbaren	_	_	ADJA	_	_	_	_	_
+4	Schiffe	_	_	NN	_	_	_	_	_
+5	.	_	_	$.	_	_	_	_	_
+
+1	Ich	_	_	PPER	_	_	_	_	_
+2	will	_	_	VMFIN	_	_	_	_	_
+3	,	_	_	$,	_	_	_	_	_
+4	dass	_	_	KOUS	_	_	_	_	_
+5	die	_	_	ART	_	_	_	_	_
+6	0dyssey	_	_	NE	_	_	_	_	_
+7	gefunden	_	_	VVPP	_	_	_	_	_
+8	wird	_	_	VAFIN	_	_	_	_	_
+9	.	_	_	$.	_	_	_	_	_
+
+1	Sofort	_	_	ADV	_	_	_	_	_
+2	!	_	_	$.	_	_	_	_	_
+
+1	Kefflin	_	_	NE	_	_	_	_	_
+2	.	_	_	$.	_	_	_	_	_
+
+1	War	_	_	VAFIN	_	_	_	_	_
+2	es	_	_	PPER	_	_	_	_	_
+3	wirklich	_	_	ADV	_	_	_	_	_
+4	nötig	_	_	ADJD	_	_	_	_	_
+5	,	_	_	$,	_	_	_	_	_
+6	mich	_	_	PPER	_	_	_	_	_
+7	so	_	_	ADV	_	_	_	_	_
+8	zu	_	_	PTKZU	_	_	_	_	_
+9	blamieren	_	_	VVINF	_	_	_	_	_
+10	?	_	_	$.	_	_	_	_	_
+
+1	Es	_	_	PPER	_	_	_	_	_
+2	gab	_	_	VVFIN	_	_	_	_	_
+3	Gerüchte	_	_	NN	_	_	_	_	_
+4	wegen	_	_	APPR	_	_	_	_	_
+5	der	_	_	ART	_	_	_	_	_
+6	Stärke	_	_	NN	_	_	_	_	_
+7	deiner	_	_	PPOSAT	_	_	_	_	_
+8	Führung	_	_	NN	_	_	_	_	_
+9	.	_	_	$.	_	_	_	_	_
+
+1	Jetzt	_	_	ADV	_	_	_	_	_
+2	werden	_	_	VAFIN	_	_	_	_	_
+3	diese	_	_	PDAT	_	_	_	_	_
+4	Gerüchte	_	_	NN	_	_	_	_	_
+5	aufhören	_	_	VVINF	_	_	_	_	_
+6	.	_	_	$.	_	_	_	_	_
+
+1	Und	_	_	KON	_	_	_	_	_
+2	?	_	_	$.	_	_	_	_	_
+
+1	Wirst	_	_	VAFIN	_	_	_	_	_
+2	du	_	_	PPER	_	_	_	_	_
+3	es	_	_	PPER	_	_	_	_	_
+4	so	_	_	ADV	_	_	_	_	_
+5	lassen	_	_	VVINF	_	_	_	_	_
+6	oder	_	_	KON	_	_	_	_	_
+7	wirst	_	_	VAFIN	_	_	_	_	_
+8	du	_	_	PPER	_	_	_	_	_
+9	das	_	_	PDS	_	_	_	_	_
+10	in	_	_	APPR	_	_	_	_	_
+11	Ordnung	_	_	NN	_	_	_	_	_
+12	bringen	_	_	VVINF	_	_	_	_	_
+13	?	_	_	$.	_	_	_	_	_
+
+1	Bist	_	_	VAFIN	_	_	_	_	_
+2	du	_	_	PPER	_	_	_	_	_
+3	glücklich	_	_	ADJD	_	_	_	_	_
+4	?	_	_	$.	_	_	_	_	_
+
+1	Ja	_	_	PTKANT	_	_	_	_	_
+2	.	_	_	$.	_	_	_	_	_
+
+1	-	_	_	$(	_	_	_	_	_
+2	Es	_	_	PPER	_	_	_	_	_
+3	ist	_	_	VAFIN	_	_	_	_	_
+4	nett	_	_	ADJD	_	_	_	_	_
+5	von	_	_	APPR	_	_	_	_	_
+6	dir	_	_	PPER	_	_	_	_	_
+7	,	_	_	$,	_	_	_	_	_
+8	dass	_	_	KOUS	_	_	_	_	_
+9	du	_	_	PPER	_	_	_	_	_
+10	hilfst	_	_	VVFIN	_	_	_	_	_
+11	.	_	_	$.	_	_	_	_	_
+
+1	-	_	_	$(	_	_	_	_	_
+2	Einmal	_	_	ADV	_	_	_	_	_
+3	ein	_	_	ART	_	_	_	_	_
+4	Pfadfinder	_	_	NN	_	_	_	_	_
+5	,	_	_	$,	_	_	_	_	_
+6	immer	_	_	ADV	_	_	_	_	_
+7	ein	_	_	ART	_	_	_	_	_
+8	Pfadfinder	_	_	NN	_	_	_	_	_
+9	.	_	_	$.	_	_	_	_	_
+
+1	-	_	_	$(	_	_	_	_	_
+2	Du	_	_	PPER	_	_	_	_	_
+3	warst	_	_	VAFIN	_	_	_	_	_
+4	nie	_	_	ADV	_	_	_	_	_
+5	ein	_	_	ART	_	_	_	_	_
+6	Pfandfinder	_	_	NN	_	_	_	_	_
+7	.	_	_	$.	_	_	_	_	_
+
+1	-	_	_	$(	_	_	_	_	_
+2	Offensichtlich	_	_	ADV	_	_	_	_	_
+3	habe	_	_	VAFIN	_	_	_	_	_
+4	ich	_	_	PPER	_	_	_	_	_
+5	mein	_	_	PPOSAT	_	_	_	_	_
+6	...	_	_	$.	_	_	_	_	_
+
+1	Verdienstabzeichen	_	_	NN	_	_	_	_	_
+2	für	_	_	APPR	_	_	_	_	_
+3	Biberfallen	_	_	NN	_	_	_	_	_
+4	bekommen	_	_	VVPP	_	_	_	_	_
+5	.	_	_	$.	_	_	_	_	_
+
+1	-	_	_	$(	_	_	_	_	_
+2	Konzentriere	_	_	VVIMP	_	_	_	_	_
+3	dich	_	_	PRF	_	_	_	_	_
+4	lieber	_	_	ADV	_	_	_	_	_
+5	da	_	_	ADV	_	_	_	_	_
+6	drauf	_	_	PAV	_	_	_	_	_
+7	.	_	_	$.	_	_	_	_	_
+
+1	Kommt	_	_	VVIMP	_	_	_	_	_
+2	mit	_	_	APPR	_	_	_	_	_
+3	mir	_	_	PPER	_	_	_	_	_
+4	.	_	_	$.	_	_	_	_	_
+
+1	Wisst	_	_	VVFIN	_	_	_	_	_
+2	ihr	_	_	PPER	_	_	_	_	_
+3	,	_	_	$,	_	_	_	_	_
+4	wie	_	_	PWAV	_	_	_	_	_
+5	wertvoll	_	_	ADJD	_	_	_	_	_
+6	diese	_	_	PDAT	_	_	_	_	_
+7	Mohnblumen	_	_	NN	_	_	_	_	_
+8	waren	_	_	VAFIN	_	_	_	_	_
+9	?	_	_	$.	_	_	_	_	_
+
+1	In	_	_	APPR	_	_	_	_	_
+2	Rauch	_	_	NN	_	_	_	_	_
+3	aufgegangen	_	_	VVPP	_	_	_	_	_
+4	.	_	_	$.	_	_	_	_	_
+
+1	-	_	_	$(	_	_	_	_	_
+2	Was	_	_	PWS	_	_	_	_	_
+3	?	_	_	$.	_	_	_	_	_
+
+1	Hat	_	_	VAFIN	_	_	_	_	_
+2	sie	_	_	PPER	_	_	_	_	_
+3	jemand	_	_	PIS	_	_	_	_	_
+4	angezündet	_	_	VVPP	_	_	_	_	_
+5	?	_	_	$.	_	_	_	_	_
+
+1	-	_	_	$(	_	_	_	_	_
+2	Ja	_	_	PTKANT	_	_	_	_	_
+3	.	_	_	$.	_	_	_	_	_
+
+1	Betrunkene	_	_	ADJA	_	_	_	_	_
+2	irische	_	_	ADJA	_	_	_	_	_
+3	Familie	_	_	NN	_	_	_	_	_
+4	,	_	_	$,	_	_	_	_	_
+5	die	_	_	ART	_	_	_	_	_
+6	Straße	_	_	NN	_	_	_	_	_
+7	hoch	_	_	ADV	_	_	_	_	_
+8	.	_	_	$.	_	_	_	_	_
+
+1	Die	_	_	ART	_	_	_	_	_
+2	O'Hallorans	_	_	NE	_	_	_	_	_
+3	.	_	_	$.	_	_	_	_	_
+
+1	Warum	_	_	PWAV	_	_	_	_	_
+2	?	_	_	$.	_	_	_	_	_
+
+1	Was	_	_	PWS	_	_	_	_	_
+2	hast	_	_	VAFIN	_	_	_	_	_
+3	du	_	_	PPER	_	_	_	_	_
+4	getan	_	_	VVPP	_	_	_	_	_
+5	,	_	_	$,	_	_	_	_	_
+6	um	_	_	KOUI	_	_	_	_	_
+7	sie	_	_	PPER	_	_	_	_	_
+8	zu	_	_	PTKZU	_	_	_	_	_
+9	verärgern	_	_	VVINF	_	_	_	_	_
+10	?	_	_	$.	_	_	_	_	_
+
+1	-	_	_	$(	_	_	_	_	_
+2	Arbeitet	_	_	VVFIN	_	_	_	_	_
+3	sie	_	_	PPER	_	_	_	_	_
+4	nicht	_	_	PTKNEG	_	_	_	_	_
+5	für	_	_	APPR	_	_	_	_	_
+6	dich	_	_	PPER	_	_	_	_	_
+7	,	_	_	$,	_	_	_	_	_
+8	Vince	_	_	NE	_	_	_	_	_
+9	?	_	_	$.	_	_	_	_	_
+
+1	-	_	_	$(	_	_	_	_	_
+2	Ja	_	_	PTKANT	_	_	_	_	_
+3	,	_	_	$,	_	_	_	_	_
+4	allerdings	_	_	ADV	_	_	_	_	_
+5	.	_	_	$.	_	_	_	_	_
+
+1	Und	_	_	KON	_	_	_	_	_
+2	bei	_	_	APPR	_	_	_	_	_
+3	E	_	_	NN	_	_	_	_	_
+4	einfach	_	_	ADV	_	_	_	_	_
+5	den	_	_	ART	_	_	_	_	_
+6	Hörer	_	_	NN	_	_	_	_	_
+7	aufzulegen	_	_	VVIZU	_	_	_	_	_
+8	,	_	_	$,	_	_	_	_	_
+9	muss	_	_	VMFIN	_	_	_	_	_
+10	ziemlich	_	_	ADV	_	_	_	_	_
+11	entmannend	_	_	ADJD	_	_	_	_	_
+12	gewesen	_	_	VAPP	_	_	_	_	_
+13	sein	_	_	VAFIN	_	_	_	_	_
+14	?	_	_	$.	_	_	_	_	_
+
+1	Fühlte	_	_	VVFIN	_	_	_	_	_
+2	sich	_	_	PRF	_	_	_	_	_
+3	an	_	_	PTKVZ	_	_	_	_	_
+4	,	_	_	$,	_	_	_	_	_
+5	wie	_	_	KOKOM	_	_	_	_	_
+6	zum	_	_	APPRART	_	_	_	_	_
+7	Direktor	_	_	NN	_	_	_	_	_
+8	Reeve	_	_	NE	_	_	_	_	_
+9	ins	_	_	APPRART	_	_	_	_	_
+10	Büro	_	_	NN	_	_	_	_	_
+11	gerufen	_	_	VVPP	_	_	_	_	_
+12	zu	_	_	PTKZU	_	_	_	_	_
+13	werden	_	_	VAINF	_	_	_	_	_
+14	.	_	_	$.	_	_	_	_	_
+
+1	Genauso	_	_	ADV	_	_	_	_	_
+2	wie	_	_	KOKOM	_	_	_	_	_
+3	er	_	_	PPER	_	_	_	_	_
+4	,	_	_	$,	_	_	_	_	_
+5	werde	_	_	VAFIN	_	_	_	_	_
+6	ich	_	_	PPER	_	_	_	_	_
+7	ihr	_	_	PPER	_	_	_	_	_
+8	sagen	_	_	VVINF	_	_	_	_	_
+9	,	_	_	$,	_	_	_	_	_
+10	wie	_	_	KOUS	_	_	_	_	_
+11	es	_	_	PPER	_	_	_	_	_
+12	ist	_	_	VAFIN	_	_	_	_	_
+13	.	_	_	$.	_	_	_	_	_
+
+1	Mach	_	_	VVIMP	_	_	_	_	_
+2	das	_	_	PDS	_	_	_	_	_
+3	bitte	_	_	PTKANT	_	_	_	_	_
+4	,	_	_	$,	_	_	_	_	_
+5	denn	_	_	KON	_	_	_	_	_
+6	ich	_	_	PPER	_	_	_	_	_
+7	mag	_	_	VMFIN	_	_	_	_	_
+8	ihr	_	_	PPER	_	_	_	_	_
+9	nicht	_	_	PTKNEG	_	_	_	_	_
+10	aus	_	_	APPR	_	_	_	_	_
+11	dem	_	_	ART	_	_	_	_	_
+12	Weg	_	_	NN	_	_	_	_	_
+13	gehen	_	_	VVINF	_	_	_	_	_
+14	.	_	_	$.	_	_	_	_	_
+
+1	Nein	_	_	PTKANT	_	_	_	_	_
+2	,	_	_	$,	_	_	_	_	_
+3	nein	_	_	PTKANT	_	_	_	_	_
+4	.	_	_	$.	_	_	_	_	_
+
+1	Kein	_	_	PIAT	_	_	_	_	_
+2	weiteres	_	_	ADJA	_	_	_	_	_
+3	Ausweichen	_	_	NN	_	_	_	_	_
+4	.	_	_	$.	_	_	_	_	_
+
+1	Wir	_	_	PPER	_	_	_	_	_
+2	werden	_	_	VAFIN	_	_	_	_	_
+3	ihr	_	_	PPER	_	_	_	_	_
+4	sagen	_	_	VVINF	_	_	_	_	_
+5	,	_	_	$,	_	_	_	_	_
+6	wir	_	_	PPER	_	_	_	_	_
+7	machen	_	_	VVFIN	_	_	_	_	_
+8	keinen	_	_	PIAT	_	_	_	_	_
+9	Film	_	_	NN	_	_	_	_	_
+10	über	_	_	APPR	_	_	_	_	_
+11	irgendwas	_	_	PIS	_	_	_	_	_
+12	,	_	_	$,	_	_	_	_	_
+13	bis	_	_	KOUS	_	_	_	_	_
+14	die	_	_	ART	_	_	_	_	_
+15	Kameras	_	_	NN	_	_	_	_	_
+16	tatsächlich	_	_	ADV	_	_	_	_	_
+17	für	_	_	APPR	_	_	_	_	_
+18	"	_	_	$(	_	_	_	_	_
+19	Medellin	_	_	NE	_	_	_	_	_
+20	"	_	_	$(	_	_	_	_	_
+21	anlaufen	_	_	VVFIN	_	_	_	_	_
+22	.	_	_	$.	_	_	_	_	_
+
+1	Sie	_	_	PPER	_	_	_	_	_
+2	wird	_	_	VAFIN	_	_	_	_	_
+3	angepisst	_	_	ADJD	_	_	_	_	_
+4	sein	_	_	VAINF	_	_	_	_	_
+5	,	_	_	$,	_	_	_	_	_
+6	wenn	_	_	KOUS	_	_	_	_	_
+7	sie	_	_	PPER	_	_	_	_	_
+8	denkt	_	_	VVFIN	_	_	_	_	_
+9	,	_	_	$,	_	_	_	_	_
+10	du	_	_	PPER	_	_	_	_	_
+11	nimmst	_	_	VVFIN	_	_	_	_	_
+12	Ari	_	_	NE	_	_	_	_	_
+13	ernst	_	_	PTKVZ	_	_	_	_	_
+14	.	_	_	$.	_	_	_	_	_
+
+1	Anpassung	_	_	NN	_	_	_	_	_
+2	von	_	_	APPR	_	_	_	_	_
+3	Movie	_	_	FM	_	_	_	_	_
+
+1	Er	_	_	PPER	_	_	_	_	_
+2	sieht	_	_	VVFIN	_	_	_	_	_
+3	wie	_	_	KOKOM	_	_	_	_	_
+4	Frankenstein	_	_	NE	_	_	_	_	_
+5	aus	_	_	PTKVZ	_	_	_	_	_
+6	.	_	_	$.	_	_	_	_	_
+
+1	Immerhin	_	_	ADV	_	_	_	_	_
+2	läuft	_	_	VVFIN	_	_	_	_	_
+3	er	_	_	PPER	_	_	_	_	_
+4	ohne	_	_	APPR	_	_	_	_	_
+5	Krücken	_	_	NN	_	_	_	_	_
+6	.	_	_	$.	_	_	_	_	_
+
+1	Ja	_	_	PTKANT	_	_	_	_	_
+2	,	_	_	$,	_	_	_	_	_
+3	ich	_	_	PPER	_	_	_	_	_
+4	dachte	_	_	VVFIN	_	_	_	_	_
+5	,	_	_	$,	_	_	_	_	_
+6	er	_	_	PPER	_	_	_	_	_
+7	wäre	_	_	VAFIN	_	_	_	_	_
+8	glücklicher	_	_	ADJD	_	_	_	_	_
+9	darüber	_	_	PAV	_	_	_	_	_
+10	.	_	_	$.	_	_	_	_	_
+
+1	Ich	_	_	PPER	_	_	_	_	_
+2	bin	_	_	VAFIN	_	_	_	_	_
+3	glücklicher	_	_	ADJD	_	_	_	_	_
+4	darüber	_	_	PAV	_	_	_	_	_
+5	.	_	_	$.	_	_	_	_	_
+
+1	Wie	_	_	PWAV	_	_	_	_	_
+2	geht	_	_	VVFIN	_	_	_	_	_
+3	es	_	_	PPER	_	_	_	_	_
+4	dir	_	_	PPER	_	_	_	_	_
+5	,	_	_	$,	_	_	_	_	_
+6	Maggie	_	_	NE	_	_	_	_	_
+7	?	_	_	$.	_	_	_	_	_
+
+1	Langer	_	_	ADJA	_	_	_	_	_
+2	Tag	_	_	NN	_	_	_	_	_
+3	.	_	_	$.	_	_	_	_	_
+
+1	Sieht	_	_	VVFIN	_	_	_	_	_
+2	so	_	_	ADV	_	_	_	_	_
+3	aus	_	_	PTKVZ	_	_	_	_	_
+4	,	_	_	$,	_	_	_	_	_
+5	als	_	_	KOUS	_	_	_	_	_
+6	fängt	_	_	VVFIN	_	_	_	_	_
+7	mein	_	_	PPOSAT	_	_	_	_	_
+8	Tag	_	_	NN	_	_	_	_	_
+9	gerade	_	_	ADV	_	_	_	_	_
+10	an	_	_	PTKVZ	_	_	_	_	_
+11	.	_	_	$.	_	_	_	_	_
+
+1	Hal	_	_	NE	_	_	_	_	_
+2	.	_	_	$.	_	_	_	_	_
+
+1	Was	_	_	PWS	_	_	_	_	_
+2	ich	_	_	PPER	_	_	_	_	_
+3	sage	_	_	VVFIN	_	_	_	_	_
+4	ist	_	_	VAFIN	_	_	_	_	_
+5	,	_	_	$,	_	_	_	_	_
+6	mit	_	_	APPR	_	_	_	_	_
+7	dem	_	_	ART	_	_	_	_	_
+8	Militär	_	_	NN	_	_	_	_	_
+9	ausgenommen	_	_	VVPP	_	_	_	_	_
+10	sind	_	_	VAFIN	_	_	_	_	_
+11	es	_	_	PPER	_	_	_	_	_
+12	vielleicht	_	_	ADV	_	_	_	_	_
+13	vier	_	_	CARD	_	_	_	_	_
+14	Leute	_	_	NN	_	_	_	_	_
+15	,	_	_	$,	_	_	_	_	_
+16	die	_	_	PRELS	_	_	_	_	_
+17	genau	_	_	ADV	_	_	_	_	_
+18	wissen	_	_	VVFIN	_	_	_	_	_
+19	,	_	_	$,	_	_	_	_	_
+20	wie	_	_	KOUS	_	_	_	_	_
+21	dieser	_	_	PDAT	_	_	_	_	_
+22	Ort	_	_	NN	_	_	_	_	_
+23	funktioniert	_	_	VVFIN	_	_	_	_	_
+24	.	_	_	$.	_	_	_	_	_
+
+1	-	_	_	$(	_	_	_	_	_
+2	Die	_	_	ART	_	_	_	_	_
+3	Vaginoplastie	_	_	NN	_	_	_	_	_
+4	.	_	_	$.	_	_	_	_	_
+
+1	Wird	_	_	VAFIN	_	_	_	_	_
+2	die	_	_	ART	_	_	_	_	_
+3	Vaginoplastie	_	_	NN	_	_	_	_	_
+4	separat	_	_	ADJD	_	_	_	_	_
+5	gemacht	_	_	VVPP	_	_	_	_	_
+6	?	_	_	$.	_	_	_	_	_
+
+1	Genau	_	_	ADV	_	_	_	_	_
+2	.	_	_	$.	_	_	_	_	_
+
+1	Das	_	_	PDS	_	_	_	_	_
+2	wird	_	_	VAFIN	_	_	_	_	_
+3	einzeln	_	_	ADJD	_	_	_	_	_
+4	gemacht	_	_	VVPP	_	_	_	_	_
+5	.	_	_	$.	_	_	_	_	_
+
+1	Ich	_	_	PPER	_	_	_	_	_
+2	möchte	_	_	VMFIN	_	_	_	_	_
+3	nicht	_	_	PTKNEG	_	_	_	_	_
+4	mehr	_	_	ADV	_	_	_	_	_
+5	als	_	_	KOKOM	_	_	_	_	_
+6	nötig	_	_	ADJD	_	_	_	_	_
+7	unter	_	_	APPR	_	_	_	_	_
+8	Narkose	_	_	NN	_	_	_	_	_
+9	gesetzt	_	_	VVPP	_	_	_	_	_
+10	werden	_	_	VAINF	_	_	_	_	_
+11	.	_	_	$.	_	_	_	_	_
+
+1	Ich	_	_	PPER	_	_	_	_	_
+2	bekomme	_	_	VVFIN	_	_	_	_	_
+3	eine	_	_	ART	_	_	_	_	_
+4	Narkose	_	_	NN	_	_	_	_	_
+5	,	_	_	$,	_	_	_	_	_
+6	und	_	_	KON	_	_	_	_	_
+7	dann	_	_	ADV	_	_	_	_	_
+8	noch	_	_	ADV	_	_	_	_	_
+9	eine	_	_	PIS	_	_	_	_	_
+10	?	_	_	$.	_	_	_	_	_
+
+1	Es	_	_	PPER	_	_	_	_	_
+2	ist	_	_	VAFIN	_	_	_	_	_
+3	ein	_	_	ART	_	_	_	_	_
+4	schwerer	_	_	ADJA	_	_	_	_	_
+5	Eingriff	_	_	NN	_	_	_	_	_
+6	mit	_	_	APPR	_	_	_	_	_
+7	einer	_	_	ART	_	_	_	_	_
+8	langen	_	_	ADJA	_	_	_	_	_
+9	Rekonvaleszenz	_	_	NN	_	_	_	_	_
+10	.	_	_	$.	_	_	_	_	_
+
+1	Außerdem	_	_	PAV	_	_	_	_	_
+2	brauchen	_	_	VVFIN	_	_	_	_	_
+3	wir	_	_	PPER	_	_	_	_	_
+4	dafür	_	_	PAV	_	_	_	_	_
+5	einen	_	_	ART	_	_	_	_	_
+6	Spezialisten	_	_	NN	_	_	_	_	_
+7	.	_	_	$.	_	_	_	_	_
+
+1	Aufregend	_	_	ADJD	_	_	_	_	_
+2	.	_	_	$.	_	_	_	_	_
+
+1	Ja	_	_	PTKANT	_	_	_	_	_
+2	,	_	_	$,	_	_	_	_	_
+3	das	_	_	PDS	_	_	_	_	_
+4	ist	_	_	VAFIN	_	_	_	_	_
+5	es	_	_	PPER	_	_	_	_	_
+6	in	_	_	APPR	_	_	_	_	_
+7	der	_	_	ART	_	_	_	_	_
+8	Tat	_	_	NN	_	_	_	_	_
+9	.	_	_	$.	_	_	_	_	_
+
+1	-	_	_	$(	_	_	_	_	_
+2	Oh	_	_	ITJ	_	_	_	_	_
+3	Gott	_	_	NN	_	_	_	_	_
+4	.	_	_	$.	_	_	_	_	_
+
+1	Das	_	_	PDS	_	_	_	_	_
+2	reicht	_	_	VVFIN	_	_	_	_	_
+3	,	_	_	$,	_	_	_	_	_
+4	Dad	_	_	NE	_	_	_	_	_
+5	!	_	_	$.	_	_	_	_	_
+
+1	Weißt	_	_	VVFIN	_	_	_	_	_
+2	du	_	_	PPER	_	_	_	_	_
+3	,	_	_	$,	_	_	_	_	_
+4	wovon	_	_	PWAV	_	_	_	_	_
+5	ich	_	_	PPER	_	_	_	_	_
+6	rede	_	_	VVFIN	_	_	_	_	_
+7	?	_	_	$.	_	_	_	_	_
+
+1	-	_	_	$(	_	_	_	_	_
+2	Verstehst	_	_	VVFIN	_	_	_	_	_
+3	du	_	_	PPER	_	_	_	_	_
+4	mich	_	_	PPER	_	_	_	_	_
+5	?	_	_	$.	_	_	_	_	_
+
+1	-	_	_	$(	_	_	_	_	_
+2	Dad	_	_	NE	_	_	_	_	_
+3	,	_	_	$,	_	_	_	_	_
+4	das	_	_	PDS	_	_	_	_	_
+5	reicht	_	_	VVFIN	_	_	_	_	_
+6	!	_	_	$.	_	_	_	_	_
+
+1	Ich	_	_	PPER	_	_	_	_	_
+2	gehe	_	_	VVFIN	_	_	_	_	_
+3	,	_	_	$,	_	_	_	_	_
+4	ok	_	_	ADV	_	_	_	_	_
+5	.	_	_	$.	_	_	_	_	_
+
+1	Ok	_	_	ADV	_	_	_	_	_
+2	.	_	_	$.	_	_	_	_	_
+
+1	Gut	_	_	ADJD	_	_	_	_	_
+2	.	_	_	$.	_	_	_	_	_
+
+1	Warte	_	_	VVIMP	_	_	_	_	_
+2	...	_	_	$.	_	_	_	_	_
+
+1	Ja	_	_	PTKANT	_	_	_	_	_
+2	,	_	_	$,	_	_	_	_	_
+3	die	_	_	ART	_	_	_	_	_
+4	DVD	_	_	NN	_	_	_	_	_
+5	.	_	_	$.	_	_	_	_	_
+
+1	Okay	_	_	ADV	_	_	_	_	_
+2	,	_	_	$,	_	_	_	_	_
+3	ich	_	_	PPER	_	_	_	_	_
+4	sehe	_	_	VVFIN	_	_	_	_	_
+5	mal	_	_	ADV	_	_	_	_	_
+6	nach	_	_	PTKVZ	_	_	_	_	_
+7	,	_	_	$,	_	_	_	_	_
+8	ob	_	_	KOUS	_	_	_	_	_
+9	wir	_	_	PPER	_	_	_	_	_
+10	noch	_	_	ADV	_	_	_	_	_
+11	gefrorene	_	_	ADJA	_	_	_	_	_
+12	Soja-Pizza	_	_	NN	_	_	_	_	_
+13	haben	_	_	VAFIN	_	_	_	_	_
+14	.	_	_	$.	_	_	_	_	_
+
+1	Ausweise	_	_	NN	_	_	_	_	_
+2	.	_	_	$.	_	_	_	_	_
+
+1	-	_	_	$(	_	_	_	_	_
+2	Hi	_	_	ITJ	_	_	_	_	_
+3	.	_	_	$.	_	_	_	_	_
+
+1	Echt	_	_	ADV	_	_	_	_	_
+2	jetzt	_	_	ADV	_	_	_	_	_
+3	?	_	_	$.	_	_	_	_	_
+
+1	Ja	_	_	PTKANT	_	_	_	_	_
+2	,	_	_	$,	_	_	_	_	_
+3	Baby	_	_	NE	_	_	_	_	_
+4	,	_	_	$,	_	_	_	_	_
+5	man	_	_	PIS	_	_	_	_	_
+6	kann	_	_	VMFIN	_	_	_	_	_
+7	euer	_	_	PPOSAT	_	_	_	_	_
+8	Alter	_	_	NN	_	_	_	_	_
+9	kaum	_	_	ADV	_	_	_	_	_
+10	noch	_	_	ADV	_	_	_	_	_
+11	schätzen	_	_	VVINF	_	_	_	_	_
+12	,	_	_	$,	_	_	_	_	_
+13	wisst	_	_	VVFIN	_	_	_	_	_
+14	ihr	_	_	PPER	_	_	_	_	_
+15	.	_	_	$.	_	_	_	_	_
+
+1	Ja	_	_	PTKANT	_	_	_	_	_
+2	,	_	_	$,	_	_	_	_	_
+3	bitte	_	_	PTKANT	_	_	_	_	_
+4	.	_	_	$.	_	_	_	_	_
+
+1	-	_	_	$(	_	_	_	_	_
+2	Der	_	_	ART	_	_	_	_	_
+3	Abend	_	_	NN	_	_	_	_	_
+4	gefällt	_	_	VVFIN	_	_	_	_	_
+5	mir	_	_	PPER	_	_	_	_	_
+6	jetzt	_	_	ADV	_	_	_	_	_
+7	schon	_	_	ADV	_	_	_	_	_
+8	.	_	_	$.	_	_	_	_	_
+
+1	Rachel	_	_	NE	_	_	_	_	_
+2	?	_	_	$.	_	_	_	_	_
+
+1	-	_	_	$(	_	_	_	_	_
+2	Ja	_	_	PTKANT	_	_	_	_	_
+3	,	_	_	$,	_	_	_	_	_
+4	das	_	_	PDS	_	_	_	_	_
+5	bin	_	_	VAFIN	_	_	_	_	_
+6	ich	_	_	PPER	_	_	_	_	_
+7	.	_	_	$.	_	_	_	_	_
+
+1	-	_	_	$(	_	_	_	_	_
+2	Vielen	_	_	PIAT	_	_	_	_	_
+3	Dank	_	_	NN	_	_	_	_	_
+4	.	_	_	$.	_	_	_	_	_
+
+1	Es	_	_	PPER	_	_	_	_	_
+2	gefällt	_	_	VVFIN	_	_	_	_	_
+3	mir	_	_	PPER	_	_	_	_	_
+4	viel	_	_	ADV	_	_	_	_	_
+5	besser	_	_	ADJD	_	_	_	_	_
+6	,	_	_	$,	_	_	_	_	_
+7	wenn	_	_	KOUS	_	_	_	_	_
+8	wir	_	_	PPER	_	_	_	_	_
+9	einer	_	_	ART	_	_	_	_	_
+10	Meinung	_	_	NN	_	_	_	_	_
+11	sind	_	_	VAFIN	_	_	_	_	_
+12	.	_	_	$.	_	_	_	_	_
+
+1	Ihnen	_	_	PPER	_	_	_	_	_
+2	nicht	_	_	PTKNEG	_	_	_	_	_
+3	?	_	_	$.	_	_	_	_	_
+
+1	Der	_	_	ART	_	_	_	_	_
+2	Text	_	_	NN	_	_	_	_	_
+3	des	_	_	ART	_	_	_	_	_
+4	Kosst	_	_	NE	_	_	_	_	_
+5	Amojan	_	_	NE	_	_	_	_	_
+6	,	_	_	$,	_	_	_	_	_
+7	wie	_	_	KOUS	_	_	_	_	_
+8	Sie	_	_	PPER	_	_	_	_	_
+9	wünschten	_	_	VVFIN	_	_	_	_	_
+10	.	_	_	$.	_	_	_	_	_
+
+1	Sehr	_	_	ADV	_	_	_	_	_
+2	gut	_	_	ADJD	_	_	_	_	_
+3	.	_	_	$.	_	_	_	_	_
+
+1	Also	_	_	ADV	_	_	_	_	_
+2	?	_	_	$.	_	_	_	_	_
+
+1	Legen	_	_	VVIMP	_	_	_	_	_
+2	Sie	_	_	PPER	_	_	_	_	_
+3	ihn	_	_	PPER	_	_	_	_	_
+4	auf	_	_	APPR	_	_	_	_	_
+5	meinen	_	_	PPOSAT	_	_	_	_	_
+6	Schreibtisch	_	_	NN	_	_	_	_	_
+7	.	_	_	$.	_	_	_	_	_
+
+1	-	_	_	$(	_	_	_	_	_
+2	Eminenz	_	_	NN	_	_	_	_	_
+3	,	_	_	$,	_	_	_	_	_
+4	darf	_	_	VMFIN	_	_	_	_	_
+5	ich	_	_	PPER	_	_	_	_	_
+6	offen	_	_	ADJD	_	_	_	_	_
+7	sprechen	_	_	VVINF	_	_	_	_	_
+8	?	_	_	$.	_	_	_	_	_
+
+1	-	_	_	$(	_	_	_	_	_
+2	Wenn	_	_	KOUS	_	_	_	_	_
+3	es	_	_	PPER	_	_	_	_	_
+4	sein	_	_	VAINF	_	_	_	_	_
+5	muss	_	_	VMFIN	_	_	_	_	_
+6	.	_	_	$.	_	_	_	_	_
+
+1	Dieses	_	_	PDAT	_	_	_	_	_
+2	Buch	_	_	NN	_	_	_	_	_
+3	wurde	_	_	VAFIN	_	_	_	_	_
+4	seit	_	_	APPR	_	_	_	_	_
+5	700	_	_	CARD	_	_	_	_	_
+6	Jahren	_	_	NN	_	_	_	_	_
+7	nicht	_	_	PTKNEG	_	_	_	_	_
+8	mehr	_	_	ADV	_	_	_	_	_
+9	aus	_	_	APPR	_	_	_	_	_
+10	den	_	_	ART	_	_	_	_	_
+11	Archiven	_	_	NN	_	_	_	_	_
+12	geholt	_	_	VVPP	_	_	_	_	_
+13	.	_	_	$.	_	_	_	_	_
+
+1	Was	_	_	PWS	_	_	_	_	_
+2	wollen	_	_	VMFIN	_	_	_	_	_
+3	Sie	_	_	PPER	_	_	_	_	_
+4	damit	_	_	PAV	_	_	_	_	_
+5	sagen	_	_	VVINF	_	_	_	_	_
+6	?	_	_	$.	_	_	_	_	_
+

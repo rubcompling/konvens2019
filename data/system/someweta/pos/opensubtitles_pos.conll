@@ -1,0 +1,1719 @@
+1	Du	_	_	PPER	_	1	null	_	_
+2	willst	_	_	VMFIN	_	2	null	_	_
+3	alles	_	_	PIS	_	3	null	_	_
+4	wissen	_	_	VVINF	_	4	null	_	_
+5	.	_	_	$.	_	5	null	_	_
+
+1	Es	_	_	PPER	_	1	null	_	_
+2	ist	_	_	VAFIN	_	2	null	_	_
+3	mein	_	_	PPOSAT	_	3	null	_	_
+4	Töff	_	_	NN	_	4	null	_	_
+5	,	_	_	$,	_	5	null	_	_
+6	oder	_	_	KON	_	6	null	_	_
+7	!	_	_	$.	_	7	null	_	_
+
+1	Gut	_	_	ADJD	_	1	null	_	_
+2	,	_	_	$,	_	2	null	_	_
+3	also	_	_	ADV	_	3	null	_	_
+4	das	_	_	ART	_	4	null	_	_
+5	Benzin	_	_	NN	_	5	null	_	_
+6	geht	_	_	VVFIN	_	6	null	_	_
+7	hier	_	_	ADV	_	7	null	_	_
+8	durch	_	_	PTKVZ	_	8	null	_	_
+9	,	_	_	$,	_	9	null	_	_
+10	da	_	_	ADV	_	10	null	_	_
+11	hinein	_	_	ADV	_	11	null	_	_
+12	.	_	_	$.	_	12	null	_	_
+
+1	Da	_	_	ADV	_	1	null	_	_
+2	drin	_	_	ADV	_	2	null	_	_
+3	ist	_	_	VAFIN	_	3	null	_	_
+4	es	_	_	PPER	_	4	null	_	_
+5	sehr	_	_	ADV	_	5	null	_	_
+6	heiss	_	_	ADJD	_	6	null	_	_
+7	.	_	_	$.	_	7	null	_	_
+
+1	Dann	_	_	ADV	_	1	null	_	_
+2	die	_	_	ART	_	2	null	_	_
+3	Kerze	_	_	NN	_	3	null	_	_
+4	maken	_	_	VVFIN	_	4	null	_	_
+5	ein	_	_	PTKVZ	_	5	null	_	_
+6	...	_	_	$(	_	6	null	_	_
+
+1	Ja	_	_	PTKANT	_	1	null	_	_
+2	,	_	_	$,	_	2	null	_	_
+3	wie	_	_	PWAV	_	3	null	_	_
+4	ein	_	_	ART	_	4	null	_	_
+5	Messer	_	_	NN	_	5	null	_	_
+6	auf	_	_	APPR	_	6	null	_	_
+7	dem	_	_	ART	_	7	null	_	_
+8	Schleifstein	_	_	NN	_	8	null	_	_
+9	.	_	_	$.	_	9	null	_	_
+
+1	Wie	_	_	PWAV	_	1	null	_	_
+2	ein	_	_	ART	_	2	null	_	_
+3	Feuerzeug	_	_	NN	_	3	null	_	_
+4	.	_	_	$.	_	4	null	_	_
+
+1	Ein	_	_	ART	_	1	null	_	_
+2	Funke	_	_	NN	_	2	null	_	_
+3	.	_	_	$.	_	3	null	_	_
+
+1	Funke	_	_	NN	_	1	null	_	_
+2	...	_	_	$(	_	2	null	_	_
+3	gut	_	_	ADJD	_	3	null	_	_
+4	.	_	_	$.	_	4	null	_	_
+
+1	Also	_	_	ADV	_	1	null	_	_
+2	die	_	_	ART	_	2	null	_	_
+3	Kerze	_	_	NN	_	3	null	_	_
+4	machen	_	_	VVFIN	_	4	null	_	_
+5	ein	_	_	ART	_	5	null	_	_
+6	Funke	_	_	NN	_	6	null	_	_
+7	und	_	_	KON	_	7	null	_	_
+8	päng	_	_	ADJA	_	8	null	_	_
+9	bringt	_	_	VVFIN	_	9	null	_	_
+10	das	_	_	ART	_	10	null	_	_
+11	Benzin	_	_	NN	_	11	null	_	_
+12	zum	_	_	APPRART	_	12	null	_	_
+13	Explodiern	_	_	NN	_	13	null	_	_
+
+1	Anateo	_	_	NE	_	1	null	_	_
+2	hat	_	_	VAFIN	_	2	null	_	_
+3	uns	_	_	PPER	_	3	null	_	_
+4	alle	_	_	PIS	_	4	null	_	_
+5	verraten	_	_	VVINF	_	5	null	_	_
+6	und	_	_	KON	_	6	null	_	_
+7	er	_	_	PPER	_	7	null	_	_
+8	wird	_	_	VAFIN	_	8	null	_	_
+9	dafür	_	_	PROAV	_	9	null	_	_
+10	bezahlen	_	_	VVINF	_	10	null	_	_
+11	.	_	_	$.	_	11	null	_	_
+
+1	Und	_	_	KON	_	1	null	_	_
+2	wegen	_	_	APPR	_	2	null	_	_
+3	der	_	_	ART	_	3	null	_	_
+4	Tau'ri	_	_	NN	_	4	null	_	_
+5	...	_	_	$(	_	5	null	_	_
+6	sie	_	_	PPER	_	6	null	_	_
+7	befanden	_	_	VVFIN	_	7	null	_	_
+8	sich	_	_	PRF	_	8	null	_	_
+9	schon	_	_	ADV	_	9	null	_	_
+10	im	_	_	APPRART	_	10	null	_	_
+11	Krieg	_	_	NN	_	11	null	_	_
+12	gegen	_	_	APPR	_	12	null	_	_
+13	uns	_	_	PPER	_	13	null	_	_
+14	und	_	_	KON	_	14	null	_	_
+15	wir	_	_	PPER	_	15	null	_	_
+16	gegen	_	_	APPR	_	16	null	_	_
+17	sie	_	_	PPER	_	17	null	_	_
+18	...	_	_	$(	_	18	null	_	_
+19	und	_	_	KON	_	19	null	_	_
+20	ich	_	_	PPER	_	20	null	_	_
+21	werde	_	_	VAFIN	_	21	null	_	_
+22	mich	_	_	PRF	_	22	null	_	_
+23	nicht	_	_	PTKNEG	_	23	null	_	_
+24	ängstlich	_	_	ADJD	_	24	null	_	_
+25	verkriechen	_	_	VVINF	_	25	null	_	_
+26	.	_	_	$.	_	26	null	_	_
+
+1	Sagt	_	_	VVFIN	_	1	null	_	_
+2	das	_	_	PDS	_	2	null	_	_
+3	weiter	_	_	PTKVZ	_	3	null	_	_
+4	.	_	_	$.	_	4	null	_	_
+
+1	Schickt	_	_	VVIMP	_	1	null	_	_
+2	alle	_	_	PIAT	_	2	null	_	_
+3	verfügbaren	_	_	ADJA	_	3	null	_	_
+4	Schiffe	_	_	NN	_	4	null	_	_
+5	.	_	_	$.	_	5	null	_	_
+
+1	Ich	_	_	PPER	_	1	null	_	_
+2	will	_	_	VMFIN	_	2	null	_	_
+3	,	_	_	$,	_	3	null	_	_
+4	dass	_	_	KOUS	_	4	null	_	_
+5	die	_	_	ART	_	5	null	_	_
+6	0dyssey	_	_	NN	_	6	null	_	_
+7	gefunden	_	_	VVPP	_	7	null	_	_
+8	wird	_	_	VAFIN	_	8	null	_	_
+9	.	_	_	$.	_	9	null	_	_
+
+1	Sofort	_	_	ADV	_	1	null	_	_
+2	!	_	_	$.	_	2	null	_	_
+
+1	Kefflin	_	_	NE	_	1	null	_	_
+2	.	_	_	$.	_	2	null	_	_
+
+1	War	_	_	VAFIN	_	1	null	_	_
+2	es	_	_	PPER	_	2	null	_	_
+3	wirklich	_	_	ADJD	_	3	null	_	_
+4	nötig	_	_	ADJD	_	4	null	_	_
+5	,	_	_	$,	_	5	null	_	_
+6	mich	_	_	PPER	_	6	null	_	_
+7	so	_	_	ADV	_	7	null	_	_
+8	zu	_	_	PTKZU	_	8	null	_	_
+9	blamieren	_	_	VVINF	_	9	null	_	_
+10	?	_	_	$.	_	10	null	_	_
+
+1	Es	_	_	PPER	_	1	null	_	_
+2	gab	_	_	VVFIN	_	2	null	_	_
+3	Gerüchte	_	_	NN	_	3	null	_	_
+4	wegen	_	_	APPR	_	4	null	_	_
+5	der	_	_	ART	_	5	null	_	_
+6	Stärke	_	_	NN	_	6	null	_	_
+7	deiner	_	_	PPOSAT	_	7	null	_	_
+8	Führung	_	_	NN	_	8	null	_	_
+9	.	_	_	$.	_	9	null	_	_
+
+1	Jetzt	_	_	ADV	_	1	null	_	_
+2	werden	_	_	VAFIN	_	2	null	_	_
+3	diese	_	_	PDAT	_	3	null	_	_
+4	Gerüchte	_	_	NN	_	4	null	_	_
+5	aufhören	_	_	VVINF	_	5	null	_	_
+6	.	_	_	$.	_	6	null	_	_
+
+1	Und	_	_	KON	_	1	null	_	_
+2	?	_	_	$.	_	2	null	_	_
+
+1	Wirst	_	_	VAFIN	_	1	null	_	_
+2	du	_	_	PPER	_	2	null	_	_
+3	es	_	_	PPER	_	3	null	_	_
+4	so	_	_	ADV	_	4	null	_	_
+5	lassen	_	_	VVINF	_	5	null	_	_
+6	oder	_	_	KON	_	6	null	_	_
+7	wirst	_	_	VAFIN	_	7	null	_	_
+8	du	_	_	PPER	_	8	null	_	_
+9	das	_	_	PDS	_	9	null	_	_
+10	in	_	_	APPR	_	10	null	_	_
+11	Ordnung	_	_	NN	_	11	null	_	_
+12	bringen	_	_	VVINF	_	12	null	_	_
+13	?	_	_	$.	_	13	null	_	_
+
+1	Bist	_	_	VAFIN	_	1	null	_	_
+2	du	_	_	PPER	_	2	null	_	_
+3	glücklich	_	_	ADJD	_	3	null	_	_
+4	?	_	_	$.	_	4	null	_	_
+
+1	Ja	_	_	PTKANT	_	1	null	_	_
+2	.	_	_	$.	_	2	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Es	_	_	PPER	_	2	null	_	_
+3	ist	_	_	VAFIN	_	3	null	_	_
+4	nett	_	_	ADJD	_	4	null	_	_
+5	von	_	_	APPR	_	5	null	_	_
+6	dir	_	_	PPER	_	6	null	_	_
+7	,	_	_	$,	_	7	null	_	_
+8	dass	_	_	KOUS	_	8	null	_	_
+9	du	_	_	PPER	_	9	null	_	_
+10	hilfst	_	_	VVFIN	_	10	null	_	_
+11	.	_	_	$.	_	11	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Einmal	_	_	ADV	_	2	null	_	_
+3	ein	_	_	ART	_	3	null	_	_
+4	Pfadfinder	_	_	NN	_	4	null	_	_
+5	,	_	_	$,	_	5	null	_	_
+6	immer	_	_	ADV	_	6	null	_	_
+7	ein	_	_	ART	_	7	null	_	_
+8	Pfadfinder	_	_	NN	_	8	null	_	_
+9	.	_	_	$.	_	9	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Du	_	_	PPER	_	2	null	_	_
+3	warst	_	_	VAFIN	_	3	null	_	_
+4	nie	_	_	ADV	_	4	null	_	_
+5	ein	_	_	ART	_	5	null	_	_
+6	Pfandfinder	_	_	NN	_	6	null	_	_
+7	.	_	_	$.	_	7	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Offensichtlich	_	_	ADJD	_	2	null	_	_
+3	habe	_	_	VAFIN	_	3	null	_	_
+4	ich	_	_	PPER	_	4	null	_	_
+5	mein	_	_	PPOSAT	_	5	null	_	_
+6	...	_	_	$(	_	6	null	_	_
+
+1	Verdienstabzeichen	_	_	NN	_	1	null	_	_
+2	für	_	_	APPR	_	2	null	_	_
+3	Biberfallen	_	_	NN	_	3	null	_	_
+4	bekommen	_	_	VVPP	_	4	null	_	_
+5	.	_	_	$.	_	5	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Konzentriere	_	_	VVIMP	_	2	null	_	_
+3	dich	_	_	PRF	_	3	null	_	_
+4	lieber	_	_	ADV	_	4	null	_	_
+5	da	_	_	ADV	_	5	null	_	_
+6	drauf	_	_	PROAV	_	6	null	_	_
+7	.	_	_	$.	_	7	null	_	_
+
+1	Kommt	_	_	VVFIN	_	1	null	_	_
+2	mit	_	_	APPR	_	2	null	_	_
+3	mir	_	_	PPER	_	3	null	_	_
+4	.	_	_	$.	_	4	null	_	_
+
+1	Wisst	_	_	VVFIN	_	1	null	_	_
+2	ihr	_	_	PPER	_	2	null	_	_
+3	,	_	_	$,	_	3	null	_	_
+4	wie	_	_	PWAV	_	4	null	_	_
+5	wertvoll	_	_	ADJD	_	5	null	_	_
+6	diese	_	_	PDAT	_	6	null	_	_
+7	Mohnblumen	_	_	NN	_	7	null	_	_
+8	waren	_	_	VAFIN	_	8	null	_	_
+9	?	_	_	$.	_	9	null	_	_
+
+1	In	_	_	APPR	_	1	null	_	_
+2	Rauch	_	_	NN	_	2	null	_	_
+3	aufgegangen	_	_	VVPP	_	3	null	_	_
+4	.	_	_	$.	_	4	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Was	_	_	PWS	_	2	null	_	_
+3	?	_	_	$.	_	3	null	_	_
+
+1	Hat	_	_	VAFIN	_	1	null	_	_
+2	sie	_	_	PPER	_	2	null	_	_
+3	jemand	_	_	PIS	_	3	null	_	_
+4	angezündet	_	_	VVPP	_	4	null	_	_
+5	?	_	_	$.	_	5	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Ja	_	_	PTKANT	_	2	null	_	_
+3	.	_	_	$.	_	3	null	_	_
+
+1	Betrunkene	_	_	ADJA	_	1	null	_	_
+2	irische	_	_	ADJA	_	2	null	_	_
+3	Familie	_	_	NN	_	3	null	_	_
+4	,	_	_	$,	_	4	null	_	_
+5	die	_	_	ART	_	5	null	_	_
+6	Straße	_	_	NN	_	6	null	_	_
+7	hoch	_	_	ADJD	_	7	null	_	_
+8	.	_	_	$.	_	8	null	_	_
+
+1	Die	_	_	ART	_	1	null	_	_
+2	O'Hallorans	_	_	NN	_	2	null	_	_
+3	.	_	_	$.	_	3	null	_	_
+
+1	Warum	_	_	PWAV	_	1	null	_	_
+2	?	_	_	$.	_	2	null	_	_
+
+1	Was	_	_	PWS	_	1	null	_	_
+2	hast	_	_	VAFIN	_	2	null	_	_
+3	du	_	_	PPER	_	3	null	_	_
+4	getan	_	_	VVPP	_	4	null	_	_
+5	,	_	_	$,	_	5	null	_	_
+6	um	_	_	KOUI	_	6	null	_	_
+7	sie	_	_	PPER	_	7	null	_	_
+8	zu	_	_	PTKZU	_	8	null	_	_
+9	verärgern	_	_	VVINF	_	9	null	_	_
+10	?	_	_	$.	_	10	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Arbeitet	_	_	VVFIN	_	2	null	_	_
+3	sie	_	_	PPER	_	3	null	_	_
+4	nicht	_	_	PTKNEG	_	4	null	_	_
+5	für	_	_	APPR	_	5	null	_	_
+6	dich	_	_	PPER	_	6	null	_	_
+7	,	_	_	$,	_	7	null	_	_
+8	Vince	_	_	NE	_	8	null	_	_
+9	?	_	_	$.	_	9	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Ja	_	_	PTKANT	_	2	null	_	_
+3	,	_	_	$,	_	3	null	_	_
+4	allerdings	_	_	ADV	_	4	null	_	_
+5	.	_	_	$.	_	5	null	_	_
+
+1	Und	_	_	KON	_	1	null	_	_
+2	bei	_	_	APPR	_	2	null	_	_
+3	E	_	_	NN	_	3	null	_	_
+4	einfach	_	_	ADV	_	4	null	_	_
+5	den	_	_	ART	_	5	null	_	_
+6	Hörer	_	_	NN	_	6	null	_	_
+7	aufzulegen	_	_	VVIZU	_	7	null	_	_
+8	,	_	_	$,	_	8	null	_	_
+9	muss	_	_	VMFIN	_	9	null	_	_
+10	ziemlich	_	_	ADV	_	10	null	_	_
+11	entmannend	_	_	ADJD	_	11	null	_	_
+12	gewesen	_	_	VAPP	_	12	null	_	_
+13	sein	_	_	VAINF	_	13	null	_	_
+14	?	_	_	$.	_	14	null	_	_
+
+1	Fühlte	_	_	VVFIN	_	1	null	_	_
+2	sich	_	_	PRF	_	2	null	_	_
+3	an	_	_	PTKVZ	_	3	null	_	_
+4	,	_	_	$,	_	4	null	_	_
+5	wie	_	_	PWAV	_	5	null	_	_
+6	zum	_	_	APPRART	_	6	null	_	_
+7	Direktor	_	_	NN	_	7	null	_	_
+8	Reeve	_	_	NE	_	8	null	_	_
+9	ins	_	_	APPRART	_	9	null	_	_
+10	Büro	_	_	NN	_	10	null	_	_
+11	gerufen	_	_	VVPP	_	11	null	_	_
+12	zu	_	_	PTKZU	_	12	null	_	_
+13	werden	_	_	VAINF	_	13	null	_	_
+14	.	_	_	$.	_	14	null	_	_
+
+1	Genauso	_	_	ADV	_	1	null	_	_
+2	wie	_	_	KOKOM	_	2	null	_	_
+3	er	_	_	PPER	_	3	null	_	_
+4	,	_	_	$,	_	4	null	_	_
+5	werde	_	_	VAFIN	_	5	null	_	_
+6	ich	_	_	PPER	_	6	null	_	_
+7	ihr	_	_	PPOSAT	_	7	null	_	_
+8	sagen	_	_	VVINF	_	8	null	_	_
+9	,	_	_	$,	_	9	null	_	_
+10	wie	_	_	PWAV	_	10	null	_	_
+11	es	_	_	PPER	_	11	null	_	_
+12	ist	_	_	VAFIN	_	12	null	_	_
+13	.	_	_	$.	_	13	null	_	_
+
+1	Mach	_	_	VVIMP	_	1	null	_	_
+2	das	_	_	ART	_	2	null	_	_
+3	bitte	_	_	PTKANT	_	3	null	_	_
+4	,	_	_	$,	_	4	null	_	_
+5	denn	_	_	KON	_	5	null	_	_
+6	ich	_	_	PPER	_	6	null	_	_
+7	mag	_	_	VMFIN	_	7	null	_	_
+8	ihr	_	_	PPOSAT	_	8	null	_	_
+9	nicht	_	_	PTKNEG	_	9	null	_	_
+10	aus	_	_	APPR	_	10	null	_	_
+11	dem	_	_	ART	_	11	null	_	_
+12	Weg	_	_	NN	_	12	null	_	_
+13	gehen	_	_	VVINF	_	13	null	_	_
+14	.	_	_	$.	_	14	null	_	_
+
+1	Nein	_	_	PTKANT	_	1	null	_	_
+2	,	_	_	$,	_	2	null	_	_
+3	nein	_	_	PTKANT	_	3	null	_	_
+4	.	_	_	$.	_	4	null	_	_
+
+1	Kein	_	_	PIAT	_	1	null	_	_
+2	weiteres	_	_	ADJA	_	2	null	_	_
+3	Ausweichen	_	_	NN	_	3	null	_	_
+4	.	_	_	$.	_	4	null	_	_
+
+1	Wir	_	_	PPER	_	1	null	_	_
+2	werden	_	_	VAFIN	_	2	null	_	_
+3	ihr	_	_	PPER	_	3	null	_	_
+4	sagen	_	_	VVINF	_	4	null	_	_
+5	,	_	_	$,	_	5	null	_	_
+6	wir	_	_	PPER	_	6	null	_	_
+7	machen	_	_	VVFIN	_	7	null	_	_
+8	keinen	_	_	PIAT	_	8	null	_	_
+9	Film	_	_	NN	_	9	null	_	_
+10	über	_	_	APPR	_	10	null	_	_
+11	irgendwas	_	_	PIS	_	11	null	_	_
+12	,	_	_	$,	_	12	null	_	_
+13	bis	_	_	KOUS	_	13	null	_	_
+14	die	_	_	ART	_	14	null	_	_
+15	Kameras	_	_	NN	_	15	null	_	_
+16	tatsächlich	_	_	ADJD	_	16	null	_	_
+17	für	_	_	APPR	_	17	null	_	_
+18	"	_	_	$(	_	18	null	_	_
+19	Medellin	_	_	NE	_	19	null	_	_
+20	"	_	_	$(	_	20	null	_	_
+21	anlaufen	_	_	VVINF	_	21	null	_	_
+22	.	_	_	$.	_	22	null	_	_
+
+1	Sie	_	_	PPER	_	1	null	_	_
+2	wird	_	_	VAFIN	_	2	null	_	_
+3	angepisst	_	_	ADJD	_	3	null	_	_
+4	sein	_	_	VAINF	_	4	null	_	_
+5	,	_	_	$,	_	5	null	_	_
+6	wenn	_	_	KOUS	_	6	null	_	_
+7	sie	_	_	PPER	_	7	null	_	_
+8	denkt	_	_	VVFIN	_	8	null	_	_
+9	,	_	_	$,	_	9	null	_	_
+10	du	_	_	PPER	_	10	null	_	_
+11	nimmst	_	_	VVFIN	_	11	null	_	_
+12	Ari	_	_	NE	_	12	null	_	_
+13	ernst	_	_	ADJD	_	13	null	_	_
+14	.	_	_	$.	_	14	null	_	_
+
+1	Anpassung	_	_	NN	_	1	null	_	_
+2	von	_	_	APPR	_	2	null	_	_
+3	Movie	_	_	NN	_	3	null	_	_
+
+1	Er	_	_	PPER	_	1	null	_	_
+2	sieht	_	_	VVFIN	_	2	null	_	_
+3	wie	_	_	KOKOM	_	3	null	_	_
+4	Frankenstein	_	_	NE	_	4	null	_	_
+5	aus	_	_	PTKVZ	_	5	null	_	_
+6	.	_	_	$.	_	6	null	_	_
+
+1	Immerhin	_	_	ADV	_	1	null	_	_
+2	läuft	_	_	VVFIN	_	2	null	_	_
+3	er	_	_	PPER	_	3	null	_	_
+4	ohne	_	_	APPR	_	4	null	_	_
+5	Krücken	_	_	NN	_	5	null	_	_
+6	.	_	_	$.	_	6	null	_	_
+
+1	Ja	_	_	PTKANT	_	1	null	_	_
+2	,	_	_	$,	_	2	null	_	_
+3	ich	_	_	PPER	_	3	null	_	_
+4	dachte	_	_	VVFIN	_	4	null	_	_
+5	,	_	_	$,	_	5	null	_	_
+6	er	_	_	PPER	_	6	null	_	_
+7	wäre	_	_	VAFIN	_	7	null	_	_
+8	glücklicher	_	_	ADJD	_	8	null	_	_
+9	darüber	_	_	PROAV	_	9	null	_	_
+10	.	_	_	$.	_	10	null	_	_
+
+1	Ich	_	_	PPER	_	1	null	_	_
+2	bin	_	_	VAFIN	_	2	null	_	_
+3	glücklicher	_	_	ADJD	_	3	null	_	_
+4	darüber	_	_	PROAV	_	4	null	_	_
+5	.	_	_	$.	_	5	null	_	_
+
+1	Wie	_	_	PWAV	_	1	null	_	_
+2	geht	_	_	VVFIN	_	2	null	_	_
+3	es	_	_	PPER	_	3	null	_	_
+4	dir	_	_	PPER	_	4	null	_	_
+5	,	_	_	$,	_	5	null	_	_
+6	Maggie	_	_	NE	_	6	null	_	_
+7	?	_	_	$.	_	7	null	_	_
+
+1	Langer	_	_	ADJA	_	1	null	_	_
+2	Tag	_	_	NN	_	2	null	_	_
+3	.	_	_	$.	_	3	null	_	_
+
+1	Sieht	_	_	VVFIN	_	1	null	_	_
+2	so	_	_	ADV	_	2	null	_	_
+3	aus	_	_	PTKVZ	_	3	null	_	_
+4	,	_	_	$,	_	4	null	_	_
+5	als	_	_	KOKOM	_	5	null	_	_
+6	fängt	_	_	VVFIN	_	6	null	_	_
+7	mein	_	_	PPOSAT	_	7	null	_	_
+8	Tag	_	_	NN	_	8	null	_	_
+9	gerade	_	_	ADV	_	9	null	_	_
+10	an	_	_	PTKVZ	_	10	null	_	_
+11	.	_	_	$.	_	11	null	_	_
+
+1	Hal	_	_	NE	_	1	null	_	_
+2	.	_	_	$.	_	2	null	_	_
+
+1	Was	_	_	PWS	_	1	null	_	_
+2	ich	_	_	PPER	_	2	null	_	_
+3	sage	_	_	VVFIN	_	3	null	_	_
+4	ist	_	_	VAFIN	_	4	null	_	_
+5	,	_	_	$,	_	5	null	_	_
+6	mit	_	_	APPR	_	6	null	_	_
+7	dem	_	_	ART	_	7	null	_	_
+8	Militär	_	_	NN	_	8	null	_	_
+9	ausgenommen	_	_	VVPP	_	9	null	_	_
+10	sind	_	_	VAFIN	_	10	null	_	_
+11	es	_	_	PPER	_	11	null	_	_
+12	vielleicht	_	_	ADV	_	12	null	_	_
+13	vier	_	_	CARD	_	13	null	_	_
+14	Leute	_	_	NN	_	14	null	_	_
+15	,	_	_	$,	_	15	null	_	_
+16	die	_	_	PRELS	_	16	null	_	_
+17	genau	_	_	ADJD	_	17	null	_	_
+18	wissen	_	_	VVFIN	_	18	null	_	_
+19	,	_	_	$,	_	19	null	_	_
+20	wie	_	_	PWAV	_	20	null	_	_
+21	dieser	_	_	PDAT	_	21	null	_	_
+22	Ort	_	_	NN	_	22	null	_	_
+23	funktioniert	_	_	VVFIN	_	23	null	_	_
+24	.	_	_	$.	_	24	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Die	_	_	ART	_	2	null	_	_
+3	Vaginoplastie	_	_	NN	_	3	null	_	_
+4	.	_	_	$.	_	4	null	_	_
+
+1	Wird	_	_	VAFIN	_	1	null	_	_
+2	die	_	_	ART	_	2	null	_	_
+3	Vaginoplastie	_	_	NN	_	3	null	_	_
+4	separat	_	_	ADJD	_	4	null	_	_
+5	gemacht	_	_	VVPP	_	5	null	_	_
+6	?	_	_	$.	_	6	null	_	_
+
+1	Genau	_	_	ADJD	_	1	null	_	_
+2	.	_	_	$.	_	2	null	_	_
+
+1	Das	_	_	PDS	_	1	null	_	_
+2	wird	_	_	VAFIN	_	2	null	_	_
+3	einzeln	_	_	ADJD	_	3	null	_	_
+4	gemacht	_	_	VVPP	_	4	null	_	_
+5	.	_	_	$.	_	5	null	_	_
+
+1	Ich	_	_	PPER	_	1	null	_	_
+2	möchte	_	_	VMFIN	_	2	null	_	_
+3	nicht	_	_	PTKNEG	_	3	null	_	_
+4	mehr	_	_	ADV	_	4	null	_	_
+5	als	_	_	KOKOM	_	5	null	_	_
+6	nötig	_	_	ADJD	_	6	null	_	_
+7	unter	_	_	APPR	_	7	null	_	_
+8	Narkose	_	_	NN	_	8	null	_	_
+9	gesetzt	_	_	VVPP	_	9	null	_	_
+10	werden	_	_	VAINF	_	10	null	_	_
+11	.	_	_	$.	_	11	null	_	_
+
+1	Ich	_	_	PPER	_	1	null	_	_
+2	bekomme	_	_	VVFIN	_	2	null	_	_
+3	eine	_	_	ART	_	3	null	_	_
+4	Narkose	_	_	NN	_	4	null	_	_
+5	,	_	_	$,	_	5	null	_	_
+6	und	_	_	KON	_	6	null	_	_
+7	dann	_	_	ADV	_	7	null	_	_
+8	noch	_	_	ADV	_	8	null	_	_
+9	eine	_	_	PIS	_	9	null	_	_
+10	?	_	_	$.	_	10	null	_	_
+
+1	Es	_	_	PPER	_	1	null	_	_
+2	ist	_	_	VAFIN	_	2	null	_	_
+3	ein	_	_	ART	_	3	null	_	_
+4	schwerer	_	_	ADJA	_	4	null	_	_
+5	Eingriff	_	_	NN	_	5	null	_	_
+6	mit	_	_	APPR	_	6	null	_	_
+7	einer	_	_	ART	_	7	null	_	_
+8	langen	_	_	ADJA	_	8	null	_	_
+9	Rekonvaleszenz	_	_	NN	_	9	null	_	_
+10	.	_	_	$.	_	10	null	_	_
+
+1	Außerdem	_	_	PROAV	_	1	null	_	_
+2	brauchen	_	_	VVFIN	_	2	null	_	_
+3	wir	_	_	PPER	_	3	null	_	_
+4	dafür	_	_	PROAV	_	4	null	_	_
+5	einen	_	_	ART	_	5	null	_	_
+6	Spezialisten	_	_	NN	_	6	null	_	_
+7	.	_	_	$.	_	7	null	_	_
+
+1	Aufregend	_	_	ADJD	_	1	null	_	_
+2	.	_	_	$.	_	2	null	_	_
+
+1	Ja	_	_	PTKANT	_	1	null	_	_
+2	,	_	_	$,	_	2	null	_	_
+3	das	_	_	PDS	_	3	null	_	_
+4	ist	_	_	VAFIN	_	4	null	_	_
+5	es	_	_	PPER	_	5	null	_	_
+6	in	_	_	APPR	_	6	null	_	_
+7	der	_	_	ART	_	7	null	_	_
+8	Tat	_	_	NN	_	8	null	_	_
+9	.	_	_	$.	_	9	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Oh	_	_	APPRART	_	2	null	_	_
+3	Gott	_	_	NN	_	3	null	_	_
+4	.	_	_	$.	_	4	null	_	_
+
+1	Das	_	_	PDS	_	1	null	_	_
+2	reicht	_	_	VVFIN	_	2	null	_	_
+3	,	_	_	$,	_	3	null	_	_
+4	Dad	_	_	NN	_	4	null	_	_
+5	!	_	_	$.	_	5	null	_	_
+
+1	Weißt	_	_	VVFIN	_	1	null	_	_
+2	du	_	_	PPER	_	2	null	_	_
+3	,	_	_	$,	_	3	null	_	_
+4	wovon	_	_	PWAV	_	4	null	_	_
+5	ich	_	_	PPER	_	5	null	_	_
+6	rede	_	_	VVFIN	_	6	null	_	_
+7	?	_	_	$.	_	7	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Verstehst	_	_	VVFIN	_	2	null	_	_
+3	du	_	_	PPER	_	3	null	_	_
+4	mich	_	_	PPER	_	4	null	_	_
+5	?	_	_	$.	_	5	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Dad	_	_	NN	_	2	null	_	_
+3	,	_	_	$,	_	3	null	_	_
+4	das	_	_	PDS	_	4	null	_	_
+5	reicht	_	_	VVFIN	_	5	null	_	_
+6	!	_	_	$.	_	6	null	_	_
+
+1	Ich	_	_	PPER	_	1	null	_	_
+2	gehe	_	_	VVFIN	_	2	null	_	_
+3	,	_	_	$,	_	3	null	_	_
+4	ok	_	_	XY	_	4	null	_	_
+5	.	_	_	$.	_	5	null	_	_
+
+1	Ok	_	_	ITJ	_	1	null	_	_
+2	.	_	_	$.	_	2	null	_	_
+
+1	Gut	_	_	ADJD	_	1	null	_	_
+2	.	_	_	$.	_	2	null	_	_
+
+1	Warte	_	_	NN	_	1	null	_	_
+2	...	_	_	$(	_	2	null	_	_
+
+1	Ja	_	_	PTKANT	_	1	null	_	_
+2	,	_	_	$,	_	2	null	_	_
+3	die	_	_	ART	_	3	null	_	_
+4	DVD	_	_	NE	_	4	null	_	_
+5	.	_	_	$.	_	5	null	_	_
+
+1	Okay	_	_	ITJ	_	1	null	_	_
+2	,	_	_	$,	_	2	null	_	_
+3	ich	_	_	PPER	_	3	null	_	_
+4	sehe	_	_	VVFIN	_	4	null	_	_
+5	mal	_	_	ADV	_	5	null	_	_
+6	nach	_	_	PTKVZ	_	6	null	_	_
+7	,	_	_	$,	_	7	null	_	_
+8	ob	_	_	KOUS	_	8	null	_	_
+9	wir	_	_	PPER	_	9	null	_	_
+10	noch	_	_	ADV	_	10	null	_	_
+11	gefrorene	_	_	ADJA	_	11	null	_	_
+12	Soja-Pizza	_	_	NN	_	12	null	_	_
+13	haben	_	_	VAFIN	_	13	null	_	_
+14	.	_	_	$.	_	14	null	_	_
+
+1	Ausweise	_	_	NN	_	1	null	_	_
+2	.	_	_	$.	_	2	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Hi	_	_	ITJ	_	2	null	_	_
+3	.	_	_	$.	_	3	null	_	_
+
+1	Echt	_	_	ADJD	_	1	null	_	_
+2	jetzt	_	_	ADV	_	2	null	_	_
+3	?	_	_	$.	_	3	null	_	_
+
+1	Ja	_	_	PTKANT	_	1	null	_	_
+2	,	_	_	$,	_	2	null	_	_
+3	Baby	_	_	NN	_	3	null	_	_
+4	,	_	_	$,	_	4	null	_	_
+5	man	_	_	PIS	_	5	null	_	_
+6	kann	_	_	VMFIN	_	6	null	_	_
+7	euer	_	_	PPOSAT	_	7	null	_	_
+8	Alter	_	_	NN	_	8	null	_	_
+9	kaum	_	_	ADV	_	9	null	_	_
+10	noch	_	_	ADV	_	10	null	_	_
+11	schätzen	_	_	VVFIN	_	11	null	_	_
+12	,	_	_	$,	_	12	null	_	_
+13	wisst	_	_	VVFIN	_	13	null	_	_
+14	ihr	_	_	PPER	_	14	null	_	_
+15	.	_	_	$.	_	15	null	_	_
+
+1	Ja	_	_	PTKANT	_	1	null	_	_
+2	,	_	_	$,	_	2	null	_	_
+3	bitte	_	_	PTKANT	_	3	null	_	_
+4	.	_	_	$.	_	4	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Der	_	_	ART	_	2	null	_	_
+3	Abend	_	_	NN	_	3	null	_	_
+4	gefällt	_	_	VVFIN	_	4	null	_	_
+5	mir	_	_	PPER	_	5	null	_	_
+6	jetzt	_	_	ADV	_	6	null	_	_
+7	schon	_	_	ADV	_	7	null	_	_
+8	.	_	_	$.	_	8	null	_	_
+
+1	Rachel	_	_	NE	_	1	null	_	_
+2	?	_	_	$.	_	2	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Ja	_	_	PTKANT	_	2	null	_	_
+3	,	_	_	$,	_	3	null	_	_
+4	das	_	_	PDS	_	4	null	_	_
+5	bin	_	_	VAFIN	_	5	null	_	_
+6	ich	_	_	PPER	_	6	null	_	_
+7	.	_	_	$.	_	7	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Vielen	_	_	PIAT	_	2	null	_	_
+3	Dank	_	_	NN	_	3	null	_	_
+4	.	_	_	$.	_	4	null	_	_
+
+1	Es	_	_	PPER	_	1	null	_	_
+2	gefällt	_	_	VVFIN	_	2	null	_	_
+3	mir	_	_	PPER	_	3	null	_	_
+4	viel	_	_	ADV	_	4	null	_	_
+5	besser	_	_	ADJD	_	5	null	_	_
+6	,	_	_	$,	_	6	null	_	_
+7	wenn	_	_	KOUS	_	7	null	_	_
+8	wir	_	_	PPER	_	8	null	_	_
+9	einer	_	_	ART	_	9	null	_	_
+10	Meinung	_	_	NN	_	10	null	_	_
+11	sind	_	_	VAFIN	_	11	null	_	_
+12	.	_	_	$.	_	12	null	_	_
+
+1	Ihnen	_	_	PPER	_	1	null	_	_
+2	nicht	_	_	PTKNEG	_	2	null	_	_
+3	?	_	_	$.	_	3	null	_	_
+
+1	Der	_	_	ART	_	1	null	_	_
+2	Text	_	_	NN	_	2	null	_	_
+3	des	_	_	ART	_	3	null	_	_
+4	Kosst	_	_	NE	_	4	null	_	_
+5	Amojan	_	_	NE	_	5	null	_	_
+6	,	_	_	$,	_	6	null	_	_
+7	wie	_	_	PWAV	_	7	null	_	_
+8	Sie	_	_	PPER	_	8	null	_	_
+9	wünschten	_	_	VVFIN	_	9	null	_	_
+10	.	_	_	$.	_	10	null	_	_
+
+1	Sehr	_	_	ADV	_	1	null	_	_
+2	gut	_	_	ADJD	_	2	null	_	_
+3	.	_	_	$.	_	3	null	_	_
+
+1	Also	_	_	ADV	_	1	null	_	_
+2	?	_	_	$.	_	2	null	_	_
+
+1	Legen	_	_	VVFIN	_	1	null	_	_
+2	Sie	_	_	PPER	_	2	null	_	_
+3	ihn	_	_	PPER	_	3	null	_	_
+4	auf	_	_	APPR	_	4	null	_	_
+5	meinen	_	_	PPOSAT	_	5	null	_	_
+6	Schreibtisch	_	_	NN	_	6	null	_	_
+7	.	_	_	$.	_	7	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Eminenz	_	_	NN	_	2	null	_	_
+3	,	_	_	$,	_	3	null	_	_
+4	darf	_	_	VMFIN	_	4	null	_	_
+5	ich	_	_	PPER	_	5	null	_	_
+6	offen	_	_	ADJD	_	6	null	_	_
+7	sprechen	_	_	VVINF	_	7	null	_	_
+8	?	_	_	$.	_	8	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Wenn	_	_	KOUS	_	2	null	_	_
+3	es	_	_	PPER	_	3	null	_	_
+4	sein	_	_	VAINF	_	4	null	_	_
+5	muss	_	_	VMFIN	_	5	null	_	_
+6	.	_	_	$.	_	6	null	_	_
+
+1	Dieses	_	_	PDAT	_	1	null	_	_
+2	Buch	_	_	NN	_	2	null	_	_
+3	wurde	_	_	VAFIN	_	3	null	_	_
+4	seit	_	_	APPR	_	4	null	_	_
+5	700	_	_	CARD	_	5	null	_	_
+6	Jahren	_	_	NN	_	6	null	_	_
+7	nicht	_	_	PTKNEG	_	7	null	_	_
+8	mehr	_	_	ADV	_	8	null	_	_
+9	aus	_	_	APPR	_	9	null	_	_
+10	den	_	_	ART	_	10	null	_	_
+11	Archiven	_	_	NN	_	11	null	_	_
+12	geholt	_	_	VVPP	_	12	null	_	_
+13	.	_	_	$.	_	13	null	_	_
+
+1	Was	_	_	PWS	_	1	null	_	_
+2	wollen	_	_	VMFIN	_	2	null	_	_
+3	Sie	_	_	PPER	_	3	null	_	_
+4	damit	_	_	PROAV	_	4	null	_	_
+5	sagen	_	_	VVINF	_	5	null	_	_
+6	?	_	_	$.	_	6	null	_	_
+
+1	Er	_	_	PPER	_	1	null	_	_
+2	hat	_	_	VAFIN	_	2	null	_	_
+3	dich	_	_	PPER	_	3	null	_	_
+4	gebraucht	_	_	VVPP	_	4	null	_	_
+5	,	_	_	$,	_	5	null	_	_
+6	und	_	_	KON	_	6	null	_	_
+7	du	_	_	PPER	_	7	null	_	_
+8	hast	_	_	VAFIN	_	8	null	_	_
+9	ihn	_	_	PPER	_	9	null	_	_
+10	im	_	_	APPRART	_	10	null	_	_
+11	Stich	_	_	NN	_	11	null	_	_
+12	gelassen	_	_	VVPP	_	12	null	_	_
+13	.	_	_	$.	_	13	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Mom	_	_	NN	_	2	null	_	_
+3	,	_	_	$,	_	3	null	_	_
+4	Dad	_	_	NN	_	4	null	_	_
+5	,	_	_	$,	_	5	null	_	_
+6	helft	_	_	VVFIN	_	6	null	_	_
+7	mir	_	_	PPER	_	7	null	_	_
+8	!	_	_	$.	_	8	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Schatz	_	_	NN	_	2	null	_	_
+3	.	_	_	$.	_	3	null	_	_
+
+1	Eddie	_	_	NE	_	1	null	_	_
+2	wollte	_	_	VMFIN	_	2	null	_	_
+3	den	_	_	ART	_	3	null	_	_
+4	Brand	_	_	NN	_	4	null	_	_
+5	in	_	_	APPR	_	5	null	_	_
+6	sich	_	_	PRF	_	6	null	_	_
+7	löschen	_	_	VVINF	_	7	null	_	_
+8	,	_	_	$,	_	8	null	_	_
+9	indem	_	_	KOUS	_	9	null	_	_
+10	er	_	_	PPER	_	10	null	_	_
+11	in	_	_	APPR	_	11	null	_	_
+12	den	_	_	ART	_	12	null	_	_
+13	Fluss	_	_	NN	_	13	null	_	_
+14	sprang	_	_	VVFIN	_	14	null	_	_
+15	.	_	_	$.	_	15	null	_	_
+
+1	Siehst	_	_	VVFIN	_	1	null	_	_
+2	du	_	_	PPER	_	2	null	_	_
+3	?	_	_	$.	_	3	null	_	_
+
+1	Es	_	_	PPER	_	1	null	_	_
+2	ist	_	_	VAFIN	_	2	null	_	_
+3	das	_	_	ART	_	3	null	_	_
+4	Beste	_	_	NN	_	4	null	_	_
+5	,	_	_	$,	_	5	null	_	_
+6	wenn	_	_	KOUS	_	6	null	_	_
+7	wir	_	_	PPER	_	7	null	_	_
+8	uns	_	_	PRF	_	8	null	_	_
+9	in	_	_	APPR	_	9	null	_	_
+10	diesen	_	_	PDAT	_	10	null	_	_
+11	Dingen	_	_	NN	_	11	null	_	_
+12	nicht	_	_	PTKNEG	_	12	null	_	_
+13	einmischen	_	_	VVINF	_	13	null	_	_
+14	.	_	_	$.	_	14	null	_	_
+
+1	Aber	_	_	KON	_	1	null	_	_
+2	er	_	_	PPER	_	2	null	_	_
+3	kann	_	_	VMFIN	_	3	null	_	_
+4	nicht	_	_	PTKNEG	_	4	null	_	_
+5	schwimmen	_	_	VVINF	_	5	null	_	_
+6	.	_	_	$.	_	6	null	_	_
+
+1	Du	_	_	PPER	_	1	null	_	_
+2	hast	_	_	VAFIN	_	2	null	_	_
+3	es	_	_	PPER	_	3	null	_	_
+4	ihm	_	_	PPER	_	4	null	_	_
+5	nie	_	_	ADV	_	5	null	_	_
+6	beigebracht	_	_	VVPP	_	6	null	_	_
+7	.	_	_	$.	_	7	null	_	_
+
+1	Lass	_	_	VVIMP	_	1	null	_	_
+2	ihn	_	_	PPER	_	2	null	_	_
+3	das	_	_	PDS	_	3	null	_	_
+4	lernen	_	_	VVINF	_	4	null	_	_
+5	,	_	_	$,	_	5	null	_	_
+6	wie	_	_	PWAV	_	6	null	_	_
+7	ich	_	_	PPER	_	7	null	_	_
+8	es	_	_	PPER	_	8	null	_	_
+9	tat	_	_	VVFIN	_	9	null	_	_
+10	:	_	_	$.	_	10	null	_	_
+11	auf	_	_	APPR	_	11	null	_	_
+12	der	_	_	ART	_	12	null	_	_
+13	Straße	_	_	NN	_	13	null	_	_
+14	.	_	_	$.	_	14	null	_	_
+
+1	Nächste	_	_	ADJA	_	1	null	_	_
+2	Woche	_	_	NN	_	2	null	_	_
+3	bei	_	_	APPR	_	3	null	_	_
+4	Völlig	_	_	ADJD	_	4	null	_	_
+5	ineffektiver	_	_	ADJA	_	5	null	_	_
+6	Dad	_	_	NN	_	6	null	_	_
+7	die	_	_	ART	_	7	null	_	_
+8	urkomische	_	_	ADJA	_	8	null	_	_
+9	Beerdigungsfolge	_	_	NN	_	9	null	_	_
+10	.	_	_	$.	_	10	null	_	_
+
+1	Ich	_	_	PPER	_	1	null	_	_
+2	finde	_	_	VVFIN	_	2	null	_	_
+3	,	_	_	$,	_	3	null	_	_
+4	man	_	_	PIS	_	4	null	_	_
+5	kann	_	_	VMFIN	_	5	null	_	_
+6	über	_	_	APPR	_	6	null	_	_
+7	so	_	_	ADV	_	7	null	_	_
+8	persönliche	_	_	ADJA	_	8	null	_	_
+9	Dinge	_	_	NN	_	9	null	_	_
+10	nur	_	_	ADV	_	10	null	_	_
+11	sprechen	_	_	VVINF	_	11	null	_	_
+12	,	_	_	$,	_	12	null	_	_
+13	wenn	_	_	KOUS	_	13	null	_	_
+14	der	_	_	ART	_	14	null	_	_
+15	andere	_	_	PIS	_	15	null	_	_
+16	das	_	_	ART	_	16	null	_	_
+17	Verständnis	_	_	NN	_	17	null	_	_
+18	hat	_	_	VAFIN	_	18	null	_	_
+19	.	_	_	$.	_	19	null	_	_
+
+1	Deshalb	_	_	PROAV	_	1	null	_	_
+2	schäme	_	_	VVFIN	_	2	null	_	_
+3	ich	_	_	PPER	_	3	null	_	_
+4	mich	_	_	PRF	_	4	null	_	_
+5	überhaupt	_	_	ADV	_	5	null	_	_
+6	nicht	_	_	PTKNEG	_	6	null	_	_
+7	,	_	_	$,	_	7	null	_	_
+8	Ihnen	_	_	PPER	_	8	null	_	_
+9	zu	_	_	PTKZU	_	9	null	_	_
+10	sagen	_	_	VVINF	_	10	null	_	_
+11	:	_	_	$.	_	11	null	_	_
+12	Ohne	_	_	APPR	_	12	null	_	_
+13	Babs	_	_	NE	_	13	null	_	_
+14	wäre	_	_	VAFIN	_	14	null	_	_
+15	ich	_	_	PPER	_	15	null	_	_
+16	verloren	_	_	VVPP	_	16	null	_	_
+17	.	_	_	$.	_	17	null	_	_
+
+1	Das	_	_	PDS	_	1	null	_	_
+2	ist	_	_	VAFIN	_	2	null	_	_
+3	mir	_	_	PPER	_	3	null	_	_
+4	ganz	_	_	ADV	_	4	null	_	_
+5	klar	_	_	ADJD	_	5	null	_	_
+6	geworden	_	_	VAPP	_	6	null	_	_
+7	,	_	_	$,	_	7	null	_	_
+8	schon	_	_	ADV	_	8	null	_	_
+9	bei	_	_	APPR	_	9	null	_	_
+10	dieser	_	_	PDAT	_	10	null	_	_
+11	kurzen	_	_	ADJA	_	11	null	_	_
+12	Trennung	_	_	NN	_	12	null	_	_
+13	.	_	_	$.	_	13	null	_	_
+
+1	Ich	_	_	PPER	_	1	null	_	_
+2	glaube	_	_	VVFIN	_	2	null	_	_
+3	,	_	_	$,	_	3	null	_	_
+4	das	_	_	PDS	_	4	null	_	_
+5	wäre	_	_	VAFIN	_	5	null	_	_
+6	ein	_	_	ART	_	6	null	_	_
+7	schlechtes	_	_	ADJA	_	7	null	_	_
+8	Land	_	_	NN	_	8	null	_	_
+9	,	_	_	$,	_	9	null	_	_
+10	um	_	_	KOUI	_	10	null	_	_
+11	Kinder	_	_	NN	_	11	null	_	_
+12	aufzuziehen	_	_	VVIZU	_	12	null	_	_
+13	.	_	_	$.	_	13	null	_	_
+
+1	Ich	_	_	PPER	_	1	null	_	_
+2	weiß	_	_	VVFIN	_	2	null	_	_
+3	nicht	_	_	PTKNEG	_	3	null	_	_
+4	.	_	_	$.	_	4	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Wissen	_	_	VVFIN	_	2	null	_	_
+3	Sie	_	_	PPER	_	3	null	_	_
+4	?	_	_	$.	_	4	null	_	_
+
+1	Babs	_	_	NE	_	1	null	_	_
+2	und	_	_	KON	_	2	null	_	_
+3	ich	_	_	PPER	_	3	null	_	_
+4	,	_	_	$,	_	4	null	_	_
+5	wir	_	_	PPER	_	5	null	_	_
+6	wollten	_	_	VMFIN	_	6	null	_	_
+7	am	_	_	PTKA	_	7	null	_	_
+8	liebsten	_	_	ADJD	_	8	null	_	_
+9	gleich	_	_	ADV	_	9	null	_	_
+10	Kinder	_	_	NN	_	10	null	_	_
+11	haben	_	_	VAINF	_	11	null	_	_
+12	.	_	_	$.	_	12	null	_	_
+
+1	Doch	_	_	KON	_	1	null	_	_
+2	dann	_	_	ADV	_	2	null	_	_
+3	kam	_	_	VVFIN	_	3	null	_	_
+4	ich	_	_	PPER	_	4	null	_	_
+5	zu	_	_	APPR	_	5	null	_	_
+6	diesem	_	_	PDAT	_	6	null	_	_
+7	Job	_	_	NN	_	7	null	_	_
+8	.	_	_	$.	_	8	null	_	_
+
+1	Kinder	_	_	NN	_	1	null	_	_
+2	...	_	_	$(	_	2	null	_	_
+
+1	Zuerst	_	_	ADV	_	1	null	_	_
+2	dachten	_	_	VVFIN	_	2	null	_	_
+3	wir	_	_	PPER	_	3	null	_	_
+4	an	_	_	APPR	_	4	null	_	_
+5	2	_	_	CARD	_	5	null	_	_
+6	Jungen	_	_	NN	_	6	null	_	_
+7	und	_	_	KON	_	7	null	_	_
+8	dann	_	_	ADV	_	8	null	_	_
+9	vielleicht	_	_	ADV	_	9	null	_	_
+10	ein	_	_	ART	_	10	null	_	_
+11	Mädchen	_	_	NN	_	11	null	_	_
+12	.	_	_	$.	_	12	null	_	_
+
+1	Auf	_	_	APPR	_	1	null	_	_
+2	der	_	_	ART	_	2	null	_	_
+3	Flucht	_	_	NN	_	3	null	_	_
+4	vor	_	_	APPR	_	4	null	_	_
+5	der	_	_	ART	_	5	null	_	_
+6	Steuerfaschistin	_	_	NN	_	6	null	_	_
+7	konnte	_	_	VMFIN	_	7	null	_	_
+8	ich	_	_	PPER	_	8	null	_	_
+9	Pluspunkte	_	_	NN	_	9	null	_	_
+10	bei	_	_	APPR	_	10	null	_	_
+11	Sam	_	_	NE	_	11	null	_	_
+12	und	_	_	KON	_	12	null	_	_
+13	den	_	_	ART	_	13	null	_	_
+14	Kindern	_	_	NN	_	14	null	_	_
+15	sammeln	_	_	VVINF	_	15	null	_	_
+16	.	_	_	$.	_	16	null	_	_
+
+1	Wer	_	_	PWS	_	1	null	_	_
+2	hält	_	_	VVFIN	_	2	null	_	_
+3	mich	_	_	PPER	_	3	null	_	_
+4	für	_	_	APPR	_	4	null	_	_
+5	den	_	_	ART	_	5	null	_	_
+6	besten	_	_	ADJA	_	6	null	_	_
+7	Daddy	_	_	NN	_	7	null	_	_
+8	der	_	_	ART	_	8	null	_	_
+9	Welt	_	_	NN	_	9	null	_	_
+10	?	_	_	$.	_	10	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Wer	_	_	PWS	_	2	null	_	_
+3	will	_	_	VMFIN	_	3	null	_	_
+4	heute	_	_	ADV	_	4	null	_	_
+5	Schule	_	_	NN	_	5	null	_	_
+6	schwänzen	_	_	VVFIN	_	6	null	_	_
+7	?	_	_	$.	_	7	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Ja	_	_	PTKANT	_	2	null	_	_
+3	.	_	_	$.	_	3	null	_	_
+
+1	Schon	_	_	ADV	_	1	null	_	_
+2	besser	_	_	ADJD	_	2	null	_	_
+3	.	_	_	$.	_	3	null	_	_
+
+1	Okay	_	_	ITJ	_	1	null	_	_
+2	.	_	_	$.	_	2	null	_	_
+
+1	Die	_	_	ART	_	1	null	_	_
+2	Swans	_	_	NE	_	2	null	_	_
+3	machen	_	_	VVFIN	_	3	null	_	_
+4	einen	_	_	ART	_	4	null	_	_
+5	Familienausflug	_	_	NN	_	5	null	_	_
+6	.	_	_	$.	_	6	null	_	_
+
+1	Die	_	_	ART	_	1	null	_	_
+2	finden	_	_	VVFIN	_	2	null	_	_
+3	Wege	_	_	NN	_	3	null	_	_
+4	,	_	_	$,	_	4	null	_	_
+5	die	_	_	PRELS	_	5	null	_	_
+6	Seite	_	_	NN	_	6	null	_	_
+7	drei	_	_	CARD	_	7	null	_	_
+8	jetzt	_	_	ADV	_	8	null	_	_
+9	sogar	_	_	ADV	_	9	null	_	_
+10	noch	_	_	ADV	_	10	null	_	_
+11	gruseliger	_	_	ADJD	_	11	null	_	_
+12	zu	_	_	PTKZU	_	12	null	_	_
+13	machen	_	_	VVINF	_	13	null	_	_
+14	.	_	_	$.	_	14	null	_	_
+
+1	"	_	_	KON	_	1	null	_	_
+2	Die	_	_	ART	_	2	null	_	_
+3	süße	_	_	ADJA	_	3	null	_	_
+4	Karen	_	_	NE	_	4	null	_	_
+5	Clarke	_	_	NE	_	5	null	_	_
+6	war	_	_	VAFIN	_	6	null	_	_
+7	schon	_	_	ADV	_	7	null	_	_
+8	in	_	_	APPR	_	8	null	_	_
+9	jungen	_	_	ADJA	_	9	null	_	_
+10	Jahren	_	_	NN	_	10	null	_	_
+11	eine	_	_	ART	_	11	null	_	_
+12	Oben-ohne-Schönheit	_	_	NN	_	12	null	_	_
+13	.	_	_	$.	_	13	null	_	_
+
+1	Aber	_	_	KON	_	1	null	_	_
+2	jetzt	_	_	ADV	_	2	null	_	_
+3	ist	_	_	VAFIN	_	3	null	_	_
+4	sie	_	_	PPER	_	4	null	_	_
+5	ein	_	_	ART	_	5	null	_	_
+6	großes	_	_	ADJA	_	6	null	_	_
+7	Mädchen	_	_	NN	_	7	null	_	_
+8	und	_	_	KON	_	8	null	_	_
+9	eine	_	_	ART	_	9	null	_	_
+10	wohlgeformte	_	_	ADJA	_	10	null	_	_
+11	Lady	_	_	NN	_	11	null	_	_
+12	.	_	_	$.	_	12	null	_	_
+13	"	_	_	$(	_	13	null	_	_
+
+1	Was	_	_	PWS	_	1	null	_	_
+2	ist	_	_	VAFIN	_	2	null	_	_
+3	mit	_	_	APPR	_	3	null	_	_
+4	Cassie	_	_	NE	_	4	null	_	_
+5	und	_	_	KON	_	5	null	_	_
+6	Ramse	_	_	NE	_	6	null	_	_
+7	?	_	_	$.	_	7	null	_	_
+
+1	Ich	_	_	PPER	_	1	null	_	_
+2	dachte	_	_	VVFIN	_	2	null	_	_
+3	,	_	_	$,	_	3	null	_	_
+4	du	_	_	PPER	_	4	null	_	_
+5	würdest	_	_	VAFIN	_	5	null	_	_
+6	sie	_	_	PPER	_	6	null	_	_
+7	zuletzt	_	_	ADV	_	7	null	_	_
+8	rauslassen	_	_	VVINF	_	8	null	_	_
+9	wollen	_	_	VMFIN	_	9	null	_	_
+10	,	_	_	$,	_	10	null	_	_
+11	für	_	_	APPR	_	11	null	_	_
+12	den	_	_	ART	_	12	null	_	_
+13	Fall	_	_	NN	_	13	null	_	_
+14	,	_	_	$,	_	14	null	_	_
+15	dass	_	_	KOUS	_	15	null	_	_
+16	sie	_	_	PPER	_	16	null	_	_
+17	etwas	_	_	PIS	_	17	null	_	_
+18	versuchen	_	_	VVINF	_	18	null	_	_
+19	.	_	_	$.	_	19	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Ja	_	_	PTKANT	_	2	null	_	_
+3	.	_	_	$.	_	3	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Das	_	_	PDS	_	2	null	_	_
+3	habe	_	_	VAFIN	_	3	null	_	_
+4	ich	_	_	PPER	_	4	null	_	_
+5	mir	_	_	PPER	_	5	null	_	_
+6	gedacht	_	_	VVPP	_	6	null	_	_
+7	.	_	_	$.	_	7	null	_	_
+
+1	Was	_	_	PWS	_	1	null	_	_
+2	zur	_	_	APPRART	_	2	null	_	_
+3	Hölle	_	_	NN	_	3	null	_	_
+4	war	_	_	VAFIN	_	4	null	_	_
+5	das	_	_	PDS	_	5	null	_	_
+6	?	_	_	$.	_	6	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Was	_	_	PWS	_	2	null	_	_
+3	zur	_	_	APPRART	_	3	null	_	_
+4	Hölle	_	_	NN	_	4	null	_	_
+5	ist	_	_	VAFIN	_	5	null	_	_
+6	passiert	_	_	VVPP	_	6	null	_	_
+7	?	_	_	$.	_	7	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Der	_	_	ART	_	2	null	_	_
+3	Blitz	_	_	NN	_	3	null	_	_
+4	traf	_	_	VVFIN	_	4	null	_	_
+5	einen	_	_	PIS	_	5	null	_	_
+6	der	_	_	ART	_	6	null	_	_
+7	Transformatoren	_	_	NN	_	7	null	_	_
+8	.	_	_	$.	_	8	null	_	_
+
+1	Wir	_	_	PPER	_	1	null	_	_
+2	dürfen	_	_	VMFIN	_	2	null	_	_
+3	die	_	_	ART	_	3	null	_	_
+4	Evakuierung	_	_	NN	_	4	null	_	_
+5	nicht	_	_	PTKNEG	_	5	null	_	_
+6	verzögern	_	_	VVINF	_	6	null	_	_
+7	.	_	_	$.	_	7	null	_	_
+
+1	Leite	_	_	VVFIN	_	1	null	_	_
+2	alle	_	_	PIS	_	2	null	_	_
+3	über	_	_	APPR	_	3	null	_	_
+4	den	_	_	ART	_	4	null	_	_
+5	westlichen	_	_	ADJA	_	5	null	_	_
+6	Gang	_	_	NN	_	6	null	_	_
+7	zur	_	_	APPRART	_	7	null	_	_
+8	Fahrzeughalle	_	_	NN	_	8	null	_	_
+9	.	_	_	$.	_	9	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Wie	_	_	PWAV	_	2	null	_	_
+3	viele	_	_	PIS	_	3	null	_	_
+4	sind	_	_	VAFIN	_	4	null	_	_
+5	verwundet	_	_	ADJD	_	5	null	_	_
+6	?	_	_	$.	_	6	null	_	_
+
+1	Obwohl	_	_	KOUS	_	1	null	_	_
+2	,	_	_	$,	_	2	null	_	_
+3	er	_	_	PPER	_	3	null	_	_
+4	hat	_	_	VAFIN	_	4	null	_	_
+5	schöne	_	_	ADJA	_	5	null	_	_
+6	Reifen	_	_	NN	_	6	null	_	_
+7	hat	_	_	VAFIN	_	7	null	_	_
+8	...	_	_	$(	_	8	null	_	_
+9	für	_	_	APPR	_	9	null	_	_
+10	einen	_	_	ART	_	10	null	_	_
+11	Verrückten	_	_	NN	_	11	null	_	_
+12	.	_	_	$.	_	12	null	_	_
+
+1	Halt	_	_	NN	_	1	null	_	_
+2	den	_	_	ART	_	2	null	_	_
+3	Mund	_	_	NN	_	3	null	_	_
+4	!	_	_	$.	_	4	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Zu	_	_	APPR	_	2	null	_	_
+3	Hause	_	_	NN	_	3	null	_	_
+4	!	_	_	$.	_	4	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Dieser	_	_	PDAT	_	2	null	_	_
+3	Ort	_	_	NN	_	3	null	_	_
+4	ist	_	_	VAFIN	_	4	null	_	_
+5	verdammt	_	_	VVPP	_	5	null	_	_
+6	geil	_	_	ADJD	_	6	null	_	_
+7	.	_	_	$.	_	7	null	_	_
+
+1	Wie	_	_	PWAV	_	1	null	_	_
+2	im	_	_	APPRART	_	2	null	_	_
+3	Schlaraffenland	_	_	NN	_	3	null	_	_
+4	.	_	_	$.	_	4	null	_	_
+
+1	Hier	_	_	ADV	_	1	null	_	_
+2	kommen	_	_	VVFIN	_	2	null	_	_
+3	die	_	_	ART	_	3	null	_	_
+4	reichen	_	_	ADJA	_	4	null	_	_
+5	Kinder	_	_	NN	_	5	null	_	_
+6	zum	_	_	APPRART	_	6	null	_	_
+7	sterben	_	_	VVFIN	_	7	null	_	_
+8	hin	_	_	PTKVZ	_	8	null	_	_
+9	.	_	_	$.	_	9	null	_	_
+
+1	Willkommen	_	_	ADJD	_	1	null	_	_
+2	in	_	_	APPR	_	2	null	_	_
+3	meiner	_	_	PPOSAT	_	3	null	_	_
+4	Welt	_	_	NN	_	4	null	_	_
+5	.	_	_	$.	_	5	null	_	_
+
+1	Mir	_	_	PPER	_	1	null	_	_
+2	ist	_	_	VAFIN	_	2	null	_	_
+3	ein	_	_	ART	_	3	null	_	_
+4	bisschen	_	_	ADV	_	4	null	_	_
+5	schlecht	_	_	ADJD	_	5	null	_	_
+6	!	_	_	$.	_	6	null	_	_
+
+1	Kevin	_	_	NE	_	1	null	_	_
+2	,	_	_	$,	_	2	null	_	_
+3	ich	_	_	PPER	_	3	null	_	_
+4	glaube	_	_	VVFIN	_	4	null	_	_
+5	,	_	_	$,	_	5	null	_	_
+6	du	_	_	PPER	_	6	null	_	_
+7	solltest	_	_	VMFIN	_	7	null	_	_
+8	Julie	_	_	NE	_	8	null	_	_
+9	ins	_	_	APPRART	_	9	null	_	_
+10	Badezimmer	_	_	NN	_	10	null	_	_
+11	bringen	_	_	VVINF	_	11	null	_	_
+12	.	_	_	$.	_	12	null	_	_
+
+1	Komm	_	_	VVIMP	_	1	null	_	_
+2	schon	_	_	ADV	_	2	null	_	_
+3	.	_	_	$.	_	3	null	_	_
+
+1	Nein	_	_	PTKANT	_	1	null	_	_
+2	,	_	_	$,	_	2	null	_	_
+3	die	_	_	ART	_	3	null	_	_
+4	Ärzte	_	_	NN	_	4	null	_	_
+5	sind	_	_	VAFIN	_	5	null	_	_
+6	sehr	_	_	ADV	_	6	null	_	_
+7	zufrieden	_	_	ADJD	_	7	null	_	_
+8	,	_	_	$,	_	8	null	_	_
+9	er	_	_	PPER	_	9	null	_	_
+10	ist	_	_	VAFIN	_	10	null	_	_
+11	der	_	_	ART	_	11	null	_	_
+12	Tapferste	_	_	NN	_	12	null	_	_
+13	.	_	_	$.	_	13	null	_	_
+
+1	Hast	_	_	VAFIN	_	1	null	_	_
+2	du	_	_	PPER	_	2	null	_	_
+3	die	_	_	ART	_	3	null	_	_
+4	Bodys	_	_	NN	_	4	null	_	_
+5	?	_	_	$.	_	5	null	_	_
+
+1	Frag	_	_	NN	_	1	null	_	_
+2	deinen	_	_	PPOSAT	_	2	null	_	_
+3	Vater	_	_	NN	_	3	null	_	_
+4	!	_	_	$.	_	4	null	_	_
+
+1	Sag	_	_	VVIMP	_	1	null	_	_
+2	's	_	_	PPER	_	2	null	_	_
+3	ihr	_	_	PPER	_	3	null	_	_
+4	!	_	_	$.	_	4	null	_	_
+
+1	Ich	_	_	PPER	_	1	null	_	_
+2	hatte	_	_	VAFIN	_	2	null	_	_
+3	die	_	_	ART	_	3	null	_	_
+4	Tüte	_	_	NN	_	4	null	_	_
+5	damit	_	_	PROAV	_	5	null	_	_
+6	vorbereitet	_	_	VVPP	_	6	null	_	_
+7	und	_	_	KON	_	7	null	_	_
+8	er	_	_	PPER	_	8	null	_	_
+9	lässt	_	_	VVFIN	_	9	null	_	_
+10	sie	_	_	PPER	_	10	null	_	_
+11	stehen	_	_	VVINF	_	11	null	_	_
+12	!	_	_	$.	_	12	null	_	_
+
+1	Schade	_	_	ADJD	_	1	null	_	_
+2	,	_	_	$,	_	2	null	_	_
+3	ich	_	_	PPER	_	3	null	_	_
+4	hab	_	_	ADV	_	4	null	_	_
+5	nicht	_	_	PTKNEG	_	5	null	_	_
+6	mehr	_	_	ADV	_	6	null	_	_
+7	viele	_	_	PIS	_	7	null	_	_
+8	.	_	_	$.	_	8	null	_	_
+
+1	Siehst	_	_	VVFIN	_	1	null	_	_
+2	du	_	_	PPER	_	2	null	_	_
+3	,	_	_	$,	_	3	null	_	_
+4	sie	_	_	PPER	_	4	null	_	_
+5	ist	_	_	VAFIN	_	5	null	_	_
+6	sehr	_	_	ADV	_	6	null	_	_
+7	enttäuscht	_	_	ADJD	_	7	null	_	_
+8	!	_	_	$.	_	8	null	_	_
+
+1	Gut	_	_	ADJD	_	1	null	_	_
+2	,	_	_	$,	_	2	null	_	_
+3	ich	_	_	PPER	_	3	null	_	_
+4	hab	_	_	VAFIN	_	4	null	_	_
+5	sie	_	_	PPER	_	5	null	_	_
+6	vergessen	_	_	VVPP	_	6	null	_	_
+7	!	_	_	$.	_	7	null	_	_
+
+1	Mach	_	_	VVIMP	_	1	null	_	_
+2	nicht	_	_	PTKNEG	_	2	null	_	_
+3	so	_	_	ADV	_	3	null	_	_
+4	ein	_	_	ART	_	4	null	_	_
+5	Theater	_	_	NN	_	5	null	_	_
+6	!	_	_	$.	_	6	null	_	_
+
+1	Typisch	_	_	ADJD	_	1	null	_	_
+2	!	_	_	$.	_	2	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Mit	_	_	APPR	_	2	null	_	_
+3	dem	_	_	ART	_	3	null	_	_
+4	Mund	_	_	NN	_	4	null	_	_
+5	.	_	_	$.	_	5	null	_	_
+
+1	Mein	_	_	PPOSAT	_	1	null	_	_
+2	Autoreifen	_	_	NN	_	2	null	_	_
+3	ist	_	_	VAFIN	_	3	null	_	_
+4	geplatzt	_	_	VVPP	_	4	null	_	_
+5	.	_	_	$.	_	5	null	_	_
+
+1	Meine	_	_	PPOSAT	_	1	null	_	_
+2	Allianz	_	_	NN	_	2	null	_	_
+3	ist	_	_	VAFIN	_	3	null	_	_
+4	vorbei	_	_	ADV	_	4	null	_	_
+5	.	_	_	$.	_	5	null	_	_
+
+1	Viel	_	_	PIAT	_	1	null	_	_
+2	Glück	_	_	NN	_	2	null	_	_
+3	.	_	_	$.	_	3	null	_	_
+
+1	Was	_	_	PWS	_	1	null	_	_
+2	?	_	_	$.	_	2	null	_	_
+
+1	Dad	_	_	NN	_	1	null	_	_
+2	!	_	_	$.	_	2	null	_	_
+
+1	Das	_	_	ART	_	1	null	_	_
+2	Gute	_	_	NN	_	2	null	_	_
+3	daran	_	_	PROAV	_	3	null	_	_
+4	ist	_	_	VAFIN	_	4	null	_	_
+5	,	_	_	$,	_	5	null	_	_
+6	dass	_	_	KOUS	_	6	null	_	_
+7	ich	_	_	PPER	_	7	null	_	_
+8	meinen	_	_	PPOSAT	_	8	null	_	_
+9	Fisch	_	_	NN	_	9	null	_	_
+10	wiedersehe	_	_	VVFIN	_	10	null	_	_
+11	.	_	_	$.	_	11	null	_	_
+
+1	Hey	_	_	ITJ	_	1	null	_	_
+2	,	_	_	$,	_	2	null	_	_
+3	was	_	_	PWS	_	3	null	_	_
+4	ist	_	_	VAFIN	_	4	null	_	_
+5	los	_	_	PTKVZ	_	5	null	_	_
+6	?	_	_	$.	_	6	null	_	_
+
+1	Es	_	_	PPER	_	1	null	_	_
+2	spült	_	_	VVFIN	_	2	null	_	_
+3	nicht	_	_	PTKNEG	_	3	null	_	_
+4	runter	_	_	PTKVZ	_	4	null	_	_
+5	.	_	_	$.	_	5	null	_	_
+
+1	Wir	_	_	PPER	_	1	null	_	_
+2	brauchen	_	_	VVFIN	_	2	null	_	_
+3	ein	_	_	ART	_	3	null	_	_
+4	größeres	_	_	ADJA	_	4	null	_	_
+5	Klo	_	_	NN	_	5	null	_	_
+6	.	_	_	$.	_	6	null	_	_
+
+1	Führe	_	_	VVFIN	_	1	null	_	_
+2	mich	_	_	PPER	_	2	null	_	_
+3	zu	_	_	APPR	_	3	null	_	_
+4	dem	_	_	ART	_	4	null	_	_
+5	Mann	_	_	NN	_	5	null	_	_
+6	,	_	_	$,	_	6	null	_	_
+7	der	_	_	PRELS	_	7	null	_	_
+8	dich	_	_	PPER	_	8	null	_	_
+9	schickte	_	_	VVFIN	_	9	null	_	_
+10	.	_	_	$.	_	10	null	_	_
+
+1	Er	_	_	PPER	_	1	null	_	_
+2	erwartet	_	_	VVFIN	_	2	null	_	_
+3	dich	_	_	PRF	_	3	null	_	_
+4	.	_	_	$.	_	4	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Wo	_	_	PWAV	_	2	null	_	_
+3	?	_	_	$.	_	3	null	_	_
+
+1	Das	_	_	ART	_	1	null	_	_
+2	wirst	_	_	VAFIN	_	2	null	_	_
+3	du	_	_	PPER	_	3	null	_	_
+4	sehen	_	_	VVINF	_	4	null	_	_
+5	,	_	_	$,	_	5	null	_	_
+6	wenn	_	_	KOUS	_	6	null	_	_
+7	wir	_	_	PPER	_	7	null	_	_
+8	nicht	_	_	PTKNEG	_	8	null	_	_
+9	verhaftet	_	_	VVPP	_	9	null	_	_
+10	werden	_	_	VAINF	_	10	null	_	_
+11	.	_	_	$.	_	11	null	_	_
+
+1	Also	_	_	ADV	_	1	null	_	_
+2	los	_	_	PTKVZ	_	2	null	_	_
+3	.	_	_	$.	_	3	null	_	_
+
+1	Du	_	_	PPER	_	1	null	_	_
+2	gehst	_	_	VVFIN	_	2	null	_	_
+3	vor	_	_	APPR	_	3	null	_	_
+4	mir	_	_	PPER	_	4	null	_	_
+5	.	_	_	$.	_	5	null	_	_
+
+1	Ich	_	_	PPER	_	1	null	_	_
+2	komme	_	_	VVFIN	_	2	null	_	_
+3	nach	_	_	PTKVZ	_	3	null	_	_
+4	.	_	_	$.	_	4	null	_	_
+
+1	Das	_	_	PDS	_	1	null	_	_
+2	war	_	_	VAFIN	_	2	null	_	_
+3	ein	_	_	ART	_	3	null	_	_
+4	Test	_	_	NN	_	4	null	_	_
+5	.	_	_	$.	_	5	null	_	_
+
+1	Du	_	_	PPER	_	1	null	_	_
+2	konntest	_	_	VMFIN	_	2	null	_	_
+3	ein	_	_	ART	_	3	null	_	_
+4	Spion	_	_	NN	_	4	null	_	_
+5	sein	_	_	VAINF	_	5	null	_	_
+6	.	_	_	$.	_	6	null	_	_
+
+1	Die	_	_	ART	_	1	null	_	_
+2	Waffe	_	_	NN	_	2	null	_	_
+3	war	_	_	VAFIN	_	3	null	_	_
+4	ungeladen	_	_	ADJD	_	4	null	_	_
+5	.	_	_	$.	_	5	null	_	_
+
+1	-	_	_	$(	_	1	null	_	_
+2	Kommen	_	_	VVFIN	_	2	null	_	_
+3	Sie	_	_	PPER	_	3	null	_	_
+4	.	_	_	$.	_	4	null	_	_
+
+1	Seien	_	_	VAFIN	_	1	null	_	_
+2	Sie	_	_	PPER	_	2	null	_	_
+3	außergewöhnlich	_	_	ADJD	_	3	null	_	_
+4	.	_	_	$.	_	4	null	_	_
+
+1	Oh	_	_	ITJ	_	1	null	_	_
+2	,	_	_	$,	_	2	null	_	_
+3	Sie	_	_	PPER	_	3	null	_	_
+4	...	_	_	$(	_	4	null	_	_
+
+1	Okay	_	_	ITJ	_	1	null	_	_
+2	.	_	_	$.	_	2	null	_	_
+
+1	Um	_	_	KOUI	_	1	null	_	_
+2	die	_	_	ART	_	2	null	_	_
+3	Dinge	_	_	NN	_	3	null	_	_
+4	zu	_	_	PTKZU	_	4	null	_	_
+5	ordnen	_	_	VVINF	_	5	null	_	_
+6	:	_	_	$.	_	6	null	_	_
+
+1	Das	_	_	ART	_	1	null	_	_
+2	erste	_	_	ADJA	_	2	null	_	_
+3	Treffen	_	_	NN	_	3	null	_	_
+4	von	_	_	APPR	_	4	null	_	_
+5	Vertretern	_	_	NN	_	5	null	_	_
+6	der	_	_	ART	_	6	null	_	_
+7	menschlichen	_	_	ADJA	_	7	null	_	_
+8	Spezies	_	_	NN	_	8	null	_	_
+9	und	_	_	KON	_	9	null	_	_
+10	Homo	_	_	FM	_	10	null	_	_
+11	Reptilia	_	_	NE	_	11	null	_	_
+12	wird	_	_	VAFIN	_	12	null	_	_
+13	jetzt	_	_	ADV	_	13	null	_	_
+14	abgehalten	_	_	VVPP	_	14	null	_	_
+15	.	_	_	$.	_	15	null	_	_
+
+1	Das	_	_	PDS	_	1	null	_	_
+2	habe	_	_	VAFIN	_	2	null	_	_
+3	ich	_	_	PPER	_	3	null	_	_
+4	noch	_	_	ADV	_	4	null	_	_
+5	nie	_	_	ADV	_	5	null	_	_
+6	gesagt	_	_	VVPP	_	6	null	_	_
+7	,	_	_	$,	_	7	null	_	_
+8	dass	_	_	KOUS	_	8	null	_	_
+9	ist	_	_	VAFIN	_	9	null	_	_
+10	toll	_	_	ADJD	_	10	null	_	_
+11	!	_	_	$.	_	11	null	_	_
+
+1	Machen	_	_	VVFIN	_	1	null	_	_
+2	wir	_	_	PPER	_	2	null	_	_
+3	weiter	_	_	ADV	_	3	null	_	_
+4	!	_	_	$.	_	4	null	_	_
+
+1	Nun	_	_	ADV	_	1	null	_	_
+2	,	_	_	$,	_	2	null	_	_
+3	Mo	_	_	NE	_	3	null	_	_
+4	,	_	_	$,	_	4	null	_	_
+5	gehen	_	_	VVFIN	_	5	null	_	_
+6	wir	_	_	PPER	_	6	null	_	_
+7	Ihren	_	_	PPOSAT	_	7	null	_	_
+8	Sohn	_	_	NN	_	8	null	_	_
+9	holen	_	_	VVINF	_	9	null	_	_
+10	.	_	_	$.	_	10	null	_	_
+
+1	Ach	_	_	ITJ	_	1	null	_	_
+2	,	_	_	$,	_	2	null	_	_
+3	wissen	_	_	VVFIN	_	3	null	_	_
+4	Sie	_	_	PPER	_	4	null	_	_
+5	,	_	_	$,	_	5	null	_	_
+6	Menschen	_	_	NN	_	6	null	_	_
+7	und	_	_	KON	_	7	null	_	_
+8	ihre	_	_	PPOSAT	_	8	null	_	_
+9	Vorgänger	_	_	NN	_	9	null	_	_
+10	unterhalten	_	_	VVFIN	_	10	null	_	_
+11	sich	_	_	PRF	_	11	null	_	_
+12	ganz	_	_	ADV	_	12	null	_	_
+13	gemütlich	_	_	ADJD	_	13	null	_	_
+14	.	_	_	$.	_	14	null	_	_
+
+1	Niemals	_	_	ADV	_	1	null	_	_
+2	.	_	_	$.	_	2	null	_	_
+
+1	Wenn	_	_	KOUS	_	1	null	_	_
+2	er	_	_	PPER	_	2	null	_	_
+3	lügt	_	_	VVFIN	_	3	null	_	_
+4	,	_	_	$,	_	4	null	_	_
+5	haben	_	_	VAFIN	_	5	null	_	_
+6	Sie	_	_	PPER	_	6	null	_	_
+7	nichts	_	_	PIS	_	7	null	_	_
+8	zu	_	_	PTKZU	_	8	null	_	_
+9	befürchten	_	_	VVINF	_	9	null	_	_
+10	.	_	_	$.	_	10	null	_	_
+
+1	Kahless	_	_	NN	_	1	null	_	_
+2	ist	_	_	VAFIN	_	2	null	_	_
+3	seit	_	_	APPR	_	3	null	_	_
+4	1.000	_	_	CARD	_	4	null	_	_
+5	Jahren	_	_	NN	_	5	null	_	_
+6	tot	_	_	ADJD	_	6	null	_	_
+7	.	_	_	$.	_	7	null	_	_
+
+1	Aber	_	_	KON	_	1	null	_	_
+2	sein	_	_	PPOSAT	_	2	null	_	_
+3	Geist	_	_	NN	_	3	null	_	_
+4	ist	_	_	VAFIN	_	4	null	_	_
+5	noch	_	_	ADV	_	5	null	_	_
+6	lebendig	_	_	ADJD	_	6	null	_	_
+7	.	_	_	$.	_	7	null	_	_
+
+1	Haben	_	_	VAFIN	_	1	null	_	_
+2	Sie	_	_	PPER	_	2	null	_	_
+3	je	_	_	ADV	_	3	null	_	_
+4	einen	_	_	ART	_	4	null	_	_
+5	Geist	_	_	NN	_	5	null	_	_
+6	bekämpft	_	_	VVPP	_	6	null	_	_
+7	?	_	_	$.	_	7	null	_	_
+
+1	Keine	_	_	PIAT	_	1	null	_	_
+2	Waffe	_	_	NN	_	2	null	_	_
+3	kann	_	_	VMFIN	_	3	null	_	_
+4	ihn	_	_	PPER	_	4	null	_	_
+5	vernichten	_	_	VVINF	_	5	null	_	_
+6	.	_	_	$.	_	6	null	_	_
+
+1	Der	_	_	ART	_	1	null	_	_
+2	Geist	_	_	NN	_	2	null	_	_
+3	von	_	_	APPR	_	3	null	_	_
+4	Kahless	_	_	NN	_	4	null	_	_
+5	muss	_	_	VMFIN	_	5	null	_	_
+6	aber	_	_	ADV	_	6	null	_	_
+7	sofort	_	_	ADV	_	7	null	_	_
+8	ausgemerzt	_	_	VVPP	_	8	null	_	_
+9	werden	_	_	VAINF	_	9	null	_	_
+10	,	_	_	$,	_	10	null	_	_
+11	oder	_	_	KON	_	11	null	_	_
+12	er	_	_	PPER	_	12	null	_	_
+13	wird	_	_	VAFIN	_	13	null	_	_
+14	sich	_	_	PRF	_	14	null	_	_
+15	wie	_	_	KOKOM	_	15	null	_	_
+16	eine	_	_	ART	_	16	null	_	_
+17	Welle	_	_	NN	_	17	null	_	_
+18	im	_	_	APPRART	_	18	null	_	_
+19	Reich	_	_	NN	_	19	null	_	_
+20	verbreiten	_	_	VVFIN	_	20	null	_	_
+21	,	_	_	$,	_	21	null	_	_
+22	und	_	_	KON	_	22	null	_	_
+23	bleiben	_	_	VVINF	_	23	null	_	_
+24	wird	_	_	VAFIN	_	24	null	_	_
+25	nichts	_	_	PIS	_	25	null	_	_
+26	als	_	_	KOKOM	_	26	null	_	_
+27	eine	_	_	ART	_	27	null	_	_
+28	öde	_	_	ADJD	_	28	null	_	_
+29	Wüste	_	_	NN	_	29	null	_	_
+30	.	_	_	$.	_	30	null	_	_
+
+1	Gowron	_	_	NE	_	1	null	_	_
+2	ist	_	_	VAFIN	_	2	null	_	_
+3	also	_	_	ADV	_	3	null	_	_
+4	an	_	_	APPR	_	4	null	_	_
+5	Bord	_	_	NN	_	5	null	_	_
+6	gekommen	_	_	VVPP	_	6	null	_	_
+7	,	_	_	$,	_	7	null	_	_
+8	um	_	_	KOUI	_	8	null	_	_
+9	Ihren	_	_	PPOSAT	_	9	null	_	_
+10	Anspruch	_	_	NN	_	10	null	_	_
+11	zu	_	_	PTKZU	_	11	null	_	_
+12	prüfen	_	_	VVINF	_	12	null	_	_
+13	.	_	_	$.	_	13	null	_	_
+
+1	Gowron	_	_	NE	_	1	null	_	_
+2	weiß	_	_	VVFIN	_	2	null	_	_
+3	,	_	_	$,	_	3	null	_	_
+4	seine	_	_	PPOSAT	_	4	null	_	_
+5	Tage	_	_	NN	_	5	null	_	_
+6	sind	_	_	VAFIN	_	6	null	_	_
+7	gezählt	_	_	VVPP	_	7	null	_	_
+8	.	_	_	$.	_	8	null	_	_
+
+1	Also	_	_	ADV	_	1	null	_	_
+2	kommt	_	_	VVFIN	_	2	null	_	_
+3	er	_	_	PPER	_	3	null	_	_
+4	mit	_	_	APPR	_	4	null	_	_
+5	einem	_	_	ART	_	5	null	_	_
+6	läppischen	_	_	ADJA	_	6	null	_	_
+7	Test	_	_	NN	_	7	null	_	_
+8	daher	_	_	PTKVZ	_	8	null	_	_
+9	.	_	_	$.	_	9	null	_	_
+
+1	Das	_	_	PDS	_	1	null	_	_
+2	hat	_	_	VAFIN	_	2	null	_	_
+3	was	_	_	PIS	_	3	null	_	_
+4	.	_	_	$.	_	4	null	_	_
+
+1	Aber	_	_	KON	_	1	null	_	_
+2	denk	_	_	VVIMP	_	2	null	_	_
+3	dran	_	_	PROAV	_	3	null	_	_
+4	du	_	_	PPER	_	4	null	_	_
+5	bist	_	_	VAFIN	_	5	null	_	_
+6	nicht	_	_	PTKNEG	_	6	null	_	_
+7	wirklich	_	_	ADJD	_	7	null	_	_
+8	sauer	_	_	ADJD	_	8	null	_	_
+9	wegen	_	_	APPR	_	9	null	_	_
+10	der	_	_	ART	_	10	null	_	_
+11	schnurrbarthaare	_	_	NN	_	11	null	_	_
+12	.	_	_	$.	_	12	null	_	_
+
+1	Du	_	_	PPER	_	1	null	_	_
+2	bist	_	_	VAFIN	_	2	null	_	_
+3	sauer	_	_	ADJD	_	3	null	_	_
+4	weil	_	_	KOUS	_	4	null	_	_
+5	ich	_	_	PPER	_	5	null	_	_
+6	dir	_	_	PPER	_	6	null	_	_
+7	nicht	_	_	PTKNEG	_	7	null	_	_
+8	zuhöre	_	_	VVFIN	_	8	null	_	_
+9	,	_	_	$,	_	9	null	_	_
+10	deine	_	_	PPOSAT	_	10	null	_	_
+11	Freunde	_	_	NN	_	11	null	_	_
+12	nicht	_	_	PTKNEG	_	12	null	_	_
+13	mag	_	_	VMFIN	_	13	null	_	_
+14	und	_	_	KON	_	14	null	_	_
+15	über	_	_	APPR	_	15	null	_	_
+16	deine	_	_	PPOSAT	_	16	null	_	_
+17	Mutter	_	_	NN	_	17	null	_	_
+18	läster	_	_	NE	_	18	null	_	_
+19	.	_	_	$.	_	19	null	_	_
+
+
+

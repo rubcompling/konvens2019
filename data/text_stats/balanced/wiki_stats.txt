@@ -1,0 +1,148 @@
+Tokens: 1514
+Tokens without punctuation: 1314
+Types: 812
+Types (without punctuation): 799
+Types lowercased: 792
+Types lowercased (without punctuation): 779
+Different lemmas: 730
+Different lemmas lowercased: 728
+Tokens with more than one lemma: 3 {'einer', 'des', 'eine'}
+POS: 39
+Tokens with more than one POS: 21 {'auch', 'zu', 'das', 'des', 'um', 'als', 'die', 'der', 'dem', 'Das', 'vor', 'Als', 'Beide', 'aber', 'eine', 'ein', 'einer', 'bei', 'auf', 'beiden', 'maximal'}
+POS frequencies:
+	NN	315
+	NE	147
+	ART	139
+	APPR	131
+	ADJA	92
+	$,	86
+	$.	81
+	CARD	65
+	VVFIN	64
+	APPRART	47
+	KON	44
+	VAFIN	43
+	ADV	37
+	$(	33
+	PPER	31
+	VVPP	30
+	FM	20
+	ADJD	16
+	PRELS	9
+	PPOSAT	9
+	PIS	7
+	KOUS	7
+	VVINF	7
+	PTKVZ	6
+	PRF	6
+	PIAT	5
+	KOKOM	4
+	PTKZU	4
+	PDS	4
+	PTKNEG	4
+	XY	4
+	TRUNC	3
+	PAV	3
+	PDAT	3
+	PWAV	2
+	VMFIN	2
+	PIDAT	2
+	PTKA	1
+	KOUI	1
+Morphology annotations (without '_'): 939
+Different morphology annotations (without '_'): 78
+Tokens with more than one morphology annotation: 54 {'Kloster', 'Besiedlung', 'Nitten', 'Palermo', 'dem', 'Rudolf', 'Amt', 'Verein', 'Burg', 'seinen', 'deutsche', 'Pseudonym', 'Wien', 'maximal', 'Künste', 'Brno', 'im', 'der', 'Glasmalerei', 'Johannes', 'Mariahilf', 'Stadt', 'Unterabteilungen', 'Im', 'vom', 'Tilsit', 'beiden', 'Flüchtlinge', '6.', 'Inanna', 'Zed', 'sie', 'Paul', 'Die', 'König', 'eine', 'ein', 'Döbeln', 'einer', '21.', 'Gemeinde', 'Endrunde', 'Třinec', 'am', 'das', 'des', 'die', 'zum', 'Erzbischof', 'einem', 'es', 'SC', 'Grabmal', 'den'}
+Morphology frequencies:
+	_	575
+	number=sg|case=nom|gender=masc	94
+	number=sg|case=nom|gender=fem	61
+	number=sg|case=dat|gender=masc	56
+	number=sg|case=nom|gender=neut	54
+	number=sg|case=dat|gender=fem	49
+	number=sg|person=3|mood=ind|tense=past	46
+	number=sg|case=dat|gender=neut	45
+	number=sg|case=acc|gender=fem	41
+	number=sg|case=gen|gender=fem	37
+	number=sg|person=3|mood=ind|tense=pres	35
+	number=sg|case=acc|gender=masc	26
+	number=pl|case=nom|gender=masc	24
+	case=dat|gender=masc	23
+	number=pl|person=3|mood=ind|tense=pres	21
+	number=sg|case=acc|gender=neut	20
+	number=pl|case=nom|gender=fem	16
+	degree=pos	15
+	number=sg|case=gen|gender=masc	15
+	number=sg|person=3|case=nom|gender=masc	14
+	case=dat|gender=neut	14
+	number=sg|case=nom|gender=*	14
+	number=sg|degree=pos|case=dat|gender=masc	12
+	number=pl|case=nom|gender=neut	11
+	number=pl|case=dat|gender=fem	10
+	number=pl|case=dat|gender=neut	10
+	number=pl|case=acc|gender=fem	10
+	number=sg|degree=pos|case=dat|gender=neut	10
+	number=sg|degree=pos|case=nom|gender=fem	9
+	number=sg|degree=pos|case=nom|gender=neut	9
+	number=pl|case=acc|gender=neut	8
+	number=sg|degree=pos|case=gen|gender=fem	7
+	number=sg|degree=pos|case=acc|gender=fem	7
+	number=sg|person=3|case=acc	6
+	number=sg|case=dat|gender=*	6
+	number=sg|degree=pos|case=nom|gender=masc	5
+	number=sg|person=3|case=nom|gender=fem	5
+	number=pl|person=3|mood=ind|tense=past	5
+	number=sg|degree=pos|case=dat|gender=fem	5
+	case=dat|gender=fem	5
+	number=pl|case=gen|gender=masc	4
+	number=sg|case=gen|gender=neut	4
+	number=pl|degree=pos|case=nom|gender=fem	4
+	number=sg|degree=pos|case=acc|gender=masc	4
+	number=pl|case=gen|gender=fem	4
+	number=pl|degree=pos|case=dat|gender=neut	4
+	number=sg|person=3|case=acc|gender=masc	3
+	number=pl|case=gen|gender=*	3
+	number=pl|case=acc|gender=masc	3
+	number=pl|case=nom|gender=*	3
+	number=sg|case=acc|gender=*	3
+	number=pl|degree=pos|case=dat|gender=fem	3
+	number=sg|person=3|case=nom|gender=neut	3
+	number=pl|case=dat|gender=masc	3
+	case=dat|gender=*	3
+	number=pl|case=dat|gender=*	2
+	number=pl|degree=pos|case=nom|gender=masc	2
+	number=pl|degree=pos|case=acc|gender=masc	2
+	case=acc|gender=neut	2
+	number=pl|degree=pos|case=nom|gender=neut	1
+	number=pl|degree=pos|case=acc|gender=neut	1
+	number=sg|person=3|case=acc|gender=neut	1
+	number=sg|degree=comp|case=nom|gender=masc	1
+	degree=comp	1
+	number=pl|case=acc|gender=*	1
+	number=pl|person=1|case=dat|gender=*	1
+	number=sg|person=3|case=dat|gender=masc	1
+	number=pl|person=3|case=nom|gender=*	1
+	number=sg|degree=comp|case=acc|gender=masc	1
+	number=pl|degree=pos|case=gen|gender=masc	1
+	number=pl|person=1|case=nom|gender=*	1
+	number=sg|person=3|mood=subj|tense=past	1
+	number=pl|person=1|mood=ind|tense=pres	1
+	number=pl|degree=pos|case=gen|gender=*	1
+	number=sg|case=*|gender=*	1
+	number=sg|person=3|case=dat|gender=fem	1
+	number=pl|degree=pos|case=acc|gender=*	1
+	number=sg|degree=comp|case=dat|gender=fem	1
+	number=sg|degree=pos|case=gen|gender=masc	1
+Deprel frequencies:
+total:  163
+	_	1286	788.96\%	84.9\%
+	subj	95	58.28\%	6.3\%
+	obj	40	24.54\%	2.6\%
+	aux	31	19.02\%	2.0\%
+	pobj	17	10.43\%	1.1\%
+	pcase	15	9.2\%	1.0\%
+	pred	14	8.59\%	0.9\%
+	iobj	8	4.91\%	0.5\%
+	vobj	2	1.23\%	0.1\%
+	expl	2	1.23\%	0.1\%
+	vsubj	2	1.23\%	0.1\%
+	pcase-det	2	1.23\%	0.1\%

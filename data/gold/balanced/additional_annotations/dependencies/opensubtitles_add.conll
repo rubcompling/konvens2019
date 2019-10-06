@@ -1,0 +1,915 @@
+1	Er	er	PPER	PPER	_	4	subj	_	_
+2	hat	haben	VAFIN	VAFIN	_	4	aux	_	_
+3	dich	du	PPER	PPER	_	4	obj	_	_
+4	gebraucht	brauchen	VVPP	VVPP	_	_	_	_	_
+5	,	,	$,	$,	_	_	_	_	_
+6	und	und	KON	KON	_	_	_	_	_
+7	du	du	PPER	PPER	_	12	subj	_	_
+8	hast	haben	VAFIN	VAFIN	_	12	aux	_	_
+9	ihn	er	PPER	PPER	_	12	obj	_	_
+10	im	in	APPRART	APPRART	_	_	_	_	_
+11	Stich	Stich	NN	NN	_	_	_	_	_
+12	gelassen	lassen	VVPP	VVPP	_	_	_	_	_
+13	.	.	$.	$.	_	_	_	_	_
+
+1	-	-	$(	$(	_	_	_	_	_
+2	Mom	Mom	NE	NE	_	_	_	_	_
+3	,	,	$,	$,	_	_	_	_	_
+4	Dad	Dad	NE	NE	_	_	_	_	_
+5	,	,	$,	$,	_	_	_	_	_
+6	helft	helfen	VVIMP	VVIMP	_	_	_	_	_
+7	mir	ich	PPER	PPER	_	6	iobj	_	_
+8	!	!	$.	$.	_	_	_	_	_
+
+1	-	-	$(	$(	_	_	_	_	_
+2	Schatz	Schatz	NN	NN	_	_	_	_	_
+3	.	.	$.	$.	_	_	_	_	_
+
+1	Eddie	Eddie	NE	NE	_	7	subj	_	_
+2	wollte	wollen	VMFIN	VMFIN	_	7	aux	_	_
+3	den	der	ART	ART	_	_	_	_	_
+4	Brand	Brand	NN	NN	_	7	obj	_	_
+5	in	in	APPR	APPR	_	_	_	_	_
+6	sich	sich	PRF	PRF	_	_	_	_	_
+7	löschen	löschen	VVINF	VVINF	_	_	_	_	_
+8	,	,	$,	$,	_	_	_	_	_
+9	indem	indem	KOUS	KOUS	_	_	_	_	_
+10	er	er	PPER	PPER	_	14	subj	_	_
+11	in	in	APPR	APPR	_	_	_	_	_
+12	den	der	ART	ART	_	_	_	_	_
+13	Fluss	Fluss	NN	NN	_	_	_	_	_
+14	sprang	springen	VVFIN	VVFIN	_	_	_	_	_
+15	.	.	$.	$.	_	_	_	_	_
+
+1	Siehst	sehen	VVFIN	VVFIN	_	_	_	_	_
+2	du	du	PPER	PPER	_	1	subj	_	_
+3	?	?	$.	$.	_	_	_	_	_
+
+1	Es	es	PPER	PPER	_	2	expl	_	_
+2	ist	sein	VAFIN	VAFIN	_	_	_	_	_
+3	das	der	ART	ART	_	_	_	_	_
+4	Beste	Beste	NN	NN	_	2	pred	_	_
+5	,	,	$,	$,	_	_	_	_	_
+6	wenn	wenn	KOUS	KOUS	_	_	_	_	_
+7	wir	wir	PPER	PPER	_	13	subj	_	_
+8	uns	wir	PPER	PPER	_	13	obj	_	_
+9	in	in	APPR	APPR	_	_	_	_	_
+10	diesen	dieser	PDAT	PDAT	_	_	_	_	_
+11	Dingen	Ding	NN	NN	_	_	_	_	_
+12	nicht	nicht	PTKNEG	PTKNEG	_	_	_	_	_
+13	einmischen	einmischen	VVFIN	VVFIN	_	2	vsubj	_	_
+14	.	.	$.	$.	_	_	_	_	_
+
+1	Aber	aber	ADV	ADV	_	_	_	_	_
+2	er	er	PPER	PPER	_	5	subj	_	_
+3	kann	können	VMFIN	VMFIN	_	5	aux	_	_
+4	nicht	nicht	PTKNEG	PTKNEG	_	_	_	_	_
+5	schwimmen	schwimmen	VVINF	VVINF	_	_	_	_	_
+6	.	.	$.	$.	_	_	_	_	_
+
+1	Du	du	PPER	PPER	_	6	subj	_	_
+2	hast	haben	VAFIN	VAFIN	_	6	aux	_	_
+3	es	es	PPER	PPER	_	6	obj	_	_
+4	ihm	er	PPER	PPER	_	6	iobj	_	_
+5	nie	nie	ADV	ADV	_	_	_	_	_
+6	beigebracht	beibringen	VVPP	VVPP	_	_	_	_	_
+7	.	.	$.	$.	_	_	_	_	_
+
+1	Lass	lassen	VVIMP	VVIMP	_	_	_	_	_
+2	ihn	er	PPER	PPER	_	1	obj	_	_
+3	das	der	PDS	PDS	_	4	obj	_	_
+4	lernen	lernen	VVINF	VVINF	_	1	vobj	_	_
+5	,	,	$,	$,	_	_	_	_	_
+6	wie	wie	KOKOM	KOKOM	_	_	_	_	_
+7	ich	ich	PPER	PPER	_	9	subj	_	_
+8	es	es	PPER	PPER	_	9	obj	_	_
+9	tat	tun	VVFIN	VVFIN	_	_	_	_	_
+10	:	:	$.	$.	_	_	_	_	_
+11	auf	auf	APPR	APPR	_	_	_	_	_
+12	der	der	ART	ART	_	_	_	_	_
+13	Straße	Straße	NN	NN	_	_	_	_	_
+14	.	.	$.	$.	_	_	_	_	_
+
+1	Nächste	nächster	ADJA	ADJA	_	_	_	_	_
+2	Woche	Woche	NN	NN	_	_	_	_	_
+3	bei	bei	APPR	APPR	_	_	_	_	_
+4	Völlig	völlig	ADV	ADV	_	_	_	_	_
+5	ineffektiver	ineffektiv	ADJA	ADJA	_	_	_	_	_
+6	Dad	Dad	NN	NN	_	_	_	_	_
+7	die	der	ART	ART	_	_	_	_	_
+8	urkomische	urkomisch	ADJA	ADJA	_	_	_	_	_
+9	Beerdigungsfolge	Beerdigungsfolge	NN	NN	_	_	_	_	_
+10	.	.	$.	$.	_	_	_	_	_
+
+1	Ich	ich	PPER	PPER	_	2	subj	_	_
+2	finde	finden	VVFIN	VVFIN	_	_	_	_	_
+3	,	,	$,	$,	_	_	_	_	_
+4	man	man	PIS	PIS	_	11	subj	_	_
+5	kann	können	VMFIN	VMFIN	_	11	aux	_	_
+6	über	über	APPR	APPR	_	9	pcase	_	_
+7	so	so	ADV	ADV	_	_	_	_	_
+8	persönliche	persönlich	ADJA	ADJA	_	_	_	_	_
+9	Dinge	Ding	NN	NN	_	11	pobj	_	_
+10	nur	nur	ADV	ADV	_	_	_	_	_
+11	sprechen	sprechen	VVINF	VVINF	_	2	vobj	_	_
+12	,	,	$,	$,	_	_	_	_	_
+13	wenn	wenn	KOUS	KOUS	_	_	_	_	_
+14	der	der	ART	ART	_	_	_	_	_
+15	andere	anderer	PIS	PIS	_	18	subj	_	_
+16	das	der	ART	ART	_	_	_	_	_
+17	Verständnis	Verständnis	NN	NN	_	18	obj	_	_
+18	hat	haben	VAFIN	VAFIN	_	_	_	_	_
+19	.	.	$.	$.	_	_	_	_	_
+
+1	Deshalb	deshalb	PAV	PAV	_	_	_	_	_
+2	schäme	schämen	VVFIN	VVFIN	_	_	_	_	_
+3	ich	ich	PPER	PPER	_	2	subj	_	_
+4	mich	ich	PRF	PRF	_	2	obj	_	_
+5	überhaupt	überhaupt	ADV	ADV	_	_	_	_	_
+6	nicht	nicht	PTKNEG	PTKNEG	_	_	_	_	_
+7	,	,	$,	$,	_	_	_	_	_
+8	Ihnen	Sie	PPER	PPER	_	10	iobj	_	_
+9	zu	zu	PTKZU	PTKZU	_	_	_	_	_
+10	sagen	sagen	VVINF	VVINF	_	_	_	_	_
+11	:	:	$.	$.	_	_	_	_	_
+12	Ohne	ohne	APPR	APPR	_	_	_	_	_
+13	Babs	Babs	NE	NE	_	_	_	_	_
+14	wäre	sein	VAFIN	VAFIN	_	10	vobj	_	_
+15	ich	ich	PPER	PPER	_	14	subj	_	_
+16	verloren	verloren	ADJD	ADJD	_	14	pred	_	_
+17	.	.	$.	$.	_	_	_	_	_
+
+1	Das	der	PDS	PDS	_	6	subj	_	_
+2	ist	sein	VAFIN	VAFIN	_	6	aux	_	_
+3	mir	ich	PPER	PPER	_	6	iobj	_	_
+4	ganz	ganz	ADV	ADV	_	_	_	_	_
+5	klar	klar	ADJD	ADJD	_	6	pred	_	_
+6	geworden	werden	VVPP	VVPP	_	_	_	_	_
+7	,	,	$,	$,	_	_	_	_	_
+8	schon	schon	ADV	ADV	_	_	_	_	_
+9	bei	bei	APPR	APPR	_	_	_	_	_
+10	dieser	dieser	PDAT	PDAT	_	_	_	_	_
+11	kurzen	kurz	ADJA	ADJA	_	_	_	_	_
+12	Trennung	Trennung	NN	NN	_	_	_	_	_
+13	.	.	$.	$.	_	_	_	_	_
+
+1	Ich	ich	PPER	PPER	_	2	subj	_	_
+2	glaube	glauben	VVFIN	VVFIN	_	_	_	_	_
+3	,	,	$,	$,	_	_	_	_	_
+4	das	der	PDS	PDS	_	5	subj	_	_
+5	wäre	sein	VAFIN	VAFIN	_	2	vobj	_	_
+6	ein	ein	ART	ART	_	_	_	_	_
+7	schlechtes	schlecht	ADJA	ADJA	_	_	_	_	_
+8	Land	Land	NN	NN	_	5	pred	_	_
+9	,	,	$,	$,	_	_	_	_	_
+10	um	um	KOUI	KOUI	_	_	_	_	_
+11	Kinder	Kind	NN	NN	_	12	obj	_	_
+12	aufzuziehen	aufziehen	VVIZU	VVIZU	_	_	_	_	_
+13	.	.	$.	$.	_	_	_	_	_
+
+1	Ich	ich	PPER	PPER	_	2	subj	_	_
+2	weiß	wissen	VVFIN	VVFIN	_	_	_	_	_
+3	nicht	nicht	PTKNEG	PTKNEG	_	_	_	_	_
+4	.	.	$.	$.	_	_	_	_	_
+
+1	-	-	$(	$(	_	_	_	_	_
+2	Wissen	wissen	VVFIN	VVFIN	_	_	_	_	_
+3	Sie	Sie	PPER	PPER	_	2	subj	_	_
+4	?	?	$.	$.	_	_	_	_	_
+
+1	Babs	Babs	NE	NE	_	_	_	_	_
+2	und	und	KON	KON	_	_	_	_	_
+3	ich	ich	PPER	PPER	_	_	_	_	_
+4	,	,	$,	$,	_	_	_	_	_
+5	wir	wir	PPER	PPER	_	11	subj	_	_
+6	wollten	wollen	VMFIN	VMFIN	_	11	aux	_	_
+7	am	am	PTKA	PTKA	_	_	_	_	_
+8	liebsten	lieb	ADJD	ADJD	_	_	_	_	_
+9	gleich	gleich	ADV	ADV	_	_	_	_	_
+10	Kinder	Kind	NN	NN	_	11	obj	_	_
+11	haben	haben	VAINF	VAINF	_	_	_	_	_
+12	.	.	$.	$.	_	_	_	_	_
+
+1	Doch	doch	KON	KON	_	_	_	_	_
+2	dann	dann	ADV	ADV	_	_	_	_	_
+3	kam	kommen	VVFIN	VVFIN	_	_	_	_	_
+4	ich	ich	PPER	PPER	_	3	subj	_	_
+5	zu	zu	APPR	APPR	_	_	_	_	_
+6	diesem	dieser	PDAT	PDAT	_	_	_	_	_
+7	Job	Job	NN	NN	_	_	_	_	_
+8	.	.	$.	$.	_	_	_	_	_
+
+1	Kinder	Kind	NN	NN	_	_	_	_	_
+2	...	...	$.	$.	_	_	_	_	_
+
+1	Zuerst	zuerst	ADV	ADV	_	_	_	_	_
+2	dachten	denken	VVFIN	VVFIN	_	_	_	_	_
+3	wir	wir	PPER	PPER	_	2	subj	_	_
+4	an	an	APPR	APPR	_	6	pcase	_	_
+5	2	2	CARD	CARD	_	_	_	_	_
+6	Jungen	Junge	NN	NN	_	2	pobj	_	_
+7	und	und	KON	KON	_	_	_	_	_
+8	dann	dann	ADV	ADV	_	_	_	_	_
+9	vielleicht	vielleicht	ADV	ADV	_	_	_	_	_
+10	ein	ein	ART	ART	_	_	_	_	_
+11	Mädchen	Mädchen	NN	NN	_	_	_	_	_
+12	.	.	$.	$.	_	_	_	_	_
+
+1	Auf	auf	APPR	APPR	_	_	_	_	_
+2	der	der	ART	ART	_	_	_	_	_
+3	Flucht	Flucht	NN	NN	_	_	_	_	_
+4	vor	vor	APPR	APPR	_	6	pcase	_	_
+5	der	der	ART	ART	_	_	_	_	_
+6	Steuerfaschistin	Steuerfaschistin	NN	NN	_	3	pobj	_	_
+7	konnte	können	VMFIN	VMFIN	_	15	aux	_	_
+8	ich	ich	PPER	PPER	_	15	subj	_	_
+9	Pluspunkte	Pluspunkt	NN	NN	_	15	obj	_	_
+10	bei	bei	APPR	APPR	_	_	_	_	_
+11	Sam	Sam	NE	NE	_	_	_	_	_
+12	und	und	KON	KON	_	_	_	_	_
+13	den	der	ART	ART	_	_	_	_	_
+14	Kindern	Kind	NN	NN	_	_	_	_	_
+15	sammeln	sammeln	VVINF	VVINF	_	_	_	_	_
+16	.	.	$.	$.	_	_	_	_	_
+
+1	Wer	wer	PWS	PWS	_	2	subj	_	_
+2	hält	halten	VVFIN	VVFIN	_	_	_	_	_
+3	mich	ich	PPER	PPER	_	2	obj	_	_
+4	für	für	APPR	APPR	_	7	pcase	_	_
+5	den	der	ART	ART	_	_	_	_	_
+6	besten	gut	ADJA	ADJA	_	_	_	_	_
+7	Daddy	Daddy	NN	NN	_	2	pobj	_	_
+8	der	der	ART	ART	_	_	_	_	_
+9	Welt	Welt	NN	NN	_	_	_	_	_
+10	?	?	$.	$.	_	_	_	_	_
+
+1	-	-	$(	$(	_	_	_	_	_
+2	Wer	wer	PWS	PWS	_	6	subj	_	_
+3	will	wollen	VMFIN	VMFIN	_	6	aux	_	_
+4	heute	heute	ADV	ADV	_	_	_	_	_
+5	Schule	Schule	NN	NN	_	6	obj	_	_
+6	schwänzen	schwänzen	VVINF	VVINF	_	_	_	_	_
+7	?	?	$.	$.	_	_	_	_	_
+
+1	-	-	$(	$(	_	_	_	_	_
+2	Ja	ja	PTKANT	PTKANT	_	_	_	_	_
+3	.	.	$.	$.	_	_	_	_	_
+
+1	Schon	schon	ADV	ADV	_	_	_	_	_
+2	besser	gut	ADJD	ADJD	_	_	_	_	_
+3	.	.	$.	$.	_	_	_	_	_
+
+1	Okay	okay	ADV	ADV	_	_	_	_	_
+2	.	.	$.	$.	_	_	_	_	_
+
+1	Die	der	ART	ART	_	_	_	_	_
+2	Swans	Swan	NE	NE	_	3	subj	_	_
+3	machen	machen	VVFIN	VVFIN	_	_	_	_	_
+4	einen	ein	ART	ART	_	_	_	_	_
+5	Familienausflug	Familienausflug	NN	NN	_	3	obj	_	_
+6	.	.	$.	$.	_	_	_	_	_
+
+1	Die	der	PDS	PDS	_	2	subj	_	_
+2	finden	finden	VVFIN	VVFIN	_	_	_	_	_
+3	Wege	Weg	NN	NN	_	2	obj	_	_
+4	,	,	$,	$,	_	_	_	_	_
+5	die	der	ART	ART	_	_	_	_	_
+6	Seite	Seite	NN	NN	_	13	obj	_	_
+7	drei	drei	CARD	CARD	_	_	_	_	_
+8	jetzt	jetzt	ADV	ADV	_	_	_	_	_
+9	sogar	sogar	ADV	ADV	_	_	_	_	_
+10	noch	noch	ADV	ADV	_	_	_	_	_
+11	gruseliger	gruselig	ADJD	ADJD	_	_	_	_	_
+12	zu	zu	PTKZU	PTKZU	_	_	_	_	_
+13	machen	machen	VVINF	VVINF	_	_	_	_	_
+14	.	.	$.	$.	_	_	_	_	_
+
+1	"	"	$(	$(	_	_	_	_	_
+2	Die	der	ART	ART	_	_	_	_	_
+3	süße	süß	ADJA	ADJA	_	_	_	_	_
+4	Karen	Karen	NE	NE	_	_	_	_	_
+5	Clarke	Clarke	NE	NE	_	6	subj	_	_
+6	war	sein	VAFIN	VAFIN	_	_	_	_	_
+7	schon	schon	ADV	ADV	_	_	_	_	_
+8	in	in	APPR	APPR	_	_	_	_	_
+9	jungen	jung	ADJA	ADJA	_	_	_	_	_
+10	Jahren	Jahr	NN	NN	_	_	_	_	_
+11	eine	ein	ART	ART	_	_	_	_	_
+12	Oben-ohne-Schönheit	Oben-ohne-Schönheit	NN	NN	_	6	pred	_	_
+13	.	.	$.	$.	_	_	_	_	_
+
+1	Aber	aber	KON	KON	_	_	_	_	_
+2	jetzt	jetzt	ADV	ADV	_	_	_	_	_
+3	ist	sein	VAFIN	VAFIN	_	_	_	_	_
+4	sie	sie	PPER	PPER	_	3	subj	_	_
+5	ein	ein	ART	ART	_	_	_	_	_
+6	großes	groß	ADJA	ADJA	_	_	_	_	_
+7	Mädchen	Mädchen	NN	NN	_	3	pred	_	_
+8	und	und	KON	KON	_	_	_	_	_
+9	eine	ein	ART	ART	_	_	_	_	_
+10	wohlgeformte	wohlgeformt	ADJA	ADJA	_	_	_	_	_
+11	Lady	Lady	NN	NN	_	_	_	_	_
+12	.	.	$.	$.	_	_	_	_	_
+13	"	"	$(	$(	_	_	_	_	_
+
+1	Was	was	PWS	PWS	_	2	subj	_	_
+2	ist	sein	VAFIN	VAFIN	_	_	_	_	_
+3	mit	mit	APPR	APPR	_	_	_	_	_
+4	Cassie	Cassie	NE	NE	_	_	_	_	_
+5	und	und	KON	KON	_	_	_	_	_
+6	Ramse	Ramse	NE	NE	_	_	_	_	_
+7	?	?	$.	$.	_	_	_	_	_
+
+1	Ich	ich	PPER	PPER	_	2	subj	_	_
+2	dachte	denken	VVFIN	VVFIN	_	_	_	_	_
+3	,	,	$,	$,	_	_	_	_	_
+4	du	du	PPER	PPER	_	8	subj	_	_
+5	würdest	werden	VAFIN	VAFIN	_	8	aux	_	_
+6	sie	sie	PPER	PPER	_	8	obj	_	_
+7	zuletzt	zuletzt	ADV	ADV	_	_	_	_	_
+8	rauslassen	rauslassen	VVINF	VVINF	_	2	vobj	_	_
+9	wollen	wollen	VMINF	VMINF	_	8	aux	_	_
+10	,	,	$,	$,	_	_	_	_	_
+11	für	für	APPR	APPR	_	_	_	_	_
+12	den	der	ART	ART	_	_	_	_	_
+13	Fall	Fall	NN	NN	_	_	_	_	_
+14	,	,	$,	$,	_	_	_	_	_
+15	dass	dass	KOUS	KOUS	_	_	_	_	_
+16	sie	sie	PPER	PPER	_	18	subj	_	_
+17	etwas	etwas	PIS	PIS	_	18	obj	_	_
+18	versuchen	versuchen	VVFIN	VVFIN	_	_	_	_	_
+19	.	.	$.	$.	_	_	_	_	_
+
+1	-	-	$(	$(	_	_	_	_	_
+2	Ja	ja	PTKANT	PTKANT	_	_	_	_	_
+3	.	.	$.	$.	_	_	_	_	_
+
+1	-	-	$(	$(	_	_	_	_	_
+2	Das	der	PDS	PDS	_	6	obj	_	_
+3	habe	haben	VAFIN	VAFIN	_	6	aux	_	_
+4	ich	ich	PPER	PPER	_	6	subj	_	_
+5	mir	ich	PRF	PRF	_	6	iobj	_	_
+6	gedacht	denken	VVPP	VVPP	_	_	_	_	_
+7	.	.	$.	$.	_	_	_	_	_
+
+1	Was	was	PWS	PWS	_	4	pred	_	_
+2	zur	zu	APPRART	APPRART	_	_	_	_	_
+3	Hölle	Hölle	NN	NN	_	_	_	_	_
+4	war	sein	VAFIN	VAFIN	_	_	_	_	_
+5	das	der	PDS	PDS	_	4	subj	_	_
+6	?	?	$.	$.	_	_	_	_	_
+
+1	-	-	$(	$(	_	_	_	_	_
+2	Was	was	PWS	PWS	_	6	subj	_	_
+3	zur	zu	APPRART	APPRART	_	_	_	_	_
+4	Hölle	Hölle	NN	NN	_	_	_	_	_
+5	ist	sein	VAFIN	VAFIN	_	6	aux	_	_
+6	passiert	passieren	VVPP	VVPP	_	_	_	_	_
+7	?	?	$.	$.	_	_	_	_	_
+
+1	-	-	$(	$(	_	_	_	_	_
+2	Der	der	ART	ART	_	_	_	_	_
+3	Blitz	Blitz	NN	NN	_	4	subj	_	_
+4	traf	treffen	VVFIN	VVFIN	_	_	_	_	_
+5	einen	einer	PIS	PIS	_	4	obj	_	_
+6	der	der	ART	ART	_	_	_	_	_
+7	Transformatoren	Transformator	NN	NN	_	_	_	_	_
+8	.	.	$.	$.	_	_	_	_	_
+
+1	Wir	wir	PPER	PPER	_	6	subj	_	_
+2	dürfen	dürfen	VMFIN	VMFIN	_	6	aux	_	_
+3	die	der	ART	ART	_	_	_	_	_
+4	Evakuierung	Evakuierung	NN	NN	_	6	obj	_	_
+5	nicht	nicht	PTKNEG	PTKNEG	_	_	_	_	_
+6	verzögern	verzögern	VVINF	VVINF	_	_	_	_	_
+7	.	.	$.	$.	_	_	_	_	_
+
+1	Leite	leiten	VVIMP	VVIMP	_	_	_	_	_
+2	alle	alle	PIS	PIS	_	1	obj	_	_
+3	über	über	APPR	APPR	_	_	_	_	_
+4	den	der	ART	ART	_	_	_	_	_
+5	westlichen	westlich	ADJA	ADJA	_	_	_	_	_
+6	Gang	Gang	NN	NN	_	_	_	_	_
+7	zur	zu	APPRART	APPRART	_	_	_	_	_
+8	Fahrzeughalle	Fahrzeughalle	NN	NN	_	_	_	_	_
+9	.	.	$.	$.	_	_	_	_	_
+
+1	-	-	$(	$(	_	_	_	_	_
+2	Wie	wie	PWAV	PWAV	_	_	_	_	_
+3	viele	viele	PIS	PIS	_	4	subj	_	_
+4	sind	sein	VAFIN	VAFIN	_	_	_	_	_
+5	verwundet	verwundet	ADJD	ADJD	_	4	pred	_	_
+6	?	?	$.	$.	_	_	_	_	_
+
+1	Obwohl	obwohl	KOUS	KOUS	_	_	_	_	_
+2	,	,	$,	$,	_	_	_	_	_
+3	er	er	PPER	PPER	_	4	subj	_	_
+4	hat	haben	VAFIN	VAFIN	_	_	_	_	_
+5	schöne	schön	ADJA	ADJA	_	_	_	_	_
+6	Reifen	Reifen	NN	NN	_	4	obj	_	_
+7	hat	haben	VAFIN	VAFIN	_	_	_	_	_
+8	...	...	$(	$(	_	_	_	_	_
+9	für	für	APPR	APPR	_	_	_	_	_
+10	einen	ein	ART	ART	_	_	_	_	_
+11	Verrückten	Verrückte	NN	NN	_	_	_	_	_
+12	.	.	$.	$.	_	_	_	_	_
+
+1	Halt	halten	VVIMP	VVIMP	_	_	_	_	_
+2	den	der	ART	ART	_	_	_	_	_
+3	Mund	Mund	NN	NN	_	1	obj	_	_
+4	!	!	$.	$.	_	_	_	_	_
+
+1	-	-	$(	$(	_	_	_	_	_
+2	Zu	zu	APPR	APPR	_	_	_	_	_
+3	Hause	Haus	NN	NN	_	_	_	_	_
+4	!	!	$.	$.	_	_	_	_	_
+
+1	-	-	$(	$(	_	_	_	_	_
+2	Dieser	dieser	PDAT	PDAT	_	_	_	_	_
+3	Ort	Ort	NN	NN	_	4	subj	_	_
+4	ist	sein	VAFIN	VAFIN	_	_	_	_	_
+5	verdammt	verdammt	ADV	ADV	_	_	_	_	_
+6	geil	geil	ADJD	ADJD	_	4	pred	_	_
+7	.	.	$.	$.	_	_	_	_	_
+
+1	Wie	wie	KOKOM	KOKOM	_	_	_	_	_
+2	im	in	APPRART	APPRART	_	_	_	_	_
+3	Schlaraffenland	Schlaraffenland	NN	NN	_	_	_	_	_
+4	.	.	$.	$.	_	_	_	_	_
+
+1	Hier	hier	ADV	ADV	_	_	_	_	_
+2	kommen	kommen	VVFIN	VVFIN	_	_	_	_	_
+3	die	der	ART	ART	_	_	_	_	_
+4	reichen	reich	ADJA	ADJA	_	_	_	_	_
+5	Kinder	Kind	NN	NN	_	2	subj	_	_
+6	zum	zu	APPRART	APPRART	_	_	_	_	_
+7	sterben	Sterben	NN	NN	_	_	_	_	_
+8	hin	hin	PTKVZ	PTKVZ	_	_	_	_	_
+9	.	.	$.	$.	_	_	_	_	_
+
+1	Willkommen	willkommen	ADJD	ADJD	_	_	_	_	_
+2	in	in	APPR	APPR	_	_	_	_	_
+3	meiner	mein	PPOSAT	PPOSAT	_	_	_	_	_
+4	Welt	Welt	NN	NN	_	_	_	_	_
+5	.	.	$.	$.	_	_	_	_	_
+
+1	Mir	ich	PPER	PPER	_	2	iobj	_	_
+2	ist	sein	VAFIN	VAFIN	_	_	_	_	_
+3	ein	ein	ART	ART	_	_	_	_	_
+4	bisschen	bisschen	PIS	PIS	_	_	_	_	_
+5	schlecht	schlecht	ADJD	ADJD	_	2	pred	_	_
+6	!	!	$.	$.	_	_	_	_	_
+
+1	Kevin	Kevin	NE	NE	_	_	_	_	_
+2	,	,	$,	$,	_	_	_	_	_
+3	ich	ich	PPER	PPER	_	4	subj	_	_
+4	glaube	glauben	VVFIN	VVFIN	_	_	_	_	_
+5	,	,	$,	$,	_	_	_	_	_
+6	du	du	PPER	PPER	_	11	subj	_	_
+7	solltest	sollen	VMFIN	VMFIN	_	11	aux	_	_
+8	Julie	Julie	NE	NE	_	11	obj	_	_
+9	ins	in	APPRART	APPRART	_	_	_	_	_
+10	Badezimmer	Badezimmer	NN	NN	_	_	_	_	_
+11	bringen	bringen	VVINF	VVINF	_	4	vobj	_	_
+12	.	.	$.	$.	_	_	_	_	_
+
+1	Komm	kommen	VVIMP	VVIMP	_	_	_	_	_
+2	schon	schon	ADV	ADV	_	_	_	_	_
+3	.	.	$.	$.	_	_	_	_	_
+
+1	Nein	nein	PTKANT	PTKANT	_	_	_	_	_
+2	,	,	$,	$,	_	_	_	_	_
+3	die	der	ART	ART	_	_	_	_	_
+4	Ärzte	Arzt	NN	NN	_	5	subj	_	_
+5	sind	sein	VAFIN	VAFIN	_	_	_	_	_
+6	sehr	sehr	ADV	ADV	_	_	_	_	_
+7	zufrieden	zufrieden	ADJD	ADJD	_	5	pred	_	_
+8	,	,	$,	$,	_	_	_	_	_
+9	er	er	PPER	PPER	_	10	subj	_	_
+10	ist	sein	VAFIN	VAFIN	_	_	_	_	_
+11	der	der	ART	ART	_	_	_	_	_
+12	Tapferste	Tapferste	NN	NN	_	10	pred	_	_
+13	.	.	$.	$.	_	_	_	_	_
+
+1	Hast	haben	VAFIN	VAFIN	_	_	_	_	_
+2	du	du	PPER	PPER	_	1	subj	_	_
+3	die	der	ART	ART	_	_	_	_	_
+4	Bodys	Body	NN	NN	_	1	obj	_	_
+5	?	?	$.	$.	_	_	_	_	_
+
+1	Frag	fragen	VVIMP	VVIMP	_	_	_	_	_
+2	deinen	dein	PPOSAT	PPOSAT	_	_	_	_	_
+3	Vater	Vater	NN	NN	_	1	obj	_	_
+4	!	!	$.	$.	_	_	_	_	_
+
+1	Sag	sagen	VVIMP	VVIMP	_	_	_	_	_
+2	's	es	PPER	PPER	_	1	obj	_	_
+3	ihr	sie	PPER	PPER	_	1	iobj	_	_
+4	!	!	$.	$.	_	_	_	_	_
+
+1	Ich	ich	PPER	PPER	_	6	subj	_	_
+2	hatte	haben	VAFIN	VAFIN	_	6	aux	_	_
+3	die	der	ART	ART	_	_	_	_	_
+4	Tüte	Tüte	NN	NN	_	6	obj	_	_
+5	damit	damit	PAV	PAV	_	_	_	_	_
+6	vorbereitet	vorbereiten	VVPP	VVPP	_	_	_	_	_
+7	und	und	KON	KON	_	_	_	_	_
+8	er	er	PPER	PPER	_	9	subj	_	_
+9	lässt	lassen	VVFIN	VVFIN	_	_	_	_	_
+10	sie	sie	PPER	PPER	_	11	obj	_	_
+11	stehen	stehen	VVINF	VVINF	_	9	vobj	_	_
+12	!	!	$.	$.	_	_	_	_	_
+
+1	Schade	schade	ADV	ADV	_	_	_	_	_
+2	,	,	$,	$,	_	_	_	_	_
+3	ich	ich	PPER	PPER	_	4	subj	_	_
+4	hab	haben	VAFIN	VAFIN	_	_	_	_	_
+5	nicht	nicht	PTKNEG	PTKNEG	_	_	_	_	_
+6	mehr	mehr	ADV	ADV	_	_	_	_	_
+7	viele	viele	PIS	PIS	_	4	obj	_	_
+8	.	.	$.	$.	_	_	_	_	_
+
+1	Siehst	sehen	VVFIN	VVFIN	_	_	_	_	_
+2	du	du	PPER	PPER	_	1	subj	_	_
+3	,	,	$,	$,	_	_	_	_	_
+4	sie	sie	PPER	PPER	_	5	subj	_	_
+5	ist	sein	VAFIN	VAFIN	_	1	vobj	_	_
+6	sehr	sehr	ADV	ADV	_	_	_	_	_
+7	enttäuscht	enttäuscht	ADJD	ADJD	_	5	pred	_	_
+8	!	!	$.	$.	_	_	_	_	_
+
+1	Gut	gut	ADV	ADV	_	_	_	_	_
+2	,	,	$,	$,	_	_	_	_	_
+3	ich	ich	PPER	PPER	_	6	subj	_	_
+4	hab	haben	VAFIN	VAFIN	_	6	aux	_	_
+5	sie	sie	PPER	PPER	_	6	obj	_	_
+6	vergessen	vergessen	VVPP	VVPP	_	_	_	_	_
+7	!	!	$.	$.	_	_	_	_	_
+
+1	Mach	machen	VVIMP	VVIMP	_	_	_	_	_
+2	nicht	nicht	PTKNEG	PTKNEG	_	_	_	_	_
+3	so	so	ADV	ADV	_	_	_	_	_
+4	ein	ein	ART	ART	_	_	_	_	_
+5	Theater	Theater	NN	NN	_	1	obj	_	_
+6	!	!	$.	$.	_	_	_	_	_
+
+1	Typisch	typisch	ADJD	ADJD	_	_	_	_	_
+2	!	!	$.	$.	_	_	_	_	_
+
+1	-	-	$(	$(	_	_	_	_	_
+2	Mit	mit	APPR	APPR	_	_	_	_	_
+3	dem	der	ART	ART	_	_	_	_	_
+4	Mund	Mund	NN	NN	_	_	_	_	_
+5	.	.	$.	$.	_	_	_	_	_
+
+1	Mein	mein	PPOSAT	PPOSAT	_	_	_	_	_
+2	Autoreifen	Autoreifen	NN	NN	_	4	subj	_	_
+3	ist	sein	VAFIN	VAFIN	_	4	aux	_	_
+4	geplatzt	platzen	VVPP	VVPP	_	_	_	_	_
+5	.	.	$.	$.	_	_	_	_	_
+
+1	Meine	mein	PPOSAT	PPOSAT	_	_	_	_	_
+2	Allianz	Allianz	NN	NN	_	3	subj	_	_
+3	ist	sein	VAFIN	VAFIN	_	_	_	_	_
+4	vorbei	vorbei	ADV	ADV	_	3	pred	_	_
+5	.	.	$.	$.	_	_	_	_	_
+
+1	Viel	viel	PIAT	PIAT	_	_	_	_	_
+2	Glück	Glück	NN	NN	_	_	_	_	_
+3	.	.	$.	$.	_	_	_	_	_
+
+1	Was	was	PWS	PWS	_	_	_	_	_
+2	?	?	$.	$.	_	_	_	_	_
+
+1	Dad	Dad	NE	NE	_	_	_	_	_
+2	!	!	$.	$.	_	_	_	_	_
+
+1	Das	der	ART	ART	_	_	_	_	_
+2	Gute	Gute	NN	NN	_	4	pred	_	_
+3	daran	daran	PAV	PAV	_	_	_	_	_
+4	ist	sein	VAFIN	VAFIN	_	_	_	_	_
+5	,	,	$,	$,	_	_	_	_	_
+6	dass	dass	KOUS	KOUS	_	_	_	_	_
+7	ich	ich	PPER	PPER	_	10	subj	_	_
+8	meinen	mein	PPOSAT	PPOSAT	_	_	_	_	_
+9	Fisch	Fisch	NN	NN	_	10	obj	_	_
+10	wiedersehe	wiedersehen	VVFIN	VVFIN	_	4	vsubj	_	_
+11	.	.	$.	$.	_	_	_	_	_
+
+1	Hey	hey	ITJ	ITJ	_	_	_	_	_
+2	,	,	$,	$,	_	_	_	_	_
+3	was	was	PWS	PWS	_	4	subj	_	_
+4	ist	sein	VAFIN	VAFIN	_	_	_	_	_
+5	los	los	PTKVZ	PTKVZ	_	_	_	_	_
+6	?	?	$.	$.	_	_	_	_	_
+
+1	Es	es	PPER	PPER	_	2	subj	_	_
+2	spült	spülen	VVFIN	VVFIN	_	_	_	_	_
+3	nicht	nicht	PTKNEG	PTKNEG	_	_	_	_	_
+4	runter	runter	PTKVZ	PTKVZ	_	_	_	_	_
+5	.	.	$.	$.	_	_	_	_	_
+
+1	Wir	wir	PPER	PPER	_	2	subj	_	_
+2	brauchen	brauchen	VVFIN	VVFIN	_	_	_	_	_
+3	ein	ein	ART	ART	_	_	_	_	_
+4	größeres	groß	ADJA	ADJA	_	_	_	_	_
+5	Klo	Klo	NN	NN	_	2	obj	_	_
+6	.	.	$.	$.	_	_	_	_	_
+
+1	Führe	führen	VVIMP	VVIMP	_	_	_	_	_
+2	mich	ich	PPER	PPER	_	1	obj	_	_
+3	zu	zu	APPR	APPR	_	_	_	_	_
+4	dem	der	ART	ART	_	_	_	_	_
+5	Mann	Mann	NN	NN	_	_	_	_	_
+6	,	,	$,	$,	_	_	_	_	_
+7	der	der	PRELS	PRELS	_	9	subj	_	_
+8	dich	du	PPER	PPER	_	9	obj	_	_
+9	schickte	schicken	VVFIN	VVFIN	_	_	_	_	_
+10	.	.	$.	$.	_	_	_	_	_
+
+1	Er	er	PPER	PPER	_	2	subj	_	_
+2	erwartet	erwarten	VVFIN	VVFIN	_	_	_	_	_
+3	dich	du	PPER	PPER	_	2	obj	_	_
+4	.	.	$.	$.	_	_	_	_	_
+
+1	-	-	$(	$(	_	_	_	_	_
+2	Wo	wo	PWAV	PWAV	_	_	_	_	_
+3	?	?	$.	$.	_	_	_	_	_
+
+1	Das	der	PDS	PDS	_	4	obj	_	_
+2	wirst	werden	VAFIN	VAFIN	_	4	aux	_	_
+3	du	du	PPER	PPER	_	4	subj	_	_
+4	sehen	sehen	VVINF	VVINF	_	_	_	_	_
+5	,	,	$,	$,	_	_	_	_	_
+6	wenn	wenn	KOUS	KOUS	_	_	_	_	_
+7	wir	wir	PPER	PPER	_	9	subj	_	_
+8	nicht	nicht	PTKNEG	PTKNEG	_	_	_	_	_
+9	verhaftet	verhaften	VVPP	VVPP	_	_	_	_	_
+10	werden	werden	VAFIN	VAFIN	_	9	aux	_	_
+11	.	.	$.	$.	_	_	_	_	_
+
+1	Also	also	ADV	ADV	_	_	_	_	_
+2	los	los	ADV	ADV	_	_	_	_	_
+3	.	.	$.	$.	_	_	_	_	_
+
+1	Du	du	PPER	PPER	_	2	subj	_	_
+2	gehst	gehen	VVFIN	VVFIN	_	_	_	_	_
+3	vor	vor	APPR	APPR	_	_	_	_	_
+4	mir	ich	PPER	PPER	_	_	_	_	_
+5	.	.	$.	$.	_	_	_	_	_
+
+1	Ich	ich	PPER	PPER	_	2	subj	_	_
+2	komme	kommen	VVFIN	VVFIN	_	_	_	_	_
+3	nach	nach	PTKVZ	PTKVZ	_	_	_	_	_
+4	.	.	$.	$.	_	_	_	_	_
+
+1	Das	der	PDS	PDS	_	2	subj	_	_
+2	war	sein	VAFIN	VAFIN	_	_	_	_	_
+3	ein	ein	ART	ART	_	_	_	_	_
+4	Test	Test	NN	NN	_	2	pred	_	_
+5	.	.	$.	$.	_	_	_	_	_
+
+1	Du	du	PPER	PPER	_	5	subj	_	_
+2	konntest	können	VMFIN	VMFIN	_	5	aux	_	_
+3	ein	ein	ART	ART	_	_	_	_	_
+4	Spion	Spion	NN	NN	_	5	pred	_	_
+5	sein	sein	VAINF	VAINF	_	_	_	_	_
+6	.	.	$.	$.	_	_	_	_	_
+
+1	Die	der	ART	ART	_	_	_	_	_
+2	Waffe	Waffe	NN	NN	_	3	subj	_	_
+3	war	sein	VAFIN	VAFIN	_	_	_	_	_
+4	ungeladen	ungeladen	ADJD	ADJD	_	3	pred	_	_
+5	.	.	$.	$.	_	_	_	_	_
+
+1	-	-	$(	$(	_	_	_	_	_
+2	Kommen	kommen	VVIMP	VVIMP	_	_	_	_	_
+3	Sie	Sie	PPER	PPER	_	2	subj	_	_
+4	.	.	$.	$.	_	_	_	_	_
+
+1	Seien	sein	VAIMP	VAIMP	_	_	_	_	_
+2	Sie	Sie	PPER	PPER	_	1	subj	_	_
+3	außergewöhnlich	außergewöhnlich	ADJD	ADJD	_	1	pred	_	_
+4	.	.	$.	$.	_	_	_	_	_
+
+1	Oh	oh	ITJ	ITJ	_	_	_	_	_
+2	,	,	$,	$,	_	_	_	_	_
+3	Sie	Sie	PPER	PPER	_	_	_	_	_
+4	...	...	$.	$.	_	_	_	_	_
+
+1	Okay	okay	ADV	ADV	_	_	_	_	_
+2	.	.	$.	$.	_	_	_	_	_
+
+1	Um	um	KOUI	KOUI	_	_	_	_	_
+2	die	der	ART	ART	_	_	_	_	_
+3	Dinge	Ding	NN	NN	_	5	obj	_	_
+4	zu	zu	PTKZU	PTKZU	_	_	_	_	_
+5	ordnen	ordnen	VVINF	VVINF	_	_	_	_	_
+6	:	:	$.	$.	_	_	_	_	_
+
+1	Das	der	ART	ART	_	_	_	_	_
+2	erste	erster	ADJA	ADJA	_	_	_	_	_
+3	Treffen	Treffen	NN	NN	_	14	subj	_	_
+4	von	von	APPR	APPR	_	_	_	_	_
+5	Vertretern	Vertreter	NN	NN	_	_	_	_	_
+6	der	der	ART	ART	_	_	_	_	_
+7	menschlichen	menschlich	ADJA	ADJA	_	_	_	_	_
+8	Spezies	Spezies	NN	NN	_	_	_	_	_
+9	und	und	KON	KON	_	_	_	_	_
+10	Homo	Homo	FM	FM	_	_	_	_	_
+11	Reptilia	Reptilia	FM	FM	_	_	_	_	_
+12	wird	werden	VAFIN	VAFIN	_	14	aux	_	_
+13	jetzt	jetzt	ADV	ADV	_	_	_	_	_
+14	abgehalten	abhalten	VVPP	VVPP	_	_	_	_	_
+15	.	.	$.	$.	_	_	_	_	_
+
+1	Das	der	PDS	PDS	_	6	obj	_	_
+2	habe	haben	VAFIN	VAFIN	_	6	aux	_	_
+3	ich	ich	PPER	PPER	_	6	subj	_	_
+4	noch	noch	ADV	ADV	_	_	_	_	_
+5	nie	nie	ADV	ADV	_	_	_	_	_
+6	gesagt	sagen	VVPP	VVPP	_	_	_	_	_
+7	,	,	$,	$,	_	_	_	_	_
+8	dass	der	PDS	PDS	_	9	subj	_	_
+9	ist	sein	VAFIN	VAFIN	_	_	_	_	_
+10	toll	toll	ADJD	ADJD	_	9	pred	_	_
+11	!	!	$.	$.	_	_	_	_	_
+
+1	Machen	machen	VVIMP	VVIMP	_	_	_	_	_
+2	wir	wir	PPER	PPER	_	1	subj	_	_
+3	weiter	weiter	PTKVZ	PTKVZ	_	_	_	_	_
+4	!	!	$.	$.	_	_	_	_	_
+
+1	Nun	nun	ADV	ADV	_	_	_	_	_
+2	,	,	$,	$,	_	_	_	_	_
+3	Mo	Mo	NE	NE	_	_	_	_	_
+4	,	,	$,	$,	_	_	_	_	_
+5	gehen	gehen	VVIMP	VVIMP	_	_	_	_	_
+6	wir	wir	PPER	PPER	_	5	subj	_	_
+7	Ihren	Ihr	PPOSAT	PPOSAT	_	_	_	_	_
+8	Sohn	Sohn	NN	NN	_	9	obj	_	_
+9	holen	holen	VVINF	VVINF	_	5	vobj	_	_
+10	.	.	$.	$.	_	_	_	_	_
+
+1	Ach	ach	ITJ	ITJ	_	_	_	_	_
+2	,	,	$,	$,	_	_	_	_	_
+3	wissen	wissen	VVFIN	VVFIN	_	_	_	_	_
+4	Sie	Sie	PPER	PPER	_	3	subj	_	_
+5	,	,	$,	$,	_	_	_	_	_
+6	Menschen	Mensch	NN	NN	_	10	subj	_	_
+7	und	und	KON	KON	_	_	_	_	_
+8	ihre	ihr	PPOSAT	PPOSAT	_	_	_	_	_
+9	Vorgänger	Vorgänger	NN	NN	_	_	_	_	_
+10	unterhalten	unterhalten	VVFIN	VVFIN	_	3	vobj	_	_
+11	sich	sich	PRF	PRF	_	10	obj	_	_
+12	ganz	ganz	ADV	ADV	_	_	_	_	_
+13	gemütlich	gemütlich	ADJD	ADJD	_	_	_	_	_
+14	.	.	$.	$.	_	_	_	_	_
+
+1	Niemals	niemals	ADV	ADV	_	_	_	_	_
+2	.	.	$.	$.	_	_	_	_	_
+
+1	Wenn	wenn	KOUS	KOUS	_	_	_	_	_
+2	er	er	PPER	PPER	_	3	subj	_	_
+3	lügt	lügen	VVFIN	VVFIN	_	_	_	_	_
+4	,	,	$,	$,	_	_	_	_	_
+5	haben	haben	VAFIN	VAFIN	_	9	aux	_	_
+6	Sie	Sie	PPER	PPER	_	9	subj	_	_
+7	nichts	nichts	PIS	PIS	_	9	obj	_	_
+8	zu	zu	PTKZU	PTKZU	_	_	_	_	_
+9	befürchten	befürchten	VVINF	VVINF	_	_	_	_	_
+10	.	.	$.	$.	_	_	_	_	_
+
+1	Kahless	Kahless	NE	NE	_	2	subj	_	_
+2	ist	sein	VAFIN	VAFIN	_	_	_	_	_
+3	seit	seit	APPR	APPR	_	_	_	_	_
+4	1.000	1.000	CARD	CARD	_	_	_	_	_
+5	Jahren	Jahr	NN	NN	_	_	_	_	_
+6	tot	tot	ADJD	ADJD	_	2	pred	_	_
+7	.	.	$.	$.	_	_	_	_	_
+
+1	Aber	aber	KON	KON	_	_	_	_	_
+2	sein	sein	PPOSAT	PPOSAT	_	_	_	_	_
+3	Geist	Geist	NN	NN	_	4	subj	_	_
+4	ist	sein	VAFIN	VAFIN	_	_	_	_	_
+5	noch	noch	ADV	ADV	_	_	_	_	_
+6	lebendig	lebendig	ADJD	ADJD	_	4	pred	_	_
+7	.	.	$.	$.	_	_	_	_	_
+
+1	Haben	haben	VAFIN	VAFIN	_	6	aux	_	_
+2	Sie	Sie	PPER	PPER	_	6	subj	_	_
+3	je	je	ADV	ADV	_	_	_	_	_
+4	einen	ein	ART	ART	_	_	_	_	_
+5	Geist	Geist	NN	NN	_	6	obj	_	_
+6	bekämpft	bekämpfen	VVPP	VVPP	_	_	_	_	_
+7	?	?	$.	$.	_	_	_	_	_
+
+1	Keine	kein	PIAT	PIAT	_	_	_	_	_
+2	Waffe	Waffe	NN	NN	_	5	subj	_	_
+3	kann	können	VMFIN	VMFIN	_	5	aux	_	_
+4	ihn	er	PPER	PPER	_	5	obj	_	_
+5	vernichten	vernichten	VVINF	VVINF	_	_	_	_	_
+6	.	.	$.	$.	_	_	_	_	_
+
+1	Der	der	ART	ART	_	_	_	_	_
+2	Geist	Geist	NN	NN	_	8	subj	_	_
+3	von	von	APPR	APPR	_	_	_	_	_
+4	Kahless	Kahless	NE	NE	_	_	_	_	_
+5	muss	müssen	VMFIN	VMFIN	_	8	aux	_	_
+6	aber	aber	ADV	ADV	_	_	_	_	_
+7	sofort	sofort	ADV	ADV	_	_	_	_	_
+8	ausgemerzt	ausmerzen	VVPP	VVPP	_	_	_	_	_
+9	werden	werden	VAINF	VAINF	_	8	aux	_	_
+10	,	,	$,	$,	_	_	_	_	_
+11	oder	oder	KON	KON	_	_	_	_	_
+12	er	er	PPER	PPER	_	20	subj	_	_
+13	wird	werden	VAFIN	VAFIN	_	20	aux	_	_
+14	sich	sich	PRF	PRF	_	20	obj	_	_
+15	wie	wie	KOKOM	KOKOM	_	_	_	_	_
+16	eine	ein	ART	ART	_	_	_	_	_
+17	Welle	Welle	NN	NN	_	_	_	_	_
+18	im	in	APPRART	APPRART	_	_	_	_	_
+19	Reich	Reich	NN	NN	_	_	_	_	_
+20	verbreiten	verbreiten	VVINF	VVINF	_	_	_	_	_
+21	,	,	$,	$,	_	_	_	_	_
+22	und	und	KON	KON	_	_	_	_	_
+23	bleiben	bleiben	VVINF	VVINF	_	_	_	_	_
+24	wird	werden	VAFIN	VAFIN	_	23	aux	_	_
+25	nichts	nichts	PIS	PIS	_	23	subj	_	_
+26	als	als	KOKOM	KOKOM	_	_	_	_	_
+27	eine	ein	ART	ART	_	_	_	_	_
+28	öde	öde	ADJA	ADJA	_	_	_	_	_
+29	Wüste	Wüste	NN	NN	_	_	_	_	_
+30	.	.	$.	$.	_	_	_	_	_
+
+1	Gowron	Gowron	NE	NE	_	6	subj	_	_
+2	ist	sein	VAFIN	VAFIN	_	6	aux	_	_
+3	also	also	ADV	ADV	_	_	_	_	_
+4	an	an	APPR	APPR	_	_	_	_	_
+5	Bord	Bord	NN	NN	_	_	_	_	_
+6	gekommen	kommen	VVPP	VVPP	_	_	_	_	_
+7	,	,	$,	$,	_	_	_	_	_
+8	um	um	KOUI	KOUI	_	_	_	_	_
+9	Ihren	Ihr	PPOSAT	PPOSAT	_	_	_	_	_
+10	Anspruch	Anspruch	NN	NN	_	12	obj	_	_
+11	zu	zu	PTKZU	PTKZU	_	_	_	_	_
+12	prüfen	prüfen	VVINF	VVINF	_	_	_	_	_
+13	.	.	$.	$.	_	_	_	_	_
+
+1	Gowron	Gowron	NE	NE	_	2	subj	_	_
+2	weiß	wissen	VVFIN	VVFIN	_	_	_	_	_
+3	,	,	$,	$,	_	_	_	_	_
+4	seine	sein	PPOSAT	PPOSAT	_	_	_	_	_
+5	Tage	Tag	NN	NN	_	7	subj	_	_
+6	sind	sein	VAFIN	VAFIN	_	7	aux	_	_
+7	gezählt	zählen	VVPP	VVPP	_	2	vobj	_	_
+8	.	.	$.	$.	_	_	_	_	_
+
+1	Also	also	ADV	ADV	_	_	_	_	_
+2	kommt	kommen	VVFIN	VVFIN	_	_	_	_	_
+3	er	er	PPER	PPER	_	2	subj	_	_
+4	mit	mit	APPR	APPR	_	_	_	_	_
+5	einem	ein	ART	ART	_	_	_	_	_
+6	läppischen	läppisch	ADJA	ADJA	_	_	_	_	_
+7	Test	Test	NN	NN	_	_	_	_	_
+8	daher	daher	PAV	PAV	_	_	_	_	_
+9	.	.	$.	$.	_	_	_	_	_
+
+1	Das	der	PDS	PDS	_	2	subj	_	_
+2	hat	haben	VAFIN	VAFIN	_	_	_	_	_
+3	was	was	PIS	PIS	_	2	obj	_	_
+4	.	.	$.	$.	_	_	_	_	_
+
+1	Aber	aber	ADV	ADV	_	_	_	_	_
+2	denk	denken	VVIMP	VVIMP	_	_	_	_	_
+3	dran	dran	PAV	PAV	_	2	pobj	_	_
+4	du	du	PPER	PPER	_	5	subj	_	_
+5	bist	sein	VAFIN	VAFIN	_	_	_	_	_
+6	nicht	nicht	PTKNEG	PTKNEG	_	_	_	_	_
+7	wirklich	wirklich	ADV	ADV	_	_	_	_	_
+8	sauer	sauer	ADJD	ADJD	_	5	pred	_	_
+9	wegen	wegen	APPR	APPR	_	_	_	_	_
+10	der	der	ART	ART	_	_	_	_	_
+11	schnurrbarthaare	Schnurrbarthaar	NN	NN	_	_	_	_	_
+12	.	.	$.	$.	_	_	_	_	_
+
+1	Du	du	PPER	PPER	_	2	subj	_	_
+2	bist	sein	VAFIN	VAFIN	_	_	_	_	_
+3	sauer	sauer	ADJD	ADJD	_	2	pred	_	_
+4	weil	weil	KOUS	KOUS	_	_	_	_	_
+5	ich	ich	PPER	PPER	_	8	subj	_	_
+6	dir	du	PPER	PPER	_	8	iobj	_	_
+7	nicht	nicht	PTKNEG	PTKNEG	_	_	_	_	_
+8	zuhöre	zuhören	VVFIN	VVFIN	_	_	_	_	_
+9	,	,	$,	$,	_	_	_	_	_
+10	deine	dein	PPOSAT	PPOSAT	_	_	_	_	_
+11	Freunde	Freund	NN	NN	_	13	obj	_	_
+12	nicht	nicht	PTKNEG	PTKNEG	_	_	_	_	_
+13	mag	mögen	VMFIN	VMFIN	_	_	_	_	_
+14	und	und	KON	KON	_	_	_	_	_
+15	über	über	APPR	APPR	_	17	pcase	_	_
+16	deine	dein	PPOSAT	PPOSAT	_	_	_	_	_
+17	Mutter	Mutter	NN	NN	_	18	pobj	_	_
+18	läster	lästern	VVFIN	VVFIN	_	_	_	_	_
+19	.	.	$.	$.	_	_	_	_	_
+
