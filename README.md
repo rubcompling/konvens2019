@@ -21,6 +21,6 @@ This repository contains the scripts, dataset, and evaluation results from the p
 
 ## Usage
 
-In theory you can use the provided Makefile to run the experiments, but in practice it is a lot of work to install all of these systems individually. 
+In theory you can use the provided Makefile to run the experiments, but in practice it is a lot of work to install all of these systems individually. We hope to eventually provide a Dockerfile to make running all of the experiments easier.
 
 However, performing the evaluation (`make evaluate`), i.e. comparing the system output to the gold standard, and calculating performance statistics (`make analysis`) should work, provided you have Numpy, Pandas, Matplotlib, and Seaborn installed.
