@@ -583,7 +583,7 @@
 10	uns	wir	_	PPER	number=pl|person=1|case=acc|gender=*	14	obj	_	_
 11	von	von	_	APPR	_	_	_	_	_
 12	Gott	Gott	_	NN	number=sg|case=dat|gender=masc	_	_	_	_
-13	zu	zu	_	VVIZU	_	_	_	_	_
+13	zu	zu	_	PTKZU	_	_	_	_	_
 14	trennen	trennen	_	VVINF	_	15	vobj	_	_
 15	vermag	vermögen	_	VVFIN	number=sg|person=3|mood=ind|tense=pres	_	_	_	_
 16	,	,	_	$,	_	_	_	_	_
@@ -900,7 +900,7 @@
 13	unseren	unser	_	PPOSAT	number=sg|case=acc|gender=masc	_	_	_	_
 14	sündigen	sündig	_	ADJA	number=sg|degree=pos|case=acc|gender=masc	_	_	_	_
 15	Leib	Leib	_	NN	number=sg|case=acc|gender=masc	19	obj	_	_
-16	mit	mit	_	APPR	_	_	_	_	_
+16	mit	mit	_	PTKVZ	_	_	_	_	_
 17	ans	an	_	APPRART	case=acc|gender=neut	_	_	_	_
 18	Kreuz	Kreuz	_	NN	number=sg|case=acc|gender=neut	_	_	_	_
 19	genommen	nehmen	_	VVPP	_	_	_	_	_

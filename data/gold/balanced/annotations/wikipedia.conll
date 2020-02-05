@@ -118,7 +118,7 @@
 24	Körperübungen	Körperübung	_	NN	number=pl|case=acc|gender=fem	_	_	_	_
 25	Tilsit	Tilsit	_	NE	number=sg|case=nom|gender=neut	_	_	_	_
 26	zum	zu	_	APPRART	case=dat|gender=masc	_	_	_	_
-27	Tilsiter	Tilsit	_	NE	number=sg|case=dat|gender=masc	_	_	_	_
+27	Tilsiter	Tilsit	_	ADJA	number=sg|degree=pos|case=dat|gender=masc	_	_	_	_
 28	SC	SC	_	NE	number=sg|case=dat|gender=masc	_	_	_	_
 29	.	.	_	$.	_	_	_	_	_
 
@@ -418,7 +418,7 @@
 4	drei	drei	_	CARD	_	_	_	_	_
 5	Hauptabteilungen	Hauptabteilung	_	NN	number=pl|case=acc|gender=fem	3	obj	_	_
 6	mit	mit	_	APPR	_	_	_	_	_
-7	insgesamt	insgesamt	_	ADJD	degree=pos	_	_	_	_
+7	insgesamt	insgesamt	_	ADV	_	_	_	_	_
 8	16	16	_	CARD	_	_	_	_	_
 9	Unterabteilungen	Unterabteilung	_	NN	number=pl|case=dat|gender=fem	_	_	_	_
 10	,	,	_	$,	_	_	_	_	_
@@ -516,7 +516,7 @@
 11	Sommer	Sommer	_	NN	number=sg|case=nom|gender=masc	_	_	_	_
 12	?	?	_	$.	_	_	_	_	_
 13	im	in	_	APPRART	case=dat|gender=fem	_	_	_	_
-14	Spiegel	Spiegel	_	NN	number=sg|case=dat|gender=fem	_	_	_	_
+14	Spiegel	Spiegel	_	NE	number=sg|case=dat|gender=masc	_	_	_	_
 15	wurde	werden	_	VAFIN	number=sg|person=3|mood=ind|tense=past	21	aux	_	_
 16	er	er	_	PPER	number=sg|person=3|case=nom|gender=masc	21	subj	_	_
 17	1980	1980	_	CARD	_	_	_	_	_
@@ -1350,7 +1350,7 @@
 8	die	der	_	ART	number=sg|case=nom|gender=fem	_	_	_	_
 9	Nicolaikirche	Nicolaikirche	_	NN	number=sg|case=nom|gender=fem	5	subj	_	_
 10	,	,	_	$,	_	_	_	_	_
-11	deren	der	_	PDAT	number=sg|case=dat|gender=fem	_	_	_	_
+11	deren	der	_	PRELAT	number=sg|case=gen|gender=fem	_	_	_	_
 12	Vorgängerbau	Vorgängerbau	_	NN	number=sg|case=nom|gender=masc	16	subj	_	_
 13	wahrscheinlich	wahrscheinlich	_	ADV	_	_	_	_	_
 14	um	um	_	APPR	_	_	_	_	_

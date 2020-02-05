@@ -4,7 +4,7 @@
 4	du	du	_	PPER	number=sg|person=2|case=nom|gender=*	7	subj	_	_
 5	wärst	sein	_	VAFIN	number=sg|person=2|mood=subj|tense=past	7	aux	_	_
 6	es	es	_	PPER	number=sg|person=3|case=nom|gender=neut	7	pred	_	_
-7	geworden	werden	_	VVPP	_	_	_	_	_
+7	geworden	werden	_	VAPP	_	_	_	_	_
 8	–	-	_	$(	_	_	_	_	_
 9	–	-	_	$(	_	_	_	_	_
 10	,	,	_	$,	_	_	_	_	_
@@ -279,7 +279,7 @@
 11	den	der	_	ART	number=sg|case=acc|gender=masc	_	_	_	_
 12	Namen	Name	_	NN	number=sg|case=acc|gender=masc	15	obj	_	_
 13	eines	ein	_	ART	number=sg|case=gen|gender=masc	_	_	_	_
-14	Sadducäers	Sadduzäer	_	NE	number=sg|case=gen|gender=masc	_	_	_	_
+14	Sadducäers	Sadduzäer	_	NN	number=sg|case=gen|gender=masc	_	_	_	_
 15	verdiene	verdienen	_	VVFIN	number=sg|person=3|mood=subj|tense=pres	4	vobj	_	_
 16	,	,	_	$,	_	_	_	_	_
 17	den	der	_	PRELS	number=sg|case=acc|gender=masc	21	obj	_	_
@@ -467,7 +467,7 @@
 7	im	in	_	APPRART	case=dat|gender=neut	_	_	_	_
 8	Konzert	Konzert	_	NN	number=sg|case=dat|gender=neut	_	_	_	_
 9	,	,	_	$,	_	_	_	_	_
-10	wie	wie	_	KOKOM	_	_	_	_	_
+10	wie	wie	_	KOUS	_	_	_	_	_
 11	ich	ich	_	PPER	number=sg|person=1|case=nom|gender=*	18	subj	_	_
 12	ihr	sie	_	PPER	number=sg|person=3|case=dat|gender=fem	18	iobj	_	_
 13	durch	durch	_	APPR	_	_	_	_	_
@@ -624,7 +624,7 @@
 11	der	der	_	PRELS	number=sg|case=nom|gender=*	25	subj	_	_
 12	mir	ich	_	PPER	number=sg|person=1|case=dat|gender=*	25	iobj	_	_
 13	,	,	_	$,	_	_	_	_	_
-14	da	da	_	ADV	_	_	_	_	_
+14	da	da	_	KOUS	_	_	_	_	_
 15	wenig	wenig	_	PIS	number=sg|case=nom|gender=neut	19	subj	_	_
 16	für	für	_	APPR	_	_	_	_	_
 17	den	der	_	ART	number=sg|case=acc|gender=masc	_	_	_	_
@@ -786,7 +786,7 @@
 11	Zimmer	Zimmer	_	NN	number=sg|case=acc|gender=neut	_	_	_	_
 12	zurück	zurück	_	ADV	_	_	_	_	_
 13	,	,	_	$,	_	_	_	_	_
-14	dessen	der	_	PRELAT	number=sg|case=acc|gender=neut	_	_	_	_
+14	dessen	der	_	PRELAT	number=sg|case=gen|gender=neut	_	_	_	_
 15	Fenster	Fenster	_	NN	number=pl|case=nom|gender=neut	19	subj	_	_
 16	in	in	_	APPR	_	_	_	_	_
 17	die	der	_	ART	number=sg|case=acc|gender=fem	_	_	_	_
@@ -1335,7 +1335,7 @@
 6	ich	ich	_	PPER	number=sg|person=1|case=nom|gender=fem	17	subj	_	_
 7	den	der	_	ART	number=sg|case=acc|gender=masc	_	_	_	_
 8	Simon	Simon	_	NE	number=sg|case=acc|gender=masc	17	obj	_	_
-9	während	während	_	ADV	_	_	_	_	_
+9	während	während	_	APPR	_	_	_	_	_
 10	seiner	sein	_	PPOSAT	number=sg|case=gen|gender=fem	_	_	_	_
 11	Soldatenzeit	Soldatenzeit	_	NN	number=sg|case=gen|gender=fem	_	_	_	_
 12	nur	nur	_	ADV	_	_	_	_	_
@@ -1345,7 +1345,7 @@
 16	Fluge	Flug	_	NN	number=sg|case=dat|gender=masc	_	_	_	_
 17	gesehen	sehen	_	VVPP	_	3	vsubj	_	_
 18	,	,	_	$,	_	_	_	_	_
-19	da	da	_	ADV	_	_	_	_	_
+19	da	da	_	KOUS	_	_	_	_	_
 20	bald	bald	_	ADV	_	_	_	_	_
 21	nach	nach	_	APPR	_	_	_	_	_
 22	seinem	sein	_	PPOSAT	number=sg|case=dat|gender=masc	_	_	_	_
@@ -1576,7 +1576,7 @@
 14	in	in	_	APPR	_	_	_	_	_
 15	jenen	jener	_	PDAT	number=pl|case=dat|gender=neut	_	_	_	_
 16	Jahren	Jahr	_	NN	number=pl|case=dat|gender=neut	_	_	_	_
-17	abgeben	abgeben	_	VVPP	_	_	_	_	_
+17	abgeben	abgeben	_	VVINF	_	_	_	_	_
 18	,	,	_	$,	_	_	_	_	_
 19	nicht	nicht	_	PTKNEG	_	_	_	_	_
 20	beweisen	beweisen	_	VVINF	_	_	_	_	_
