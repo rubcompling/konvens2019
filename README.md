@@ -2,7 +2,7 @@
 
 This repository contains the scripts, dataset, and evaluation results from the paper:
 
-> Katrin Ortmann, Adam Roussel, and Stefanie Dipper. 2019. Evaluating Off-the-Shelf NLP Tools for German. In _Proceedings of the 15th Conference on Natural Language Processing (KONVENS)_, to appear.
+Katrin Ortmann, Adam Roussel, and Stefanie Dipper. 2019. Evaluating Off-the-Shelf NLP Tools for German. In _Proceedings of the 15th Conference on Natural Language Processing (KONVENS)_, 212--222. [[pdf]](https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/papers/KONVENS2019_paper_55.pdf) [[bib]](https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/papers/KONVENS2019_paper_55.bib)
 
 
 ## Contents
