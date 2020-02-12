@@ -1,11 +1,6 @@
 #!/usr/bin/env python3
 
-import os
-
 from common import Timer, TestSystem, main
-
-
-CORENLP_HOME = "/opt/stanford-corenlp-full-2018-10-05"
 
 
 class Spacy(TestSystem):
@@ -28,7 +23,7 @@ class SpacyDepSents(TestSystem):
         with Timer() as self.model_load_time:
             import spacy
 
-            nlp = spacy.load("de", disable=["tagger", "ner"])
+            nlp = spacy.load("de_core_news_md", disable=["tagger", "ner"])
             self.processor = nlp
 
     def postprocess(self):
@@ -104,7 +99,6 @@ class Syntok(TestSystem):
 class CoreNLP(TestSystem):
     def __init__(self):
         with Timer() as self.model_load_time:
-            os.environ["CORENLP_HOME"] = CORENLP_HOME
             from stanfordnlp.server import CoreNLPClient
 
             client = CoreNLPClient(

@@ -20,9 +20,8 @@ class GermaLemma(TestSystem):
     def __init__(self):
         with Timer() as self.model_load_time:
             import germalemma
-            data_loc = "/home/roussel/.local/data/lemmata.pickle"
-            # NB: pattern module causes exception in python3 :(
-            self.lemmatizer = germalemma.GermaLemma(pickle=data_loc,
+            # NB: pattern module causes exception in python3 (maybe?)
+            self.lemmatizer = germalemma.GermaLemma(pickle=os.environ["GERMALEMMA_MODEL"],
                                                     use_pattern_module=True)
 
             def myprocessor(myinput):
