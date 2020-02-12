@@ -5,6 +5,7 @@ Für unabhängige Lemmatizer
 """
 
 
+import os
 import sys
 from pathlib import Path
 
@@ -73,7 +74,8 @@ class IWNLP(TestSystem):
         with Timer() as self.model_load_time:
             from iwnlp.iwnlp_wrapper import IWNLPWrapper
             from stts2upos import conv_table
-            data_loc = "/opt/iwnlp/IWNLP.Lemmatizer_20181001.json"
+            # "/opt/iwnlp/IWNLP.Lemmatizer_20181001.json"
+            data_loc = os.environ["IWNLP_MODEL"] 
             self.lemmatizer = IWNLPWrapper(lemmatizer_path=data_loc)
 
             def myprocessor(myinput):

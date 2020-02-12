@@ -9,7 +9,7 @@ import tempfile
 from common import Timer, TestSystem, main
 from common import Token, Morph, Sentence, rftag2stts, string2doc
 
-CORENLP_HOME = "/opt/stanford-corenlp-full-2018-10-05"
+# CORENLP_HOME = "/opt/stanford-corenlp-full-2018-10-05"
 
 # gold annotations to hide from the test systems
 HIDDEN_FIELDS = ["lemma", "upos", "xpos", "feats", "head", "deprel", "deps"]
@@ -33,7 +33,8 @@ class StanfordNLP(TestSystem):
 
 class RFTagger(TestSystem):
     def __init__(self):
-        self.home = Path("/opt/RFTagger")
+        # self.home = Path("/opt/RFTagger")
+        self.home = Path(os.environ["RFTAGGER_HOME"])
         with Timer() as self.model_load_time:
             # just load the model
             CLASSPATH = ":".join(
@@ -140,7 +141,7 @@ class TreeTagger(TestSystem):
 
 class RNNTagger(TestSystem):
     def __init__(self):
-        self.home = Path("/opt/RNNTagger")
+        self.home = Path(os.environ["RNNTAGGER_HOME"])  # Path("/opt/RNNTagger")
         with Timer() as self.model_load_time:
             sys.path.insert(0, str(self.home))
             sys.path.insert(0, str(self.home / "PyNMT"))
@@ -205,8 +206,8 @@ class SoMeWeTa(TestSystem):
         with Timer() as self.model_load_time:
             from someweta import ASPTagger
 
-            # TODO: decide where to store models (prob not here)
-            model = "/home/roussel/Downloads/german_newspaper_2018-12-21.model"
+            model = os.environ["SOMEWETA_MODEL"]
+            # model = "/home/roussel/Downloads/german_newspaper_2018-12-21.model"
             self.tagger = ASPTagger(beam_size=5, iterations=10)
             self.tagger.load(model)
 
@@ -226,7 +227,7 @@ class SoMeWeTa(TestSystem):
 class CoreNLP(TestSystem):
     def __init__(self):
         with Timer() as self.model_load_time:
-            os.environ["CORENLP_HOME"] = CORENLP_HOME
+            # os.environ["CORENLP_HOME"] = CORENLP_HOME
             from stanfordnlp.server import CoreNLPClient
 
             self.client = CoreNLPClient(
@@ -286,7 +287,7 @@ class Spacy(TestSystem):
 class Clevertagger(TestSystem):
     def __init__(self):
         with Timer() as self.model_load_time:
-            sys.path.insert(0, "/opt/clevertagger-master")
+            sys.path.insert(0, os.environ["CLEVERTAGGER_HOME"])
             import clevertagger
 
             self.tagger = clevertagger.Clevertagger()

@@ -1,0 +1,17 @@
+- [x] clevertagger
+  - [x] sfst
+  - [x] wapiti
+- [ ] corenlp
+- [ ] germalemma++
+- [ ] germalemma
+- [x] iwnlp
+- [x] nltk
+- [ ] parzu
+- [ ] rftagger
+- [ ] rnntagger
+- [x] somajo
+- [x] someweta
+- [x] spacy
+- [x] stanfordnlp
+- [x] syntok
+- [ ] treetagger
