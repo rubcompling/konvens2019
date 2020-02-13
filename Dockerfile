@@ -30,7 +30,7 @@ RUN pip3 install -U \
         syntok \
         # for clevertagger
         pexpect \
-        SoMeWeTa SoMaJo \
+        SoMeWeTa==1.5.0 SoMaJo \
         iwnlp \
         nltk \
         germalemma PatternLite \
