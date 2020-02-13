@@ -42,7 +42,7 @@ RUN pip3 install -U \
 RUN python3 -m nltk.downloader punkt
 
 # stanfordnlp model
-RUN python3 -c "import stanfordnlp; stanfordnlp.download('de')"
+RUN python3 -c "import stanfordnlp; stanfordnlp.download('de', force=True)"
 
 # Spacy model
 RUN python3 -m spacy download de_core_news_md
@@ -107,11 +107,14 @@ RUN wget -qO - https://cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/german.
 # RFTagger
 RUN wget -qO - https://www.cis.uni-muenchen.de/~schmid/tools/RFTagger/data/RFTagger.tar.gz | tar xz
 WORKDIR $TOOLS_HOME/RFTagger
-RUN mkdir jars
+ENV RFTAGGER_HOME $TOOLS_HOME/RFTagger
+COPY rftagger-lexicon.tar.gz lib/
+WORKDIR lib
+RUN tar xOzf rftagger-lexicon.tar.gz > german-rft-tagger-lemma-lexicon-corrected.txt
+RUN mkdir $RFTAGGER_HOME/jars
 WORKDIR jars
 RUN wget -q https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.1/jna-4.5.1.jar
 RUN wget -q http://sifnos.sfs.uni-tuebingen.de/resource/A4/rftj/data/rft-java-beta13.jar
-ENV RFTAGGER_HOME $TOOLS_HOME/RFTagger
 
 # ParZu install
 WORKDIR $TOOLS_HOME
