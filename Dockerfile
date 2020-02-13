@@ -6,12 +6,9 @@ RUN apt-get update && apt-get install -y \
     python3-pip python3-dev build-essential \
     default-jdk default-jre \
     # dependency for clevertagger
-    sfst
-
-# installing as root so that corenlp server can start (?)
-# -> doesn't help
-RUN pip3 install stanfordnlp
-# (NB: the `stanfordnlp` package also includes the interface to CoreNLP)
+    sfst \
+    # for parzu
+    swi-prolog
 
 RUN useradd --create-home --shell /bin/bash tester
 USER tester
@@ -33,6 +30,8 @@ RUN pip3 install -U \
         SoMeWeTa SoMaJo \
         iwnlp \
         nltk \
+        stanfordnlp \
+        # (NB: the `stanfordnlp` package also includes the interface to CoreNLP)
         germalemma PatternLite \
         spacy spacy-lookups-data \
         treetaggerwrapper \
@@ -41,6 +40,9 @@ RUN pip3 install -U \
 
 # download nltk models
 RUN python3 -m nltk.downloader punkt
+
+# stanfordnlp model
+RUN python3 -c "import stanfordnlp; stanfordnlp.download('de')"
 
 # Spacy model
 RUN python3 -m spacy download de_core_news_md
@@ -59,7 +61,7 @@ WORKDIR $TOOLS_HOME/SoMeWeTa
 RUN wget -q http://corpora.linguistik.uni-erlangen.de/someweta/german_newspaper_2018-12-21.model
 ENV SOMEWETA_MODEL $TOOLS_HOME/SoMeWeTa/german_newspaper_2018-12-21.model
 
-# iwnlp needs this model
+# model for iwnlp
 RUN mkdir $TOOLS_HOME/iwnlp
 WORKDIR $TOOLS_HOME/iwnlp
 RUN wget -q http://lager.cs.uni-duesseldorf.de/NLP/IWNLP/IWNLP.Lemmatizer_20181001.zip
@@ -68,8 +70,14 @@ ENV IWNLP_MODEL $TOOLS_HOME/iwnlp/IWNLP.Lemmatizer_20181001.json
 
 # install dependencies for clevertagger
 WORKDIR $TOOLS_HOME
+RUN wget -q https://pub.cl.uzh.ch/users/sennrich/zmorge/transducers/zmorge-20150315-smor_newlemma.ca.zip
+RUN unzip zmorge-20150315-smor_newlemma.ca.zip
+ENV SMOR_MODEL $TOOLS_HOME/zmorge-20150315-smor_newlemma.ca
 RUN wget -qO - https://wapiti.limsi.fr/wapiti-1.5.0.tar.gz | tar xz
 WORKDIR $TOOLS_HOME/wapiti-1.5.0
+USER root
+RUN make && make install
+USER tester
 RUN wget -qO - https://wapiti.limsi.fr/model-pos.de.gz | zcat > model-pos.de
 ENV WAPITI_MODEL $TOOLS_HOME/wapiti-1.5.0/model-pos.de
 
@@ -77,6 +85,7 @@ ENV WAPITI_MODEL $TOOLS_HOME/wapiti-1.5.0/model-pos.de
 WORKDIR $TOOLS_HOME
 RUN git clone -q https://github.com/rsennrich/clevertagger
 WORKDIR clevertagger/
+COPY conf/clevertagger-conf.py config.py
 RUN git checkout -q b45832ef1f89dcc5ad8fde9a1b19cdd847720ecc
 ENV CLEVERTAGGER_HOME $TOOLS_HOME/clevertagger
 
@@ -96,10 +105,19 @@ RUN wget -qO - https://cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/tagger-
 RUN wget -qO - https://cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/german.par.gz | zcat > lib/german.par
 
 # RFTagger
-RUN mkdir $TOOLS_HOME/RFTagger
+RUN wget -qO - https://www.cis.uni-muenchen.de/~schmid/tools/RFTagger/data/RFTagger.tar.gz | tar xz
 WORKDIR $TOOLS_HOME/RFTagger
+RUN mkdir jars
+WORKDIR jars
+RUN wget -q https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.1/jna-4.5.1.jar
 RUN wget -q http://sifnos.sfs.uni-tuebingen.de/resource/A4/rftj/data/rft-java-beta13.jar
 ENV RFTAGGER_HOME $TOOLS_HOME/RFTagger
+
+# ParZu install
+WORKDIR $TOOLS_HOME
+RUN git clone -q https://github.com/rsennrich/ParZu
+WORKDIR ParZu
+RUN bash install.sh
 
 WORKDIR /home/tester/scripts
 ENTRYPOINT ["bash"]

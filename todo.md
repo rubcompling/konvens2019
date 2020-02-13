@@ -11,11 +11,10 @@
 - [ ] rftagger
 - [ ] rnntagger
 - [x] somajo
-- [ ] someweta
-  - [ ] weird bug where disk usage spikes and nothing happens
+- [x] someweta
 - [x] spacy
 - [ ] stanfordnlp
-  - [ ] Cannot load model from /home/tester/stanfordnlp_resources/de_gsd_models/de_gsd_tokenizer.pt
+  - [x] Cannot load model from /home/tester/stanfordnlp_resources/de_gsd_models/de_gsd_tokenizer.pt (should work next time)
 - [x] syntok
 - [x] treetagger
 
