@@ -53,6 +53,7 @@ ENV SMOR_MODEL $TOOLS_HOME/zmorge-20150315-smor_newlemma.ca
 ENV WAPITI_MODEL $TOOLS_HOME/wapiti-1.5.0/model-pos.de
 ENV CLEVERTAGGER_HOME $TOOLS_HOME/clevertagger
 ENV CORENLP_HOME $TOOLS_HOME/stanford-corenlp-full-2018-10-05
+ENV RNNTAGGER_HOME $TOOLS_HOME/RNNTagger
 
 # pickle-ize model for germalemma
 RUN python3 $GERMALEMMA_HOME/__init__.py tiger_release_aug07.corrected.16012013.conll09
@@ -71,13 +72,6 @@ COPY conf/clevertagger-conf.py clevertagger/config.py
 COPY rftagger-lexicon.tar.gz RFTagger/lib/
 RUN tar xOzf rftagger-lexicon.tar.gz > RFTagger/lib/german-rft-tagger-lemma-lexicon-corrected.txt
 
-# RNNTagger
-# RUN mkdir $TOOLS_HOME/RNNTagger
-WORKDIR $TOOLS_HOME
-RUN wget https://www.cis.uni-muenchen.de/~schmid/tools/RNNTagger/data/RNNTagger.zip
-RUN unzip RNNTagger.zip && rm RNNTagger.zip
-# WORKDIR $TOOLS_HOME/RNNTagger
-ENV RNNTAGGER_HOME $TOOLS_HOME/RNNTagger
 
 WORKDIR /home/tester/scripts
 ENTRYPOINT ["bash"]
