@@ -2,8 +2,8 @@
 
 import nltk
 import stanfordnlp
-import spacy
+from spacy.cli import download as spacy_download
 
 nltk.download("punkt")
 stanfordnlp.download("de", force=True)
-spacy.download('de_core_news_md')
+spacy_download('de_core_news_md')
