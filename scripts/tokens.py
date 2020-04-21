@@ -8,7 +8,7 @@ class Spacy(TestSystem):
         with Timer() as self.model_load_time:
             import spacy
 
-            nlp = spacy.load("de", disable=["tagger", "parser", "ner"])
+            nlp = spacy.load("de_core_news_md", disable=["tagger", "parser", "ner"])
             nlp.add_pipe(nlp.create_pipe("sentencizer"))
             self.processor = nlp
 

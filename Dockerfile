@@ -83,7 +83,7 @@ ENV WAPITI_MODEL $TOOLS_HOME/wapiti-1.5.0/model-pos.de
 
 # install clevertagger
 WORKDIR $TOOLS_HOME
-RUN git clone -q https://github.com/rsennrich/clevertagger
+RUN git clone --depth 1 -q https://github.com/rsennrich/clevertagger
 WORKDIR clevertagger/
 COPY conf/clevertagger-conf.py config.py
 RUN git checkout -q b45832ef1f89dcc5ad8fde9a1b19cdd847720ecc
@@ -106,13 +106,15 @@ RUN wget -qO - https://cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/german.
 
 # RFTagger
 RUN wget -qO - https://www.cis.uni-muenchen.de/~schmid/tools/RFTagger/data/RFTagger.tar.gz | tar xz
+RUN mkdir $TOOLS_HOME/RFTagger
 WORKDIR $TOOLS_HOME/RFTagger
 ENV RFTAGGER_HOME $TOOLS_HOME/RFTagger
+RUN mkdir lib
 COPY rftagger-lexicon.tar.gz lib/
 WORKDIR lib
 RUN tar xOzf rftagger-lexicon.tar.gz > german-rft-tagger-lemma-lexicon-corrected.txt
 RUN mkdir $RFTAGGER_HOME/jars
-WORKDIR jars
+WORKDIR $RFTAGGER_HOME/jars
 RUN wget -q https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.1/jna-4.5.1.jar
 RUN wget -q http://sifnos.sfs.uni-tuebingen.de/resource/A4/rftj/data/rft-java-beta13.jar
 
@@ -121,6 +123,14 @@ WORKDIR $TOOLS_HOME
 RUN git clone -q https://github.com/rsennrich/ParZu
 WORKDIR ParZu
 RUN bash install.sh
+
+# RNNTagger
+# RUN mkdir $TOOLS_HOME/RNNTagger
+WORKDIR $TOOLS_HOME
+RUN wget https://www.cis.uni-muenchen.de/~schmid/tools/RNNTagger/data/RNNTagger.zip
+RUN unzip RNNTagger.zip && rm RNNTagger.zip
+# WORKDIR $TOOLS_HOME/RNNTagger
+ENV RNNTAGGER_HOME $TOOLS_HOME/RNNTagger
 
 WORKDIR /home/tester/scripts
 ENTRYPOINT ["bash"]
