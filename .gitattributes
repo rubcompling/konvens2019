@@ -1,1 +1,2 @@
 rftagger-lexicon.tar.gz filter=lfs diff=lfs merge=lfs -text
+tiger_release_aug07.corrected.16012013.conll09 filter=lfs diff=lfs merge=lfs -text

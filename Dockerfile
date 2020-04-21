@@ -1,4 +1,4 @@
-FROM ubuntu:19.10
+d FROM ubuntu:19.10
 MAINTAINER Adam Roussel (roussel@linguistics.rub.de)
 
 RUN apt-get update && apt-get install -y \
@@ -20,6 +20,8 @@ RUN mkdir tools
 ENV TOOLS_HOME /home/tester/tools
 COPY data data
 COPY scripts scripts
+COPY download.py scripts/download.py
+COPY download.sh scripts/download.sh
 RUN mkdir eval
 
 # install tools that are on pypi
@@ -38,11 +40,10 @@ RUN pip3 install -U \
         # required for running RFTagger
         JPype1
 
-WORKDIR $TOOLS_HOME
 # download models for nltk, stanfordnlp, and spacy
-RUN python3 download.py
+RUN python3 scripts/download.py
 # download other systems/models
-RUN bash download.sh
+RUN bash scripts/download.sh
 
 # configure model locations
 ENV GERMALEMMA_HOME /home/tester/.local/lib/python3.7/site-packages/germalemma/
@@ -56,6 +57,7 @@ ENV CORENLP_HOME $TOOLS_HOME/stanford-corenlp-full-2018-10-05
 ENV RNNTAGGER_HOME $TOOLS_HOME/RNNTagger
 
 # pickle-ize model for germalemma
+COPY tiger_release_aug07.corrected.16012013.conll09 .
 RUN python3 $GERMALEMMA_HOME/__init__.py tiger_release_aug07.corrected.16012013.conll09
 
 # compile wapiti
