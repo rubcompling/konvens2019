@@ -20,6 +20,7 @@ RUN mkdir tools
 ENV TOOLS_HOME /home/tester/tools
 COPY data data
 COPY scripts scripts
+COPY download.py download.sh $TOOLS_HOME/
 RUN mkdir eval
 
 # install tools that are on pypi
@@ -56,11 +57,12 @@ ENV CORENLP_HOME $TOOLS_HOME/stanford-corenlp-full-2018-10-05
 ENV RNNTAGGER_HOME $TOOLS_HOME/RNNTagger
 
 # pickle-ize model for germalemma
+COPY tiger_release_aug07.corrected.16012013.conll09 .
 RUN python3 $GERMALEMMA_HOME/__init__.py tiger_release_aug07.corrected.16012013.conll09
 
 # compile wapiti
-WORKDIR $TOOLS_HOME/wapiti-1.5.0
 USER root
+WORKDIR $TOOLS_HOME/wapiti-1.5.0
 RUN make && make install
 USER tester
 WORKDIR $TOOLS_HOME

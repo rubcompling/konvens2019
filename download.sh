@@ -48,6 +48,7 @@ echo "downloading RFTagger..."
 wget -qO - https://www.cis.uni-muenchen.de/~schmid/tools/RFTagger/data/RFTagger.tar.gz | tar xz
 wget -q https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.1/jna-4.5.1.jar
 wget -q http://sifnos.sfs.uni-tuebingen.de/resource/A4/rftj/data/rft-java-beta13.jar
+mkdir RFTagger/jars
 mv jna-4.5.1.jar rft-java-beta13.jar RFTagger/jars/
 
 # RNNTagger
