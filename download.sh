@@ -26,8 +26,9 @@ wget -qO - https://wapiti.limsi.fr/model-pos.de.gz | zcat > wapiti-1.5.0/model-p
 
 echo "downloading clevertagger..."
 wget -q https://github.com/rsennrich/clevertagger/archive/b45832ef1f89dcc5ad8fde9a1b19cdd847720ecc.zip
-unzip -d clevertagger b45832ef1f89dcc5ad8fde9a1b19cdd847720ecc.zip
+unzip b45832ef1f89dcc5ad8fde9a1b19cdd847720ecc.zip
 rm b45832ef1f89dcc5ad8fde9a1b19cdd847720ecc.zip
+mv clevertagger-b45832ef1f89dcc5ad8fde9a1b19cdd847720ecc clevertagger
 
 # corenlp
 echo "downloading corenlp + models..."
