@@ -1,5 +1,5 @@
 FROM ubuntu:19.10
-MAINTAINER Adam Roussel (roussel@linguistics.rub.de)
+MAINTAINER Adam Roussel (adam.roussel@rub.de)
 
 RUN apt-get update && apt-get install -y \
     git wget unzip \
@@ -43,18 +43,19 @@ WORKDIR $TOOLS_HOME
 # download models for nltk, stanfordnlp, and spacy
 RUN python3 download.py
 # download other systems/models
+# TODO maybe just store these outside the container then copy them in
 RUN bash download.sh
 
 # configure model locations
-ENV GERMALEMMA_HOME /home/tester/.local/lib/python3.7/site-packages/germalemma/
-ENV GERMALEMMA_MODEL $GERMALEMMA_HOME/data/lemmata.pickle
-ENV SOMEWETA_MODEL $TOOLS_HOME/SoMeWeTa/german_newspaper_2018-12-21.model
-ENV IWNLP_MODEL $TOOLS_HOME/iwnlp/IWNLP.Lemmatizer_20181001.json
-ENV SMOR_MODEL $TOOLS_HOME/zmorge-20150315-smor_newlemma.ca
-ENV WAPITI_MODEL $TOOLS_HOME/wapiti-1.5.0/model-pos.de
-ENV CLEVERTAGGER_HOME $TOOLS_HOME/clevertagger
-ENV CORENLP_HOME $TOOLS_HOME/stanford-corenlp-full-2018-10-05
-ENV RNNTAGGER_HOME $TOOLS_HOME/RNNTagger
+ENV GERMALEMMA_HOME=/home/tester/.local/lib/python3.7/site-packages/germalemma/\
+    GERMALEMMA_MODEL=$GERMALEMMA_HOME/data/lemmata.pickle\
+    SOMEWETA_MODEL=$TOOLS_HOME/SoMeWeTa/german_newspaper_2018-12-21.model\
+    IWNLP_MODEL=$TOOLS_HOME/iwnlp/IWNLP.Lemmatizer_20181001.json\
+    SMOR_MODEL=$TOOLS_HOME/zmorge-20150315-smor_newlemma.ca\
+    WAPITI_MODEL=$TOOLS_HOME/wapiti-1.5.0/model-pos.de\
+    CLEVERTAGGER_HOME=$TOOLS_HOME/clevertagger\
+    CORENLP_HOME=$TOOLS_HOME/stanford-corenlp-full-2018-10-05\
+    RNNTAGGER_HOME=$TOOLS_HOME/RNNTagger
 
 # pickle-ize model for germalemma
 COPY tiger_release_aug07.corrected.16012013.conll09 .
