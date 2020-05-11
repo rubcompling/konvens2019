@@ -1169,7 +1169,7 @@
 5	Begebenheiten	Begebenheit	_	NN	number=pl|case=acc|gender=fem	2	pobj	_	_
 6	,	,	_	$,	_	_	_	_	_
 7	bei	bei	_	APPR	_	_	_	_	_
-8	denen	der	_	PDAT	number=pl|case=dat|gender=fem	_	_	_	_
+8	denen	der	_	PRELS	number=pl|case=dat|gender=fem	_	_	_	_
 9	Menschen	Mensch	_	NN	number=pl|case=nom|gender=masc	14	subj	_	_
 10	den	der	_	ART	number=sg|case=acc|gender=masc	_	_	_	_
 11	Zehnten	Zehnte	_	NN	number=sg|case=acc|gender=masc	14	obj	_	_

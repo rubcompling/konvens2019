@@ -1601,7 +1601,7 @@
 10	Erstligaspiele	Erstligaspiel	_	NN	number=pl|case=acc|gender=neut	8	obj	_	_
 11	,	,	_	$,	_	_	_	_	_
 12	in	in	_	APPR	_	_	_	_	_
-13	denen	der	_	PDS	number=pl|case=dat|gender=neut	_	_	_	_
+13	denen	der	_	PRELS	number=pl|case=dat|gender=neut	_	_	_	_
 14	er	er	_	PPER	number=sg|person=3|case=nom|gender=masc	17	subj	_	_
 15	vier	vier	_	CARD	_	_	_	_	_
 16	Tore	Tor	_	NN	number=pl|case=acc|gender=neut	17	obj	_	_

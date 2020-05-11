@@ -137,7 +137,7 @@
 4	Behörde	Behörde	_	NN	number=sg|case=nom|gender=fem	2	subj	_	_
 5	nicht	nicht	_	PTKNEG	_	_	_	_	_
 6	,	,	_	$,	_	_	_	_	_
-7	als	als	_	KOKOM	_	_	_	_	_
+7	als	als	_	KOUS	_	_	_	_	_
 8	daß	dass	_	KOUS	_	_	_	_	_
 9	der	der	_	ART	number=sg|case=dat|gender=fem	_	_	_	_
 10	Form	Form	_	NN	number=sg|case=dat|gender=fem	11	iobj	_	_
@@ -324,7 +324,7 @@
 33	Meinung	Meinung	_	NN	number=sg|case=acc|gender=fem	34	obj	_	_
 34	bezeichnet	bezeichnen	_	VVFIN	number=sg|person=3|mood=ind|tense=pres	_	_	_	_
 35	,	,	_	$,	_	_	_	_	_
-36	so	so	_	KOUS	_	_	_	_	_
+36	so	so	_	ADV	_	_	_	_	_
 37	möchte	mögen	_	VMFIN	number=sg|person=1|mood=ind|tense=pres	48	aux	_	_
 38	ich	ich	_	PPER	number=sg|person=1|case=nom|gender=masc	48	subj	_	_
 39	mich	ich	_	PRF	number=sg|person=1|case=acc	47	obj	_	_

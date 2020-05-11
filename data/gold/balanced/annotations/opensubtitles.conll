@@ -344,7 +344,7 @@
 2	sich	sich	_	PRF	number=sg|person=3|case=acc	1	obj	_	_
 3	an	an	_	PTKVZ	_	_	_	_	_
 4	,	,	_	$,	_	_	_	_	_
-5	wie	wie	_	KOKOM	_	_	_	_	_
+5	wie	wie	_	KOUS	_	_	_	_	_
 6	zum	zu	_	APPRART	case=dat|gender=masc	_	_	_	_
 7	Direktor	Direktor	_	NN	number=sg|case=dat|gender=masc	_	_	_	_
 8	Reeve	Reeve	_	NE	number=sg|case=nom|gender=masc	_	_	_	_
@@ -882,7 +882,7 @@
 3	das	der	_	PDS	case=acc|gender=neut|number=sg	4	obj	_	_
 4	lernen	lernen	_	VVINF	_	1	vobj	_	_
 5	,	,	_	$,	_	_	_	_	_
-6	wie	wie	_	KOKOM	_	_	_	_	_
+6	wie	wie	_	KOUS	_	_	_	_	_
 7	ich	ich	_	PPER	person=1|case=nom|gender=*|number=sg	9	subj	_	_
 8	es	es	_	PPER	person=3|case=acc|gender=neut|number=sg	9	obj	_	_
 9	tat	tun	_	VVFIN	person=1|tense=past|number=sg|mood=ind	_	_	_	_
