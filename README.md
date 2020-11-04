@@ -25,6 +25,12 @@ In theory you can use the provided Makefile to run the experiments, but in pract
 
 However, performing the evaluation (`make evaluate`), i.e. comparing the system output to the gold standard, and calculating performance statistics (`make analysis`) should work, provided you have Numpy, Pandas, Matplotlib, and Seaborn installed.
 
+## Results Preview
+
+![](accplot.png)
+
+A more detailed evaluation can be found in the paper cited above.
+
 ## Related
 
 For more on the available off-the-shelf tools and resources for German NLP, see [https://github.com/adbar/German-NLP](https://github.com/adbar/German-NLP).
