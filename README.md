@@ -34,3 +34,7 @@ A more detailed evaluation can be found in the paper cited above.
 ## Related
 
 For more on the available off-the-shelf tools and resources for German NLP, see [https://github.com/adbar/German-NLP](https://github.com/adbar/German-NLP).
+
+## License
+
+The evaluation data is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), except for the TED talk sample, which is provided under [CC BY–NC–ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de).
